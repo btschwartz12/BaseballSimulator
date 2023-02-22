@@ -1,0 +1,962 @@
+ Sports ReferenceBaseballFootball (college)Basketball (college)HockeySoccerBlogStatheadWidgetsQuestions or Comments?LoginCreate AccountSurf AD-FREEBaseball-Reference.com Logo & Link to home page
+Players
+Teams
+Seasons
+Leaders
+MLB Scores1
+MLB Playoffs
+Play Index
+Full Site Menu Below
+Enter Person, Team, Section, etc
+2019 San Diego Padres Logo
+via Sports Logos.net
+
+About logos
+
+2019 San Diego Padres Batting Statistics
+2018 Season
+Record: 70-92, 5th place in NL_West (Schedule and Results)
+
+Managers: Andy Green (69-85) and Rod Barajas (1-7)
+
+General Manager: A.J. Preller (Executive VP/GM)
+
+Farm Director: Sam Geaney
+
+Scouting Director: Mark Conner
+
+Ballpark: Petco Park
+
+Attendance: 2,396,399 (10th of 15)
+
+More team info, park factors, postseason, & more
+Support us without the ads? Go Ad-Free.
+
+
+2019 San Diego Padres
+Stats
+Schedule & Results
+40-Man Roster
+Uniforms
+Contracts
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Fielding
+Scoring
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+On this page:
+
+Team Batting Team Player Value--Batters Team Advanced Batting Team Batting Ratios* Team Win Probability* Team Baserunning/Misc* Team PH/HR/Situ Hitting* Team Pitches Batting* Team Neutralized Batting Team Cumulative Batting Full Site Menu
+Statheads want to know.
+Get scores, news and notes in your inbox every day. View a sample email. It's also available for football, basketball and hockey.
+
+Subscribe to our Stathead Newsletter
+
+Team Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+1	C	Austin Hedges	26	102	347	312	28	55	9	0	11	36	1	0	27	109	.176	.252	.311	.563	49	97	3	5	2	1	3
+2	1B	Eric Hosmer*	29	160	667	619	72	164	29	2	22	99	0	3	40	163	.265	.310	.425	.735	93	263	12	3	0	5	3
+3	2B	Ian Kinsler	37	87	281	258	28	56	12	0	9	22	2	4	19	54	.217	.278	.368	.646	70	95	5	3	0	1	0
+4	SS	Fernando Tatis Jr.	20	84	372	334	61	106	13	6	22	53	16	6	30	110	.317	.379	.590	.969	152	197	4	5	0	3	1
+5	3B	Manny Machado	26	156	661	587	81	150	21	2	32	85	5	3	65	128	.256	.334	.462	.796	109	271	24	6	0	3	3
+6	LF	Wil Myers	28	155	490	435	58	104	22	1	18	53	16	7	51	168	.239	.321	.418	.739	95	182	12	2	1	1	0
+7	CF	Manuel Margot	24	151	441	398	59	93	19	3	12	37	20	4	38	88	.234	.304	.387	.691	83	154	6	2	3	0	1
+8	RF	Franmil Reyes	23	99	354	321	43	82	9	0	27	46	0	0	29	93	.255	.314	.536	.849	120	172	12	0	0	4	1
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+9	OF	Hunter Renfroe	27	140	494	440	64	95	19	1	33	64	5	0	46	154	.216	.289	.489	.778	102	215	6	2	0	6	1
+10	2B	Greg Garcia*	29	134	372	311	52	77	13	4	4	31	0	2	53	83	.248	.364	.354	.718	94	110	4	5	1	2	1
+11	OF	Josh Naylor*	22	94	279	253	29	63	15	0	8	32	1	1	25	64	.249	.315	.403	.719	90	102	4	0	0	1	1
+12	MI	Luis Urias	22	71	249	215	27	48	8	1	4	24	0	1	25	56	.223	.329	.326	.655	76	70	8	9	0	0	0
+13	C	Francisco Mejia#	23	79	244	226	27	60	11	2	8	22	1	1	13	56	.265	.316	.438	.754	98	99	6	4	0	1	1
+14	IF	Ty France	24	69	201	184	20	43	8	1	7	24	0	2	9	49	.234	.294	.402	.696	83	74	8	7	0	1	0
+15	LF	Nick Martini*	29	26	96	82	7	20	4	1	0	5	0	0	12	21	.244	.344	.317	.661	79	26	0	1	0	1	0
+16	C	Austin Allen*	25	34	71	65	4	14	4	0	0	3	0	0	6	21	.215	.282	.277	.559	51	18	2	0	0	0	3
+17	IF	Seth Mejias-Brean	28	14	33	30	3	7	2	0	2	5	0	0	3	9	.233	.303	.500	.803	108	15	1	0	0	0	0
+18	OF	Travis Jankowski*	28	25	24	22	4	4	0	0	0	0	2	2	2	4	.182	.250	.182	.432	19	4	0	0	0	0	0
+19	OF	Franchy Cordero*	24	9	20	15	2	5	1	0	0	1	1	0	4	7	.333	.450	.400	.850	131	6	0	0	0	1	0
+20	LF	Alex Dickerson*	29	12	19	19	1	3	0	0	0	2	0	0	0	7	.158	.158	.158	.316	-15	3	0	0	0	0	0
+21	C	Luis Torrens	23	7	16	14	2	3	1	0	0	0	0	0	2	6	.214	.313	.286	.598	62	4	1	0	0	0	0
+22	LF	Jose Pirela	29	2	5	5	0	0	0	0	0	0	0	0	0	3	.000	.000	.000	.000	-100	0	1	0	0	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+23	P	Joey Lucchesi*	26	28	54	48	0	3	0	0	0	1	0	0	1	36	.063	.082	.063	.144	-60	3	0	0	5	0	0
+24	P	Eric Lauer	24	29	48	40	1	4	2	0	0	0	0	0	1	23	.100	.122	.150	.272	-28	6	0	0	6	0	0
+25	P	Chris Paddack	23	25	46	42	3	5	0	0	0	2	0	0	0	19	.119	.119	.119	.238	-36	5	0	0	4	0	0
+26	P	Cal Quantrill*	24	21	30	25	1	2	0	0	0	1	0	1	1	6	.080	.115	.080	.195	-46	2	0	0	4	0	0
+27	P	Matt Strahm	27	45	27	21	1	6	2	0	0	1	0	0	2	12	.286	.348	.381	.729	95	8	0	0	4	0	0
+28	P	Dinelson Lamet	26	13	24	21	1	3	0	0	0	0	0	0	0	11	.143	.143	.143	.286	-23	3	0	0	3	0	0
+29	P	Nick Margevicius*	23	17	17	15	1	3	0	0	0	0	0	0	0	7	.200	.200	.200	.400	8	3	0	0	2	0	0
+30	P	Luis Perdomo	26	44	7	7	0	1	0	0	0	1	0	0	0	2	.143	.143	.143	.286	-23	1	0	0	0	0	0
+31	P	Logan Allen	22	7	5	4	1	1	0	0	0	0	0	0	0	0	.250	.400	.250	.650	81	1	0	1	0	0	0
+32	P	Ronald Bolanos	22	5	5	5	1	0	0	0	0	1	0	0	0	4	.000	.000	.000	.000	-100	0	0	0	0	0	0
+33	P	Phil Maton	26	18	4	4	0	1	0	0	0	1	0	0	0	2	.250	.250	.250	.500	35	1	0	0	0	0	0
+34	P	Robbie Erlin	28	34	4	4	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	1	0	0	0	0
+35	P	Garrett Richards	31	3	3	2	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0
+36	P	Brad Wieck*	27	28	2	2	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+37	P	Pedro Avila	22	1	2	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	1	0	0
+38	P	Adrian Morejon*	20	4	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+39	P	Gerardo Reyes	26	27	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+40	P	Miguel Diaz	24	5	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+41	P	Craig Stammen	35	72	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+42	P	Matt Wisler	26	18	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+43	P	Trey Wingenter	25	48	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+44	P	Michel Baez	23	23	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+45	P	Eric Yardley	28	10	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+46	P	Carl Edwards Jr.	27	2	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+47	P	Aaron Loup*	31	4	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+48	P	Andres Munoz	20	21	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+49	P	Kirby Yates*	32	59	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+50	P	Robert Stock*	29	10	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+51	P	Adam Warren	31	23	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+52	P	Javy Guerra*	23	8	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+53	P	Jose Castillo*	23	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+54	P	David Bednar*	24	13	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Team Totals	26.1	162	6019	5391	682	1281	224	24	219	652	70	37	504	1581	.238	.308	.410	.718	89	2210	120	55	37	31	19
+Rank in 15 NL teams				15	13	15	15	10	10		9	14	10	15	15	13	13	13		13		13		14	
+Non-Pitcher Totals	26.2	162	5736	5145	672	1252	220	24	219	644	70	36	499	1453	.243	.315	.423	.738	94	2177	119	54	7	31	19
+Pitcher Totals	24.6	162	283	246	10	29	4	0	0	8	0	1	5	128	.118	.139	.134	.273	-26	33	1	1	30	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - bats left-handed, # - bats both, else - bats right, ? - unknown; OPS_lg for OPS+ does not include pitchers.
+Team Player Value--Batters 
+League RegisterWAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+Austin Allen*	25	34	71	-6	0	0	0	1	-5	-0.6	2	-3	-0.4	.484	.497	-0.3	0.1	-3		Amateur Draft	2/3
+Logan Allen	22	7	5	0	0	0	0	1	1	0.1	0	1	0.1	.509	.500	0.1	0.0	1		Traded	/1
+Pedro Avila	22	1	2	-1	0	0	0	0	0	0.0	0	0	0.0	.474	.500	0.0	0.0	0		Traded	/1
+Michel Baez	23	23	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Free Agent	1
+David Bednar*	24	13	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Draft	1
+Ronald Bolanos	22	5	5	-1	0	0	0	1	-1	-0.1	0	-1	-0.1	.486	.500	-0.1	0.0	-1		Amateur Free Agent	/1
+Jose Castillo*	23	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$560,300	Traded	/1
+Franchy Cordero*	24	9	20	1	0	0	0	0	1	0.1	1	2	0.2	.512	.501	0.2	0.0	2	$560,100	Amateur Free Agent	/89
+Miguel Diaz	24	5	1	0	0	0	0	0	0	0.0	0	0	0.0	.498	.500	0.0	0.0	0	$560,400	Traded	/1
+Alex Dickerson*	29	12	19	-3	0	0	0	0	-3	-0.4	1	-3	-0.3	.472	.498	-0.3	0.0	-3		Free Agency	/7
+Carl Edwards Jr.	27	2	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Traded	/1
+Robbie Erlin	28	34	4	-1	0	0	0	1	-1	-0.1	0	-1	-0.1	.498	.500	-0.1	0.0	-1	$1,450,000	Traded	1
+Ty France	24	69	201	-4	-1	-1	0	1	-5	-0.6	7	2	0.1	.493	.497	0.1	0.1	2		Amateur Draft	54/13
+Greg Garcia*	29	134	372	-1	-1	1	2	3	4	0.2	12	16	1.4	.503	.502	1.3	0.3	14	$910,000	Waivers	45/63D7
+Javy Guerra*	23	8	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Traded	/1
+Austin Hedges	26	102	347	-24	-1	0	4	6	-15	-1.7	11	-4	-0.6	.485	.490	-0.9	0.9	-8	$2,060,000	Amateur Draft	2/5
+Eric Hosmer*	29	160	667	-7	-2	1	-4	-8	-21	-2.4	22	0	-0.3	.487	.487	0.3	-1.4	4	$21,000,000	Free Agency	*3/D
+Travis Jankowski*	28	25	24	-3	0	0	1	0	-2	-0.2	1	-1	-0.1	.492	.499	-0.2	0.1	-2	$1,165,000	Amateur Draft	/897
+Ian Kinsler	37	87	281	-10	-3	0	1	2	-10	-1.2	9	-1	-0.3	.488	.494	-0.3	0.2	-2	$3,750,000	Free Agency	4/1
+Dinelson Lamet	26	13	24	-4	0	0	0	4	-1	-0.1	0	-1	-0.1	.497	.500	-0.1	0.0	-1	$566,700	Amateur Free Agent	1
+Eric Lauer	24	29	48	-9	-1	0	0	8	-2	-0.2	0	-2	-0.2	.493	.499	-0.2	0.0	-2	$562,500	Amateur Draft	1
+Aaron Loup*	31	4	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$1,200,000	Free Agency	/1
+Joey Lucchesi*	26	28	54	-12	0	0	0	9	-3	-0.4	0	-3	-0.4	.488	.498	-0.3	0.0	-3	$565,100	Amateur Draft	1
+Manny Machado	26	156	661	8	1	-4	3	5	13	1.0	21	34	3.1	.508	.508	3.0	0.6	31	$12,000,000	Free Agency	*56
+Nick Margevicius*	23	17	17	-1	0	0	0	3	1	0.1	0	1	0.1	.507	.501	0.1	0.0	1		Amateur Draft	1
+Manuel Margot	24	151	441	-8	4	1	6	3	6	0.4	14	20	1.8	.504	.504	1.3	0.7	14	$577,100	Traded	*8
+Nick Martini*	29	26	96	-1	0	0	-2	-1	-4	-0.4	3	-1	-0.1	.486	.498	0.1	-0.3	2		Waivers	7
+Phil Maton	26	18	4	0	0	0	0	1	0	0.0	0	0	0.0	.502	.500	0.0	0.0	0	$562,900	Amateur Draft	1
+Francisco Mejia#	23	79	244	-1	0	-1	-2	3	0	-0.1	8	8	0.7	.500	.500	0.9	0.1	10	$556,300	Traded	2/7D
+Seth Mejias-Brean	28	14	33	0	0	0	3	0	3	0.3	1	4	0.4	.523	.502	0.1	0.3	1		Free Agency	/365
+Adrian Morejon*	20	4	1	0	0	0	0	0	0	0.0	0	0	0.0	.497	.500	0.0	0.0	0		Amateur Free Agent	/1
+Andres Munoz	20	21	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Free Agent	1
+Wil Myers	28	155	490	-2	-2	-1	-9	-3	-17	-1.9	16	-1	-0.3	.489	.490	0.7	-1.4	8	$5,500,000	Traded	*78/395
+Josh Naylor*	22	94	279	-3	0	2	-3	-3	-7	-0.8	9	2	0.1	.493	.496	0.5	-0.7	5		Traded	79/D
+Chris Paddack	23	25	46	-9	0	0	0	7	-2	-0.2	0	-2	-0.2	.494	.499	-0.2	0.0	-2	$555,000	Traded	1
+Luis Perdomo	26	44	7	-1	0	0	0	1	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Purchased	1
+Jose Pirela	29	2	5	-1	0	0	0	0	-2	-0.2	0	-2	-0.2	.411	.499	-0.2	0.0	-2	$575,100	Free Agency	/7
+Cal Quantrill*	24	21	30	-5	0	1	0	5	0	0.0	0	0	0.0	.502	.500	0.0	0.0	0		Amateur Draft	1
+Hunter Renfroe	27	140	494	-2	-1	0	22	-6	12	1.0	16	28	2.6	.509	.508	0.5	1.5	6	$582,100	Amateur Draft	*97/8
+Franmil Reyes	23	99	354	8	0	-2	-11	-3	-8	-0.9	12	4	0.2	.492	.495	1.4	-1.5	15	$570,500	Amateur Free Agent	9/D
+Gerardo Reyes	26	27	1	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Traded	1
+Garrett Richards	31	3	3	-1	0	0	0	0	0	0.0	0	0	0.0	.488	.500	0.0	0.0	0	$7,000,000	Free Agency	/1
+Craig Stammen	35	72	1	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0	$2,250,000	Free Agency	1
+Robert Stock*	29	10	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$559,900	Free Agency	1
+Matt Strahm	27	45	27	0	0	0	0	4	4	0.4	0	4	0.4	.508	.502	0.4	0.0	4	$581,700	Traded	1
+Fernando Tatis Jr.	20	84	372	26	4	1	-2	4	34	3.1	11	45	4.2	.539	.520	4.5	0.2	47	$555,000	Traded	6
+Luis Torrens	23	7	16	-1	0	0	0	0	0	0.0	1	0	0.0	.497	.500	0.0	0.0	0		Traded	/2
+Luis Urias	22	71	249	-3	0	-1	4	3	3	0.2	8	11	1.0	.504	.502	0.6	0.6	7	$556,400	Amateur Free Agent	64/5
+Adam Warren	31	23	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$2,000,000	Free Agency	1
+Brad Wieck*	27	28	2	-1	0	0	0	0	0	0.0	0	0	0.0	.499	.500	0.0	0.0	0		Traded	1
+Trey Wingenter	25	48	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0	$557,200	Amateur Draft	1
+Matt Wisler	26	18	1	0	0	0	0	0	0	0.0	0	0	0.0	.499	.500	0.0	0.0	0	$570,000	Traded	1
+Eric Yardley	28	10	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Free Agent	1
+Kirby Yates*	32	59	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0	$3,062,000	Waivers	1
+Team Total	26.0	2376	6019	-84	-6	-2	13	51	-28	-5.5	186	157	12.6	.499	.499	12.9	-0.3	145	$74,081,300		
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+
+Team Advanced Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Austin Allen*	25	71	53	5	2.5	106	.318	.215	.252	.282	.324	.277	.435	.559	.759	51	.225	-4.5	-0.4	.453	.154	.062		2/3
+Logan Allen	22	5	3	1	8.9	106	.250	.250	.252	.400	.324	.250	.435	.650	.759	81	.745	-0.1	0.0	.667	.000	.000		/1
+Pedro Avila	22	2	2	0	0.0	105	.000	.000	.252	.000	.324	.000	.435	.000	.759	-100	.000	-0.3	0.0	.000	.000	.000		/1
+Michel Baez	23	0	0														.000	0.0	0.0					1
+David Bednar*	24	0	0														.000	0.0	0.0					1
+Ronald Bolanos	22	5	5	0	0.0	106	.000	.000	.252	.000	.324	.000	.435	.000	.759	-100	.000	-1.5	-0.1	.000	.000	.000		/1
+Jose Castillo*	23	0	0														.000	0.0	0.0					/1
+Franchy Cordero*	24	20	11	4	9.8	106	.556	.333	.252	.450	.324	.400	.435	.850	.759	131	.775	1.2	0.1	1.100	.400	.067	.0	/89
+Miguel Diaz	24	1	1	0	0.0	105		.000	.252	.000	.324	.000	.435	.000	.759	-100	.000	-0.3	0.0	.000	.000	.000		/1
+Alex Dickerson*	29	19	16	0	0.0	106	.250	.158	.252	.158	.324	.158	.435	.316	.759	-15	.000	-3.2	-0.3	.188	.000	.000		/7
+Carl Edwards Jr.	27	0	0														.000	0.0	0.0					/1
+Robbie Erlin	28	4	5	0	0.0	106	.000	.000	.252	.000	.324	.000	.435	.000	.760	-100	.000	-1.2	-0.1	.000	.000	.000		1
+Ty France	24	201	152	19	3.4	106	.279	.234	.252	.294	.324	.402	.435	.696	.759	83	.327	-4.8	-0.5	.596	.207	.168	.0	54/13
+Greg Garcia*	29	372	243	44	4.9	106	.323	.248	.252	.364	.324	.354	.435	.718	.759	94	.490	-0.5	-0.1	.700	.270	.106	.0	45/63D7
+Javy Guerra*	23	0	0														.000	0.0	0.0					/1
+Austin Hedges	26	347	263	26	2.7	106	.228	.176	.252	.252	.324	.311	.435	.563	.759	49	.240	-23.7	-2.3	.500	.224	.135	1.8	2/5
+Eric Hosmer*	29	667	475	79	4.5	106	.323	.265	.252	.310	.324	.425	.435	.735	.759	93	.451	-6.3	-0.6	.651	.220	.160	.0	*3/D
+Travis Jankowski*	28	24	20	1	1.3	106	.222	.182	.252	.250	.324	.182	.435	.432	.759	19	.083	-2.6	-0.3	.400	.091	.000	.0	/897
+Ian Kinsler	37	281	212	25	3.2	106	.240	.217	.252	.278	.324	.368	.435	.646	.759	70	.304	-11.4	-1.1	.564	.217	.151	3.3	4/1
+Dinelson Lamet	26	24	21	1	1.3	106	.300	.143	.252	.143	.324	.143	.435	.286	.759	-23	.077	-3.8	-0.4	.167	.000	.000		1
+Eric Lauer	24	48	42	1	0.6	106	.235	.100	.252	.122	.324	.150	.435	.272	.759	-28	.023	-7.4	-0.7	.194	.075	.050		1
+Aaron Loup*	31	0	0														.000	0.0	0.0					/1
+Joey Lucchesi*	26	54	50	0	0.0	106	.250	.063	.252	.082	.324	.063	.435	.144	.759	-60	.000	-11.2	-1.1	.089	.021	.000		1
+Manny Machado	26	661	467	86	4.9	106	.274	.256	.252	.334	.324	.462	.435	.796	.759	109	.497	7.9	0.8	.748	.320	.206	8.6	*56
+Nick Margevicius*	23	17	14	1	1.9	106	.375	.200	.252	.200	.324	.200	.435	.400	.759	8	.149	-2.0	-0.2	.250	.000	.000		1
+Manuel Margot	24	441	318	49	4.1	106	.272	.234	.252	.304	.324	.387	.435	.691	.759	83	.416	-10.3	-1.0	.679	.289	.153	15.0	*8
+Nick Martini*	29	96	63	10	4.3	106	.323	.244	.252	.344	.324	.317	.435	.661	.759	79	.430	-1.9	-0.2	.629	.220	.073		7
+Phil Maton	26	4	3	0	0.0	106	.500	.250	.252	.250	.324	.250	.435	.500	.760	35	.000	-0.4	0.0	.333	.000	.000		1
+Francisco Mejia#	23	244	174	30	4.6	106	.319	.265	.252	.316	.324	.438	.435	.754	.759	98	.468	-0.9	-0.1	.676	.230	.173	1.8	2/7D
+Seth Mejias-Brean	28	33	24	4	4.5	106	.263	.233	.252	.303	.324	.500	.435	.803	.759	108	.452	0.3	0.0	.750	.367	.267	.0	/365
+Adrian Morejon*	20	1	1	0	0.0	105		.000	.252	.000	.324	.000	.435	.000	.759	-100	.000	-0.3	0.0	.000	.000	.000		/1
+Andres Munoz	20	0	0														.000	0.0	0.0					1
+Wil Myers	28	490	352	58	4.4	106	.344	.239	.252	.321	.324	.418	.435	.739	.759	95	.447	-2.6	-0.3	.717	.317	.179	16.9	*78/395
+Josh Naylor*	22	279	196	33	4.5	106	.302	.249	.252	.315	.324	.403	.435	.719	.759	90	.457	-3.3	-0.3	.656	.253	.154	1.8	79/D
+Chris Paddack	23	46	41	1	0.7	106	.217	.119	.252	.119	.324	.119	.435	.238	.759	-36	.024	-8.3	-0.8	.135	.000	.000		1
+Luis Perdomo	26	7	6	0	0.0	106	.200	.143	.252	.143	.324	.143	.435	.286	.759	-23	.000	-1.3	-0.1	.167	.000	.000		1
+Jose Pirela	29	5	6	0	0.0	106	.000	.000	.252	.000	.324	.000	.435	.000	.759	-100	.000	-1.5	-0.1	.000	.000	.000		/7
+Cal Quantrill*	24	30	28	0	0.0	106	.105	.080	.252	.115	.324	.080	.435	.195	.759	-46	.000	-5.3	-0.5	.125	.000	.000		1
+Hunter Renfroe	27	494	357	65	4.9	106	.239	.216	.252	.289	.324	.489	.435	.778	.759	102	.493	0.2	0.0	.764	.389	.273	8.7	*97/8
+Franmil Reyes	23	354	255	51	5.4	106	.268	.255	.252	.314	.324	.536	.435	.849	.759	120	.535	8.3	0.8	.801	.371	.280	.0	9/D
+Gerardo Reyes	26	1	1	0	0.0	105		.000	.252	.000	.324	.000	.435	.000	.759	-100	.000	-0.3	0.0	.000	.000	.000		1
+Garrett Richards	31	3	3	0	0.0	105	.000	.000	.252	.000	.324	.000	.435	.000	.759	-100	.000	-0.6	-0.1	.000	.000	.000		/1
+Craig Stammen	35	1	1	0	0.0	105		.000	.252	.000	.324	.000	.435	.000	.759	-100	.000	-0.3	0.0	.000	.000	.000		1
+Robert Stock*	29	0	0														.000	0.0	0.0					1
+Matt Strahm	27	27	19	3	4.2	106	.667	.286	.252	.348	.324	.381	.435	.729	.759	95	.428	0.0	0.0	.667	.190	.095		1
+Fernando Tatis Jr.	20	372	241	76	8.5	106	.410	.317	.252	.379	.324	.590	.435	.969	.759	152	.726	25.1	2.4	1.042	.392	.272	18.5	6
+Luis Torrens	23	16	12	1	2.2	106	.375	.214	.252	.313	.324	.286	.435	.598	.759	62	.189	-0.7	-0.1	.500	.214	.071		/2
+Luis Urias	22	249	176	23	3.5	106	.284	.223	.252	.329	.324	.326	.435	.655	.759	76	.346	-6.7	-0.6	.591	.214	.102	.0	64/5
+Adam Warren	31	0	0														.000	0.0	0.0					1
+Brad Wieck*	27	2	2	0	0.0	105	.000	.000	.252	.000	.324	.000	.435	.000	.759	-100	.000	-0.6	-0.1	.000	.000	.000		1
+Trey Wingenter	25	0	0														.000	0.0	0.0					1
+Matt Wisler	26	1	1	0	0.0	105	.000	.000	.252	.000	.324	.000	.435	.000	.759	-100	.000	-0.3	0.0	.000	.000	.000		1
+Eric Yardley	28	0	0														.000	0.0	0.0					1
+Kirby Yates*	32	0	0														.000	0.0	0.0					1
+League Average					4.9	110	.298	.250	.258	.322	.331	.429	.445	.751	.776	94	.495			.710	.283	.178		
+Team Total	26.2	6019	4335	697	4.3	106	.293	.238	.252	.308	.324	.410	.435	.718	.759	89	.436	-87.0	-8.4	.665	.272	.172	106.1	
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Team Batting Ratios* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+Austin Allen*	25	71	0.0%	29.6%	8.5%	5.6%	29%	3.50	3.1		21.7	0.83	1.46	62%	23%	0.0%	13%
+Logan Allen	22	5	0.0%	0.0%	0.0%	0.0%	0%							80%	0%		
+Pedro Avila	22	2	0.0%	0.0%	0.0%	0.0%								50%	0%		
+Ronald Bolanos	22	5	0.0%	80.0%	0.0%	0.0%			1.3		5.0			20%	0%		
+Franchy Cordero*	24	20	0.0%	35.0%	20.0%	5.0%	20%	1.75	2.1		15.0	0.14	0.33	45%	44%	0.0%	0%
+Miguel Diaz	24	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Alex Dickerson*	29	19	0.0%	36.8%	0.0%	0.0%	0%		2.7		9.5	2.00	1.25	63%	0%	0.0%	0%
+Robbie Erlin	28	4	0.0%	0.0%	0.0%	0.0%						3.00	4.00	100%	0%		100%
+Ty France	24	201	3.5%	24.4%	4.5%	8.0%	37%	5.44	3.8	26.3	7.7	0.77	0.94	64%	22%	10.4%	13%
+Greg Garcia*	29	372	1.1%	22.3%	14.3%	5.7%	27%	1.57	3.7	77.8	10.0	1.25	1.69	61%	26%	4.3%	6%
+Austin Hedges	26	347	3.2%	31.4%	7.8%	5.8%	36%	4.04	2.9	28.4	8.7	0.47	0.69	56%	23%	10.0%	20%
+Eric Hosmer*	29	667	3.3%	24.4%	6.0%	8.0%	32%	4.08	3.8	28.1	6.3	1.31	1.95	66%	23%	11.7%	6%
+Travis Jankowski*	28	24	0.0%	16.7%	8.3%	0.0%	0%	2.00	5.5			0.89	0.75	75%	11%	0.0%	22%
+Ian Kinsler	37	281	3.2%	19.2%	6.8%	7.5%	38%	2.84	4.8	28.7	11.7	0.73	0.92	70%	20%	9.8%	21%
+Dinelson Lamet	26	24	0.0%	45.8%	0.0%	0.0%	0%		1.9			8.00	4.50	42%	8%	0.0%	0%
+Eric Lauer	24	48	0.0%	47.9%	2.1%	4.2%	50%	23.00	1.7			0.70	1.71	35%	22%	0.0%	10%
+Joey Lucchesi*	26	54	0.0%	66.7%	1.9%	0.0%	0%	36.00	1.3		48.0	2.67	13.00	22%	12%	0.0%	33%
+Manny Machado	26	661	4.8%	19.4%	9.8%	8.3%	37%	1.97	4.6	18.3	6.9	0.73	1.02	65%	21%	13.9%	14%
+Nick Margevicius*	23	17	0.0%	41.2%	0.0%	0.0%	0%		2.1			1.67	5.00	47%	20%	0.0%	33%
+Manuel Margot	24	441	2.7%	20.0%	8.6%	7.7%	37%	2.32	4.5	33.2	10.8	0.79	0.83	68%	20%	8.8%	20%
+Nick Martini*	29	96	0.0%	21.9%	12.5%	5.2%	25%	1.75	3.9		16.4	1.38	1.86	65%	24%	0.0%	0%
+Phil Maton	26	4	0.0%	50.0%	0.0%	0.0%	0%		2.0		4.0	1.00		50%	0%	0.0%	0%
+Francisco Mejia#	23	244	3.3%	23.0%	5.3%	8.6%	35%	4.31	4.0	28.3	10.3	0.58	0.72	67%	23%	9.3%	20%
+Seth Mejias-Brean	28	33	6.1%	27.3%	9.1%	12.1%	57%	3.00	3.3	15.0	6.0	1.10	2.75	58%	14%	25.0%	20%
+Adrian Morejon*	20	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Wil Myers	28	490	3.7%	34.3%	10.4%	8.4%	39%	3.29	2.6	24.2	8.2	0.77	1.10	51%	26%	14.1%	14%
+Josh Naylor*	22	279	2.9%	22.9%	9.0%	8.2%	37%	2.56	4.0	31.6	7.9	1.18	1.67	65%	23%	10.5%	13%
+Chris Paddack	23	46	0.0%	41.3%	0.0%	0.0%	0%		2.2		21.0	2.83	4.50	50%	15%	0.0%	0%
+Luis Perdomo	26	7	0.0%	28.6%	0.0%	0.0%	0%		3.5		7.0	1.50	1.00	71%	20%	0.0%	50%
+Jose Pirela	29	5	0.0%	60.0%	0.0%	0.0%			1.7			1.00	2.00	40%	0%	0.0%	0%
+Cal Quantrill*	24	30	0.0%	20.0%	3.3%	0.0%	0%	6.00	4.2		25.0	14.00		63%	4%	0.0%	0%
+Hunter Renfroe	27	494	6.7%	31.2%	9.3%	10.7%	56%	3.35	2.9	13.3	6.9	0.55	0.74	52%	20%	20.6%	15%
+Franmil Reyes	23	354	7.6%	26.3%	8.2%	10.2%	44%	3.21	3.5	11.9	7.0	0.77	1.27	58%	25%	22.3%	8%
+Gerardo Reyes	26	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Garrett Richards	31	3	0.0%	33.3%	0.0%	0.0%			2.0					33%	0%		
+Craig Stammen	35	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Matt Strahm	27	27	0.0%	44.4%	7.4%	7.4%	33%	6.00	1.8		21.0	0.50	2.50	33%	46%	0.0%	0%
+Fernando Tatis Jr.	20	372	5.9%	29.6%	8.1%	11.0%	39%	3.67	3.0	15.2	6.3	0.89	1.37	55%	23%	20.2%	8%
+Luis Torrens	23	16	0.0%	37.5%	12.5%	6.3%	33%	3.00	2.3			1.00	2.00	50%	38%	0.0%	0%
+Luis Urias	22	249	1.6%	22.5%	10.0%	5.2%	27%	2.24	3.8	53.8	9.0	0.94	1.27	62%	22%	5.4%	9%
+Brad Wieck*	27	2	0.0%	50.0%	0.0%	0.0%			2.0					50%	0%		
+Matt Wisler	26	1	0.0%	0.0%	0.0%	0.0%								100%	0%		
+League Average			3.5%	23.0%	8.5%	8.5%	38%	2.70	3.9	25.4	7.5	0.78	1.08	63%	25%	10.6%	11%
+Team Total	26.2	6019	3.6%	26.3%	8.4%	7.8%	37%	3.14	3.4	24.6	8.3	0.86	1.19	60%	22%	12.3%	13%
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+
+Team Win Probability* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Austin Allen*	25	71	-4.5	-0.4	71	-0.6	0.7	-1.3	1.04	-0.6	0.0	-7.4	-0.7	0.99	-6.9	1.48	15
+Logan Allen	22	5	-0.1	0.0	5	0.0	0.1	-0.1	.85	0.0	0.0	-0.1	0.0	0.82	-0.2		0
+Pedro Avila	22	2	-0.3	0.0	2	0.0	0.0	0.0	1.01	0.0	0.0	-0.3	0.0	0.76	-0.5		0
+Ronald Bolanos	22	5	-1.5	-0.1	5	0.1	0.2	-0.1	1.18	0.0	0.1	1.3	0.1	1.04	-0.2		0
+Franchy Cordero*	24	20	1.2	0.1	22	0.1	0.3	-0.2	.84	0.1	0.0	0.3	0.0	0.84	1.1	0.69	1
+Miguel Diaz	24	1	-0.3	0.0	1	0.0	0.0	0.0	.42	0.0	0.0	-0.1	0.0	0.38	-0.3		0
+Alex Dickerson*	29	19	-3.2	-0.3	19	-0.3	0.2	-0.4	1.17	-0.3	0.1	-2.5	-0.2	1.10	-2.9	1.53	7
+Robbie Erlin	28	4	-1.2	-0.1	4	-0.1	0.0	-0.1	.69	-0.1	0.0	-1.1	-0.1	0.65	-1.4		0
+Ty France	24	201	-4.8	-0.5	205	-0.6	3.0	-3.6	.93	-0.4	-0.2	-2.6	-0.3	0.90	-4.4	1.24	20
+Greg Garcia*	29	372	-0.5	-0.1	379	1.0	6.9	-5.9	1.00	0.1	0.9	3.6	0.3	0.92	1.0	1.00	36
+Austin Hedges	26	347	-23.7	-2.3	349	-1.7	5.0	-6.7	1.01	-2.1	0.4	-16.2	-1.6	0.92	-24.1	0.39	7
+Eric Hosmer*	29	667	-6.3	-0.6	677	-0.2	11.9	-12.1	1.02	-0.1	-0.1	14.8	1.4	0.92	3.5	3.49	3
+Travis Jankowski*	28	24	-2.6	-0.3	28	-0.2	0.3	-0.5	1.27	-0.3	0.2	-1.8	-0.2	0.92	-3.2	0.71	9
+Ian Kinsler	37	281	-11.4	-1.1	292	-1.1	4.4	-5.5	.96	-0.7	-0.5	-13.7	-1.3	0.91	-7.7	1.27	17
+Dinelson Lamet	26	24	-3.8	-0.4	24	-0.5	0.1	-0.5	.96	-0.4	0.0	-4.4	-0.4	0.87	-4.7		0
+Eric Lauer	24	48	-7.4	-0.7	48	-0.7	0.2	-1.0	.94	-0.7	0.0	-8.4	-0.8	0.90	-8.4		0
+Joey Lucchesi*	26	54	-11.2	-1.1	54	-1.0	0.1	-1.1	.94	-1.1	0.0	-10.7	-1.1	0.88	-12.1		0
+Manny Machado	26	661	7.9	0.8	678	-0.2	11.3	-11.6	.97	0.4	-0.7	9.3	0.9	0.88	7.8	2.62	1
+Nick Margevicius*	23	17	-2.0	-0.2	17	-0.2	0.1	-0.3	.84	-0.2	0.0	-2.4	-0.2	0.87	-2.2		0
+Manuel Margot	24	441	-10.3	-1.0	481	-0.9	7.6	-8.6	1.03	0.1	-1.0	-9.2	-0.9	0.92	-0.9	1.11	20
+Nick Martini*	29	96	-1.9	-0.2	97	-0.6	1.2	-1.8	1.06	0.0	-0.5	0.0	0.0	0.90	-0.4	1.15	3
+Phil Maton	26	4	-0.4	0.0	4	0.0	0.0	0.0	.14	-0.1	0.0	0.2	0.0	1.03	-0.2		0
+Francisco Mejia#	23	244	-0.9	-0.1	251	-0.2	4.8	-5.0	1.09	-0.3	0.1	-6.7	-0.7	0.91	-3.3	1.66	18
+Seth Mejias-Brean	28	33	0.3	0.0	33	0.1	0.8	-0.7	1.15	-0.1	0.2	0.4	0.0	0.94	-0.6	0.81	6
+Adrian Morejon*	20	1	-0.3	0.0	1	0.0	0.0	0.0	.74	0.0	0.0	-0.2	0.0	0.62	-0.3		0
+Wil Myers	28	490	-2.6	-0.3	527	-2.4	7.4	-9.8	1.01	-0.7	-1.6	-5.3	-0.5	0.92	-0.5	1.22	24
+Josh Naylor*	22	279	-3.3	-0.3	286	0.3	5.2	-4.9	1.04	0.1	0.1	3.3	0.3	0.92	2.2	1.27	27
+Chris Paddack	23	46	-8.3	-0.8	46	-0.7	0.2	-0.9	1.01	-0.7	0.0	-7.1	-0.7	0.91	-7.7		0
+Luis Perdomo	26	7	-1.3	-0.1	7	-0.2	0.1	-0.2	1.67	-0.1	0.0	-1.0	-0.1	0.96	-1.0		0
+Jose Pirela	29	5	-1.5	-0.1	5	-0.3	0.0	-0.3	1.60	-0.2	0.0	-2.0	-0.2	1.08	-1.7	1.81	1
+Cal Quantrill*	24	30	-5.3	-0.5	32	-0.6	0.2	-0.8	1.19	-0.5	0.0	-5.8	-0.6	1.05	-5.6		0
+Hunter Renfroe	27	494	0.2	0.0	502	0.0	9.3	-9.3	1.01	0.1	0.0	-2.7	-0.3	0.91	5.7	1.64	19
+Franmil Reyes	23	354	8.3	0.8	357	-0.3	6.5	-6.8	.97	0.9	-1.2	-4.2	-0.4	0.88	10.7	1.79	12
+Gerardo Reyes	26	1	-0.3	0.0	1	0.0	0.0	0.0	1.10	0.0	0.0	-0.3	0.0	1.05	-0.3		0
+Garrett Richards	31	3	-0.6	-0.1	3	-0.1	0.0	-0.1	1.19	-0.1	0.0	-0.7	-0.1	1.07	-0.8		0
+Craig Stammen	35	1	-0.3	0.0	1	-0.1	0.0	-0.1	1.83	0.0	0.0	-0.3	0.0	1.04	-0.3		0
+Matt Strahm	27	27	0.0	0.0	27	0.1	0.5	-0.5	1.25	-0.1	0.2	-1.5	-0.1	0.96	-1.6	6.93	0
+Fernando Tatis Jr.	20	372	25.1	2.4	405	2.0	8.2	-6.2	.99	2.2	-0.2	25.5	2.4	0.92	28.2	0.50	1
+Luis Torrens	23	16	-0.7	-0.1	17	-0.1	0.2	-0.3	.99	-0.1	0.0	-1.8	-0.2	0.88	-1.0	1.02	4
+Luis Urias	22	249	-6.7	-0.6	252	-0.7	3.9	-4.6	1.02	-0.5	-0.2	-3.8	-0.4	0.90	-4.5	0.66	4
+Brad Wieck*	27	2	-0.6	-0.1	2	0.0	0.0	0.0	.04	0.0	0.0	-0.3	0.0	0.50	-0.5		0
+Matt Wisler	26	1	-0.3	0.0	1	0.0	0.0	0.0	.14	0.0	0.0	-0.2	0.0	0.63	-0.3		0
+League Average									.99								
+Team Total	26.2	6019	-87.0	-8.4	6218	-10.7	101.0	-111.7	1.01	-6.8	-3.8	-66.3	-6.6	0.91	-50.4	1.27	255
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Team Baserunning/Misc* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Austin Allen*
+Logan Allen
+Pedro Avila
+Ronald Bolanos
+Franchy Cordero*
+Miguel Diaz
+Alex Dickerson*
+Robbie Erlin
+Ty France
+Greg Garcia*
+Austin Hedges
+Eric Hosmer*
+Travis Jankowski*
+Ian Kinsler
+Dinelson Lamet
+Eric Lauer
+Joey Lucchesi*
+Manny Machado
+Nick Margevicius*
+Manuel Margot
+Nick Martini*
+Phil Maton
+Francisco Mejia#
+Seth Mejias-Brean
+Adrian Morejon*
+Wil Myers
+Josh Naylor*
+Chris Paddack
+Luis Perdomo
+Jose Pirela
+Cal Quantrill*
+Hunter Renfroe
+Franmil Reyes
+Gerardo Reyes
+Garrett Richards
+Craig Stammen
+Matt Strahm
+Fernando Tatis Jr.
+Luis Torrens
+Luis Urias
+Brad Wieck*
+Matt Wisler
+League Average
+Team Total
+Name
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Austin Allen*	25	71	0	0	20%	25	0	0		0	0	0	0	0	0	0	0	1	0	1	0	0	0	50%	1	0	1	0	0	0	1	1	0
+Logan Allen	22	5	0	0	50%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	0	0	0	0	0	0	1	1	0
+Pedro Avila	22	2	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Ronald Bolanos	22	5	0	0		1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	0%	0	0	0	0	0	0	1	1	0
+Franchy Cordero*	24	20	0	0	22%	11	1	0	100%	1	0	0	0	0	0	0	0	0	0	0	0	0	1	100%	1	0	1	0	0	0	1	0	1
+Miguel Diaz	24	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Alex Dickerson*	29	19	0	0	33%	4	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	0	0	0	1	1	0	0	0	0
+Robbie Erlin	28	4	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Ty France	24	201	2	0	25%	80	0	2	0%	0	2	0	0	0	0	0	0	1	0	1	0	0	2	38%	9	6	3	3	3	0	4	1	3
+Greg Garcia*	29	372	2	0	37%	183	0	2	0%	0	2	0	0	0	0	1	0	3	0	1	0	2	8	55%	24	13	11	4	2	2	10	2	8
+Austin Hedges	26	347	2	0	22%	88	1	0	100%	1	0	0	0	0	0	0	0	6	1	4	1	0	1	42%	11	7	4	2	2	0	6	2	4
+Eric Hosmer*	29	667	4	0	27%	246	0	3	0%	0	1	0	1	0	1	0	0	8	2	2	2	2	11	39%	26	16	8	11	5	5	14	7	7
+Travis Jankowski*	28	24	0	0	33%	10	2	2	50%	2	2	0	0	0	0	0	0	0	0	0	0	0	0	75%	2	0	2	0	0	0	2	1	1
+Ian Kinsler	37	281	3	0	27%	95	2	4	33%	2	2	0	1	0	1	3	0	3	0	1	1	1	7	53%	8	5	3	4	2	1	7	0	6
+Dinelson Lamet	26	24	0	0	33%	5	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	1	1	0	0	0	0	0	0	0
+Eric Lauer	24	48	0	1	20%	11	0	0		0	0	0	0	0	0	0	0	2	0	1	0	1	0	33%	2	1	1	0	0	0	1	1	0
+Joey Lucchesi*	26	54	0	0	0%	7	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	1	1	0	0	0	0	0	0	0
+Manny Machado	26	661	4	0	26%	213	5	3	63%	3	3	2	0	0	0	1	0	4	2	1	1	0	18	49%	25	15	10	7	3	4	17	7	10
+Nick Margevicius*	23	17	1	0	33%	6	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	0%	2	2	0	0	0	0	0	0	0
+Manuel Margot	24	441	7	0	38%	138	20	4	83%	15	3	4	1	1	0	2	1	3	0	1	1	1	19	49%	16	9	7	4	2	2	13	6	7
+Nick Martini*	29	96	2	0	21%	50	0	0		0	0	0	0	0	0	0	0	2	1	0	0	1	1	25%	6	5	1	0	0	0	2	1	1
+Phil Maton	26	4	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Francisco Mejia#	23	244	2	0	28%	83	1	1	50%	1	1	0	0	0	0	1	0	1	0	1	0	0	3	43%	7	6	1	3	2	1	4	0	4
+Seth Mejias-Brean	28	33	0	0	13%	10	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	50%	1	0	1	1	1	0	0	0	0
+Adrian Morejon*	20	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Wil Myers	28	490	4	0	28%	174	16	7	70%	16	7	0	0	0	0	3	1	3	1	1	0	1	13	32%	15	11	4	6	4	2	13	8	5
+Josh Naylor*	22	279	2	0	26%	114	1	1	50%	1	1	0	0	0	0	0	0	3	0	1	2	0	3	48%	14	8	6	2	2	0	7	2	5
+Chris Paddack	23	46	0	0	60%	9	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	2	2	0	0	0	0	0	0	0
+Luis Perdomo	26	7	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Jose Pirela	29	5	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Cal Quantrill*	24	30	1	0	33%	9	0	1	0%	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0%	1	1	0	0	0	0	0	0	0
+Hunter Renfroe	27	494	1	0	28%	155	5	0	100%	5	0	0	0	0	0	0	0	5	0	0	3	2	4	36%	16	12	4	4	2	2	8	3	4
+Franmil Reyes	23	354	2	0	19%	103	0	0		0	0	0	0	0	0	1	0	2	0	2	0	0	5	35%	17	14	2	1	0	1	5	0	5
+Gerardo Reyes	26	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Garrett Richards	31	3	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Craig Stammen	35	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Matt Strahm	27	27	0	0	13%	15	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	33%	2	2	0	0	0	0	1	0	1
+Fernando Tatis Jr.	20	372	5	0	33%	134	16	6	73%	13	6	3	0	0	0	1	1	5	2	0	2	1	15	64%	11	3	7	5	5	0	12	1	11
+Luis Torrens	23	16	0	0	40%	8	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	100%	0	0	0	1	0	1	1	0	1
+Luis Urias	22	249	5	0	30%	98	0	1	0%	0	0	0	1	0	0	0	0	3	0	3	0	0	4	63%	8	6	2	2	0	2	9	1	8
+Brad Wieck*	27	2	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Matt Wisler	26	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+League Average					31%				74%															42%									
+Team Total	26.2	6019	49	1	28%	2089	70	37	65%	60	31	9	4	1	2	13	3	55	9	21	13	12	119	45%	229	146	79	61	36	23	140	46	92
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Support us without the ads? Go Ad-Free.
+Team PH/HR/Situ Hitting* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+|
+Name
+Austin Allen*
+Logan Allen
+Pedro Avila
+Ronald Bolanos
+Franchy Cordero*
+Miguel Diaz
+Alex Dickerson*
+Robbie Erlin
+Ty France
+Greg Garcia*
+Austin Hedges
+Eric Hosmer*
+Travis Jankowski*
+Ian Kinsler
+Dinelson Lamet
+Eric Lauer
+Joey Lucchesi*
+Manny Machado
+Nick Margevicius*
+Manuel Margot
+Nick Martini*
+Phil Maton
+Francisco Mejia#
+Seth Mejias-Brean
+Adrian Morejon*
+Wil Myers
+Josh Naylor*
+Chris Paddack
+Luis Perdomo
+Jose Pirela
+Cal Quantrill*
+Hunter Renfroe
+Franmil Reyes
+Gerardo Reyes
+Garrett Richards
+Craig Stammen
+Matt Strahm
+Fernando Tatis Jr.
+Luis Torrens
+Luis Urias
+Brad Wieck*
+Matt Wisler
+League Average
+Team Total
+Name
+Hits	Pinch Hitting	Home Runs	SH	GIDP	PrdOut	BaseRunners	Advances	
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Austin Allen*	25	71	85.9%	14	2	2	15	4	0	2	1.48	0	0	2	0	0	0	0	0	0	0		13	2	15.4%	6	0	0.0%	50	3	6.0%	2	2	100.0%	4	0	0.0%	0
+Logan Allen	22	5	0.0%	1	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Pedro Avila	22	2	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	1	1	100.0%	0	0		1	1	100.0%	1	0	0.0%	0	0		1	1	100.0%	0
+Ronald Bolanos	22	5	20.0%	0	0	0	0	0	0	0		0	0	1	0	0	0	0	0	0	0		1	0	0.0%	0	0		3	3	100.0%	1	1	100.0%	0	0		0
+Franchy Cordero*	24	20	100.0%	5	2	1	1	0	0	0	0.69	0	0	0	0	0	0	0	0	0	0		3	0	0.0%	3	1	33.3%	10	1	10.0%	2	1	50.0%	1	0	0.0%	0
+Miguel Diaz	24	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Alex Dickerson*	29	19	79.0%	3	0	0	7	2	0	1	1.53	0	0	1	0	0	0	0	0	0	0		6	0	0.0%	3	0	0.0%	16	2	12.5%	1	0	0.0%	1	1	100.0%	0
+Robbie Erlin	28	4	50.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		1	1	100.0%	1	0	0.0%	2	0	0.0%	0	0		0	0		0
+Ty France	24	201	28.4%	43	5	0	20	7	0	3	1.24	7	0	5	3	4	4	3	0	0	0		43	8	18.6%	25	5	20.0%	104	18	17.3%	4	2	50.0%	7	5	71.4%	0
+Greg Garcia*	29	372	88.7%	77	12	4	36	10	0	3	1.00	4	0	9	4	0	0	4	0	2	1	50.0%	58	4	6.9%	30	10	33.3%	190	28	14.7%	21	11	52.4%	10	4	40.0%	0
+Austin Hedges	26	347	24.2%	55	3	1	7	0	0	0	0.39	11	1	7	10	1	3	8	0	2	2	100.0%	59	3	5.1%	27	5	18.5%	207	25	12.1%	12	6	50.0%	9	3	33.3%	0
+Eric Hosmer*	29	667	74.8%	164	16	1	3	0	0	0	3.49	22	1	10	21	1	11	11	0	1	0	0.0%	119	12	10.1%	56	19	33.9%	381	81	21.3%	29	20	69.0%	14	7	50.0%	0
+Travis Jankowski*	28	24	91.7%	4	2	1	9	1	0	0	0.71	0	0	0	0	0	0	0	0	1	0	0.0%	6	0	0.0%	2	0	0.0%	12	0	0.0%	0	0		1	0	0.0%	0
+Ian Kinsler	37	281	27.8%	56	8	2	17	3	0	0	1.27	9	0	7	6	3	6	3	0	2	0	0.0%	45	5	11.1%	13	2	15.4%	133	14	10.5%	9	3	33.3%	4	3	75.0%	0
+Dinelson Lamet	26	24	25.0%	3	1	0	0	0	0	0		0	0	0	0	0	0	0	0	4	3	75.0%	5	0	0.0%	5	0	0.0%	15	0	0.0%	0	0		0	0		0
+Eric Lauer	24	48	31.3%	4	0	0	0	0	0	0		0	0	1	0	0	0	0	0	6	6	100.0%	9	0	0.0%	11	2	18.2%	24	0	0.0%	0	0		2	1	50.0%	0
+Joey Lucchesi*	26	54	61.1%	3	0	0	0	0	0	0		0	0	0	0	0	0	0	0	6	5	83.3%	9	0	0.0%	12	3	25.0%	30	1	3.3%	2	1	50.0%	2	1	50.0%	0
+Manny Machado	26	661	22.1%	150	13	0	1	0	0	1	2.62	32	1	10	19	13	15	17	0	0	0		135	24	17.8%	46	15	32.6%	372	56	15.1%	31	13	41.9%	22	17	77.3%	0
+Nick Margevicius*	23	17	94.1%	3	0	0	0	0	0	0		0	0	0	0	0	0	0	0	2	2	100.0%	2	0	0.0%	1	1	100.0%	7	0	0.0%	0	0		0	0		0
+Manuel Margot	24	441	27.2%	93	26	4	20	5	1	2	1.11	12	0	10	10	2	3	9	0	5	3	60.0%	73	6	8.2%	36	8	22.2%	237	25	10.6%	14	7	50.0%	17	9	52.9%	0
+Nick Martini*	29	96	78.1%	20	2	0	3	1	0	0	1.15	0	0	2	0	0	0	0	0	0	0		20	0	0.0%	10	1	10.0%	45	5	11.1%	4	3	75.0%	2	0	0.0%	0
+Phil Maton	26	4	25.0%	1	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		4	1	25.0%	0	0		0	0		0
+Francisco Mejia#	23	244	99.6%	60	11	2	18	6	0	3	1.66	8	0	7	7	1	3	5	0	1	0	0.0%	39	6	15.4%	20	2	10.0%	146	15	10.3%	14	4	28.6%	4	2	50.0%	0
+Seth Mejias-Brean	28	33	30.3%	7	0	0	6	2	0	0	0.81	2	0	0	2	0	1	1	0	0	0		7	1	14.3%	4	1	25.0%	22	3	13.6%	0	0		2	1	50.0%	0
+Adrian Morejon*	20	1	100.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Wil Myers	28	490	21.2%	104	15	4	24	5	3	4	1.22	18	0	8	11	7	9	9	0	2	1	50.0%	79	12	15.2%	34	6	17.7%	263	35	13.3%	18	6	33.3%	17	5	29.4%	0
+Josh Naylor*	22	279	82.1%	63	6	0	27	5	2	8	1.27	8	0	2	8	0	4	4	0	0	0		60	4	6.7%	28	10	35.7%	145	26	17.9%	7	5	71.4%	5	3	60.0%	0
+Chris Paddack	23	46	19.6%	5	2	0	0	0	0	0		0	0	3	0	0	0	0	0	4	4	100.0%	8	0	0.0%	8	3	37.5%	26	2	7.7%	1	1	100.0%	3	3	100.0%	0
+Luis Perdomo	26	7	14.3%	1	1	0	0	0	0	0		0	0	1	0	0	0	0	0	0	0		0	0		1	1	100.0%	6	1	16.7%	1	1	100.0%	0	0		0
+Jose Pirela	29	5	20.0%	0	0	0	1	0	0	0	1.81	0	0	0	0	0	0	0	0	0	0		2	1	50.0%	2	0	0.0%	4	0	0.0%	0	0		1	0	0.0%	0
+Cal Quantrill*	24	30	80.0%	2	0	0	0	0	0	0		0	0	0	0	0	0	0	0	8	4	50.0%	12	0	0.0%	13	5	38.5%	24	1	4.2%	1	0	0.0%	3	0	0.0%	0
+Hunter Renfroe	27	494	26.9%	95	7	0	19	4	2	6	1.64	33	1	8	22	11	14	19	0	0	0		74	6	8.1%	33	10	30.3%	257	32	12.5%	19	10	52.6%	15	6	40.0%	0
+Franmil Reyes	23	354	21.5%	82	5	0	12	3	2	4	1.79	27	0	7	24	3	17	10	0	0	0		57	12	21.1%	30	9	30.0%	180	19	10.6%	16	6	37.5%	11	4	36.4%	0
+Gerardo Reyes	26	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Garrett Richards	31	3	66.7%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	1	1	100.0%	1	0	0.0%	1	0	0.0%	2	0	0.0%	0	0		0	0		0
+Craig Stammen	35	1	100.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Matt Strahm	27	27	0.0%	6	0	0	0	0	0	1	6.93	0	0	2	0	0	0	0	0	4	4	100.0%	6	0	0.0%	7	2	28.6%	16	1	6.3%	2	0	0.0%	0	0		0
+Fernando Tatis Jr.	20	372	22.3%	106	18	2	1	0	0	0	0.50	22	0	7	17	5	10	12	0	1	0	0.0%	62	4	6.5%	26	6	23.1%	178	32	18.0%	13	7	53.9%	2	0	0.0%	0
+Luis Torrens	23	16	37.5%	3	0	0	4	1	0	0	1.02	0	0	0	0	0	0	0	0	0	0		3	1	33.3%	3	0	0.0%	6	0	0.0%	1	0	0.0%	1	0	0.0%	0
+Luis Urias	22	249	24.1%	48	8	1	4	0	0	0	0.66	4	0	5	2	2	1	3	0	1	0	0.0%	42	8	19.1%	16	5	31.3%	138	22	15.9%	12	9	75.0%	9	6	66.7%	0
+Brad Wieck*	27	2	100.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Matt Wisler	26	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+League Average			51.9%																			65.4%			10.2%			26.9%			14.8%			51.3%			51.5%	
+Team Total	26.2	6019	42.6%	1281	165	25	255	59	10	38	1.27	219	4	115	166	53	101	118	0	54	37	68.5%	1059	120	11.3%	514	133	25.9%	3259	452	13.9%	237	119	50.2%	170	82	48.2%	0
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Team Pitches Batting* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Austin Allen*
+Logan Allen
+Pedro Avila
+Ronald Bolanos
+Franchy Cordero*
+Miguel Diaz
+Alex Dickerson*
+Robbie Erlin
+Ty France
+Greg Garcia*
+Austin Hedges
+Eric Hosmer*
+Travis Jankowski*
+Ian Kinsler
+Dinelson Lamet
+Eric Lauer
+Joey Lucchesi*
+Manny Machado
+Nick Margevicius*
+Manuel Margot
+Nick Martini*
+Phil Maton
+Francisco Mejia#
+Seth Mejias-Brean
+Adrian Morejon*
+Wil Myers
+Josh Naylor*
+Chris Paddack
+Luis Perdomo
+Jose Pirela
+Cal Quantrill*
+Hunter Renfroe
+Franmil Reyes
+Gerardo Reyes
+Garrett Richards
+Craig Stammen
+Matt Strahm
+Fernando Tatis Jr.
+Luis Torrens
+Luis Urias
+Brad Wieck*
+Matt Wisler
+League Average
+Team Total
+Name
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Austin Allen*	25	71	266	3.75	170	63.9%	22.4%	22.9%	28.8%	25.9%	77.6%	0.0%	49.6%	70.5%	28.2%	5.6%	4	0	12.7%	9	4	1.4%	1	0	2	19	9.5%	0	0	0
+Logan Allen	22	5	15	3.00	10	66.7%	30.0%	0.0%	30.0%	40.0%	70.0%	0.0%	46.7%	100.0%	20.0%	0.0%	0	0	20.0%	1	0	0.0%	0	0	0	0		0	0	0
+Pedro Avila	22	2	5	2.50	3	60.0%	0.0%	33.3%	0.0%	66.7%	100.0%	0.0%	60.0%	66.7%	100.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Ronald Bolanos	22	5	16	3.20	13	81.3%	30.8%	53.8%	7.7%	7.7%	69.2%	0.0%	56.3%	22.2%	40.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	3	25.0%	0	0	0
+Franchy Cordero*	24	20	105	5.25	58	55.2%	22.4%	29.3%	32.8%	15.5%	77.6%	0.0%	42.9%	62.2%	50.0%	0.0%	0	0	15.0%	3	2	10.0%	2	2	3	4	42.9%	0	0	0
+Miguel Diaz	24	1	3	3.00	3	100.0%	33.3%	33.3%	33.3%	0.0%	66.7%		66.7%	50.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Alex Dickerson*	29	19	62	3.26	51	82.3%	27.5%	29.4%	19.6%	23.5%	72.5%	0.0%	59.7%	59.5%	21.1%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	6	14.3%	0	0	0
+Robbie Erlin	28	4	11	2.75	8	72.7%	25.0%	12.5%	12.5%	50.0%	75.0%	0.0%	54.5%	83.3%	25.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Ty France	24	201	801	3.99	514	64.2%	23.7%	18.3%	31.5%	26.5%	76.3%	0.0%	48.9%	76.0%	31.3%	2.5%	5	0	9.5%	19	10	5.0%	10	9	8	41	16.3%	0	0	0
+Greg Garcia*	29	372	1590	4.27	940	59.1%	42.2%	9.1%	24.0%	24.6%	57.8%	0.0%	34.2%	84.2%	16.1%	5.6%	21	0	17.2%	64	19	13.2%	49	20	42	41	50.6%	0	0	0
+Austin Hedges	26	347	1385	3.99	902	65.1%	21.8%	26.1%	29.3%	22.8%	78.2%	0.0%	50.9%	66.7%	29.7%	5.2%	18	0	16.1%	56	26	5.8%	20	12	8	101	7.3%	0	0	0
+Eric Hosmer*	29	668	2570	3.85	1650	64.2%	22.5%	22.4%	27.2%	27.9%	77.5%	0.0%	49.8%	71.1%	30.4%	3.0%	20	7	15.3%	102	63	7.5%	50	28	33	130	20.2%	0	0	0
+Travis Jankowski*	28	24	87	3.63	56	64.4%	35.7%	8.9%	23.2%	32.1%	64.3%	0.0%	41.4%	86.1%	25.0%	0.0%	0	0	8.3%	2	0	4.2%	1	1	2	2	50.0%	0	0	0
+Ian Kinsler	37	281	1082	3.85	720	66.5%	28.5%	13.6%	29.4%	28.5%	71.5%	0.0%	47.6%	81.0%	25.3%	2.8%	8	4	10.0%	28	14	7.5%	21	8	9	45	16.7%	0	0	0
+Dinelson Lamet	26	24	72	3.00	55	76.4%	40.0%	23.6%	12.7%	23.6%	60.0%	0.0%	45.8%	60.6%	33.3%	0.0%	0	0	8.3%	2	1	0.0%	0	0	5	6	45.5%	0	0	0
+Eric Lauer	24	48	164	3.42	127	77.4%	37.8%	19.7%	23.6%	18.9%	62.2%	0.0%	48.2%	68.4%	29.2%	2.1%	1	0	4.2%	2	0	2.1%	1	0	8	13	34.8%	0	0	0
+Joey Lucchesi*	26	54	207	3.83	159	76.8%	41.5%	28.3%	19.5%	10.7%	58.5%	0.0%	44.9%	51.6%	29.6%	0.0%	0	0	3.7%	2	0	1.9%	1	0	13	22	36.1%	0	0	0
+Manny Machado	26	663	2426	3.66	1494	61.6%	24.4%	18.3%	26.4%	30.9%	75.6%	0.0%	46.5%	75.8%	36.8%	5.3%	35	12	13.1%	87	30	8.4%	56	27	27	101	21.1%	0	0	0
+Nick Margevicius*	23	17	72	4.24	48	66.7%	41.7%	16.7%	20.8%	20.8%	58.3%	0.0%	38.9%	71.4%	23.5%	0.0%	0	0	17.6%	3	0	5.9%	1	1	3	4	42.9%	0	0	0
+Manuel Margot	24	443	1747	3.94	1104	63.2%	30.6%	15.9%	25.1%	28.4%	69.4%	0.0%	43.8%	77.0%	21.9%	5.9%	26	1	16.0%	71	18	11.5%	51	23	14	74	15.9%	0	0	0
+Nick Martini*	29	96	400	4.17	255	63.8%	38.8%	11.8%	25.1%	24.3%	61.2%	0.0%	39.0%	80.8%	7.3%	5.2%	5	0	14.6%	14	3	11.5%	11	3	8	13	38.1%	0	0	0
+Phil Maton	26	4	14	3.50	12	85.7%	33.3%	33.3%	16.7%	16.7%	66.7%	0.0%	57.1%	50.0%	25.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	2	0.0%	0	0	0
+Francisco Mejia#	23	245	906	3.70	625	69.0%	18.2%	21.0%	33.4%	27.4%	81.8%	0.0%	56.4%	74.4%	42.4%	4.1%	10	2	12.7%	31	13	5.7%	14	9	14	42	25.0%	0	0	0
+Seth Mejias-Brean	28	33	132	4.00	81	61.4%	28.4%	23.5%	22.2%	25.9%	71.6%	0.0%	43.9%	67.2%	15.2%	6.1%	2	0	12.1%	4	1	9.1%	3	3	1	8	11.1%	0	0	0
+Adrian Morejon*	20	1	4	4.00	3	75.0%	33.3%	33.3%	33.3%	0.0%	66.7%	0.0%	50.0%	50.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Wil Myers	28	493	2040	4.14	1260	61.8%	28.1%	23.1%	27.5%	21.3%	71.9%	0.0%	44.4%	67.9%	33.1%	4.5%	22	3	11.6%	57	16	9.3%	46	24	47	121	28.0%	0	0	0
+Josh Naylor*	22	280	1158	4.14	735	63.5%	29.7%	15.6%	28.8%	25.9%	70.3%	0.0%	44.6%	77.8%	23.9%	5.7%	16	2	15.7%	44	15	7.9%	22	14	14	50	21.9%	0	0	0
+Chris Paddack	23	46	166	3.61	119	71.7%	34.5%	20.2%	22.7%	22.7%	65.5%	0.0%	47.0%	69.2%	34.8%	2.2%	1	0	6.5%	3	0	4.3%	2	1	10	7	52.6%	0	0	0
+Luis Perdomo	26	7	27	3.86	19	70.4%	15.8%	21.1%	36.8%	26.3%	84.2%	0.0%	59.3%	75.0%	71.4%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	1	50.0%	0	0	0
+Jose Pirela	29	5	19	3.80	15	78.9%	20.0%	40.0%	26.7%	13.3%	80.0%	0.0%	63.2%	50.0%	40.0%	0.0%	0	0	20.0%	1	1	0.0%	0	0	0	3	0.0%	0	0	0
+Cal Quantrill*	24	30	111	3.70	81	73.0%	25.9%	17.3%	28.4%	28.4%	74.1%	0.0%	54.1%	76.7%	36.7%	0.0%	0	0	10.0%	3	2	0.0%	0	0	3	2	50.0%	0	0	0
+Hunter Renfroe	27	495	2027	4.09	1290	63.6%	28.0%	22.0%	27.4%	22.6%	72.0%	0.0%	45.8%	69.4%	31.7%	4.2%	21	1	14.5%	72	25	8.7%	43	31	45	109	29.2%	0	0	0
+Franmil Reyes	23	354	1337	3.78	859	64.2%	18.6%	28.3%	26.1%	27.0%	81.4%	0.0%	52.3%	65.2%	43.5%	2.3%	8	2	11.0%	39	19	7.1%	25	15	15	78	16.1%	0	0	0
+Gerardo Reyes	26	1	3	3.00	3	100.0%	33.3%	66.7%	0.0%	0.0%	66.7%		66.7%	0.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Garrett Richards	31	3	7	2.33	6	85.7%	16.7%	50.0%	0.0%	33.3%	83.3%	0.0%	71.4%	40.0%	66.7%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Craig Stammen	35	1	8	8.00	5	62.5%	0.0%	20.0%	80.0%	0.0%	100.0%	0.0%	62.5%	80.0%	100.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Matt Strahm	27	27	99	3.67	68	68.7%	30.9%	25.0%	25.0%	19.1%	69.1%	0.0%	47.5%	63.8%	40.7%	7.4%	2	0	14.8%	4	1	7.4%	2	0	2	9	16.7%	0	0	0
+Fernando Tatis Jr.	20	372	1403	3.77	870	62.0%	23.2%	27.0%	23.7%	26.1%	76.8%	0.0%	47.6%	64.8%	36.3%	2.7%	10	1	13.4%	50	22	9.1%	34	18	23	87	20.9%	0	0	0
+Luis Torrens	23	16	62	3.88	37	59.7%	29.7%	24.3%	24.3%	21.6%	70.3%	0.0%	41.9%	65.4%	31.3%	6.3%	1	0	12.5%	2	1	12.5%	2	0	0	6	0.0%	0	0	0
+Luis Urias	22	249	1030	4.14	643	62.4%	32.2%	16.0%	27.1%	24.7%	67.8%	0.0%	42.3%	76.4%	26.9%	7.6%	19	0	13.3%	33	7	8.0%	20	8	25	31	44.6%	0	0	0
+Brad Wieck*	27	2	7	3.50	6	85.7%	33.3%	50.0%	0.0%	16.7%	66.7%	0.0%	57.1%	25.0%	100.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	0	100.0%	0	0	0
+Matt Wisler	26	1	2	2.00	1	50.0%	0.0%	0.0%	0.0%	100.0%	100.0%	0.0%	50.0%	100.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+League Average				3.91		63.7%	25.4%	19.2%	28.5%	27.0%	74.6%	0.0%	47.5%	74.3%	30.7%	4.5%			13.5%			8.4%					22.6%			
+Team Total	26.2	6030	23648	3.92	15078	63.8%	27.1%	20.2%	26.9%	25.7%	72.9%	0.0%	46.5%	72.3%	30.6%	4.2%	255	35	13.4%	808	313	8.1%	488	257	388	1186	24.5%	0	0	0
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Team Neutralized Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Austin Allen*	25	34	71	65	4	14	4	0	0	3	0	0	6	21	.215	.282	.277	.559	5	34
+Logan Allen	22	7	5	4	0	0	0	0	0	0	0		0	0	.000	.200	.000	.200	0	7
+Pedro Avila	22	1	2	1	0	0	0	0	0	0	0		0	0	.000	.000	.000	.000	0	1
+Ronald Bolanos	22	5	5	5	1	0	0	0	0	1	0		0	4	.000	.000	.000	.000	0	5
+Franchy Cordero*	24	9	20	15	2	5	1	0	0	1	1	0	4	7	.333	.450	.400	.850	3	9
+Miguel Diaz	24	5	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	5
+Alex Dickerson*	29	68	189	173	27	47	13	3	6	26	1	1	13	42	.272	.328	.486	.814	27	68
+Robbie Erlin	28	34	4	4	0	0	0	0	0	0	0		0	0	.000	.000	.000	.000	0	34
+Ty France	24	69	200	183	19	42	8	1	7	23	0	2	9	49	.230	.290	.399	.689	19	69
+Greg Garcia*	29	134	367	308	49	74	12	4	4	29	0	2	51	83	.240	.355	.344	.699	37	134
+Austin Hedges	26	102	344	310	26	53	9	0	11	34	1	0	26	109	.171	.246	.306	.552	22	102
+Eric Hosmer*	29	160	658	612	67	157	28	2	21	92	0	3	38	163	.257	.301	.412	.713	76	160
+Travis Jankowski*	28	25	24	22	4	4	0	0	0	0	2	2	2	4	.182	.250	.182	.432	1	25
+Ian Kinsler	37	87	278	256	26	54	12	0	9	21	2	4	18	54	.211	.270	.363	.633	24	87
+Dinelson Lamet	26	13	24	21	0	0	0	0	0	0	0		0	11	.000	.000	.000	.000	0	13
+Eric Lauer	24	29	48	41	1	5	2	0	0	0	0	0	1	23	.122	.143	.171	.314	1	29
+Joey Lucchesi*	26	28	54	48	0	0	0	0	0	0	0		1	36	.000	.020	.000	.020	0	28
+Manny Machado	26	156	654	582	76	145	20	2	31	80	5	3	63	128	.249	.327	.450	.777	84	156
+Nick Margevicius*	23	17	18	16	2	4	0	0	0	0	0	0	0	7	.250	.250	.250	.500	1	17
+Manuel Margot	24	151	435	394	55	89	18	3	11	34	19	4	36	88	.226	.294	.371	.665	43	151
+Nick Martini*	29	32	107	92	7	20	4	1	1	6	0	0	13	26	.217	.318	.315	.633	9	32
+Phil Maton	26	20	4	4	0	0	0	0	0	0	0		0	2	.000	.000	.000	.000	0	20
+Francisco Mejia#	23	79	240	223	25	57	10	2	8	20	1	1	12	56	.256	.304	.426	.730	28	79
+Seth Mejias-Brean	28	14	32	29	3	6	2	0	2	4	0	0	3	9	.207	.281	.483	.764	4	14
+Adrian Morejon*	20	4	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	4
+Wil Myers	28	155	484	431	54	100	21	1	17	49	15	7	49	168	.232	.313	.404	.716	54	155
+Josh Naylor*	22	94	275	250	27	60	14	0	8	30	1	1	24	64	.240	.305	.392	.697	30	94
+Chris Paddack	23	25	48	44	5	7	0	0	0	3	0	0	0	19	.159	.159	.159	.318	1	25
+Luis Perdomo	26	44	7	7	0	0	0	0	0	0	0		0	2	.000	.000	.000	.000	0	44
+Jose Pirela	29	14	24	22	1	4	1	0	1	2	0	0	2	7	.182	.250	.364	.614	2	14
+Cal Quantrill*	24	21	30	25	0	0	0	0	0	0	0		1	6	.000	.038	.000	.038	0	21
+Hunter Renfroe	27	140	488	436	60	91	18	1	32	60	5	0	44	154	.209	.281	.475	.756	58	140
+Franmil Reyes	23	150	540	488	63	117	18	0	35	74	0	0	45	156	.240	.300	.492	.792	73	150
+Gerardo Reyes	26	27	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	27
+Garrett Richards	31	3	3	2	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	3
+Craig Stammen	35	72	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	72
+Matt Strahm	27	45	27	21	1	6	2	0	0	1	0	0	2	12	.286	.348	.381	.729	3	45
+Fernando Tatis Jr.	20	84	367	330	57	102	13	6	21	50	15	6	29	110	.309	.371	.576	.946	69	84
+Luis Torrens	23	7	16	14	2	3	1	0	0	0	0	0	2	6	.214	.313	.286	.598	1	7
+Luis Urias	22	71	246	213	25	46	8	1	4	23	0	1	24	56	.216	.321	.319	.640	20	71
+Brad Wieck*	27	42	2	2	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	42
+Matt Wisler	26	19	1	1	0	0	0	0	0	0	0		0	0	.000	.000	.000	.000	0	19
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Team Cumulative Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+Austin Allen*	25	1	34	71	65	4	14	4	0	0	3	0	0	6	21	.215	.282	.277	.559	51	18	2	0	0	0	3
+Logan Allen	22	1	7	5	4	1	1	0	0	0	0	0	0	0	0	.250	.400	.250	.650	81	1	0	1	0	0	0
+Pedro Avila	22	1	1	2	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	1	0	0
+Michel Baez	23	1	23	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+David Bednar*	24	1	13	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Ronald Bolanos	22	1	5	5	5	1	0	0	0	0	1	0	0	0	4	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Jose Castillo*	23	2	35	1	1	0	0	0	0	0	1	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Franchy Cordero*	24	3	79	273	246	36	59	9	4	10	29	7	3	24	106	.240	.306	.431	.737	99	106	1	0	2	1	0
+Miguel Diaz	24	3	47	5	4	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0
+Alex Dickerson*	29	3	163	483	435	68	115	29	5	16	65	6	2	39	89	.264	.331	.464	.796	112	202	11	6	0	3	3
+Carl Edwards Jr.	27	5	182	3	3	1	0	0	0	0	0	0	0	0	3	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Robbie Erlin	28	6	100	81	72	1	8	0	0	0	2	0	0	3	26	.111	.147	.111	.258	-25	8	1	0	6	0	0
+Ty France	24	1	69	201	184	20	43	8	1	7	24	0	2	9	49	.234	.294	.402	.696	83	74	8	7	0	1	0
+Greg Garcia*	29	6	543	1232	1036	136	257	45	6	14	88	6	5	159	252	.248	.359	.344	.702	91	356	18	23	8	6	7
+Javy Guerra*	23	2	21	19	16	2	2	0	0	0	1	0	0	3	9	.125	.263	.125	.388	14	2	0	0	0	0	0
+Austin Hedges	26	5	377	1268	1163	108	234	43	2	46	140	8	2	79	366	.201	.257	.360	.617	65	419	23	11	6	9	10
+Eric Hosmer*	29	9	1365	5737	5223	691	1451	266	20	167	734	67	26	462	1019	.278	.336	.432	.768	108	2258	134	15	2	35	46
+Travis Jankowski*	28	5	334	977	869	121	209	29	7	8	42	62	22	94	229	.241	.317	.318	.635	76	276	15	4	9	0	0
+Ian Kinsler	37	14	1888	8299	7423	1243	1999	416	41	257	909	243	74	693	1046	.269	.337	.440	.777	107	3268	161	92	32	59	11
+Dinelson Lamet	26	2	32	62	56	1	6	0	0	0	0	0	0	0	33	.107	.107	.107	.214	-42	6	0	0	6	0	0
+Eric Lauer	24	2	52	85	70	2	6	3	0	0	1	0	0	2	38	.086	.110	.129	.238	-35	9	0	0	11	1	0
+Aaron Loup*	31	8	33	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Joey Lucchesi*	26	2	52	93	82	2	5	0	0	0	2	0	0	5	57	.061	.114	.061	.175	-50	5	0	0	5	1	0
+Manny Machado	26	8	1082	4735	4307	603	1200	232	14	207	598	58	27	361	797	.279	.335	.483	.818	119	2081	132	21	14	32	37
+Nick Margevicius*	23	1	17	17	15	1	3	0	0	0	0	0	0	0	7	.200	.200	.200	.400	8	3	0	0	2	0	0
+Manuel Margot	24	4	428	1526	1399	166	347	67	19	33	130	50	21	105	289	.248	.301	.394	.695	87	551	21	6	5	11	5
+Nick Martini*	29	2	87	288	245	34	66	13	4	2	26	0	0	35	62	.269	.372	.380	.751	107	93	0	6	0	2	1
+Phil Maton	26	3	108	4	4	0	1	0	0	0	1	0	0	0	2	.250	.250	.250	.500	35	1	0	0	0	0	0
+Francisco Mejia#	23	3	111	320	295	34	72	13	2	11	31	1	1	19	78	.244	.300	.414	.714	89	122	8	5	0	1	2
+Seth Mejias-Brean	28	1	14	33	30	3	7	2	0	2	5	0	0	3	9	.233	.303	.500	.803	108	15	1	0	0	0	0
+Adrian Morejon*	20	1	4	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Andres Munoz	20	1	21	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Wil Myers	28	7	785	3145	2798	403	703	155	10	114	377	93	25	313	838	.251	.327	.436	.763	107	1220	71	13	1	20	14
+Josh Naylor*	22	1	94	279	253	29	63	15	0	8	32	1	1	25	64	.249	.315	.403	.719	90	102	4	0	0	1	1
+Chris Paddack	23	1	25	46	42	3	5	0	0	0	2	0	0	0	19	.119	.119	.119	.238	-36	5	0	0	4	0	0
+Luis Perdomo	26	4	113	112	99	4	13	2	4	0	6	0	0	2	40	.131	.155	.232	.388	3	23	1	1	9	1	0
+Jose Pirela	29	6	302	985	909	113	234	55	8	17	82	11	7	63	196	.257	.308	.392	.699	90	356	24	5	3	5	1
+Cal Quantrill*	24	1	21	30	25	1	2	0	0	0	1	0	1	1	6	.080	.115	.080	.195	-46	2	0	0	4	0	0
+Hunter Renfroe	27	4	390	1450	1323	176	311	70	3	89	204	10	1	104	408	.235	.294	.494	.788	108	654	20	11	0	12	5
+Franmil Reyes	23	2	237	833	755	105	196	28	0	53	112	0	0	71	236	.260	.321	.507	.828	118	383	20	0	0	7	1
+Gerardo Reyes	26	1	27	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Garrett Richards	31	9	12	16	15	0	0	0	0	0	0	0	0	0	6	.000	.000	.000	.000	-100	0	1	0	1	0	0
+Craig Stammen	35	10	414	113	96	6	21	8	0	0	10	0	0	6	38	.219	.262	.302	.564	52	29	3	0	10	1	0
+Robert Stock*	29	2	40	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Matt Strahm	27	4	87	35	29	1	6	2	0	0	1	0	0	2	16	.207	.258	.276	.534	45	8	0	0	4	0	0
+Fernando Tatis Jr.	20	1	84	372	334	61	106	13	6	22	53	16	6	30	110	.317	.379	.590	.969	152	197	4	5	0	3	1
+Luis Torrens	23	2	63	155	137	9	23	4	1	0	7	0	0	14	36	.168	.250	.212	.462	26	29	5	1	3	0	3
+Luis Urias	22	2	83	302	263	32	58	9	1	6	29	1	1	28	66	.221	.318	.331	.649	75	87	8	10	0	1	0
+Adam Warren	31	8	72	7	6	0	0	0	0	0	0	0	0	0	4	.000	.000	.000	.000	-100	0	0	0	1	0	0
+Brad Wieck*	27	2	47	2	2	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Trey Wingenter	25	2	69	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Matt Wisler	26	5	103	102	86	2	11	0	0	0	3	0	0	3	31	.128	.156	.128	.283	-21	11	2	0	12	1	0
+Eric Yardley	28	1	10	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Kirby Yates*	32	6	182	2	2	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - Disclaimer & Completeness Note 
+* Many Detailed Statistics are based on play-by-play accounts accumulated by RetroSheet. These totals may be incomplete (3.6% of all plays from 1925 to 1973 are missing or have incomplete accounts, click link for year and team summary of data completeness) for some players prior to 1974 and even complete seasons may not match the official totals due to errors in both the official totals and the play-by-play accounts. Pre-1954 seasons have a substantial numbers of games missing play-by-play accounts and should be viewed as essentially incomplete.
+More 2019 Padres Pages
+2019 San Diego Padres
+
+Stats
+
+Schedule & Results
+
+40-Man Roster
+
+Uniforms
+
+Contracts
+
+Batting
+
+Pitching
+
+Fielding
+
+Scoring
+
+Batting
+
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Other
+
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+Support us without the ads? Go Ad-Free.
+
+Login Create Account Surf AD-FREE
+You are here: BR Home Page > Teams > Franchise Encyclopedia > 2019 Batting Statistics
+Full Site Menu 
+Return to Top
+MLB Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+MLB Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers, San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Indians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2019, 2018, 2019 MLB Pitching, 2019 MLB Batting, 2019 MLB Standings, 2019 MLB Attendance, 2019 MLB Rookies, ...
+MLB Leaders
+2019 MLB Batting, 2019 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in MLB history, MLB Probable Pitchers, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+MLB Playoffs
+2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Play Index
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Event Finder, Player Comparison Finder, Neutralized Stats, ...
+Team Finders: Season Finder, Split Finder, Game Finder, Streak Finder, Event Finder, ...
+Other Finders: Draft Finder, Game Score & Result Searches, Team Trade Histories, ...
+Managers
+Active: Terry Francona, Clint Hurdle, A.J. Hinch, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+MLB Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2019 HOF results, 2020 Hall of Fame ballot, ...
+MLB All-Star Games
+2020 All-Star Game, 2019 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities and More
+Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2019 Draft, 2018 Draft, 2017 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Negro Leagues
+Minor League Stats, Negro League Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2019 Minor Leagues, 2019 Affiliates, ...
+Baseball-Reference Bullpen
+85,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, ...
+We're Social...for Statheads
+       
+Every Sports Reference Social Media Account
+
+Site Last Updated: Tuesday, January 21, 6:39AM
+
+Question, Comment, Feedback, or Correction?
+
+Are you a Stathead, too? Subscribe to our Newsletter
+
+This Week in Sports Reference
+Find out when we add a feature or make a change
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Go ad-free to support Sports Reference and get our fastest browsing experience
+Subscribe to the Play Index and get access to more data than you can imagine
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Primary Data Provided ByGracenote Sports
+Copyright © 2000-2020 Sports Reference LLC. All rights reserved.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+BaseballInfoSolutions.com logo
+
+Some defensive statistics Copyright © Baseball Info Solutions, 2010-2020.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+ Sports Reference Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead Widgets
+About • Privacy Statement • Conditions & Terms of Service • Advertise With Us • Use of Data

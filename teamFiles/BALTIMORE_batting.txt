@@ -1,0 +1,871 @@
+ Sports ReferenceBaseballFootball (college)Basketball (college)HockeySoccerBlogStatheadWidgetsQuestions or Comments?LoginCreate Account
+Baseball-Reference.com Logo & Link to home page
+Players
+Teams
+Seasons
+Leaders
+MLB Scores1
+MLB Playoffs
+Play Index
+Full Site Menu Below
+
+ 
+2019 Baltimore Orioles Logo
+via Sports Logos.net
+About logos
+2019 Baltimore Orioles Batting Statistics
+2018 Season
+Record: 54-108, 5th place in AL_East (Schedule and Results)
+Pythagorean W-L: 60-102, 729 Runs, 981 Runs Allowed
+Manager: Brandon Hyde (54-108)
+General Manager: Mike Elias (Executive VP & GM)
+Scouting Director: Koby Perez
+Ballpark: Oriole Park at Camden Yards
+Attendance: 1,307,807 (14th of 15)
+Park Factors: (Over 100 favors batters, under 100 favors pitchers.)
+    Multi-year: Batting - 99, Pitching - 102
+    One-year: Batting - 103, Pitching - 105
+Support us without the ads? Go Ad-Free.
+Read This: You Won't Want to Miss a Credit Card Payment
+Ad by Capital One
+See More
+College Students and Credit Cards
+Ad By Capital One
+See More
+2019 Baltimore Orioles
+Stats
+Schedule & Results
+40-Man Roster
+Uniforms
+Contracts
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Fielding
+Scoring
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+On this page:
+Team Batting Team Player Value--Batters Team Advanced Batting Team Batting Ratios* Team Win Probability* Team Baserunning/Misc* Team PH/HR/Situ Hitting* Team Pitches Batting* Team Neutralized Batting Team Cumulative Batting Full Site Menu
+Statheads want to know.
+
+Get scores, news and notes in your inbox every day. View a sample email. It's also available for football, basketball and hockey.
+
+Subscribe to our Stathead Newsletter
+
+Team Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+1	C	Pedro Severino	25	96	341	305	37	76	13	0	13	44	3	1	29	73	.249	.321	.420	.740	95	128	5	4	1	2	0
+2	1B	Chris Davis*	33	105	352	307	26	55	9	0	12	36	0	0	39	139	.179	.276	.326	.601	60	100	6	3	0	3	1
+3	2B	Jonathan Villar#	28	162	714	642	111	176	33	5	24	73	40	9	61	176	.274	.339	.453	.792	109	291	8	4	2	4	0
+4	SS	Richie Martin	24	120	309	283	29	59	8	3	6	23	10	1	14	83	.208	.260	.322	.581	54	91	6	6	5	1	0
+5	3B	Rio Ruiz*	25	127	413	370	35	86	13	2	12	46	0	1	40	88	.232	.306	.376	.682	81	139	12	0	1	2	0
+6	LF	Dwight Smith Jr.*	26	101	392	357	46	86	16	3	13	53	5	1	26	82	.241	.297	.412	.708	86	147	8	4	1	4	0
+7	CF	Stevie Wilkerson#	27	117	361	329	41	74	18	2	10	35	3	3	22	108	.225	.286	.383	.669	76	126	5	7	1	2	0
+8	RF	Trey Mancini	27	154	679	602	106	175	38	2	35	97	1	0	63	143	.291	.364	.535	.899	135	322	22	9	0	5	3
+9	DH	Renato Nunez	25	151	599	541	72	132	24	0	31	90	1	1	44	143	.244	.311	.460	.771	101	249	9	10	0	4	1
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+10	IF	Hanser Alberto	26	139	550	524	62	160	21	2	12	51	4	4	16	50	.305	.329	.422	.751	98	221	9	4	3	3	1
+11	OF	Anthony Santander#	24	93	405	380	46	99	20	1	20	59	1	2	19	86	.261	.297	.476	.773	101	181	1	2	1	3	0
+12	C	Chance Sisco*	24	59	198	167	29	35	7	0	8	20	0	1	22	61	.210	.333	.395	.729	94	66	5	9	0	0	0
+13	RF	DJ Stewart*	25	44	142	126	15	30	6	0	4	15	1	2	14	26	.238	.317	.381	.698	85	48	3	1	0	1	1
+14	OF	Joey Rickard	28	42	135	118	10	24	7	2	2	6	3	2	14	33	.203	.304	.347	.651	74	41	0	3	0	0	1
+15	CF	Keon Broxton	29	37	112	103	14	21	3	0	4	9	4	1	8	49	.204	.261	.350	.611	61	36	4	0	1	0	0
+16	UT	Jace Peterson*	29	29	108	100	14	22	3	1	2	11	4	1	6	24	.220	.269	.330	.599	59	33	1	1	0	1	0
+17	CF	Austin Hays	23	21	75	68	12	21	6	0	4	13	2	0	7	13	.309	.373	.574	.947	147	39	0	0	0	0	0
+18	CF	Cedric Mullins#	24	22	74	64	7	6	0	2	0	4	1	0	4	14	.094	.181	.156	.337	-8	10	2	3	2	1	0
+19	C	Austin Wynns	28	28	74	70	8	15	1	0	1	5	0	0	3	14	.214	.247	.271	.518	39	19	2	0	1	0	0
+20	C	Jesus Sucre	31	20	67	62	3	13	2	0	0	3	0	0	4	13	.210	.269	.242	.511	39	15	1	1	0	0	0
+21	OF	Mason Williams*	27	11	34	30	4	8	1	0	0	2	1	0	3	6	.267	.324	.300	.624	69	9	0	0	0	1	0
+22	DH	Mark Trumbo	33	12	31	29	1	5	3	0	0	3	0	0	2	5	.172	.226	.276	.502	33	8	2	0	0	0	0
+23	OF	Drew Jackson	25	3	4	3	0	0	0	0	0	0	0	0	1	1	.000	.250	.000	.250	-22	0	0	0	0	0	0
+24	3B	Jose Rondon	25	1	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+25	P	David Hess	25	2	4	3	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0
+26	P	Aaron Brooks	29	2	4	3	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0
+27	P	Andrew Cashner	32	1	3	3	1	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+28	P	John Means*	26	2	3	1	0	1	0	0	0	0	0	0	1	0	1.000	1.000	1.000	2.000	439	1	0	0	1	0	0
+29	P	Tom Eshelman	25	1	2	2	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+30	P	Dylan Bundy#	26	1	2	2	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	0	0	0	0	0
+31	P	Asher Wojciechowski	30	1	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+32	P	Gabriel Ynoa	26	4	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+33	P	Branden Kline	27	3	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+34	P	Richard Bleier*	32	6	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+35	P	Josh Lucas	28	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+36	P	Sean Gilmartin*	29	0	0																						
+37	P	Tanner Scott	24	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+38	P	Pedro Araujo	25	0	0																						
+39	P	Tayler Scott	27	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+40	P	Ryan Eades	27	0	0																						
+41	P	Jimmy Yacabonis	27	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+42	P	Matt Wotherspoon	27	0	0																						
+43	P	Dan Straily	30	0	0																						
+44	P	Dillon Tate	25	2	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+45	P	Yefry Ramirez	25	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+46	P	Paul Fry*	26	2	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+47	P	Ty Blach	28	0	0																						
+48	P	Chandler Shepherd	26	0	0																						
+49	P	Alex Cobb	31	0	0																						
+50	P	Josh Rogers*	24	0	0																						
+51	P	Mychal Givens	29	3	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+52	P	Hunter Harvey	24	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+53	P	Shawn Armstrong	28	4	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+54	P	Nate Karns	31	0	0																						
+55	P	Evan Phillips	24	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+56	P	Miguel Castro	24	5	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+57	P	Mike Wright	29	0	0																						
+58	P	Luis Ortiz	23	0	0																						
+Team Totals	26.5	162	6189	5596	729	1379	252	25	213	698	84	30	462	1435	.246	.310	.415	.725	91	2320	111	71	22	37	8
+Rank in 15 AL teams				5	11	8	15	7	12		6	9	12	8	12	12	12	13		12		4		9	
+Non-Pitcher Totals	26.6	162	6170	5581	728	1378	252	25	213	698	84	30	461	1430	.247	.311	.416	.726	91	2319	111	71	19	37	8
+Pitcher Totals	23.4	162	19	15	1	1	0	0	0	0	0	0	1	5	.067	.125	.067	.192	-46	1	0	0	3	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - bats left-handed, # - bats both, else - bats right, ? - unknown; OPS_lg for OPS+ does not include pitchers.
+Team Player Value--Batters 
+League RegisterWAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+Hanser Alberto	26	139	550	5	0	-1	3	3	11	1.3	20	31	3.1	.508	.507	2.7	0.8	28	$578,000	Waivers	45/7D19
+Pedro Araujo	25	0		0	0	0	0												$557,000	Rule 5 Draft	/1
+Shawn Armstrong	28	4	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Waivers	1
+Ty Blach	28	0		0	0	0	0													Waivers	/1
+Richard Bleier*	32	6	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$572,500	Traded	1
+Aaron Brooks	29	2	4	-1	0	0	0	1	-1	-0.1	0	-1	-0.1	.475	.500	-0.1	0.0	-1		Waivers	1
+Keon Broxton	29	37	112	-7	0	0	2	1	-4	-0.3	4	0	0.0	.490	.498	-0.2	0.3	-2		Traded	8
+Dylan Bundy#	26	1	2	-1	0	0	0	0	0	0.0	0	0	0.0	.474	.500	0.0	0.0	0	$2,800,000	Amateur Draft	1
+Andrew Cashner	32	1	3	-1	0	0	0	0	0	0.0	0	0	0.0	.475	.500	0.0	0.0	0	$9,500,000	Free Agency	1
+Miguel Castro	24	5	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$569,000	Traded	1
+Alex Cobb	31	0		0	0	0	0												$14,000,000	Free Agency	/1
+Chris Davis*	33	105	352	-19	1	-1	0	-5	-23	-2.2	13	-11	-1.0	.478	.486	-1.0	-0.4	-10	$23,000,000	Free Agency	3/D19
+Ryan Eades	27	0		0	0	0	0													Waivers	/1
+Tom Eshelman	25	1	2	-1	0	0	0	0	0	0.0	0	0	0.0	.474	.500	0.0	0.0	0		Traded	1
+Paul Fry*	26	2	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$559,000	Traded	1
+Sean Gilmartin*	29	0		0	0	0	0													Free Agency	/1
+Mychal Givens	29	3	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$2,150,000	Amateur Draft	1
+Hunter Harvey	24	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Draft	/1
+Austin Hays	23	21	75	5	0	0	-1	0	4	0.4	3	7	0.7	.519	.503	0.8	0.0	8		Amateur Draft	8
+David Hess	25	2	4	-1	0	0	0	1	-1	-0.1	0	-1	-0.1	.475	.500	-0.1	0.0	-1	$563,500	Amateur Draft	1
+Drew Jackson	25	3	4	-1	0	0	0	0	0	0.0	0	0	0.0	.488	.500	0.0	0.0	0	$555,000	Traded	/87
+Nate Karns	31	0		0	0	0	0												$800,000	Free Agency	/1
+Branden Kline	27	3	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Draft	1
+Josh Lucas	28	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Free Agency	/1
+Trey Mancini	27	154	679	31	-1	-3	-9	-8	9	1.1	23	33	3.3	.506	.505	4.1	-1.5	42	$575,500	Amateur Draft	93D/7
+Richie Martin	24	120	309	-19	1	2	-7	5	-18	-1.7	11	-7	-0.6	.485	.489	0.0	-0.1	0	$555,000	Rule 5 Draft	*6/D
+John Means*	26	2	3	1	0	0	0	0	2	0.1	0	2	0.1	.570	.501	0.1	0.0	2	$555,500	Amateur Draft	1
+Cedric Mullins#	24	22	74	-10	0	0	-1	0	-10	-1.0	3	-7	-0.7	.455	.494	-0.6	0.0	-6	$557,500	Amateur Draft	8
+Renato Nunez	25	151	599	0	1	0	0	-11	-11	-0.9	21	10	1.1	.493	.493	1.0	-0.9	10	$562,000	Waivers	*D3/57
+Luis Ortiz	23	0		0	0	0	0													Traded	/1
+Jace Peterson*	29	29	108	-7	1	0	0	0	-6	-0.6	4	-2	-0.2	.479	.496	-0.2	0.0	-2		Free Agency	7/549
+Evan Phillips	24	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Traded	1
+Yefry Ramirez	25	0	0	0	0	0	0	0	0		0	0						0		Purchased	/1
+Joey Rickard	28	42	135	-2	0	0	2	-1	-1	-0.1	5	4	0.4	.497	.499	0.2	0.2	2	$570,000	Rule 5 Draft	98/7D
+Josh Rogers*	24	0		0	0	0	0													Traded	/1
+Jose Rondon	25	1	1	0	0	0	0	0	0	0.0	0	0	0.0	.471	.500	0.0	0.0	0		Waivers	/5
+Rio Ruiz*	25	127	413	-11	-2	-1	2	1	-10	-0.9	15	5	0.5	.492	.494	0.3	0.5	3	$558,500	Waivers	*53/D4
+Anthony Santander#	24	93	405	1	-1	3	-1	-3	-2	0.0	14	12	1.3	.498	.499	1.3	-0.3	13		Rule 5 Draft	978/D
+Tanner Scott	24	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Draft	1
+Tayler Scott	27	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Waivers	/1
+Pedro Severino	25	96	341	-3	-1	1	-3	5	-1	0.0	12	11	1.2	.499	.499	1.4	0.3	14	$563,500	Waivers	2/D
+Chandler Shepherd	26	0		0	0	0	0													Waivers	/1
+Chance Sisco*	24	59	198	-2	-1	-1	-6	3	-7	-0.6	7	0	0.1	.489	.496	0.7	-0.2	6		Amateur Draft	2/D3
+Dwight Smith Jr.*	26	101	392	-6	-2	-1	-12	-4	-24	-2.2	14	-10	-0.9	.477	.486	0.2	-1.4	2	$560,100	Traded	7/D
+DJ Stewart*	25	44	142	-3	-1	0	-4	-2	-10	-0.9	5	-5	-0.4	.478	.494	-0.1	-0.5	-1		Amateur Draft	97/D
+Dan Straily	30	0		0	0	0	0												$575,000	Free Agency	1
+Jesus Sucre	31	20	67	-4	-1	0	1	1	-3	-0.3	2	0	0.0	.487	.498	-0.1	0.2	-1	$850,000	Free Agency	2/3D1
+Dillon Tate	25	2	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Traded	1
+Mark Trumbo	33	12	31	-3	0	0	0	-1	-4	-0.4	1	-3	-0.3	.467	.498	-0.3	-0.1	-3	$13,500,000	Free Agency	/D
+Jonathan Villar#	28	162	714	7	7	3	-10	8	15	1.6	25	39	4.0	.509	.509	4.8	0.0	49	$4,825,000	Traded	*46/D
+Stevie Wilkerson#	27	117	361	-14	0	1	-9	0	-22	-2.0	13	-9	-0.8	.482	.487	0.0	-0.7	0		Amateur Draft	8749/1D
+Mason Williams*	27	11	34	-2	0	0	-1	0	-2	-0.2	1	-1	-0.1	.481	.499	0.0	-0.1	0		Free Agency	/87D9
+Asher Wojciechowski	30	1	1	0	0	0	0	0	0	0.0	0	0	0.0	.487	.500	0.0	0.0	0		Purchased	1
+Matt Wotherspoon	27	0		0	0	0	0													Traded	/1
+Mike Wright	29	0		0	0	0	0												$567,500	Amateur Draft	1
+Austin Wynns	28	28	74	-4	1	0	1	1	-1	-0.1	3	1	0.2	.496	.499	0.0	0.3	0	$558,000	Amateur Draft	2/D
+Jimmy Yacabonis	27	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$559,000	Amateur Draft	1
+Gabriel Ynoa	26	4	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Purchased	1
+Team Total	26.5	1739	6189	-70	2	4	-53	-4	-122	-9.8	219	98	10.8	.493	.497	14.8	-3.8	151	$82,696,100		
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+Your Card’s Rental Coverage
+Ad by Capital One
+See More
+Team Advanced Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Hanser Alberto	26	550	383	70	4.9	106	.318	.305	.253	.329	.322	.422	.438	.751	.760	98	.489	-2.3	-0.2	.650	.147	.116	6.0	45/7D19
+Shawn Armstrong	28	0	0														.000	0.0	0.0					1
+Richard Bleier*	32	0	0														.000	0.0	0.0					1
+Aaron Brooks	29	4	4	0	0.0	106	.000	.000	.253	.000	.322	.000	.438	.000	.760	-100	.000	-0.9	-0.1	.000	.000	.000		1
+Keon Broxton	29	112	88	9	2.7	106	.340	.204	.253	.261	.322	.350	.438	.611	.760	61	.248	-6.2	-0.6	.552	.252	.146	4.0	8
+Dylan Bundy#	26	2	2	0	0.0	106		.000	.253	.000	.322	.000	.438	.000	.760	-100	.000	-0.6	-0.1	.000	.000	.000		1
+Andrew Cashner	32	3	3	0	0.0	106	.000	.000	.253	.000	.322	.000	.438	.000	.760	-100	.000	-0.9	-0.1	.000	.000	.000		1
+Miguel Castro	24	0	0														.000	0.0	0.0					1
+Chris Davis*	33	352	261	29	3.0	106	.270	.179	.253	.276	.322	.326	.438	.601	.760	60	.278	-18.0	-1.7	.550	.274	.147	.0	3/D19
+Tom Eshelman	25	2	2	0	0.0	106	.000	.000	.253	.000	.322	.000	.438	.000	.760	-100	.000	-0.6	-0.1	.000	.000	.000		1
+Paul Fry*	26	0	0														.000	0.0	0.0					1
+Mychal Givens	29	0	0														.000	0.0	0.0					1
+Hunter Harvey	24	0	0														.000	0.0	0.0					/1
+Austin Hays	23	75	47	16	9.1	106	.333	.309	.253	.373	.322	.574	.438	.947	.760	147	.749	4.7	0.4	1.021	.397	.265	2.7	8
+David Hess	25	4	4	0	0.0	106	.000	.000	.253	.000	.322	.000	.438	.000	.760	-100	.000	-0.9	-0.1	.000	.000	.000		1
+Drew Jackson	25	4	3	0	0.0	106	.000	.000	.253	.250	.322	.000	.438	.250	.760	-22	.000	-0.5	-0.1	.333	.333	.000		/87
+Branden Kline	27	0	0														.000	0.0	0.0					1
+Josh Lucas	28	0	0														.000	0.0	0.0					/1
+Trey Mancini	27	679	454	114	6.7	106	.326	.291	.253	.364	.322	.535	.438	.899	.760	135	.631	31.8	3.0	.880	.350	.244	1.9	93D/7
+Richie Martin	24	309	237	24	2.7	106	.272	.208	.253	.260	.322	.322	.438	.581	.760	54	.245	-19.6	-1.9	.524	.194	.113	7.5	*6/D
+John Means*	26	3	1	1	26.8	106	1.000	1.000	.253	1.000	.322	1.000	.438	2.000	.760	439	.955	0.8	0.1		1.000	.000		1
+Cedric Mullins#	24	74	63	2	0.9	106	.118	.094	.253	.181	.322	.156	.438	.337	.760	-8	.037	-10.4	-1.0	.300	.141	.063	.0	8
+Renato Nunez	25	599	423	78	4.9	106	.272	.244	.253	.311	.322	.460	.438	.771	.760	101	.493	0.6	0.1	.726	.298	.216	1.9	*D3/57
+Jace Peterson*	29	108	81	9	3.0	106	.267	.220	.253	.269	.322	.330	.438	.599	.760	59	.278	-6.2	-0.6	.550	.200	.110	2.7	7/549
+Evan Phillips	24	0	0														.000	0.0	0.0					1
+Joey Rickard	28	135	96	13	3.6	106	.265	.203	.253	.304	.322	.347	.438	.651	.760	74	.356	-4.4	-0.4	.635	.271	.144	2.4	98/7D
+Jose Rondon	25	1	1	0	0.0	106	.000	.000	.253	.000	.322	.000	.438	.000	.760	-100	.000	-0.3	0.0	.000	.000	.000		/5
+Rio Ruiz*	25	413	300	41	3.7	106	.272	.232	.253	.306	.322	.376	.438	.682	.760	81	.359	-10.6	-1.0	.603	.249	.143	.0	*53/D4
+Anthony Santander#	24	405	288	55	5.1	106	.285	.261	.253	.297	.322	.476	.438	.773	.760	101	.509	-0.4	0.0	.715	.263	.216	1.9	978/D
+Tanner Scott	24	0	0														.000	0.0	0.0					1
+Tayler Scott	27	0	0														.000	0.0	0.0					/1
+Pedro Severino	25	341	238	42	4.7	106	.285	.249	.253	.321	.322	.420	.438	.740	.760	95	.473	-2.0	-0.2	.698	.272	.170	4.9	2/D
+Chance Sisco*	24	198	138	22	4.3	106	.276	.210	.253	.333	.322	.395	.438	.729	.760	94	.427	-1.1	-0.1	.703	.311	.186	.0	2/D3
+Dwight Smith Jr.*	26	392	285	44	4.1	106	.274	.241	.253	.297	.322	.412	.438	.708	.760	86	.413	-7.6	-0.7	.650	.255	.171	7.2	7/D
+DJ Stewart*	25	142	102	15	3.9	106	.268	.238	.253	.317	.322	.381	.438	.698	.760	85	.391	-2.5	-0.2	.634	.246	.143	1.6	97/D
+Jesus Sucre	31	67	50	4	2.1	106	.265	.210	.253	.269	.322	.242	.438	.511	.760	39	.174	-5.5	-0.5	.400	.097	.032		2/3D1
+Dillon Tate	25	0	0														.000	0.0	0.0					1
+Mark Trumbo	33	31	26	1	1.0	106	.208	.172	.253	.226	.322	.276	.438	.502	.760	33	.052	-2.7	-0.3	.385	.172	.103		/D
+Jonathan Villar#	28	714	489	104	5.7	106	.341	.274	.253	.339	.322	.453	.438	.792	.760	109	.558	8.2	0.8	.820	.322	.179	30.0	*46/D
+Stevie Wilkerson#	27	361	266	36	3.6	106	.300	.225	.253	.286	.322	.383	.438	.669	.760	76	.356	-11.5	-1.1	.601	.225	.158	4.6	8749/1D
+Mason Williams*	27	34	23	4	4.7	106	.320	.267	.253	.324	.322	.300	.438	.624	.760	69	.466	-1.2	-0.1	.591	.167	.033	.0	/87D9
+Asher Wojciechowski	30	1	1	0	0.0	106		.000	.253	.000	.322	.000	.438	.000	.760	-100	.000	-0.3	0.0	.000	.000	.000		1
+Austin Wynns	28	74	58	4	1.9	106	.255	.214	.253	.247	.322	.271	.438	.518	.760	39	.139	-6.4	-0.6	.386	.100	.057	.0	2/D
+Jimmy Yacabonis	27	0	0														.000	0.0	0.0					1
+Gabriel Ynoa	26	0	0														.000	0.0	0.0					1
+League Average					5.0	106	.297	.252	.254	.322	.323	.437	.440	.759	.763	99	.495			.720	.288	.185		
+Team Total	26.5	6189	4417	737	4.5	106	.293	.246	.253	.310	.322	.415	.438	.725	.760	91	.447	-77.3	-7.4	.674	.260	.168	120.5	
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Team Batting Ratios* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+Hanser Alberto	26	550	2.2%	9.1%	2.9%	6.4%	22%	3.13	10.5	43.7	10.3	0.88	1.08	85%	23%	5.4%	9%
+Aaron Brooks	29	4	0.0%	25.0%	0.0%	0.0%			3.0					50%	0%		
+Keon Broxton	29	112	3.6%	43.8%	7.1%	6.3%	33%	6.13	2.1	25.8	11.4	0.92	1.71	45%	18%	17.4%	12%
+Dylan Bundy#	26	2	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Andrew Cashner	32	3	0.0%	0.0%	0.0%	0.0%								100%	0%		
+Chris Davis*	33	352	3.4%	39.5%	11.1%	6.0%	38%	3.56	2.2	25.6	8.5	0.64	0.98	45%	28%	11.9%	3%
+Tom Eshelman	25	2	0.0%	0.0%	0.0%	0.0%						0.00	0.00	100%	0%		100%
+Austin Hays	23	75	5.3%	17.3%	9.3%	13.3%	48%	1.86	5.2	17.0	5.2	0.69	0.70	68%	31%	12.5%	0%
+David Hess	25	4	0.0%	25.0%	0.0%	0.0%			3.0			1.00	2.00	50%	0%	0.0%	0%
+Drew Jackson	25	4	0.0%	25.0%	25.0%	0.0%		1.00	3.0					50%	0%		
+Trey Mancini	27	679	5.2%	21.1%	9.3%	11.1%	43%	2.27	4.2	17.2	6.2	0.86	1.44	63%	28%	15.2%	8%
+Richie Martin	24	309	1.9%	26.9%	4.5%	5.5%	29%	5.93	3.4	47.2	12.3	0.99	1.39	63%	22%	7.5%	18%
+John Means*	26	3	0.0%	0.0%	33.3%	0.0%	0%	0.00						33%	0%		
+Cedric Mullins#	24	74	0.0%	18.9%	5.4%	2.7%	33%	3.50	4.6		16.0	1.13	1.29	69%	9%	0.0%	38%
+Renato Nunez	25	599	5.2%	23.9%	7.4%	9.2%	42%	3.25	3.8	17.5	6.0	0.50	0.64	62%	26%	14.2%	19%
+Jace Peterson*	29	108	1.9%	22.2%	5.6%	5.6%	27%	4.00	4.2	50.0	9.1	0.79	0.90	69%	23%	4.9%	5%
+Joey Rickard	28	135	1.5%	24.4%	10.4%	8.2%	46%	2.36	3.6	59.0	19.7	0.67	0.69	61%	22%	4.5%	14%
+Jose Rondon	25	1	0.0%	0.0%	0.0%	0.0%						0.00	0.00	100%	0%		100%
+Rio Ruiz*	25	413	2.9%	21.3%	9.7%	6.5%	31%	2.20	4.2	30.8	8.0	0.80	1.16	66%	27%	8.9%	14%
+Anthony Santander#	24	405	4.9%	21.2%	4.7%	10.1%	41%	4.53	4.4	19.0	6.4	0.66	0.68	68%	23%	13.2%	15%
+Pedro Severino	25	341	3.8%	21.4%	8.5%	7.6%	34%	2.52	4.2	23.5	6.9	0.66	0.96	65%	27%	10.8%	14%
+Chance Sisco*	24	198	4.0%	30.8%	11.1%	7.6%	43%	2.77	2.7	20.9	8.4	0.64	1.05	49%	27%	13.3%	6%
+Dwight Smith Jr.*	26	392	3.3%	20.9%	6.6%	8.2%	37%	3.15	4.4	27.5	6.7	0.94	1.17	68%	23%	10.4%	13%
+DJ Stewart*	25	142	2.8%	18.3%	9.9%	7.0%	33%	1.86	4.8	31.5	8.4	0.90	1.28	68%	20%	10.0%	23%
+Jesus Sucre	31	67	0.0%	19.4%	6.0%	3.0%	15%	3.25	4.8		20.7	0.96	0.94	73%	27%	0.0%	12%
+Mark Trumbo	33	31	0.0%	16.1%	6.5%	9.7%	60%	2.50	5.8		9.7	1.00	1.63	77%	25%	0.0%	17%
+Jonathan Villar#	28	714	3.4%	24.7%	8.5%	8.7%	35%	2.89	3.6	26.8	8.8	0.98	1.31	62%	23%	11.9%	13%
+Stevie Wilkerson#	27	361	2.8%	29.9%	6.1%	8.3%	41%	4.91	3.0	32.9	9.4	0.84	1.34	59%	23%	9.3%	10%
+Mason Williams*	27	34	0.0%	17.7%	8.8%	2.9%	13%	2.00	5.0		15.0	0.47	0.55	74%	36%	0.0%	6%
+Asher Wojciechowski	30	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Austin Wynns	28	74	1.4%	18.9%	4.1%	2.7%	13%	4.67	5.0	70.0	14.0	1.29	1.22	74%	19%	4.8%	13%
+League Average			3.7%	23.0%	8.5%	8.7%	39%	2.70	3.9	24.1	7.4	0.74	1.00	63%	25%	11.0%	12%
+Team Total	26.5	6189	3.4%	23.2%	7.5%	7.9%	36%	3.11	3.9	26.3	8.0	0.80	1.07	64%	24%	10.5%	12%
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+Following these 4 tips can increase your chances of being approved for a credit card
+Ad by Capital One
+See More
+Team Win Probability* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Hanser Alberto	26	550	-2.3	-0.2	573	-1.1	8.1	-9.2	.91	-0.1	-1.2	-2.9	-0.3	0.89	-1.6	1.58	6
+Aaron Brooks	29	4	-0.9	-0.1	4	-0.1	0.0	-0.1	.92	-0.1	0.0	-0.9	-0.1	0.90	-1.1		0
+Keon Broxton	29	112	-6.2	-0.6	118	-1.0	1.3	-2.3	.92	-0.8	-0.2	-8.2	-0.8	0.98	-9.4		0
+Dylan Bundy#	26	2	-0.6	-0.1	2	0.0	0.0	0.0	.27	-0.1	0.0	-0.4	0.0	0.63	-0.6		0
+Andrew Cashner	32	3	-0.9	-0.1	3	-0.1	0.0	-0.1	1.24	-0.1	0.0	-1.0	-0.1	1.04	-1.0		0
+Chris Davis*	33	352	-18.0	-1.7	360	-0.6	5.4	-6.0	.94	-0.9	0.3	-12.1	-1.2	0.91	-14.3	1.72	10
+Tom Eshelman	25	2	-0.6	-0.1	2	-0.1	0.0	-0.1	1.35	-0.1	0.0	-0.6	-0.1	1.04	-0.6		0
+Austin Hays	23	75	4.7	0.4	80	0.6	1.8	-1.2	.98	0.7	0.0	7.7	0.7	0.91	7.4	0.21	4
+David Hess	25	4	-0.9	-0.1	4	-0.1	0.0	-0.1	1.15	-0.1	0.0	-1.2	-0.1	1.13	-1.1		0
+Drew Jackson	25	4	-0.5	-0.1	4	0.0	0.1	-0.1	1.13	0.0	0.0	-0.5	-0.1	0.83	-0.5	1.29	1
+Trey Mancini	27	679	31.8	3.0	692	1.8	13.2	-11.3	.93	3.4	-1.4	25.9	2.4	0.90	38.3	0.54	1
+Richie Martin	24	309	-19.6	-1.9	328	-1.3	4.0	-5.3	.87	-1.4	-0.1	-23.3	-2.2	0.93	-20.9	0.79	2
+John Means*	26	3	0.8	0.1	3	0.0	0.0	0.0	.72	0.0	0.0	0.3	0.0	0.84	0.5		0
+Cedric Mullins#	24	74	-10.4	-1.0	76	-1.0	0.6	-1.6	.89	-0.9	-0.2	-10.1	-1.0	0.92	-10.5	1.03	2
+Renato Nunez	25	599	0.6	0.1	613	-1.4	9.6	-11.0	.96	-0.6	-0.8	2.1	0.2	0.95	-0.7	1.41	10
+Jace Peterson*	29	108	-6.2	-0.6	115	-0.2	1.7	-2.0	.97	-0.6	0.4	-3.2	-0.3	0.90	-6.9	1.33	5
+Joey Rickard	28	135	-4.4	-0.4	140	-0.3	2.0	-2.3	.93	-0.1	-0.2	-3.9	-0.4	0.85	-2.9	1.92	3
+Jose Rondon	25	1	-0.3	0.0	1	0.0	0.0	0.0	.38	0.0	0.0	-0.5	0.0	1.72	-0.3	0.38	1
+Rio Ruiz*	25	413	-10.6	-1.0	426	1.4	7.8	-6.5	.89	-0.5	2.0	0.1	0.0	0.89	-3.5	1.52	21
+Anthony Santander#	24	405	-0.4	0.0	415	-0.5	6.8	-7.2	.98	0.1	-0.6	-0.8	-0.1	0.92	-1.1	2.36	0
+Pedro Severino	25	341	-2.0	-0.2	345	-0.9	5.6	-6.5	1.05	-0.3	-0.5	-2.5	-0.2	0.95	-1.6	3.86	6
+Chance Sisco*	24	198	-1.1	-0.1	199	-0.8	2.4	-3.3	.92	-0.4	-0.5	-0.6	-0.1	0.93	-1.8	1.85	4
+Dwight Smith Jr.*	26	392	-7.6	-0.7	401	-1.5	5.7	-7.3	.94	-1.2	-0.5	-4.6	-0.4	0.92	-12.4	2.09	10
+DJ Stewart*	25	142	-2.5	-0.2	146	-0.5	2.0	-2.5	.92	-0.5	-0.1	-3.9	-0.4	0.92	-5.8	1.40	6
+Jesus Sucre	31	67	-5.5	-0.5	67	-0.4	0.7	-1.1	.85	-0.4	-0.1	-4.3	-0.4	0.86	-5.2	2.77	2
+Mark Trumbo	33	31	-2.7	-0.3	31	-0.3	0.6	-0.9	1.26	-0.2	0.0	-2.4	-0.2	0.92	-3.0	2.15	4
+Jonathan Villar#	28	714	8.2	0.8	786	0.2	13.4	-13.1	1.00	0.9	-0.6	1.2	0.1	0.94	9.4	1.91	1
+Stevie Wilkerson#	27	361	-11.5	-1.1	372	-2.2	4.7	-6.9	.96	-1.7	-0.6	-20.0	-1.9	0.93	-21.1	1.26	11
+Mason Williams*	27	34	-1.2	-0.1	35	-0.3	0.3	-0.7	1.13	-0.2	-0.1	-2.6	-0.3	0.85	-1.5	1.96	1
+Asher Wojciechowski	30	1	-0.3	0.0	1	0.0	0.0	0.0	.37	0.0	0.0	-0.2	0.0	0.62	-0.3		0
+Austin Wynns	28	74	-6.4	-0.6	76	-0.4	0.8	-1.2	.84	-0.2	-0.3	-3.7	-0.4	0.85	-3.1	1.15	2
+League Average									.95								
+Team Total	26.5	6189	-77.3	-7.4	6418	-11.1	98.6	-109.7	.95	-6.4	-5.3	-77.0	-7.4	0.92	-77.0	1.64	113
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Team Baserunning/Misc*
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Hanser Alberto
+Aaron Brooks
+Keon Broxton
+Dylan Bundy#
+Andrew Cashner
+Chris Davis*
+Tom Eshelman
+Austin Hays
+David Hess
+Drew Jackson
+Trey Mancini
+Richie Martin
+John Means*
+Cedric Mullins#
+Renato Nunez
+Jace Peterson*
+Joey Rickard
+Jose Rondon
+Rio Ruiz*
+Anthony Santander#
+Pedro Severino
+Chance Sisco*
+Dwight Smith Jr.*
+DJ Stewart*
+Jesus Sucre
+Mark Trumbo
+Jonathan Villar#
+Stevie Wilkerson#
+Mason Williams*
+Asher Wojciechowski
+Austin Wynns
+League Average
+Team Total
+Name
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Hanser Alberto	26	550	13	0	29%	255	4	4	50%	4	4	0	0	0	0	2	2	4	0	3	0	1	16	37%	30	20	10	10	6	4	17	10	7
+Aaron Brooks	29	4	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Keon Broxton	29	112	0	0	39%	26	4	1	80%	3	1	1	0	0	0	1	1	0	0	0	0	0	2	60%	4	2	2	0	0	0	1	0	1
+Dylan Bundy#	26	2	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Andrew Cashner	32	3	0	0		1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	1	1	0	0	0	0	0	0	0
+Chris Davis*	33	352	2	0	16%	93	0	0		0	0	0	0	0	0	0	0	1	0	1	0	0	9	13%	12	10	2	2	2	0	2	2	0
+Tom Eshelman	25	2	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Austin Hays	23	75	1	0	33%	33	2	0	100%	2	0	0	0	0	0	0	0	2	0	0	2	0	3	43%	3	3	0	1	0	1	3	1	2
+David Hess	25	4	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Drew Jackson	25	4	0	0	0%	3	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	1	1	0	0	0	0	0	0	0
+Trey Mancini	27	679	5	0	34%	268	1	0	100%	1	0	0	0	0	0	0	0	7	0	2	3	2	18	33%	39	31	7	11	6	4	17	6	11
+Richie Martin	24	309	4	0	29%	102	10	1	91%	9	1	1	0	0	0	1	1	5	1	2	1	1	8	29%	11	11	0	4	3	1	9	2	6
+John Means*	26	3	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	1	0	0	0	1	0	0%	0	0	0	1	1	0	0	0	0
+Cedric Mullins#	24	74	1	0	54%	24	1	0	100%	1	0	0	0	0	0	0	0	0	0	0	0	0	1	60%	2	1	1	1	0	1	2	1	1
+Renato Nunez	25	599	3	0	27%	148	1	1	50%	1	1	0	0	0	0	1	0	7	0	4	1	2	18	46%	22	13	9	3	1	2	14	7	7
+Jace Peterson*	29	108	0	0	44%	34	4	1	80%	4	0	0	0	0	1	0	0	1	0	1	0	0	3	36%	6	6	0	1	0	1	4	1	3
+Joey Rickard	28	135	4	0	20%	57	3	2	60%	3	1	0	1	0	0	0	0	0	0	0	0	0	2	40%	7	4	3	2	1	1	1	1	0
+Jose Rondon	25	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Rio Ruiz*	25	413	2	0	20%	154	0	1	0%	0	1	0	0	0	0	2	0	5	0	1	1	3	16	42%	16	11	5	5	2	1	10	2	7
+Anthony Santander#	24	405	5	0	26%	134	1	2	33%	1	2	0	0	0	0	1	1	4	1	0	2	1	11	25%	14	11	2	4	2	2	6	4	2
+Pedro Severino	25	341	1	0	25%	119	3	1	75%	2	1	1	0	0	0	0	0	3	2	0	0	1	4	31%	13	10	3	4	4	0	9	3	5
+Chance Sisco*	24	198	0	0	36%	67	0	1	0%	0	1	0	0	0	0	0	0	0	0	0	0	0	4	32%	15	11	4	3	3	0	7	2	4
+Dwight Smith Jr.*	26	392	6	0	32%	124	5	1	83%	3	1	2	0	0	0	3	1	6	0	2	2	2	4	44%	16	11	5	2	1	1	9	3	6
+DJ Stewart*	25	142	1	0	25%	55	1	2	33%	1	2	0	0	0	0	1	1	2	0	0	2	0	2	44%	7	4	3	0	0	0	2	1	1
+Jesus Sucre	31	67	2	0	17%	25	0	0		0	0	0	0	0	0	0	0	1	1	0	0	0	0	0%	6	6	0	0	0	0	0	0	0
+Mark Trumbo	33	31	0	0	14%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	100%	0	0	0	0	0	0	1	0	1
+Jonathan Villar#	28	714	4	1	40%	261	40	9	82%	33	5	6	4	1	0	6	3	6	1	1	4	0	24	61%	30	13	15	13	5	8	16	2	13
+Stevie Wilkerson#	27	361	0	0	32%	126	3	3	50%	3	3	0	0	0	0	0	0	3	0	0	2	1	7	46%	16	10	6	3	1	2	14	6	7
+Mason Williams*	27	34	0	0	31%	18	1	0	100%	1	0	0	0	0	0	0	0	0	0	0	0	0	0	100%	1	0	1	1	0	1	1	0	1
+Asher Wojciechowski	30	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Austin Wynns	28	74	3	0	39%	19	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	100%	3	0	3	1	0	1	0	0	0
+League Average					31%				72%															40%									
+Team Total	26.5	6189	57	1	30%	2149	84	30	74%	72	24	11	5	1	1	18	10	58	6	17	20	15	154	40%	275	190	81	72	38	31	145	54	85
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Support us without the ads? Go Ad-Free.
+Team PH/HR/Situ Hitting*
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+|
+Name
+Hanser Alberto
+Aaron Brooks
+Keon Broxton
+Dylan Bundy#
+Andrew Cashner
+Chris Davis*
+Tom Eshelman
+Austin Hays
+David Hess
+Drew Jackson
+Trey Mancini
+Richie Martin
+John Means*
+Cedric Mullins#
+Renato Nunez
+Jace Peterson*
+Joey Rickard
+Jose Rondon
+Rio Ruiz*
+Anthony Santander#
+Pedro Severino
+Chance Sisco*
+Dwight Smith Jr.*
+DJ Stewart*
+Jesus Sucre
+Mark Trumbo
+Jonathan Villar#
+Stevie Wilkerson#
+Mason Williams*
+Asher Wojciechowski
+Austin Wynns
+League Average
+Team Total
+Name
+Hits	Pinch Hitting	Home Runs	SH	GIDP	PrdOut	BaseRunners	Advances	
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Hanser Alberto	26	550	41.3%	160	27	9	6	4	0	0	1.58	12	0	4	7	5	9	3	0	8	3	37.5%	74	9	12.2%	42	8	19.1%	265	40	15.1%	19	11	57.9%	17	3	17.7%	0
+Aaron Brooks	29	4	100.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	1	1	100.0%	2	0	0.0%	2	0	0.0%	3	0	0.0%	0	0		0	0		0
+Keon Broxton	29	112	54.5%	21	4	1	0	0	0	0		4	0	2	1	3	2	2	0	4	1	25.0%	31	4	12.9%	14	3	21.4%	70	5	7.1%	5	1	20.0%	6	2	33.3%	0
+Dylan Bundy#	26	2	100.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Andrew Cashner	32	3	66.7%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	1	0	0.0%	1	0	0.0%	1	0	0.0%	2	0	0.0%	0	0		0	0		0
+Chris Davis*	33	352	80.4%	55	3	0	10	0	0	1	1.72	12	0	8	10	2	5	7	0	0	0		57	6	10.5%	23	6	26.1%	205	26	12.7%	16	8	50.0%	10	6	60.0%	0
+Tom Eshelman	25	2	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		2	0	0.0%	0	0		0	0		0
+Austin Hays	23	75	36.0%	21	3	1	4	0	0	0	0.21	4	0	2	4	0	2	2	0	0	0		10	0	0.0%	4	1	25.0%	35	9	25.7%	2	2	100.0%	1	0	0.0%	0
+David Hess	25	4	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	1	1	100.0%	2	0	0.0%	2	0	0.0%	3	0	0.0%	0	0		0	0		0
+Drew Jackson	25	4	100.0%	0	0	0	1	0	0	0	1.29	0	0	0	0	0	0	0	0	0	0		1	0	0.0%	0	0		2	0	0.0%	0	0		0	0		0
+Trey Mancini	27	679	32.3%	175	13	0	1	0	0	0	0.54	35	0	10	23	12	18	17	0	0	0		130	22	16.9%	68	11	16.2%	388	63	16.2%	32	15	46.9%	27	11	40.7%	0
+Richie Martin	24	309	52.8%	59	17	5	2	1	0	0	0.79	6	0	11	3	3	3	3	0	8	5	62.5%	61	6	9.8%	33	13	39.4%	184	17	9.2%	18	8	44.4%	12	9	75.0%	0
+John Means*	26	3	100.0%	1	1	0	0	0	0	0		0	0	0	0	0	0	0	0	1	1	100.0%	1	0	0.0%	1	1	100.0%	2	0	0.0%	0	0		1	1	100.0%	0
+Cedric Mullins#	24	74	100.0%	6	0	0	2	0	0	0	1.03	0	0	1	0	0	0	0	0	2	2	100.0%	13	2	15.4%	10	6	60.0%	41	4	9.8%	4	2	50.0%	3	2	66.7%	0
+Renato Nunez	25	599	36.9%	132	6	0	10	1	1	1	1.41	31	0	10	18	13	16	15	0	0	0		112	9	8.0%	39	12	30.8%	380	61	16.1%	30	19	63.3%	16	9	56.3%	0
+Jace Peterson*	29	108	75.9%	22	3	0	5	0	0	0	1.33	2	0	3	1	1	2	0	0	0	0		12	1	8.3%	4	1	25.0%	54	9	16.7%	3	1	33.3%	3	2	66.7%	0
+Joey Rickard	28	135	44.4%	24	4	0	3	0	0	0	1.92	2	0	2	1	1	1	1	0	0	0		17	0	0.0%	7	2	28.6%	63	5	7.9%	3	0	0.0%	3	0	0.0%	0
+Jose Rondon	25	1	100.0%	0	0	0	1	0	0	0	0.38	0	0	0	0	0	0	0	0	0	0		1	0	0.0%	0	0		2	0	0.0%	0	0		0	0		0
+Rio Ruiz*	25	413	82.1%	86	10	2	21	4	1	3	1.52	12	0	14	11	1	6	6	0	2	1	50.0%	66	12	18.2%	29	7	24.1%	216	37	17.1%	12	6	50.0%	7	3	42.9%	0
+Anthony Santander#	24	405	99.8%	99	11	0	0	0	0	0	2.36	20	0	9	11	9	10	10	0	1	1	100.0%	81	1	1.2%	40	16	40.0%	252	39	15.5%	22	9	40.9%	20	12	60.0%	0
+Pedro Severino	25	341	45.5%	76	6	0	6	2	0	1	3.86	13	1	10	5	8	7	6	0	1	1	100.0%	65	5	7.7%	33	10	30.3%	218	32	14.7%	19	12	63.2%	21	9	42.9%	0
+Chance Sisco*	24	198	87.9%	35	3	0	4	0	0	0	1.85	8	0	5	8	0	3	5	0	0	0		35	5	14.3%	15	0	0.0%	117	12	10.3%	5	1	20.0%	5	0	0.0%	0
+Dwight Smith Jr.*	26	392	71.9%	86	12	1	10	3	0	1	2.09	13	1	7	10	3	7	6	0	1	1	100.0%	68	8	11.8%	35	9	25.7%	233	42	18.0%	22	12	54.6%	16	6	37.5%	0
+DJ Stewart*	25	142	68.3%	30	4	1	6	1	0	0	1.40	4	0	2	4	0	1	3	0	1	0	0.0%	25	3	12.0%	7	3	42.9%	89	11	12.4%	5	2	40.0%	7	5	71.4%	0
+Jesus Sucre	31	67	35.8%	13	1	0	2	1	0	0	2.77	0	0	1	0	0	0	0	0	0	0		13	1	7.7%	5	1	20.0%	34	4	11.8%	3	2	66.7%	1	0	0.0%	0
+Mark Trumbo	33	31	64.5%	5	0	0	4	1	0	1	2.15	0	0	0	0	0	0	0	0	0	0		5	2	40.0%	2	0	0.0%	17	3	17.7%	1	0	0.0%	1	0	0.0%	0
+Jonathan Villar#	28	714	99.7%	176	26	4	1	0	0	0	1.91	24	1	17	15	9	16	8	0	6	2	33.3%	110	8	7.3%	50	14	28.0%	370	50	13.5%	26	14	53.9%	16	8	50.0%	0
+Stevie Wilkerson#	27	361	100.0%	74	10	2	11	4	0	0	1.26	10	0	10	9	1	6	4	0	3	1	33.3%	71	5	7.0%	33	8	24.2%	213	25	11.7%	20	9	45.0%	13	5	38.5%	0
+Mason Williams*	27	34	70.6%	8	1	0	1	0	0	0	1.96	0	0	0	0	0	0	0	0	0	0		4	0	0.0%	6	4	66.7%	17	2	11.8%	2	2	100.0%	2	2	100.0%	0
+Asher Wojciechowski	30	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Austin Wynns	28	74	23.0%	15	1	0	2	0	0	0	1.15	1	0	1	1	0	0	1	0	2	1	50.0%	14	2	14.3%	7	1	14.3%	38	4	10.5%	3	2	66.7%	4	1	25.0%	0
+League Average			54.1%																			60.8%			10.1%			26.6%			14.8%			49.6%			51.5%	
+Team Total	26.5	6189	65.3%	1379	166	26	113	22	2	8	1.64	213	3	129	142	71	114	99	0	43	22	51.2%	1082	111	10.3%	512	137	26.8%	3515	500	14.2%	272	138	50.7%	212	96	45.3%	0
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Team Pitches Batting*
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Hanser Alberto
+Aaron Brooks
+Keon Broxton
+Dylan Bundy#
+Andrew Cashner
+Chris Davis*
+Tom Eshelman
+Austin Hays
+David Hess
+Drew Jackson
+Trey Mancini
+Richie Martin
+John Means*
+Cedric Mullins#
+Renato Nunez
+Jace Peterson*
+Joey Rickard
+Jose Rondon
+Rio Ruiz*
+Anthony Santander#
+Pedro Severino
+Chance Sisco*
+Dwight Smith Jr.*
+DJ Stewart*
+Jesus Sucre
+Mark Trumbo
+Jonathan Villar#
+Stevie Wilkerson#
+Mason Williams*
+Asher Wojciechowski
+Austin Wynns
+League Average
+Team Total
+Name
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Hanser Alberto	26	551	1766	3.21	1270	71.9%	18.0%	11.9%	32.4%	37.8%	82.0%	0.0%	59.0%	85.5%	39.4%	2.5%	14	0	9.1%	50	27	3.8%	21	10	8	42	16.0%	0	0	0
+Aaron Brooks	29	4	16	4.00	12	75.0%	16.7%	33.3%	25.0%	25.0%	83.3%	0.0%	62.5%	60.0%	50.0%	25.0%	1	0	25.0%	1	0	25.0%	1	1	0	1	0.0%	0	0	0
+Keon Broxton	29	114	477	4.18	308	64.6%	26.3%	31.2%	24.7%	17.9%	73.7%	0.0%	47.6%	57.7%	35.1%	1.8%	2	0	8.8%	10	6	8.8%	10	7	17	32	34.7%	0	0	0
+Dylan Bundy#	26	2	9	4.50	7	77.8%	42.9%	42.9%	14.3%	0.0%	57.1%	0.0%	44.4%	25.0%	50.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	1	50.0%	0	0	0
+Andrew Cashner	32	3	6	2.00	5	83.3%	20.0%	20.0%	0.0%	60.0%	80.0%	0.0%	66.7%	75.0%	33.3%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Chris Davis*	33	352	1526	4.34	921	60.4%	33.2%	25.4%	22.8%	18.6%	66.8%	0.0%	40.3%	62.0%	21.0%	6.3%	22	2	17.0%	60	19	11.1%	39	20	60	79	43.2%	0	0	0
+Tom Eshelman	25	2	6	3.00	4	66.7%	25.0%	25.0%	0.0%	50.0%	75.0%	0.0%	50.0%	66.7%	50.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Austin Hays	23	75	291	3.88	183	62.9%	25.7%	19.7%	24.6%	30.1%	74.3%	0.0%	46.7%	73.5%	28.0%	4.0%	3	0	16.0%	12	8	8.0%	6	3	4	9	30.8%	0	0	0
+David Hess	25	4	11	2.75	8	72.7%	37.5%	0.0%	25.0%	37.5%	62.5%	0.0%	45.5%	100.0%	50.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0	0.0%	0	0	0
+Drew Jackson	25	4	17	4.25	8	47.1%	12.5%	62.5%	0.0%	25.0%	87.5%	0.0%	41.2%	28.6%	25.0%	0.0%	0	0	25.0%	1	1	25.0%	1	1	0	1	0.0%	0	0	0
+Trey Mancini	27	680	2731	4.02	1736	63.6%	24.5%	20.3%	28.4%	26.7%	75.5%	0.0%	48.0%	73.1%	32.2%	4.9%	33	2	14.4%	98	31	10.0%	68	45	25	118	17.5%	0	0	0
+Richie Martin	24	310	1229	3.96	838	68.2%	21.1%	22.6%	31.7%	24.6%	78.9%	0.0%	53.8%	71.4%	33.2%	1.3%	4	0	5.8%	18	11	4.2%	13	10	10	73	12.0%	0	0	0
+John Means*	26	3	12	4.00	7	58.3%	28.6%	0.0%	42.9%	28.6%	71.4%	0.0%	41.7%	100.0%	66.7%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Cedric Mullins#	24	74	295	3.99	192	65.1%	26.0%	20.8%	25.5%	27.6%	74.0%	0.0%	48.1%	71.8%	31.1%	0.0%	0	0	8.1%	6	4	8.1%	6	4	2	12	14.3%	0	0	0
+Renato Nunez	25	599	2468	4.12	1605	65.0%	24.0%	20.8%	30.2%	25.0%	76.0%	0.0%	49.4%	72.6%	23.0%	3.8%	23	4	13.9%	83	47	7.2%	43	20	32	111	22.4%	0	0	0
+Jace Peterson*	29	108	444	4.11	281	63.3%	26.3%	22.4%	23.8%	27.4%	73.7%	0.0%	46.6%	69.6%	25.0%	0.9%	1	0	9.3%	10	4	9.3%	10	7	5	19	20.8%	0	0	0
+Joey Rickard	28	136	570	4.19	350	61.4%	24.6%	17.1%	34.0%	24.3%	75.4%	0.0%	46.3%	77.3%	25.7%	2.2%	3	0	11.8%	16	9	5.9%	8	4	6	27	18.2%	0	0	0
+Jose Rondon	25	1	5	5.00	4	80.0%	50.0%	0.0%	25.0%	25.0%	50.0%	0.0%	40.0%	100.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Rio Ruiz*	25	413	1594	3.86	991	62.2%	24.9%	18.3%	28.1%	28.8%	75.1%	0.0%	46.7%	75.7%	35.1%	4.4%	18	1	13.1%	54	21	9.7%	40	24	18	70	20.5%	0	0	0
+Anthony Santander#	24	406	1659	4.09	1121	67.6%	23.1%	16.2%	34.1%	26.6%	76.9%	0.0%	52.0%	78.9%	26.6%	3.0%	12	1	16.0%	65	32	7.9%	32	20	19	67	22.1%	0	0	0
+Pedro Severino	25	343	1400	4.08	860	61.4%	28.1%	17.9%	26.6%	27.3%	71.9%	0.0%	44.1%	75.1%	26.2%	5.2%	18	1	16.6%	57	26	9.6%	33	23	35	38	47.9%	0	0	0
+Chance Sisco*	24	198	853	4.31	508	59.6%	27.2%	21.5%	30.5%	20.9%	72.8%	0.0%	43.4%	70.5%	27.8%	2.0%	4	0	15.2%	30	18	10.1%	20	10	12	49	19.7%	0	0	0
+Dwight Smith Jr.*	26	393	1496	3.81	937	62.6%	27.1%	20.6%	22.4%	29.9%	72.9%	0.0%	45.7%	71.7%	30.0%	3.8%	15	1	14.2%	56	27	8.1%	32	15	17	65	20.7%	0	0	0
+DJ Stewart*	25	143	569	3.98	351	61.7%	22.8%	20.2%	28.2%	28.8%	77.2%	0.0%	47.6%	73.8%	35.0%	4.2%	6	2	14.0%	20	8	4.9%	7	5	12	14	46.2%	0	0	0
+Jesus Sucre	31	67	279	4.16	185	66.3%	31.9%	8.1%	33.5%	26.5%	68.1%	0.0%	45.2%	88.1%	11.9%	6.0%	4	0	13.4%	9	5	6.0%	4	3	4	9	30.8%	0	0	0
+Mark Trumbo	33	31	131	4.23	83	63.4%	19.3%	24.1%	27.7%	28.9%	80.7%	0.0%	51.1%	70.1%	22.6%	3.2%	1	1	35.5%	11	7	3.2%	1	1	1	4	20.0%	0	0	0
+Jonathan Villar#	28	715	2843	3.98	1811	63.7%	21.8%	21.5%	30.5%	26.1%	78.2%	0.0%	49.8%	72.5%	37.1%	2.8%	20	3	9.9%	71	33	7.8%	56	42	38	138	21.6%	0	0	0
+Stevie Wilkerson#	27	362	1478	4.08	984	66.6%	30.9%	18.9%	27.4%	22.8%	69.1%	0.0%	46.0%	72.6%	17.7%	4.7%	17	0	14.6%	53	18	9.4%	34	14	25	83	23.1%	0	0	0
+Mason Williams*	27	34	126	3.71	78	61.9%	21.8%	16.7%	29.5%	32.1%	78.2%	0.0%	48.4%	78.7%	35.3%	0.0%	0	0	11.8%	4	3	11.8%	4	3	1	5	16.7%	0	0	0
+Asher Wojciechowski	30	1	6	6.00	4	66.7%	75.0%	0.0%	25.0%	0.0%	25.0%	0.0%	16.7%	100.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	0	100.0%	0	0	0
+Austin Wynns	28	74	272	3.68	184	67.6%	30.4%	15.8%	22.8%	31.0%	69.6%	0.0%	47.1%	77.3%	20.3%	2.7%	2	0	9.5%	7	4	5.4%	4	3	2	12	14.3%	0	0	0
+League Average				3.96		63.3%	26.3%	18.9%	27.9%	26.9%	73.7%	0.0%	46.7%	74.4%	28.9%	4.3%			13.6%			8.8%					22.8%			
+Team Total	26.5	6202	24585	3.96	15836	64.4%	24.9%	19.7%	28.8%	26.7%	75.1%	0.0%	48.4%	73.8%	29.7%	3.6%	223	18	12.9%	802	369	7.9%	493	295	355	1079	24.7%	0	0	0
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Team Neutralized Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Hanser Alberto	26	139	545	519	59	155	20	2	12	48	4	4	16	50	.299	.323	.414	.737	68	139
+Ty Blach	28	2	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	2
+Aaron Brooks	29	2	4	3	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	2
+Keon Broxton	29	100	226	203	23	33	4	0	6	15	10	6	19	104	.163	.236	.271	.506	13	100
+Dylan Bundy#	26	1	2	2	0	0	0	0	0	0	0		0	2	.000	.000	.000	.000	0	1
+Andrew Cashner	32	3	3	3	1	0	0	0	0	0	0		0	0	.000	.000	.000	.000	0	3
+Chris Davis*	33	105	347	304	24	52	9	0	11	33	0	0	37	139	.171	.265	.309	.574	25	105
+Tom Eshelman	25	1	2	2	0	0	0	0	0	0	0		0	0	.000	.000	.000	.000	0	1
+Austin Hays	23	21	75	68	12	21	6	0	4	12	2	0	7	13	.309	.373	.574	.947	14	21
+David Hess	25	2	4	3	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	2
+Drew Jackson	25	3	4	3	0	0	0	0	0	0	0		1	1	.000	.250	.000	.250	0	3
+Trey Mancini	27	154	669	595	99	168	36	2	34	91	1	0	60	143	.282	.354	.521	.875	108	154
+Richie Martin	24	120	307	281	27	57	8	3	6	22	10	1	14	83	.203	.255	.317	.572	21	120
+John Means*	26	2	3	1	0	1	0	0	0	0	0	0	1	0	1.000	1.000	1.000	2.000	1	2
+Cedric Mullins#	24	22	71	63	5	5	0	2	0	3	1	0	3	14	.079	.145	.143	.288	1	22
+Renato Nunez	25	151	592	536	67	127	23	0	30	84	1	1	42	143	.237	.302	.448	.750	70	151
+Jace Peterson*	29	29	107	99	13	21	3	1	2	10	4	1	6	24	.212	.262	.323	.585	8	29
+Yefry Ramirez	25	9	2	2	0	0	0	0	0	0	0		0	0	.000	.000	.000	.000	0	9
+Joey Rickard	28	68	188	167	13	37	9	2	3	9	4	2	18	50	.222	.309	.353	.662	17	68
+Jose Rondon	25	56	157	143	10	28	3	0	3	9	0	0	11	38	.196	.263	.280	.543	10	56
+Rio Ruiz*	25	127	409	367	33	83	13	2	12	43	0	1	39	88	.226	.299	.371	.670	40	127
+Anthony Santander#	24	93	400	376	43	95	19	1	19	55	1	2	18	86	.253	.288	.460	.748	50	93
+Pedro Severino	25	96	337	302	35	73	12	0	12	42	3	1	28	73	.242	.313	.401	.713	38	96
+Chance Sisco*	24	59	196	166	28	34	7	0	8	19	0	1	21	61	.205	.327	.392	.718	19	59
+Dwight Smith Jr.*	26	101	387	353	43	82	15	3	12	49	5	1	25	82	.232	.288	.394	.681	40	101
+DJ Stewart*	25	44	141	125	14	29	6	0	4	14	1	2	14	26	.232	.312	.376	.688	14	44
+Jesus Sucre	31	20	67	62	3	13	2	0	0	3	0	0	4	13	.210	.269	.242	.511	4	20
+Mark Trumbo	33	12	31	29	1	5	3	0	0	3	0	0	2	5	.172	.226	.276	.502	2	12
+Jonathan Villar#	28	162	704	635	104	169	32	5	23	68	38	9	59	176	.266	.330	.441	.771	92	162
+Stevie Wilkerson#	27	117	357	326	38	71	17	2	10	33	3	3	21	108	.218	.278	.374	.652	32	117
+Mason Williams*	27	11	34	30	4	8	1	0	0	2	1	0	3	6	.267	.324	.300	.624	3	11
+Asher Wojciechowski	30	1	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	1
+Austin Wynns	28	28	73	69	7	14	1	0	1	4	0	0	3	14	.203	.236	.261	.497	4	28
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Team Cumulative Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+Hanser Alberto	26	4	228	742	706	76	195	26	3	12	60	6	5	20	88	.276	.299	.373	.671	78	263	12	4	9	3	1
+Pedro Araujo	25	2	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Shawn Armstrong	28	5	8	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Ty Blach	28	4	91	92	78	6	13	2	0	1	7	0	0	6	37	.167	.224	.231	.454	23	18	2	0	7	1	0
+Richard Bleier*	32	4	15	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Aaron Brooks	29	4	3	6	5	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0
+Keon Broxton	29	5	376	1026	905	136	189	31	7	39	95	60	19	107	396	.209	.297	.388	.685	79	351	10	8	3	3	1
+Dylan Bundy#	26	5	5	10	10	1	1	0	0	0	0	0	0	0	6	.100	.100	.100	.200	-45	1	0	0	0	0	0
+Andrew Cashner	32	10	216	229	203	16	32	2	1	1	8	2	0	7	84	.158	.185	.192	.377	7	39	0	0	18	1	0
+Miguel Castro	24	5	32	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Alex Cobb	31	8	10	25	23	0	2	1	0	0	1	0	0	0	8	.087	.125	.130	.255	-28	3	1	1	1	0	0
+Chris Davis*	33	12	1401	5575	4926	704	1154	225	5	295	779	19	11	552	1835	.234	.316	.462	.778	108	2274	62	58	1	38	50
+Ryan Eades	27	1	0	0	0																					
+Tom Eshelman	25	1	1	2	2	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Paul Fry*	26	2	3	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Sean Gilmartin*	29	5	64	7	7	2	3	1	0	0	1	0	0	0	3	.429	.429	.571	1.000	174	4	0	0	0	0	0
+Mychal Givens	29	5	18	2	2	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Hunter Harvey	24	1	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Austin Hays	23	2	41	138	128	16	34	9	0	5	21	2	0	9	29	.266	.312	.453	.765	102	58	2	0	0	1	0
+David Hess	25	2	5	7	5	2	0	0	0	0	0	0	0	1	1	.000	.167	.000	.167	-48	0	0	0	1	0	0
+Drew Jackson	25	1	3	4	3	0	0	0	0	0	0	0	0	1	1	.000	.250	.000	.250	-22	0	0	0	0	0	0
+Nate Karns	31	6	7	11	8	1	1	0	0	1	1	0	0	0	4	.125	.125	.500	.625	62	4	1	0	3	0	0
+Branden Kline	27	1	3	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Josh Lucas	28	3	7	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Trey Mancini	27	4	462	1916	1741	243	480	88	9	86	238	2	1	140	439	.276	.335	.485	.819	119	844	51	21	0	14	5
+Richie Martin	24	1	120	309	283	29	59	8	3	6	23	10	1	14	83	.208	.260	.322	.581	54	91	6	6	5	1	0
+John Means*	26	2	2	3	1	0	1	0	0	0	0	0	0	1	0	1.000	1.000	1.000	2.000	439	1	0	0	1	0	0
+Cedric Mullins#	24	2	67	265	234	30	46	9	2	4	15	3	3	21	51	.197	.276	.303	.579	59	71	3	5	4	1	0
+Renato Nunez	25	4	241	891	807	101	198	38	0	40	116	1	1	64	216	.245	.310	.441	.751	99	356	13	14	0	6	1
+Luis Ortiz	23	2	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Jace Peterson*	29	6	508	1632	1427	153	325	64	11	20	137	39	19	174	337	.228	.314	.330	.644	77	471	28	10	13	8	10
+Evan Phillips	24	2	4	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Yefry Ramirez	25	2	10	4	4	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Joey Rickard	28	4	343	978	899	102	222	47	3	20	71	20	6	60	222	.247	.301	.373	.674	82	335	13	11	5	3	1
+Josh Rogers*	24	2	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Jose Rondon	25	3	106	290	268	26	54	9	0	9	24	2	1	19	72	.201	.260	.336	.595	61	90	8	2	1	0	0
+Rio Ruiz*	25	4	199	608	539	59	118	18	3	16	67	2	1	61	136	.219	.298	.353	.651	72	190	16	2	1	5	1
+Anthony Santander#	24	3	139	544	511	55	127	28	2	21	67	2	2	25	115	.249	.285	.434	.720	89	222	2	3	1	4	0
+Tanner Scott	24	3	3	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Tayler Scott	27	1	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Pedro Severino	25	5	201	623	556	58	123	26	0	17	66	4	1	54	134	.221	.299	.360	.659	74	200	8	9	1	3	5
+Chandler Shepherd	26	1	0	0	0																					
+Chance Sisco*	24	3	132	404	345	45	70	17	0	12	40	1	1	38	134	.203	.319	.357	.676	84	123	7	21	0	0	0
+Dwight Smith Jr.*	26	3	148	496	449	57	113	26	3	15	62	6	1	34	105	.252	.311	.423	.734	94	190	9	7	1	5	0
+DJ Stewart*	25	2	61	189	166	23	40	9	0	7	25	3	3	18	38	.241	.323	.422	.744	98	70	3	3	0	2	1
+Dan Straily	30	8	96	177	141	6	10	2	0	0	3	0	0	13	95	.071	.155	.085	.240	-32	12	2	1	22	0	0
+Jesus Sucre	31	7	243	721	659	50	146	23	0	10	69	3	0	30	121	.222	.260	.302	.562	56	199	20	7	18	7	2
+Dillon Tate	25	1	2	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Mark Trumbo	33	10	1097	4419	4085	532	1018	182	11	218	629	23	14	299	1097	.249	.302	.459	.761	108	1876	106	16	0	19	20
+Jonathan Villar#	28	7	779	3002	2689	381	701	132	15	78	268	202	54	264	800	.261	.328	.408	.736	97	1097	44	13	22	13	7
+Stevie Wilkerson#	27	2	133	410	375	43	82	21	2	10	38	4	3	25	124	.219	.279	.365	.644	71	137	5	7	1	2	0
+Mason Williams*	27	5	87	234	217	24	62	10	1	3	14	4	2	13	52	.286	.325	.382	.707	89	83	5	0	3	1	1
+Asher Wojciechowski	30	3	24	15	15	0	1	0	0	0	0	0	0	0	12	.067	.067	.067	.133	-65	1	0	0	0	0	0
+Matt Wotherspoon	27	1	0	0	0																					
+Mike Wright	29	5	8	4	3	0	1	0	0	0	0	0	0	0	1	.333	.333	.333	.667	85	1	0	0	1	0	0
+Austin Wynns	28	2	70	192	180	24	43	3	0	5	16	0	0	8	39	.239	.271	.339	.610	65	61	9	0	4	0	0
+Jimmy Yacabonis	27	3	3	2	2	0	0	0	0	0	1	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Gabriel Ynoa	26	3	15	4	4	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - Disclaimer & Completeness Note 
+* Many Detailed Statistics are based on play-by-play accounts accumulated by RetroSheet. These totals may be incomplete (3.6% of all plays from 1925 to 1973 are missing or have incomplete accounts, click link for year and team summary of data completeness) for some players prior to 1974 and even complete seasons may not match the official totals due to errors in both the official totals and the play-by-play accounts. Pre-1954 seasons have a substantial numbers of games missing play-by-play accounts and should be viewed as essentially incomplete.
+More 2019 Orioles Pages
+2019 Baltimore Orioles
+
+Stats
+
+Schedule & Results
+
+40-Man Roster
+
+Uniforms
+
+Contracts
+
+Batting
+
+Pitching
+
+Fielding
+
+Scoring
+
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+Support us without the ads? Go Ad-Free.
+These five tools can help you save time and money as you shop this holiday season.
+Ad by Capital One
+See More
+Login Create Account Surf AD-FREE
+You are here: BR Home Page > Teams > Franchise Encyclopedia > 2019 Batting Statistics
+Full Site Menu 
+Return to Top
+MLB Players
+Current Greats: Clayton Kershaw, Bryce Harper, Mike Trout, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+MLB Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Indians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2019, 2018, 2019 MLB Pitching, 2019 MLB Batting, 2019 MLB Standings, 2019 MLB Attendance, 2019 MLB Rookies, ...
+MLB Leaders
+2019 MLB Batting, 2019 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in MLB history, MLB Probable Pitchers, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+MLB Playoffs
+2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Play Index
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Event Finder, Player Comparison Finder, Neutralized Stats, ...
+Team Finders: Season Finder, Split Finder, Game Finder, Streak Finder, Event Finder, ...
+Other Finders: Draft Finder, Game Score & Result Searches, Team Trade Histories, ...
+Managers
+Active: Terry Francona, Clint Hurdle, A.J. Hinch, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+MLB Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2019 HOF results, 2020 Hall of Fame ballot, ...
+MLB All-Star Games
+2020 All-Star Game, 2019 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities and More
+Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2019 Draft, 2018 Draft, 2017 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Negro Leagues
+Minor League Stats, Negro League Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2019 Minor Leagues, 2019 Affiliates, ...
+Baseball-Reference Bullpen
+85,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, ...
+We're Social...for Statheads
+      
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, December 29, 6:47AM
+
+Question, Comment, Feedback, or Correction?
+
+Are you a Stathead, too? Subscribe to our Newsletter
+
+This Week in Sports Reference
+Find out when we add a feature or make a change
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Go ad-free to support Sports Reference and get our fastest browsing experience
+Subscribe to the Play Index and get access to more data than you can imagine
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Primary Data Provided By Gracenote Sports
+Copyright © 2000-2019 Sports Reference LLC. All rights reserved.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+BaseballInfoSolutions.com logo
+
+Some defensive statistics Copyright © Baseball Info Solutions, 2010-2019.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+ Sports Reference Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead Widgets
+About • Privacy Statement • Conditions & Terms of Service • Advertise With Us • Use of Data
+

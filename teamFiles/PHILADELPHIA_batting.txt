@@ -1,0 +1,975 @@
+ Sports ReferenceBaseballFootball (college)Basketball (college)HockeySoccerBlogStatheadWidgetsQuestions or Comments?LoginCreate AccountSurf AD-FREEBaseball-Reference.com Logo & Link to home page
+Players
+Teams
+Seasons
+Leaders
+MLB Scores1
+MLB Playoffs
+Play Index
+Full Site Menu Below
+Enter Person, Team, Section, etc
+2019 Philadelphia Phillies Logo
+via Sports Logos.net
+
+About logos
+
+2019 Philadelphia Phillies Batting Statistics
+2018 Season
+Record: 81-81, 4th place in NL_East (Schedule and Results)
+
+Manager: Gabe Kapler (81-81)
+
+General Manager: Matt Klentak (VP/General Manager)
+
+Farm Director: Josh Bonifay
+
+Scouting Director: Johnny Almaraz
+
+Ballpark: Citizens Bank Park
+
+Attendance: 2,727,421 (6th of 15)
+
+More team info, park factors, postseason, & more
+Support us without the ads? Go Ad-Free.
+
+
+2019 Philadelphia Phillies
+Stats
+Schedule & Results
+40-Man Roster
+Uniforms
+Contracts
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Fielding
+Scoring
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+On this page:
+
+Team Batting Team Player Value--Batters Team Advanced Batting Team Batting Ratios* Team Win Probability* Team Baserunning/Misc* Team PH/HR/Situ Hitting* Team Pitches Batting* Team Neutralized Batting Team Cumulative Batting Full Site Menu
+Statheads want to know.
+Get scores, news and notes in your inbox every day. View a sample email. It's also available for football, basketball and hockey.
+
+Subscribe to our Stathead Newsletter
+
+Team Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+1	C	J.T. Realmuto	28	145	593	538	92	148	36	3	25	83	9	1	41	123	.275	.328	.493	.820	108	265	12	5	0	8	2
+2	1B	Rhys Hoskins	26	160	705	570	86	129	33	5	29	85	2	2	116	173	.226	.364	.454	.819	110	259	10	11	0	6	6
+3	2B	Cesar Hernandez#	29	161	667	612	77	171	31	3	14	71	9	2	45	100	.279	.333	.408	.741	91	250	9	6	0	4	4
+4	SS	Jean Segura	29	144	618	576	79	161	37	4	12	60	10	2	30	73	.280	.323	.420	.743	90	242	11	8	1	3	1
+5	3B	Maikel Franco	26	123	428	389	48	91	17	0	17	56	0	0	36	61	.234	.297	.409	.705	80	159	14	0	0	3	19
+6	LF	Andrew McCutchen	32	59	262	219	45	56	12	1	10	29	2	1	43	55	.256	.378	.457	.834	115	100	1	0	0	0	0
+7	CF	Scott Kingery	25	126	500	458	64	118	34	4	19	55	15	4	34	147	.258	.315	.474	.788	100	217	3	5	1	2	1
+8	RF	Bryce Harper*	26	157	682	573	98	149	36	1	35	114	15	3	99	178	.260	.372	.510	.882	125	292	10	6	0	4	11
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+9	OF	Adam Haseley*	23	67	242	222	30	59	14	0	5	26	4	0	14	60	.266	.324	.396	.720	85	88	7	5	1	0	1
+10	C	Andrew Knapp#	27	74	160	136	12	29	9	0	2	8	0	0	18	51	.213	.318	.324	.642	68	44	2	3	3	0	2
+11	LF	Jay Bruce*	32	51	149	145	16	32	6	0	12	31	0	0	3	29	.221	.235	.510	.745	84	74	4	0	0	1	0
+12	UT	Sean Rodriguez	34	76	139	112	24	25	5	0	4	12	1	1	19	41	.223	.348	.375	.723	88	42	2	3	4	1	0
+13	CF	Odubel Herrera*	27	39	139	126	12	28	10	1	1	16	2	2	11	33	.222	.288	.341	.629	62	43	0	1	0	1	0
+14	LF	Corey Dickerson*	30	34	137	133	13	39	10	2	8	34	0	0	3	33	.293	.307	.579	.886	121	77	1	0	0	1	0
+15	UT	Brad Miller*	29	66	130	118	22	31	3	1	12	21	1	0	11	35	.263	.331	.610	.941	135	72	2	1	0	0	0
+16	CF	Roman Quinn#	26	44	122	108	18	23	3	1	4	11	8	0	12	34	.213	.298	.370	.668	72	40	2	1	1	0	0
+17	LF	Nick Williams*	25	67	112	106	9	16	4	0	2	5	0	0	4	43	.151	.196	.245	.442	14	26	1	2	0	0	0
+18	UT	Phil Gosselin	30	44	68	65	5	17	3	0	0	7	0	0	3	16	.262	.294	.308	.602	57	20	1	0	0	0	0
+19	1B	Logan Morrison*	31	29	38	35	5	7	1	0	2	3	0	0	3	10	.200	.263	.400	.663	68	14	1	0	0	0	0
+20	OF	Aaron Altherr	28	22	30	29	2	1	1	0	0	1	0	0	1	9	.034	.067	.069	.136	-65	2	1	0	0	0	0
+21	OF	Jose Pirela	29	12	19	17	1	4	1	0	1	2	0	0	2	4	.235	.316	.471	.786	99	8	0	0	0	0	0
+22	C	Deivy Grullon	23	4	9	9	0	1	1	0	0	1	0	0	0	2	.111	.111	.222	.333	-17	2	1	0	0	0	0
+23		Mitch Walding*	26	2	2	2	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	0	0	0	0	0
+24		Dylan Cozens*	25	1	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+25		Rob Brantly*	29	1	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+26	P	Aaron Nola	26	32	70	59	6	7	2	0	0	2	0	0	6	35	.119	.200	.153	.353	-6	9	0	0	5	0	0
+27	P	Zach Eflin	25	31	52	50	3	8	1	0	0	2	0	0	0	27	.160	.160	.180	.340	-12	9	0	0	2	0	0
+28	P	Jake Arrieta	33	23	50	45	2	7	1	0	0	4	0	0	1	19	.156	.174	.178	.352	-8	8	1	0	4	0	0
+29	P	Vince Velasquez	27	33	36	30	2	7	0	0	1	3	0	0	2	9	.233	.281	.333	.615	59	10	1	0	4	0	0
+30	P	Nick Pivetta	26	29	27	25	1	2	0	0	0	0	0	0	1	19	.080	.115	.080	.195	-48	2	0	0	1	0	0
+31	P	Jerad Eickhoff	28	12	19	14	0	0	0	0	0	0	0	0	1	7	.000	.067	.000	.067	-80	0	0	0	4	0	0
+32	P	Drew Smyly*	30	10	19	18	1	0	0	0	0	0	0	0	1	8	.000	.053	.000	.053	-84	0	0	0	0	0	0
+33	P	Jason Vargas*	36	10	14	12	0	1	0	0	0	0	0	0	0	6	.083	.083	.083	.167	-56	1	0	0	2	0	0
+34	P	Cole Irvin*	25	14	8	6	1	1	0	0	0	0	0	0	2	2	.167	.375	.167	.542	50	1	0	0	0	0	0
+35	P	Ranger Suarez*	23	34	5	4	0	1	0	0	0	0	0	0	0	2	.250	.250	.250	.500	31	1	0	0	1	0	0
+36	P	Juan Nicasio	32	45	2	2	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+37	P	Hector Neris	30	63	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+38	P	Drew Anderson	25	2	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+39	P	J.D. Hammer	24	20	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+40	P	Enyel De Los Santos	23	5	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+41	P	Blake Parker	34	22	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+42	P	Seranthony Dominguez	24	26	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+43	P	Pat Neshek#	38	20	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+44	P	Nick Vincent	32	12	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+45	P	Edgar Garcia	22	35	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+46	P	Victor Arano	24	3	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+47	P	Fernando Salas	34	3	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+48	P	Tommy Hunter	32	5	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+49	P	Adam Morgan*	29	38	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+50	P	Mike Morin	28	25	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+51	P	Jared Hughes	33	22	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+52	P	Austin Davis*	26	13	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+53	P	Jose Alvarez*	30	62	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+54	P	Edubray Ramos	26	18	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+55	P	David Robertson	34	7	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+56	P	Yacksel Rios	26	4	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Team Totals	27.6	162	6261	5571	774	1369	311	26	215	742	78	18	562	1453	.246	.319	.427	.746	91	2377	97	57	34	34	47
+Rank in 15 NL teams				6	8	9	3	7	11		7	3	6	9	9	11	9	9		9		12		10	
+Non-Pitcher Totals	27.6	162	5953	5300	758	1335	307	26	214	731	78	18	548	1313	.252	.327	.441	.767	96	2336	95	57	11	34	47
+Pitcher Totals	27.7	162	308	271	16	34	4	0	1	11	0	0	14	140	.125	.168	.151	.320	-16	41	2	0	23	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - bats left-handed, # - bats both, else - bats right, ? - unknown; OPS_lg for OPS+ does not include pitchers.
+Team Player Value--Batters 
+League RegisterWAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+Aaron Altherr	28	22	30	-6	0	0	1	0	-6	-0.6	1	-5	-0.5	.474	.496	-0.6	0.1	-6	$1,350,000	Amateur Draft	/8971
+Jose Alvarez*	30	62	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0	$1,925,000	Traded	1
+Drew Anderson	25	2	1	0	0	0	0	0	0	0.0	0	0	0.0	.493	.500	0.0	0.0	0		Amateur Draft	/1
+Victor Arano	24	3	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Traded	/1
+Jake Arrieta	33	23	50	-7	0	0	0	8	1	0.0	0	1	0.0	.503	.500	0.1	0.0	1	$25,000,000	Free Agency	1
+Rob Brantly*	29	1	1	0	0	0	0	0	0	0.0	0	0	0.0	.470	.500	0.0	0.0	0		Free Agency	
+Jay Bruce*	32	51	149	-4	-1	0	5	-1	-1	-0.2	5	3	0.3	.497	.499	-0.2	0.3	-2		Traded	7/D
+Dylan Cozens*	25	1	1	0	0	0	0	0	0	0.0	0	0	0.0	.470	.500	0.0	0.0	0		Amateur Draft	
+Austin Davis*	26	13	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Draft	1
+Enyel De Los Santos	23	5	1	0	0	0	0	0	0	0.0	0	0	0.0	.497	.500	0.0	0.0	0		Traded	/1
+Corey Dickerson*	30	34	137	3	-1	0	-2	-1	-1	-0.2	4	3	0.3	.497	.499	0.5	-0.3	5		Traded	7
+Seranthony Dominguez	24	26	1	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$564,000	Amateur Free Agent	1
+Zach Eflin	25	31	52	-8	0	0	0	8	1	0.1	0	1	0.1	.503	.500	0.1	0.0	1	$590,000	Traded	1
+Jerad Eickhoff	28	12	19	-5	0	0	0	3	-2	-0.2	0	-2	-0.2	.485	.499	-0.2	0.0	-2	$975,000	Traded	1
+Maikel Franco	26	123	428	-15	-1	-2	-4	2	-20	-2.2	14	-6	-0.8	.484	.488	-0.3	-0.3	-2	$5,200,000	Amateur Free Agent	*5/3
+Edgar Garcia	22	35	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Free Agent	1
+Phil Gosselin	30	44	68	-4	0	0	-2	0	-6	-0.6	2	-4	-0.4	.487	.496	-0.2	-0.2	-1		Free Agency	/765
+Deivy Grullon	23	4	9	-2	0	0	0	0	-2	-0.2	0	-2	-0.2	.454	.499	-0.2	0.0	-2		Amateur Free Agent	/2D
+J.D. Hammer	24	20	1	0	0	0	0	0	0	0.0	0	0	0.0	.499	.500	0.0	0.0	0		Traded	1
+Bryce Harper*	26	157	682	19	1	0	9	-6	24	2.1	21	45	4.2	.515	.515	3.4	0.2	36	$11,538,462	Free Agency	*9/D
+Adam Haseley*	23	67	242	-5	2	0	13	0	10	0.9	8	17	1.7	.515	.506	0.4	1.2	4		Amateur Draft	879
+Cesar Hernandez#	29	161	667	-8	2	3	6	4	6	0.4	22	28	2.5	.504	.504	2.1	0.9	22	$7,750,000	Amateur Free Agent	*4
+Odubel Herrera*	27	39	139	-8	0	1	-3	1	-9	-0.9	5	-4	-0.5	.478	.495	-0.1	-0.3	-1	$5,350,000	Rule 5 Draft	8
+Rhys Hoskins	26	160	705	10	-1	-1	-2	-9	-4	-0.7	22	18	1.5	.498	.498	1.9	-1.2	20	$575,000	Amateur Draft	*3/D
+Jared Hughes	33	22	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Waivers	1
+Tommy Hunter	32	5	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$9,000,000	Free Agency	/1
+Cole Irvin*	25	14	8	0	0	0	0	1	1	0.1	0	1	0.1	.506	.500	0.1	0.0	1		Amateur Draft	1
+Scott Kingery	25	126	500	-1	2	2	10	3	16	1.4	16	32	3.0	.513	.510	2.1	1.2	22	$1,500,000	Amateur Draft	85647/9
+Andrew Knapp#	27	74	160	-8	0	1	0	2	-5	-0.5	5	1	0.0	.494	.497	0.0	0.2	1	$565,000	Amateur Draft	2/3
+Andrew McCutchen	32	59	262	6	1	1	2	-2	8	0.7	8	16	1.4	.513	.505	1.3	0.0	14	$10,000,000	Free Agency	78/D
+Brad Miller*	29	66	130	7	0	0	1	0	8	0.7	4	12	1.1	.512	.505	1.1	0.0	11		Purchased	57/96
+Adam Morgan*	29	38	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$1,100,000	Amateur Draft	1
+Mike Morin	28	25	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Purchased	1
+Logan Morrison*	31	29	38	-1	-1	0	-1	0	-3	-0.3	1	-2	-0.2	.489	.498	-0.1	-0.2	-1		Free Agency	/3D
+Hector Neris	30	63	1	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0	$1,800,000	Amateur Free Agent	1
+Pat Neshek#	38	20	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$7,750,000	Free Agency	1
+Juan Nicasio	32	45	2	-1	0	0	0	0	0	0.0	0	0	0.0	.499	.500	0.0	0.0	0	$9,250,000	Traded	1
+Aaron Nola	26	32	70	-8	-1	0	0	11	3	0.3	0	3	0.3	.510	.502	0.3	0.0	3	$4,500,000	Amateur Draft	1
+Blake Parker	34	22	1	0	0	0	0	0	0	0.0	0	0	0.0	.499	.500	0.0	0.0	0		Free Agency	1
+Jose Pirela	29	12	19	0	0	0	1	0	1	0.1	1	1	0.1	.505	.500	0.0	0.1	0		Purchased	/79
+Nick Pivetta	26	29	27	-6	0	0	0	4	-1	-0.1	0	-1	-0.1	.496	.499	-0.1	0.0	-1	$598,000	Traded	1
+Roman Quinn#	26	44	122	-6	2	0	-1	1	-4	-0.5	4	0	-0.1	.491	.497	0.0	-0.1	1	$559,000	Amateur Draft	8/1
+Edubray Ramos	26	18	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$573,500	Free Agency	1
+J.T. Realmuto	28	145	593	7	2	0	10	9	27	2.5	19	47	4.4	.519	.517	3.5	1.7	37	$5,900,000	Traded	*2/3D
+Yacksel Rios	26	4	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Draft	/1
+David Robertson	34	7	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$10,000,000	Free Agency	/1
+Sean Rodriguez	34	76	139	-1	0	0	0	0	0	-0.1	5	4	0.3	.500	.500	0.4	0.0	4	$100,000	Free Agency	56/794813D
+Fernando Salas	34	3	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Free Agency	/1
+Jean Segura	29	144	618	-9	3	1	-6	7	-3	-0.6	20	16	1.3	.498	.498	2.1	0.0	22	$14,850,000	Traded	*6
+Drew Smyly*	30	10	19	-5	0	0	0	3	-2	-0.2	0	-2	-0.2	.482	.499	-0.2	0.0	-2		Free Agency	1
+Ranger Suarez*	23	34	5	-1	0	0	0	1	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Amateur Free Agent	1
+Jason Vargas*	36	10	14	-3	0	0	0	2	-1	-0.2	0	-1	-0.2	.486	.499	-0.1	0.0	-1		Traded	1
+Vince Velasquez	27	33	36	-2	0	0	2	5	6	0.6	0	6	0.6	.518	.504	0.4	0.2	4	$2,249,000	Traded	1/7
+Nick Vincent	32	12	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Free Agency	1
+Mitch Walding*	26	2	2	-1	0	0	0	0	-1	-0.1	0	-1	-0.1	.470	.500	-0.1	0.0	-1		Amateur Draft	
+Nick Williams*	25	67	112	-13	0	0	-1	-1	-15	-1.5	4	-11	-1.2	.478	.491	-1.1	-0.3	-10	$575,000	Traded	7/9
+Team Total	27.5	2386	6261	-86	10	5	38	58	25	-0.3	191	215	18.4	.501	.502	16.2	2.5	177	$141,686,962		
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+
+Team Advanced Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Aaron Altherr	28	30	29	0	0.0	112	.050	.034	.260	.067	.334	.069	.449	.136	.783	-65	.000	-7.2	-0.7	.103	.069	.034		/8971
+Jose Alvarez*	30	0	0														.000	0.0	0.0					1
+Drew Anderson	25	1	1	0	0.0	112		.000	.260	.000	.334	.000	.449	.000	.783	-100	.000	-0.3	0.0	.000	.000	.000		/1
+Victor Arano	24	0	0														.000	0.0	0.0					/1
+Jake Arrieta	33	50	43	1	0.6	112	.269	.156	.260	.174	.334	.178	.449	.352	.783	-8	.022	-7.4	-0.7	.231	.044	.022		1
+Rob Brantly*	29	1	1	0	0.0	112		.000	.260	.000	.334	.000	.449	.000	.783	-100	.000	-0.3	0.0	.000	.000	.000		
+Jay Bruce*	32	149	118	16	3.6	112	.190	.221	.260	.235	.334	.510	.449	.745	.783	84	.361	-4.4	-0.4	.658	.310	.290	.0	7/D
+Dylan Cozens*	25	1	1	0	0.0	112	.000	.000	.260	.000	.334	.000	.449	.000	.783	-100	.000	-0.3	0.0	.000	.000	.000		
+Austin Davis*	26	0	0														.000	0.0	0.0					1
+Enyel De Los Santos	23	1	1	0	0.0	112		.000	.260	.000	.334	.000	.449	.000	.783	-100	.000	-0.3	0.0	.000	.000	.000		/1
+Corey Dickerson*	30	137	96	23	6.4	112	.333	.293	.260	.307	.334	.579	.449	.886	.783	121	.616	3.5	0.3	.842	.308	.286	.0	7
+Seranthony Dominguez	24	1	1	0	0.0	112		.000	.260	.000	.334	.000	.449	.000	.783	-100	.000	-0.3	0.0	.000	.000	.000		1
+Zach Eflin	25	52	44	2	1.2	112	.348	.160	.260	.160	.334	.180	.449	.340	.783	-12	.071	-8.4	-0.8	.214	.020	.020		1
+Jerad Eickhoff	28	19	18	0	0.0	112	.000	.000	.260	.067	.333	.000	.449	.067	.783	-80	.000	-3.9	-0.4	.071	.071	.000		1
+Maikel Franco	26	428	315	44	3.8	112	.236	.234	.260	.297	.334	.409	.449	.705	.783	80	.374	-12.4	-1.2	.625	.267	.175	.0	*5/3
+Edgar Garcia	22	0	0														.000	0.0	0.0					1
+Phil Gosselin	30	68	49	6	3.3	112	.347	.262	.260	.294	.334	.308	.449	.602	.783	57	.320	-4.3	-0.4	.469	.092	.046		/765
+Deivy Grullon	23	9	9	0	0.0	112	.143	.111	.260	.111	.334	.222	.449	.333	.783	-17	.000	-1.5	-0.2	.222	.111	.111		/2D
+J.D. Hammer	24	1	1	0	0.0	112	.000	.000	.260	.000	.334	.000	.449	.000	.783	-100	.000	-0.3	0.0	.000	.000	.000		1
+Bryce Harper*	26	682	441	115	7.0	112	.313	.260	.260	.372	.334	.510	.449	.882	.783	125	.652	24.2	2.3	.943	.443	.250	21.0	*9/D
+Adam Haseley*	23	242	171	28	4.4	112	.344	.266	.260	.324	.334	.396	.449	.720	.783	85	.444	-4.9	-0.5	.653	.212	.131	4.4	879
+Cesar Hernandez#	29	667	456	85	5.0	112	.313	.279	.260	.333	.333	.408	.449	.741	.783	91	.503	-8.6	-0.8	.686	.214	.129	11.0	*4
+Odubel Herrera*	27	139	101	13	3.5	112	.290	.222	.260	.288	.334	.341	.449	.629	.783	62	.339	-7.0	-0.7	.570	.206	.119	1.3	8
+Rhys Hoskins	26	705	459	102	6.0	112	.267	.226	.260	.364	.333	.454	.449	.819	.783	110	.582	12.4	1.2	.857	.432	.228	3.7	*3/D
+Jared Hughes	33	0	0														.000	0.0	0.0					1
+Tommy Hunter	32	0	0														.000	0.0	0.0					/1
+Cole Irvin*	25	8	5	1	5.4	112	.250	.167	.260	.375	.334	.167	.449	.542	.783	50	.535	-0.4	0.0	.600	.333	.000		1
+Scott Kingery	25	500	350	71	5.4	112	.337	.258	.260	.315	.333	.474	.449	.788	.783	100	.541	-0.8	-0.1	.781	.314	.216	16.8	85647/9
+Andrew Knapp#	27	160	112	15	3.6	112	.325	.213	.260	.318	.334	.324	.449	.642	.783	68	.355	-6.3	-0.6	.596	.243	.110	.0	2/3
+Andrew McCutchen	32	262	165	42	6.8	112	.299	.256	.260	.378	.334	.457	.449	.834	.783	115	.642	6.0	0.6	.879	.402	.201	3.3	78/D
+Brad Miller*	29	130	89	24	7.2	112	.268	.263	.260	.331	.334	.610	.449	.941	.783	135	.666	5.3	0.5	.955	.449	.347	1.8	57/96
+Adam Morgan*	29	0	0														.000	0.0	0.0					1
+Mike Morin	28	0	0														.000	0.0	0.0					1
+Logan Morrison*	31	38	29	4	3.7	112	.217	.200	.260	.263	.334	.400	.449	.663	.783	68	.368	-1.9	-0.2	.586	.286	.200	.0	/3D
+Hector Neris	30	1	1	0	0.0	112		.000	.260	.000	.334	.000	.449	.000	.783	-100	.000	-0.3	0.0	.000	.000	.000		1
+Pat Neshek#	38	0	0														.000	0.0	0.0					1
+Juan Nicasio	32	2	2	0	0.0	112	.000	.000	.260	.000	.334	.000	.449	.000	.783	-100	.000	-0.6	-0.1	.000	.000	.000		1
+Aaron Nola	26	70	57	2	0.9	112	.292	.119	.260	.200	.334	.153	.449	.353	.783	-6	.045	-9.6	-0.9	.288	.136	.034		1
+Blake Parker	34	1	1	0	0.0	112		.000	.260	.000	.334	.000	.449	.000	.783	-100	.000	-0.3	0.0	.000	.000	.000		1
+Jose Pirela	29	19	13	3	6.2	112	.250	.235	.260	.316	.333	.471	.449	.786	.783	99	.599	-0.1	0.0	.769	.353	.235	.0	/79
+Nick Pivetta	26	27	24	0	0.0	112	.333	.080	.260	.115	.334	.080	.449	.195	.783	-48	.000	-5.6	-0.5	.130	.040	.000		1
+Roman Quinn#	26	122	88	13	4.0	112	.271	.213	.260	.298	.334	.370	.449	.668	.783	72	.398	-5.0	-0.5	.701	.343	.157	5.3	8/1
+Edubray Ramos	26	0	0														.000	0.0	0.0					1
+J.T. Realmuto	28	593	411	87	5.7	112	.309	.275	.260	.328	.334	.493	.449	.820	.783	108	.561	6.3	0.6	.794	.309	.217	13.2	*2/3D
+Yacksel Rios	26	0	0														.000	0.0	0.0					/1
+David Robertson	34	0	0														.000	0.0	0.0					/1
+Sean Rodriguez	34	139	95	16	4.5	112	.309	.223	.260	.348	.333	.375	.449	.723	.783	88	.457	-1.5	-0.1	.722	.321	.152	1.6	56/794813D
+Fernando Salas	34	0	0														.000	0.0	0.0					/1
+Jean Segura	29	618	432	78	4.8	112	.302	.280	.260	.323	.334	.420	.449	.743	.783	90	.488	-8.8	-0.8	.678	.207	.141	10.9	*6
+Drew Smyly*	30	19	18	0	0.0	112	.000	.000	.260	.053	.333	.000	.449	.053	.783	-84	.000	-5.1	-0.5	.056	.056	.000		1
+Ranger Suarez*	23	5	4	0	0.0	112	.500	.250	.260	.250	.334	.250	.449	.500	.783	31	.000	-0.4	0.0	.333	.000	.000		1
+Jason Vargas*	36	14	13	0	0.0	112	.167	.083	.260	.083	.334	.083	.449	.167	.783	-56	.000	-2.8	-0.3	.091	.000	.000		1
+Vince Velasquez	27	36	28	3	2.9	112	.300	.233	.260	.281	.334	.333	.449	.615	.783	59	.268	-2.0	-0.2	.500	.167	.100	.0	1/7
+Nick Vincent	32	0	0														.000	0.0	0.0					1
+Mitch Walding*	26	2	2	0	0.0	112		.000	.260	.000	.334	.000	.449	.000	.783	-100	.000	-0.6	-0.1	.000	.000	.000		
+Nick Williams*	25	112	91	5	1.5	112	.230	.151	.260	.196	.334	.245	.449	.442	.783	14	.097	-14.1	-1.4	.352	.132	.094	.0	7/9
+League Average					4.9	110	.298	.250	.258	.322	.331	.429	.445	.751	.776	94	.495			.710	.283	.178		
+Team Total	27.7	6261	4385	799	4.9	112	.293	.246	.260	.319	.334	.427	.449	.746	.783	91	.492	-80.1	-7.8	.712	.293	.181	114.5	
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Team Batting Ratios* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+Aaron Altherr	28	30	0.0%	30.0%	3.3%	3.3%	100%	9.00	3.2		29.0	0.82	0.90	67%	35%	0.0%	0%
+Drew Anderson	25	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Jake Arrieta	33	50	0.0%	38.0%	2.0%	2.0%	14%	19.00	2.4		11.3	0.53	0.77	52%	30%	0.0%	13%
+Rob Brantly*	29	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Jay Bruce*	32	149	8.1%	19.5%	2.0%	12.1%	56%	9.67	5.0	12.1	4.7	0.54	0.85	70%	19%	17.9%	12%
+Dylan Cozens*	25	1	0.0%	0.0%	0.0%	0.0%								100%	0%		
+Enyel De Los Santos	23	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Corey Dickerson*	30	137	5.8%	24.1%	2.2%	14.6%	51%	11.00	4.0	16.6	3.9	0.44	0.55	68%	34%	15.1%	24%
+Seranthony Dominguez	24	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Zach Eflin	25	52	0.0%	51.9%	0.0%	1.9%	13%		1.9		25.0	0.54	1.29	44%	24%	0.0%	8%
+Jerad Eickhoff	28	19	0.0%	36.8%	5.3%	0.0%		7.00	2.0			6.00	10.00	37%	0%	0.0%	0%
+Maikel Franco	26	428	4.0%	14.3%	8.4%	7.9%	37%	1.69	6.4	22.9	6.9	0.76	0.94	73%	20%	12.1%	25%
+Phil Gosselin	30	68	0.0%	23.5%	4.4%	4.4%	18%	5.33	4.1		9.3	0.69	0.94	72%	24%	0.0%	10%
+Deivy Grullon	23	9	0.0%	22.2%	0.0%	11.1%	100%		4.5		9.0	0.17	0.40	78%	43%	0.0%	17%
+J.D. Hammer	24	1	0.0%	0.0%	0.0%	0.0%								100%	0%		
+Bryce Harper*	26	682	5.1%	26.1%	14.5%	10.6%	48%	1.80	3.2	16.4	5.0	0.64	0.91	53%	27%	15.4%	5%
+Adam Haseley*	23	242	2.1%	24.8%	5.8%	7.9%	32%	4.29	3.7	44.4	8.5	1.38	2.63	65%	21%	8.3%	12%
+Cesar Hernandez#	29	667	2.1%	15.0%	6.8%	7.2%	28%	2.22	6.1	43.7	8.6	0.98	1.12	75%	24%	6.4%	15%
+Odubel Herrera*	27	139	0.7%	23.7%	7.9%	8.6%	43%	3.00	3.8	126.0	7.9	0.68	0.94	67%	31%	2.0%	11%
+Rhys Hoskins	26	705	4.1%	24.5%	16.5%	9.5%	52%	1.49	3.3	19.7	6.7	0.43	0.54	53%	22%	12.6%	18%
+Cole Irvin*	25	8	0.0%	25.0%	25.0%	0.0%	0%	1.00	3.0			1.00	0.50	50%	25%	0.0%	0%
+Scott Kingery	25	500	3.8%	29.4%	6.8%	11.4%	48%	4.32	3.1	24.1	8.3	0.53	0.70	59%	31%	10.4%	11%
+Andrew Knapp#	27	160	1.3%	31.9%	11.3%	6.9%	38%	2.83	2.7	68.0	17.0	0.58	1.00	52%	30%	4.3%	12%
+Andrew McCutchen	32	262	3.8%	21.0%	16.4%	8.8%	41%	1.28	4.0	21.9	7.6	0.84	1.14	59%	23%	12.8%	12%
+Brad Miller*	29	130	9.2%	26.9%	8.5%	12.3%	52%	3.18	3.4	9.8	5.6	0.74	0.79	55%	16%	30.0%	15%
+Logan Morrison*	31	38	5.3%	26.3%	7.9%	7.9%	43%	3.33	3.5	17.5	11.7	0.67	0.64	61%	12%	16.7%	20%
+Hector Neris	30	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Juan Nicasio	32	2	0.0%	50.0%	0.0%	0.0%			2.0					50%	0%		
+Aaron Nola	26	70	0.0%	50.0%	8.6%	2.9%	29%	5.83	1.7		29.5	1.56	3.50	34%	21%	0.0%	0%
+Blake Parker	34	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Jose Pirela	29	19	5.3%	21.1%	10.5%	10.5%	50%	2.00	4.3	17.0	8.5	0.44	0.50	63%	15%	16.7%	33%
+Nick Pivetta	26	27	0.0%	70.4%	3.7%	0.0%	0%	19.00	1.3					22%	0%		
+Roman Quinn#	26	122	3.3%	27.9%	9.8%	6.6%	35%	2.83	3.2	27.0	9.8	0.97	1.45	57%	16%	16.7%	23%
+J.T. Realmuto	28	593	4.2%	20.7%	6.9%	10.8%	43%	3.00	4.4	21.5	6.5	0.66	0.83	67%	28%	11.1%	11%
+Sean Rodriguez	34	139	2.9%	29.5%	13.7%	6.5%	36%	2.16	2.7	28.0	9.3	0.78	1.13	49%	24%	12.5%	20%
+Jean Segura	29	618	1.9%	11.8%	4.9%	8.6%	33%	2.43	7.9	48.0	9.6	1.11	1.38	80%	24%	5.7%	12%
+Drew Smyly*	30	19	0.0%	42.1%	5.3%	0.0%		8.00	2.3				9.00	53%	0%		
+Ranger Suarez*	23	5	0.0%	40.0%	0.0%	0.0%	0%		2.0					40%	0%		
+Jason Vargas*	36	14	0.0%	42.9%	0.0%	0.0%	0%		2.0			5.00		43%	13%	0.0%	0%
+Vince Velasquez	27	36	2.8%	25.0%	5.6%	2.8%	14%	4.50	3.3	30.0	10.0	1.50	5.00	56%	20%	14.3%	13%
+Mitch Walding*	26	2	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Nick Williams*	25	112	1.8%	38.4%	3.6%	5.4%	38%	10.75	2.5	53.0	21.2	0.70	1.04	54%	35%	5.7%	5%
+League Average			3.5%	23.0%	8.5%	8.5%	38%	2.70	3.9	25.4	7.5	0.78	1.08	63%	25%	10.6%	11%
+Team Total	27.7	6261	3.4%	23.2%	9.0%	8.8%	40%	2.59	3.8	25.9	7.5	0.75	0.99	63%	25%	10.6%	14%
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+
+Watch this video to find out more
+You may like this trending video
+Ad By Sponsor
+Team Win Probability* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Aaron Altherr	28	30	-7.2	-0.7	30	-0.4	0.1	-0.5	.79	-0.5	0.0	-5.1	-0.5	0.88	-6.7	0.83	11
+Drew Anderson	25	1	-0.3	0.0	1	0.0	0.0	0.0	.02	0.0	0.0	-0.2	0.0	0.86	-0.3		0
+Jake Arrieta	33	50	-7.4	-0.7	50	-0.6	0.4	-1.0	.96	-0.7	0.1	-6.5	-0.6	0.99	-7.6		0
+Rob Brantly*	29	1	-0.3	0.0	1	0.0	0.0	0.0	.24	0.0	0.0	-0.3	0.0	1.03	-0.3	0.24	1
+Jay Bruce*	32	149	-4.4	-0.4	149	-0.7	2.6	-3.3	1.05	-0.3	-0.4	-1.8	-0.2	0.93	-3.4	0.96	18
+Dylan Cozens*	25	1	-0.3	0.0	1	0.0	0.0	0.0	.24	0.0	0.0	-0.1	0.0	0.39	-0.3	0.24	1
+Enyel De Los Santos	23	1	-0.3	0.0	1	0.0	0.0	0.0	.99	0.0	0.0	-0.3	0.0	0.86	-0.3		0
+Corey Dickerson*	30	137	3.5	0.3	139	1.0	3.5	-2.5	1.04	0.4	0.5	13.5	1.2	0.97	8.1	1.10	5
+Seranthony Dominguez	24	1	-0.3	0.0	1	0.0	0.0	0.0	.00	0.0		-0.3	0.0	1.05	-0.3		0
+Zach Eflin	25	52	-8.4	-0.8	52	-0.8	0.3	-1.2	.99	-0.7	-0.1	-9.0	-0.9	0.94	-8.2		0
+Jerad Eickhoff	28	19	-3.9	-0.4	19	-0.3	0.0	-0.4	.92	-0.4	0.0	-4.2	-0.4	0.98	-4.5		0
+Maikel Franco	26	428	-12.4	-1.2	431	0.3	7.6	-7.3	.96	-0.5	0.8	-6.2	-0.6	0.93	-6.9	1.14	13
+Phil Gosselin	30	68	-4.3	-0.4	69	-0.5	0.8	-1.4	1.10	-0.5	0.0	-3.2	-0.3	0.94	-5.1	1.07	32
+Deivy Grullon	23	9	-1.5	-0.2	9	-0.2	0.0	-0.2	.80	-0.1	-0.2	-1.4	-0.1	0.93	-1.7	2.96	2
+J.D. Hammer	24	1	-0.3	0.0	1	0.0	0.0	0.0	1.07	0.0	0.0	-0.3	0.0	0.86	-0.3		0
+Bryce Harper*	26	682	24.2	2.3	707	4.6	15.6	-11.0	.99	3.3	1.3	48.4	4.5	0.92	42.4	0.77	2
+Adam Haseley*	23	242	-4.9	-0.5	251	-0.5	4.1	-4.6	1.04	0.0	-0.5	1.2	0.1	0.94	-0.5	0.12	3
+Cesar Hernandez#	29	667	-8.6	-0.8	693	-0.6	11.0	-11.6	.98	-0.1	-0.5	-5.1	-0.5	0.93	-3.1	1.08	3
+Odubel Herrera*	27	139	-7.0	-0.7	149	-0.3	2.1	-2.4	.95	-0.4	0.1	-3.8	-0.4	0.98	-5.0	0.90	5
+Rhys Hoskins	26	705	12.4	1.2	718	-0.1	12.2	-12.3	1.00	1.0	-1.1	7.4	0.7	0.94	15.1		0
+Cole Irvin*	25	8	-0.4	0.0	8	0.0	0.0	-0.1	.53	0.0	0.0	-0.6	-0.1	0.89	-0.3		0
+Scott Kingery	25	500	-0.8	-0.1	531	-0.6	8.5	-9.1	1.01	-0.2	-0.4	-1.4	-0.1	0.93	-0.7	1.28	8
+Andrew Knapp#	27	160	-6.3	-0.6	162	-1.6	1.7	-3.3	1.07	-0.7	-0.8	-8.9	-0.8	0.95	-7.3	1.43	32
+Andrew McCutchen	32	262	6.0	0.6	272	1.1	4.8	-3.7	.92	1.1	0.2	11.1	1.0	0.90	11.4		0
+Brad Miller*	29	130	5.3	0.5	132	0.0	2.7	-2.6	1.08	1.0	-1.0	3.2	0.3	0.93	10.2	1.28	30
+Logan Morrison*	31	38	-1.9	-0.2	39	-0.3	0.6	-1.0	1.06	0.0	-0.4	-1.8	-0.2	0.92	-0.2	1.12	23
+Hector Neris	30	1	-0.3	0.0	1	0.0	0.0	0.0	.22	0.0	0.0	-0.4	0.0	1.20	-0.3		0
+Juan Nicasio	32	2	-0.6	-0.1	2	-0.1	0.0	-0.1	1.34	-0.1	0.0	-0.8	-0.1	1.30	-0.6		0
+Aaron Nola	26	70	-9.6	-0.9	70	-0.3	0.7	-1.0	.78	-0.6	0.2	-3.5	-0.3	0.89	-6.5		0
+Blake Parker	34	1	-0.3	0.0	1	0.0	0.0	0.0	.61	0.0	0.0	-0.2	0.0	0.62	-0.3		0
+Jose Pirela	29	19	-0.1	0.0	19	-0.2	0.3	-0.4	1.22	0.0	-0.1	-0.3	0.0	0.84	-0.6	1.37	8
+Nick Pivetta	26	27	-5.6	-0.5	28	-0.5	0.1	-0.6	.91	-0.5	0.0	-6.2	-0.6	0.99	-6.2		0
+Roman Quinn#	26	122	-5.0	-0.5	131	-0.1	2.0	-2.2	1.09	-0.3	0.2	-1.5	-0.1	0.96	-4.5	1.38	8
+J.T. Realmuto	28	593	6.3	0.6	609	1.0	11.5	-10.6	.99	1.6	-0.6	7.5	0.7	0.98	14.2	2.13	12
+Sean Rodriguez	34	139	-1.5	-0.1	145	0.1	2.5	-2.4	.97	0.0	0.1	-0.1	0.0	0.96	0.8	1.10	26
+Jean Segura	29	618	-8.8	-0.8	643	1.4	11.2	-9.8	.94	0.1	1.4	4.9	0.5	0.91	-0.5	1.43	3
+Drew Smyly*	30	19	-5.1	-0.5	19	-0.5	0.0	-0.5	1.01	-0.4	0.0	-5.7	-0.6	1.07	-4.9		0
+Ranger Suarez*	23	5	-0.4	0.0	5	-0.1	0.0	-0.1	.83	-0.1	0.0	-0.6	-0.1	0.72	-0.7		0
+Jason Vargas*	36	14	-2.8	-0.3	14	-0.2	0.0	-0.3	.91	-0.3	0.0	-2.7	-0.3	0.82	-3.2		0
+Vince Velasquez	27	36	-2.0	-0.2	37	-0.3	0.3	-0.7	.88	-0.3	-0.1	-3.1	-0.3	0.88	-3.0	0.57	1
+Mitch Walding*	26	2	-0.6	-0.1	2	0.0	0.0	0.0	.32	-0.1	0.0	-0.4	0.0	0.68	-0.6	0.32	2
+Nick Williams*	25	112	-14.1	-1.4	115	-1.5	0.7	-2.2	.81	-1.1	-0.7	-15.0	-1.4	0.90	-14.5	0.73	39
+League Average									.99								
+Team Total	27.7	6261	-80.1	-7.8	6457	-2.1	108.0	-110.1	.98	-0.5	-1.6	-3.9	-0.6	0.94	-7.5	1.14	288
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Team Baserunning/Misc* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Aaron Altherr
+Drew Anderson
+Jake Arrieta
+Rob Brantly*
+Jay Bruce*
+Dylan Cozens*
+Enyel De Los Santos
+Corey Dickerson*
+Seranthony Dominguez
+Zach Eflin
+Jerad Eickhoff
+Maikel Franco
+Phil Gosselin
+Deivy Grullon
+J.D. Hammer
+Bryce Harper*
+Adam Haseley*
+Cesar Hernandez#
+Odubel Herrera*
+Rhys Hoskins
+Cole Irvin*
+Scott Kingery
+Andrew Knapp#
+Andrew McCutchen
+Brad Miller*
+Logan Morrison*
+Hector Neris
+Juan Nicasio
+Aaron Nola
+Blake Parker
+Jose Pirela
+Nick Pivetta
+Roman Quinn#
+J.T. Realmuto
+Sean Rodriguez
+Jean Segura
+Drew Smyly*
+Ranger Suarez*
+Jason Vargas*
+Vince Velasquez
+Mitch Walding*
+Nick Williams*
+League Average
+Team Total
+Name
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Aaron Altherr	28	30	1	0	40%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	1	1	0	0	0	0	0	0	0
+Drew Anderson	25	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Jake Arrieta	33	50	1	0	25%	9	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	25%	1	1	0	2	2	0	1	0	1
+Rob Brantly*	29	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Jay Bruce*	32	149	1	0	17%	31	0	0		0	0	0	0	0	0	0	0	1	0	0	0	1	0	33%	1	1	0	1	0	0	1	0	1
+Dylan Cozens*	25	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Enyel De Los Santos	23	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Corey Dickerson*	30	137	1	0	15%	41	0	0		0	0	0	0	0	0	0	0	3	0	1	1	1	2	22%	4	4	0	0	0	0	5	1	2
+Seranthony Dominguez	24	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Zach Eflin	25	52	1	0	38%	18	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	0%	0	0	0	0	0	0	1	1	0
+Jerad Eickhoff	28	19	0	0	0%	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Maikel Franco	26	428	7	0	28%	123	0	0		0	0	0	0	0	0	0	0	1	0	0	0	1	6	40%	13	11	2	3	2	1	9	1	7
+Phil Gosselin	30	68	0	0	25%	28	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	63%	5	3	2	1	0	1	2	0	2
+Deivy Grullon	23	9	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+J.D. Hammer	24	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Bryce Harper*	26	682	3	0	29%	252	15	3	83%	14	2	1	0	0	1	0	0	8	0	3	1	4	21	33%	25	17	7	20	15	5	24	9	11
+Adam Haseley*	23	242	2	0	34%	98	4	0	100%	4	0	0	0	0	0	0	0	1	1	0	0	0	7	50%	10	7	3	4	0	4	10	4	5
+Cesar Hernandez#	29	667	6	0	30%	283	9	2	82%	8	1	1	1	0	0	0	0	2	1	0	1	0	24	33%	35	27	8	9	5	4	19	10	9
+Odubel Herrera*	27	139	0	0	28%	49	2	2	50%	2	2	0	0	0	0	0	0	1	1	0	0	0	8	0%	4	4	0	1	1	0	2	2	0
+Rhys Hoskins	26	705	4	2	25%	241	2	2	50%	0	2	2	0	0	0	0	0	3	0	0	1	2	17	31%	29	21	7	13	11	2	16	5	9
+Cole Irvin*	25	8	0	0	33%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	0	0	0	0	0	0	1	1	0
+Scott Kingery	25	500	3	0	33%	187	15	4	79%	12	3	3	0	0	1	1	1	3	0	0	2	1	11	49%	27	16	11	8	3	5	14	5	8
+Andrew Knapp#	27	160	0	0	21%	73	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	44%	6	4	2	1	0	1	2	1	1
+Andrew McCutchen	32	262	1	0	39%	115	2	1	67%	1	1	1	0	0	0	0	0	0	0	0	0	0	8	28%	18	14	4	8	6	2	6	3	3
+Brad Miller*	29	130	2	0	31%	37	1	0	100%	1	0	0	0	0	0	0	0	0	0	0	0	0	1	31%	8	7	1	0	0	0	5	2	3
+Logan Morrison*	31	38	1	0	38%	8	0	0		0	0	0	0	0	0	1	0	0	0	0	0	0	1	17%	4	3	1	0	0	0	2	2	0
+Hector Neris	30	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Juan Nicasio	32	2	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Aaron Nola	26	70	3	0	46%	21	0	0		0	0	0	0	0	0	0	0	1	1	0	0	0	1	0%	1	1	0	3	3	0	1	1	0
+Blake Parker	34	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Jose Pirela	29	19	0	0	0%	3	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Nick Pivetta	26	27	0	0	33%	4	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	0%	1	1	0	0	0	0	0	0	0
+Roman Quinn#	26	122	0	0	41%	27	8	0	100%	6	0	1	0	1	0	0	0	1	1	0	0	0	2	50%	3	1	2	2	1	1	3	2	1
+J.T. Realmuto	28	593	7	1	40%	182	9	1	90%	7	1	2	0	0	0	0	0	5	0	3	2	0	10	54%	26	12	14	10	5	5	16	7	9
+Sean Rodriguez	34	139	2	0	46%	50	1	1	50%	1	1	0	0	0	0	0	0	1	0	0	1	0	5	46%	6	3	2	2	2	0	3	0	3
+Jean Segura	29	618	4	0	36%	239	10	2	83%	9	2	1	0	0	0	0	0	5	2	2	1	0	18	56%	24	12	12	10	6	4	14	3	11
+Drew Smyly*	30	19	0	0	100%	4	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	0	0	0	0	0	0	1	1	0
+Ranger Suarez*	23	5	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Jason Vargas*	36	14	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Vince Velasquez	27	36	0	0	11%	13	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2		0	0	0	0	0	0	0	0	0
+Mitch Walding*	26	2	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Nick Williams*	25	112	1	0	33%	41	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	63%	2	2	0	0	0	0	6	1	5
+League Average					31%				74%															42%									
+Team Total	27.7	6261	51	3	31%	2184	78	18	81%	65	15	12	1	1	2	2	1	36	7	9	10	10	151	40%	254	173	78	98	62	35	164	62	91
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Support us without the ads? Go Ad-Free.
+Team PH/HR/Situ Hitting* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+|
+Name
+Aaron Altherr
+Drew Anderson
+Jake Arrieta
+Rob Brantly*
+Jay Bruce*
+Dylan Cozens*
+Enyel De Los Santos
+Corey Dickerson*
+Seranthony Dominguez
+Zach Eflin
+Jerad Eickhoff
+Maikel Franco
+Phil Gosselin
+Deivy Grullon
+J.D. Hammer
+Bryce Harper*
+Adam Haseley*
+Cesar Hernandez#
+Odubel Herrera*
+Rhys Hoskins
+Cole Irvin*
+Scott Kingery
+Andrew Knapp#
+Andrew McCutchen
+Brad Miller*
+Logan Morrison*
+Hector Neris
+Juan Nicasio
+Aaron Nola
+Blake Parker
+Jose Pirela
+Nick Pivetta
+Roman Quinn#
+J.T. Realmuto
+Sean Rodriguez
+Jean Segura
+Drew Smyly*
+Ranger Suarez*
+Jason Vargas*
+Vince Velasquez
+Mitch Walding*
+Nick Williams*
+League Average
+Team Total
+Name
+Hits	Pinch Hitting	Home Runs	SH	GIDP	PrdOut	BaseRunners	Advances	
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Aaron Altherr	28	30	40.0%	1	0	0	11	1	0	1	0.83	0	0	0	0	0	0	0	0	0	0		5	1	20.0%	2	0	0.0%	17	1	5.9%	0	0		2	0	0.0%	0
+Drew Anderson	25	1	100.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Jake Arrieta	33	50	22.0%	7	1	0	0	0	0	0		0	0	3	0	0	0	0	0	7	4	57.1%	10	1	10.0%	11	3	27.3%	37	5	13.5%	3	1	33.3%	4	3	75.0%	0
+Rob Brantly*	29	1	0.0%	0	0	0	1	0	0	0	0.24	0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Jay Bruce*	32	149	76.5%	32	1	0	18	2	2	3	0.96	12	1	7	11	1	3	9	0	0	0		24	4	16.7%	13	5	38.5%	102	22	21.6%	9	5	55.6%	7	4	57.1%	0
+Dylan Cozens*	25	1	100.0%	0	0	0	1	0	0	0	0.24	0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Enyel De Los Santos	23	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Corey Dickerson*	30	137	69.3%	39	4	0	5	1	0	0	1.10	8	0	3	5	3	6	2	0	0	0		18	1	5.6%	10	1	10.0%	93	26	28.0%	7	2	28.6%	4	0	0.0%	0
+Seranthony Dominguez	24	1	100.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Zach Eflin	25	52	46.2%	8	2	1	0	0	0	0		0	0	3	0	0	0	0	0	5	2	40.0%	8	0	0.0%	10	1	10.0%	34	2	5.9%	3	1	33.3%	0	0		0
+Jerad Eickhoff	28	19	5.3%	0	0	0	0	0	0	0		0	0	1	0	0	0	0	0	4	4	100.0%	6	0	0.0%	5	1	20.0%	14	0	0.0%	1	0	0.0%	2	1	50.0%	0
+Maikel Franco	26	428	27.3%	91	11	0	13	3	1	2	1.14	17	0	12	11	6	13	4	0	0	0		82	14	17.1%	40	12	30.0%	261	40	15.3%	24	14	58.3%	12	6	50.0%	0
+Phil Gosselin	30	68	44.1%	17	1	0	32	10	0	3	1.07	0	0	3	0	0	0	0	0	0	0		11	1	9.1%	2	2	100.0%	42	7	16.7%	4	4	100.0%	2	2	100.0%	0
+Deivy Grullon	23	9	33.3%	1	0	0	2	0	0	0	2.96	0	0	0	0	0	0	0	0	0	0		2	1	50.0%	1	0	0.0%	5	1	20.0%	0	0		0	0		0
+J.D. Hammer	24	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Bryce Harper*	26	682	68.8%	149	15	4	2	1	1	2	0.77	35	2	19	20	15	20	15	0	2	0	0.0%	146	10	6.9%	59	15	25.4%	405	82	20.3%	34	18	52.9%	25	14	56.0%	0
+Adam Haseley*	23	242	76.5%	59	10	0	3	2	0	0	0.12	5	0	6	5	0	3	2	0	1	1	100.0%	39	7	18.0%	22	8	36.4%	143	23	16.1%	15	10	66.7%	10	7	70.0%	0
+Cesar Hernandez#	29	667	100.0%	171	28	4	3	1	0	0	1.08	14	0	18	13	1	7	7	0	0	0		102	9	8.8%	46	16	34.8%	383	59	15.4%	36	19	52.8%	18	8	44.4%	0
+Odubel Herrera*	27	139	81.3%	28	2	0	5	0	0	0	0.90	1	0	6	1	0	1	0	0	0	0		27	0	0.0%	17	8	47.1%	92	15	16.3%	12	6	50.0%	4	3	75.0%	0
+Rhys Hoskins	26	705	26.7%	129	9	0	0	0	0	0		29	1	17	20	9	16	13	0	0	0		125	10	8.0%	56	11	19.6%	446	58	13.0%	46	21	45.7%	21	5	23.8%	0
+Cole Irvin*	25	8	50.0%	1	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		2	0	0.0%	2	0	0.0%	4	0	0.0%	0	0		0	0		0
+Scott Kingery	25	500	25.8%	118	10	0	8	1	0	0	1.28	19	0	12	12	7	10	9	1	1	1	100.0%	87	3	3.5%	41	7	17.1%	271	36	13.3%	23	9	39.1%	18	7	38.9%	0
+Andrew Knapp#	27	160	100.0%	29	2	0	32	7	0	2	1.43	2	0	2	2	0	0	2	0	5	3	60.0%	27	2	7.4%	17	5	29.4%	101	6	5.9%	5	1	20.0%	10	5	50.0%	0
+Andrew McCutchen	32	262	24.1%	56	4	0	0	0	0	0		10	0	4	10	0	5	5	0	0	0		27	1	3.7%	15	4	26.7%	106	19	17.9%	12	7	58.3%	3	1	33.3%	0
+Brad Miller*	29	130	87.7%	31	3	0	30	7	1	3	1.28	12	0	3	11	1	6	6	0	0	0		33	2	6.1%	18	2	11.1%	79	9	11.4%	4	1	25.0%	9	2	22.2%	0
+Logan Morrison*	31	38	86.8%	7	0	0	23	5	2	3	1.12	2	0	1	2	0	1	1	0	0	0		6	1	16.7%	2	0	0.0%	20	2	10.0%	1	0	0.0%	0	0		0
+Hector Neris	30	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Juan Nicasio	32	2	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		1	0	0.0%	1	0	0.0%	2	0	0.0%	0	0		0	0		0
+Aaron Nola	26	70	35.7%	7	0	0	0	0	0	0		0	0	2	0	0	0	0	0	6	5	83.3%	9	0	0.0%	7	3	42.9%	35	4	11.4%	3	2	66.7%	1	1	100.0%	0
+Blake Parker	34	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Jose Pirela	29	19	68.4%	4	1	0	8	2	0	0	1.37	1	0	0	0	1	0	1	0	0	0		1	0	0.0%	1	0	0.0%	9	1	11.1%	1	0	0.0%	0	0		0
+Nick Pivetta	26	27	25.9%	2	1	0	0	0	0	0		0	0	0	0	0	0	0	0	2	1	50.0%	2	0	0.0%	2	1	50.0%	20	0	0.0%	0	0		0	0		0
+Roman Quinn#	26	122	89.3%	23	9	6	8	2	0	0	1.38	4	0	2	2	2	3	1	0	7	1	14.3%	26	2	7.7%	7	0	0.0%	72	7	9.7%	6	3	50.0%	3	1	33.3%	0
+J.T. Realmuto	28	593	26.6%	148	16	0	12	2	1	3	2.13	25	2	24	17	8	16	9	0	0	0		122	12	9.8%	55	12	21.8%	406	59	14.5%	31	18	58.1%	15	8	53.3%	0
+Sean Rodriguez	34	139	56.1%	25	3	0	26	4	1	3	1.10	4	0	4	1	3	3	1	0	5	4	80.0%	29	2	6.9%	12	5	41.7%	84	8	9.5%	6	3	50.0%	8	4	50.0%	0
+Jean Segura	29	618	23.8%	161	27	0	3	1	0	0	1.43	12	0	15	6	6	9	3	0	1	1	100.0%	104	11	10.6%	57	13	22.8%	336	49	14.6%	27	13	48.2%	18	11	61.1%	0
+Drew Smyly*	30	19	89.5%	0	0	0	0	0	0	0		0	0	1	0	0	0	0	0	1	0	0.0%	4	0	0.0%	5	1	20.0%	13	0	0.0%	0	0		1	0	0.0%	0
+Ranger Suarez*	23	5	60.0%	1	1	0	0	0	0	0		0	0	0	0	0	0	0	0	1	1	100.0%	1	0	0.0%	1	1	100.0%	1	0	0.0%	0	0		0	0		0
+Jason Vargas*	36	14	57.1%	1	0	0	0	0	0	0		0	0	0	0	0	0	0	0	2	2	100.0%	3	0	0.0%	4	0	0.0%	6	0	0.0%	0	0		0	0		0
+Vince Velasquez	27	36	11.1%	7	1	0	1	1	0	0	0.57	1	0	0	1	0	0	1	0	5	4	80.0%	6	1	16.7%	9	3	33.3%	19	2	10.5%	3	1	33.3%	2	2	100.0%	0
+Mitch Walding*	26	2	100.0%	0	0	0	2	0	0	0	0.32	0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Nick Williams*	25	112	84.8%	16	0	0	39	5	0	1	0.73	2	0	0	2	0	1	1	0	0	0		17	1	5.9%	12	1	8.3%	65	3	4.6%	4	1	25.0%	7	2	28.6%	0
+League Average			51.9%																			65.4%			10.2%			26.9%			14.8%			51.3%			51.5%	
+Team Total	27.7	6261	51.1%	1369	162	15	288	58	9	26	1.14	215	6	168	152	63	123	92	1	55	34	61.8%	1112	97	8.7%	562	141	25.1%	3727	546	14.7%	320	160	50.0%	206	97	47.1%	0
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Team Pitches Batting* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Aaron Altherr
+Drew Anderson
+Jake Arrieta
+Rob Brantly*
+Jay Bruce*
+Dylan Cozens*
+Enyel De Los Santos
+Corey Dickerson*
+Seranthony Dominguez
+Zach Eflin
+Jerad Eickhoff
+Maikel Franco
+Phil Gosselin
+Deivy Grullon
+J.D. Hammer
+Bryce Harper*
+Adam Haseley*
+Cesar Hernandez#
+Odubel Herrera*
+Rhys Hoskins
+Cole Irvin*
+Scott Kingery
+Andrew Knapp#
+Andrew McCutchen
+Brad Miller*
+Logan Morrison*
+Hector Neris
+Juan Nicasio
+Aaron Nola
+Blake Parker
+Jose Pirela
+Nick Pivetta
+Roman Quinn#
+J.T. Realmuto
+Sean Rodriguez
+Jean Segura
+Drew Smyly*
+Ranger Suarez*
+Jason Vargas*
+Vince Velasquez
+Mitch Walding*
+Nick Williams*
+League Average
+Team Total
+Name
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Aaron Altherr	28	30	122	4.07	84	68.9%	21.4%	22.6%	32.1%	23.8%	78.6%	0.0%	54.1%	71.2%	26.7%	0.0%	0	0	16.7%	5	4	6.7%	2	1	3	6	33.3%	0	0	0
+Drew Anderson	25	1	4	4.00	3	75.0%	33.3%	66.7%	0.0%	0.0%	66.7%	0.0%	50.0%	0.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Jake Arrieta	33	50	186	3.72	131	70.4%	37.4%	22.1%	17.6%	22.9%	62.6%	0.0%	44.1%	64.6%	24.0%	4.0%	2	0	18.0%	9	2	8.0%	4	2	6	12	31.6%	0	0	0
+Rob Brantly*	29	1	3	3.00	3	100.0%	33.3%	66.7%	0.0%	0.0%	66.7%		66.7%	0.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Jay Bruce*	32	150	513	3.42	355	69.2%	13.0%	25.9%	28.2%	33.0%	87.0%	0.0%	60.2%	70.2%	40.0%	3.3%	5	0	10.0%	15	8	2.7%	4	4	4	25	13.8%	0	0	0
+Dylan Cozens*	25	1	4	4.00	2	50.0%	0.0%	50.0%	0.0%	50.0%	100.0%	0.0%	50.0%	50.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Enyel De Los Santos	23	1	5	5.00	3	60.0%	100.0%	0.0%	0.0%	0.0%	0.0%	0.0%	0.0%		0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	0	100.0%	0	0	0
+Corey Dickerson*	30	137	584	4.26	413	70.7%	13.6%	23.0%	39.0%	24.5%	86.4%	0.0%	61.1%	73.4%	40.1%	3.6%	5	3	8.0%	11	6	5.8%	8	7	5	28	15.2%	0	0	0
+Seranthony Dominguez	24	1	3	3.00	3	100.0%	33.3%	66.7%	0.0%	0.0%	66.7%		66.7%	0.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Zach Eflin	25	52	180	3.46	144	80.0%	26.4%	35.4%	20.8%	17.4%	73.6%	0.0%	58.9%	51.9%	50.0%	0.0%	0	0	3.8%	2	0	1.9%	1	0	6	21	22.2%	0	0	0
+Jerad Eickhoff	28	19	69	3.63	50	72.5%	42.0%	20.0%	16.0%	22.0%	58.0%	0.0%	42.0%	65.5%	31.6%	5.3%	1	0	10.5%	2	0	5.3%	1	1	4	3	57.1%	0	0	0
+Maikel Franco	26	428	1581	3.69	1003	63.4%	22.4%	17.0%	27.5%	33.0%	77.6%	0.0%	49.2%	78.0%	29.4%	8.9%	38	10	18.5%	79	29	7.5%	32	25	11	50	18.0%	0	0	0
+Phil Gosselin	30	68	266	3.91	175	65.8%	30.9%	16.6%	24.6%	28.0%	69.1%	0.0%	45.5%	76.0%	27.9%	2.9%	2	0	14.7%	10	4	10.3%	7	4	6	10	37.5%	0	0	0
+Deivy Grullon	23	9	29	3.22	22	75.9%	9.1%	36.4%	22.7%	31.8%	90.9%	0.0%	69.0%	60.0%	66.7%	11.1%	1	1	11.1%	1	0	11.1%	1	0	0	2	0.0%	0	0	0
+J.D. Hammer	24	1	5	5.00	3	60.0%	66.7%	0.0%	0.0%	33.3%	33.3%	0.0%	20.0%	100.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Bryce Harper*	26	683	2825	4.14	1675	59.3%	18.9%	27.4%	29.9%	23.8%	81.1%	0.0%	48.1%	66.2%	43.8%	9.2%	63	8	19.0%	130	39	12.2%	83	45	25	153	14.0%	0	0	0
+Adam Haseley*	23	243	980	4.03	635	64.8%	23.3%	22.0%	29.0%	25.7%	76.7%	0.0%	49.7%	71.3%	31.3%	2.1%	5	1	10.3%	25	18	6.6%	16	12	14	46	23.3%	0	0	0
+Cesar Hernandez#	29	668	2616	3.92	1683	64.3%	29.0%	12.2%	28.2%	30.7%	71.0%	0.0%	45.7%	82.8%	28.4%	4.0%	27	1	12.3%	82	22	8.8%	59	29	40	60	40.0%	0	0	0
+Odubel Herrera*	27	139	533	3.83	354	66.4%	21.8%	22.3%	29.4%	26.6%	78.2%	0.0%	52.0%	71.5%	36.0%	2.2%	3	1	9.4%	13	5	9.4%	13	11	4	29	12.1%	0	0	0
+Rhys Hoskins	26	707	3244	4.59	1893	58.4%	33.2%	15.5%	30.0%	21.3%	66.8%	0.0%	39.0%	76.8%	18.2%	8.6%	61	8	18.7%	132	41	16.1%	114	60	39	134	22.5%	0	0	0
+Cole Irvin*	25	8	35	4.38	24	68.6%	33.3%	16.7%	33.3%	16.7%	66.7%	0.0%	45.7%	75.0%	50.0%	12.5%	1	0	12.5%	1	0	12.5%	1	0	1	1	50.0%	0	0	0
+Scott Kingery	25	500	1977	3.95	1282	64.8%	22.2%	24.8%	28.5%	24.5%	77.8%	0.0%	50.5%	68.1%	34.2%	3.2%	16	0	10.2%	51	26	7.8%	39	21	18	129	12.2%	0	0	0
+Andrew Knapp#	27	160	651	4.07	409	62.8%	18.6%	25.4%	34.5%	21.5%	81.4%	0.0%	51.2%	68.8%	43.8%	5.6%	9	0	15.6%	25	14	11.9%	19	9	10	41	19.6%	0	0	0
+Andrew McCutchen	32	262	1165	4.45	676	58.0%	38.9%	15.7%	21.2%	24.3%	61.1%	0.0%	35.5%	74.3%	13.0%	3.8%	10	0	16.4%	43	14	17.2%	45	15	17	38	30.9%	0	0	0
+Brad Miller*	29	130	506	3.89	316	62.5%	25.3%	23.1%	25.3%	26.3%	74.7%	0.0%	46.6%	69.1%	38.5%	4.6%	6	0	16.2%	21	8	10.0%	13	4	12	23	34.3%	0	0	0
+Logan Morrison*	31	38	156	4.11	101	64.7%	17.8%	19.8%	37.6%	24.8%	82.2%	0.0%	53.2%	75.9%	28.9%	0.0%	0	0	15.8%	6	5	10.5%	4	4	2	8	20.0%	0	0	0
+Hector Neris	30	1	6	6.00	3	50.0%	100.0%	0.0%	0.0%	0.0%	0.0%	0.0%	0.0%		0.0%	0.0%	0	0	100.0%	1	0	100.0%	1	0	1	0	100.0%	0	0	0
+Juan Nicasio	32	2	10	5.00	9	90.0%	44.4%	11.1%	33.3%	11.1%	55.6%	0.0%	50.0%	80.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Aaron Nola	26	70	286	4.09	178	62.2%	62.4%	6.2%	15.2%	16.3%	37.6%	0.0%	23.4%	83.6%	10.0%	1.4%	1	0	10.0%	7	0	8.6%	6	1	27	6	77.1%	0	0	0
+Blake Parker	34	1	4	4.00	3	75.0%	66.7%	33.3%	0.0%	0.0%	33.3%	0.0%	25.0%	0.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Jose Pirela	29	19	70	3.68	42	60.0%	26.2%	21.4%	21.4%	31.0%	73.8%	0.0%	44.3%	71.0%	26.3%	0.0%	0	0	15.8%	3	2	15.8%	3	1	2	2	50.0%	0	0	0
+Nick Pivetta	26	27	112	4.15	79	70.5%	48.1%	32.9%	10.1%	8.9%	51.9%	0.0%	36.6%	36.6%	18.5%	3.7%	1	0	14.8%	4	0	14.8%	4	0	7	12	36.8%	0	0	0
+Roman Quinn#	26	122	447	3.66	285	63.8%	31.6%	21.4%	20.7%	26.3%	68.4%	0.0%	43.6%	68.7%	37.7%	2.5%	3	0	9.8%	12	6	9.0%	11	5	11	23	32.4%	0	0	0
+J.T. Realmuto	28	594	2336	3.93	1516	64.9%	22.0%	18.6%	31.5%	27.9%	78.0%	0.0%	50.6%	76.2%	31.8%	3.7%	22	2	15.3%	91	46	6.6%	39	23	18	105	14.6%	0	0	0
+Sean Rodriguez	34	139	590	4.24	344	58.3%	25.0%	25.6%	27.3%	22.1%	75.0%	0.0%	43.7%	65.9%	34.5%	2.2%	3	1	11.5%	16	9	12.2%	17	10	15	26	36.6%	0	0	0
+Jean Segura	29	619	2236	3.61	1509	67.5%	29.8%	10.3%	26.4%	33.6%	70.2%	0.0%	47.4%	85.4%	21.0%	3.1%	19	0	13.2%	82	40	6.8%	42	22	13	60	17.8%	0	0	0
+Drew Smyly*	30	19	71	3.74	52	73.2%	26.9%	23.1%	30.8%	19.2%	73.1%	0.0%	53.5%	68.4%	36.8%	0.0%	0	0	10.5%	2	0	0.0%	0	0	1	6	12.5%	0	0	0
+Ranger Suarez*	23	5	18	3.60	14	77.8%	35.7%	14.3%	28.6%	21.4%	64.3%	0.0%	50.0%	77.8%	20.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	1	50.0%	0	0	0
+Jason Vargas*	36	14	47	3.36	34	72.3%	50.0%	11.8%	14.7%	23.5%	50.0%	0.0%	36.2%	76.5%	42.9%	0.0%	0	0	7.1%	1	0	7.1%	1	0	5	1	83.3%	0	0	0
+Vince Velasquez	27	36	135	3.75	94	69.6%	25.5%	18.1%	29.8%	26.6%	74.5%	0.0%	51.9%	75.7%	30.6%	0.0%	0	0	5.6%	2	1	5.6%	2	2	0	9	0.0%	0	0	0
+Mitch Walding*	26	2	9	4.50	6	66.7%	0.0%	83.3%	16.7%	0.0%	100.0%	0.0%	66.7%	16.7%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	2	0.0%	0	0	0
+Nick Williams*	25	112	455	4.06	311	68.4%	22.5%	22.2%	35.0%	20.3%	77.5%	0.0%	53.0%	71.4%	25.0%	0.9%	1	0	13.4%	15	8	1.8%	2	2	10	33	23.3%	0	0	0
+League Average				3.91		63.7%	25.4%	19.2%	28.5%	27.0%	74.6%	0.0%	47.5%	74.3%	30.7%	4.5%			13.5%			8.4%					22.6%			
+Team Total	27.7	6269	25074	4.00	15921	63.5%	26.1%	19.2%	28.4%	26.3%	73.9%	0.0%	46.9%	74.0%	30.1%	4.9%	305	36	14.3%	899	357	9.5%	594	320	339	1110	23.3%	0	0	0
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Team Neutralized Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Aaron Altherr	28	49	64	60	5	4	2	0	1	2	0	0	2	25	.067	.109	.150	.259	1	49
+Drew Anderson	25	2	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	2
+Jake Arrieta	33	23	49	44	1	6	1	0	0	3	0	0	1	19	.136	.156	.159	.315	1	23
+Rob Brantly*	29	1	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	1
+Jay Bruce*	32	98	330	308	41	65	16	0	25	56	1	0	18	82	.211	.255	.506	.761	40	98
+Dylan Cozens*	25	1	1	1	0	0	0	0	0	0	0		0	0	.000	.000	.000	.000	0	1
+Enyel De Los Santos	23	5	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	5
+Corey Dickerson*	30	78	273	255	30	74	26	2	11	53	1	0	15	56	.290	.326	.537	.863	45	78
+Seranthony Dominguez	24	26	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	26
+Zach Eflin	25	31	51	49	2	7	1	0	0	1	0	0	0	27	.143	.143	.163	.306	1	31
+Jerad Eickhoff	28	12	19	14	0	0	0	0	0	0	0		1	7	.000	.067	.000	.067	0	12
+Maikel Franco	26	123	417	381	41	83	16	0	16	48	0	0	33	61	.218	.278	.386	.664	41	123
+Phil Gosselin	30	44	66	63	4	15	3	0	0	6	0	0	3	16	.238	.273	.286	.558	5	44
+Deivy Grullon	23	4	9	9	0	0	0	0	0	0	0		0	2	.000	.000	.000	.000	0	4
+J.D. Hammer	24	20	1	1	0	0	0	0	0	0	0		0	0	.000	.000	.000	.000	0	20
+Bryce Harper*	26	157	662	561	85	137	33	1	32	99	14	3	91	178	.244	.353	.478	.831	94	157
+Adam Haseley*	23	67	237	218	26	55	13	0	5	23	4	0	13	60	.252	.309	.381	.690	24	67
+Cesar Hernandez#	29	161	651	599	67	158	29	3	13	62	8	2	42	100	.264	.316	.387	.704	72	161
+Odubel Herrera*	27	39	136	124	11	26	9	1	1	14	2	2	10	33	.210	.272	.323	.595	11	39
+Rhys Hoskins	26	160	683	560	75	119	30	5	27	74	2	2	107	173	.213	.346	.429	.774	81	160
+Jared Hughes	33	66	2	2	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	66
+Cole Irvin*	25	14	8	6	0	0	0	0	0	0	0		2	2	.000	.250	.000	.250	0	14
+Scott Kingery	25	126	487	448	55	108	31	4	17	48	14	4	31	147	.241	.296	.442	.738	58	126
+Andrew Knapp#	27	74	157	134	11	27	8	0	2	7	0	0	17	51	.201	.305	.306	.611	12	74
+Andrew McCutchen	32	59	255	215	39	52	11	1	9	25	2	1	40	55	.242	.361	.428	.789	33	59
+Brad Miller*	29	79	166	151	23	37	6	1	12	22	2	0	14	45	.245	.313	.536	.850	25	79
+Logan Morrison*	31	29	37	34	4	6	1	0	2	2	0	0	3	10	.176	.243	.382	.626	3	29
+Hector Neris	30	63	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	63
+Juan Nicasio	32	45	2	2	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	45
+Aaron Nola	26	32	70	59	7	7	2	0	0	2	0	0	6	35	.119	.200	.153	.353	2	32
+Blake Parker	34	24	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	24
+Jose Pirela	29	14	24	22	1	4	1	0	1	2	0	0	2	7	.182	.250	.364	.614	2	14
+Nick Pivetta	26	29	27	25	0	0	0	0	0	0	0		1	19	.000	.038	.000	.038	0	29
+Roman Quinn#	26	44	119	106	15	21	3	1	4	9	7	0	11	34	.198	.280	.358	.638	10	44
+J.T. Realmuto	28	145	577	526	80	136	33	3	23	72	8	1	38	123	.259	.310	.464	.774	75	145
+Sean Rodriguez	34	76	135	110	20	23	5	0	4	10	1	1	17	41	.209	.328	.364	.692	12	76
+Jean Segura	29	144	603	564	69	149	34	4	11	53	9	2	28	73	.264	.306	.397	.703	67	144
+Drew Smyly*	30	11	20	19	1	0	0	0	0	0	0		1	9	.000	.050	.000	.050	0	11
+Ranger Suarez*	23	34	5	4	0	0	0	0	0	0	0		0	2	.000	.000	.000	.000	0	34
+Jason Vargas*	36	27	45	40	0	0	0	0	0	0	0		0	22	.000	.000	.000	.000	0	27
+Vince Velasquez	27	33	35	29	1	6	0	0	1	2	0	0	2	9	.207	.258	.310	.568	2	33
+Nick Vincent	32	30	3	3	0	0	0	0	0	0	0		0	3	.000	.000	.000	.000	0	30
+Mitch Walding*	26	2	2	2	0	0	0	0	0	0	0		0	2	.000	.000	.000	.000	0	2
+Nick Williams*	25	67	111	105	8	15	4	0	2	4	0	0	4	43	.143	.189	.238	.427	4	67
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Team Cumulative Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+Aaron Altherr	28	6	359	1156	1016	142	222	54	10	37	150	21	10	110	332	.219	.307	.401	.708	88	407	33	23	1	6	4
+Jose Alvarez*	30	7	80	3	2	0	0	0	0	0	0	0	0	1	0	.000	.333	.000	.333	3	0	0	0	0	0	0
+Drew Anderson	25	3	8	5	4	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	0	0	1	0	0
+Victor Arano	24	3	71	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Jake Arrieta	33	10	175	396	359	22	60	6	4	6	27	0	0	14	181	.167	.198	.256	.455	21	92	5	0	23	0	0
+Rob Brantly*	29	5	126	429	388	32	89	19	0	7	37	1	1	33	92	.229	.294	.332	.626	72	129	10	4	0	4	3
+Jay Bruce*	32	12	1608	6500	5834	825	1432	307	30	312	934	65	40	588	1535	.245	.315	.469	.784	109	2735	98	28	3	46	70
+Dylan Cozens*	25	2	27	45	39	2	6	2	0	1	2	1	0	6	24	.154	.267	.282	.549	48	11	0	0	0	0	0
+Austin Davis*	26	2	44	3	3	0	0	0	0	0	0	0	0	0	3	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Enyel De Los Santos	23	2	12	6	4	0	0	0	0	0	0	0	0	0	3	.000	.000	.000	.000	-100	0	0	0	2	0	0
+Corey Dickerson*	30	7	776	2914	2716	375	776	190	29	115	370	23	18	168	620	.286	.328	.504	.832	119	1369	51	10	1	17	26
+Seranthony Dominguez	24	2	74	3	2	0	0	0	0	0	0	0	0	1	2	.000	.333	.000	.333	1	0	0	0	0	0	0
+Zach Eflin	25	4	76	147	138	9	21	3	0	1	5	0	0	0	79	.152	.152	.196	.348	-9	27	2	0	9	0	0
+Jerad Eickhoff	28	5	73	132	121	8	15	4	0	0	7	0	0	2	40	.124	.138	.157	.295	-21	19	3	0	9	0	0
+Maikel Franco	26	6	656	2539	2338	279	583	110	4	102	343	3	1	173	389	.249	.302	.431	.733	93	1007	72	11	0	17	38
+Edgar Garcia	22	1	35	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Phil Gosselin	30	7	320	647	597	77	157	30	2	7	42	7	4	39	127	.263	.312	.355	.667	78	212	6	5	3	3	2
+Deivy Grullon	23	1	4	9	9	0	1	1	0	0	1	0	0	0	2	.111	.111	.222	.333	-17	2	1	0	0	0	0
+J.D. Hammer	24	1	20	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Bryce Harper*	26	8	1084	4639	3879	708	1071	219	19	219	635	90	34	684	1012	.276	.385	.512	.897	137	1985	76	29	9	38	81
+Adam Haseley*	23	1	67	242	222	30	59	14	0	5	26	4	0	14	60	.266	.324	.396	.720	85	88	7	5	1	0	1
+Cesar Hernandez#	29	7	832	3282	2915	407	807	113	27	46	253	80	35	325	620	.277	.352	.381	.733	97	1112	44	19	11	12	15
+Odubel Herrera*	27	5	631	2492	2280	294	630	122	16	60	233	56	24	171	544	.276	.333	.423	.756	102	964	36	26	8	7	14
+Rhys Hoskins	26	3	363	1577	1298	212	310	78	5	81	229	9	5	240	369	.239	.364	.494	.858	123	641	19	23	0	13	9
+Jared Hughes	33	9	498	9	8	0	0	0	0	0	0	0	0	0	6	.000	.000	.000	.000	-100	0	0	0	1	0	0
+Tommy Hunter	32	12	102	4	4	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Cole Irvin*	25	1	14	8	6	1	1	0	0	0	0	0	0	2	2	.167	.375	.167	.542	50	1	0	0	0	0	0
+Scott Kingery	25	2	273	984	910	119	220	57	6	27	90	25	7	58	273	.242	.291	.407	.698	81	370	5	8	1	7	2
+Andrew Knapp#	27	3	214	579	494	57	110	23	3	9	36	2	0	73	182	.223	.327	.336	.663	76	166	9	5	4	3	7
+Andrew McCutchen	32	11	1560	6773	5821	942	1664	334	48	233	819	187	77	823	1238	.286	.378	.480	.858	134	2793	94	72	3	54	64
+Brad Miller*	29	7	759	2675	2381	295	573	109	26	88	293	35	16	252	634	.241	.314	.419	.733	102	998	27	11	9	20	7
+Adam Morgan*	29	5	173	66	60	3	6	2	0	0	2	0	0	2	24	.100	.129	.133	.262	-28	8	0	0	4	0	0
+Mike Morin	28	6	35	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Logan Morrison*	31	10	988	3751	3306	413	789	162	21	139	424	23	10	390	732	.239	.324	.426	.751	105	1410	68	37	1	17	25
+Hector Neris	30	6	288	3	3	0	0	0	0	0	0	0	0	0	3	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Pat Neshek#	38	13	223	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Juan Nicasio	32	9	300	145	123	5	15	2	0	0	9	0	0	6	70	.122	.162	.138	.300	-21	17	0	0	15	1	0
+Aaron Nola	26	5	120	255	222	10	17	4	0	0	8	0	0	15	129	.077	.139	.095	.233	-36	21	4	1	17	0	0
+Blake Parker	34	7	101	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Jose Pirela	29	6	302	985	909	113	234	55	8	17	82	11	7	63	196	.257	.308	.392	.699	90	356	24	5	3	5	1
+Nick Pivetta	26	3	85	120	109	7	9	1	0	0	1	0	0	3	60	.083	.107	.092	.199	-46	10	3	0	8	0	0
+Roman Quinn#	26	3	109	334	296	41	72	13	5	6	29	23	5	30	88	.243	.321	.382	.703	86	113	3	4	4	0	0
+Edubray Ramos	26	4	162	2	1	0	0	0	0	0	0	0	0	1	1	.000	.500	.000	.500	52	0	0	0	0	0	0
+J.T. Realmuto	28	6	685	2745	2526	347	703	150	19	84	326	40	13	163	511	.278	.327	.452	.779	110	1143	59	30	1	22	9
+Yacksel Rios	26	3	62	2	2	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	0	0	0	0	0
+David Robertson	34	12	64	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Sean Rodriguez	34	12	1099	2900	2559	344	578	124	14	81	298	42	19	225	769	.226	.302	.380	.682	87	973	57	62	37	17	8
+Fernando Salas	34	10	298	7	7	0	1	0	0	0	0	0	0	0	3	.143	.143	.143	.286	-22	1	0	0	0	0	0
+Jean Segura	29	8	1045	4440	4135	563	1181	191	40	76	376	181	60	214	596	.286	.326	.406	.733	97	1680	93	46	25	19	18
+Drew Smyly*	30	6	18	24	23	1	0	0	0	0	0	0	0	1	10	.000	.042	.000	.042	-87	0	0	0	0	0	0
+Ranger Suarez*	23	2	38	11	10	0	2	0	1	0	0	0	0	0	4	.200	.200	.400	.600	53	4	0	0	1	0	0
+Jason Vargas*	36	14	88	146	132	8	24	3	0	0	4	0	0	4	47	.182	.206	.205	.410	12	27	1	0	10	0	0
+Vince Velasquez	27	5	103	150	134	9	30	2	0	1	5	0	0	4	40	.224	.246	.261	.508	35	35	5	0	12	0	0
+Nick Vincent	32	8	199	5	5	0	0	0	0	0	0	0	0	0	5	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Mitch Walding*	26	2	15	21	19	1	1	0	0	1	2	0	0	2	14	.053	.143	.211	.353	-7	4	1	0	0	0	0
+Nick Williams*	25	3	290	903	826	107	210	30	7	31	110	4	4	56	251	.254	.313	.420	.733	93	347	13	17	0	4	2
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - Disclaimer & Completeness Note 
+* Many Detailed Statistics are based on play-by-play accounts accumulated by RetroSheet. These totals may be incomplete (3.6% of all plays from 1925 to 1973 are missing or have incomplete accounts, click link for year and team summary of data completeness) for some players prior to 1974 and even complete seasons may not match the official totals due to errors in both the official totals and the play-by-play accounts. Pre-1954 seasons have a substantial numbers of games missing play-by-play accounts and should be viewed as essentially incomplete.
+More 2019 Phillies Pages
+2019 Philadelphia Phillies
+
+Stats
+
+Schedule & Results
+
+40-Man Roster
+
+Uniforms
+
+Contracts
+
+Batting
+
+Pitching
+
+Fielding
+
+Scoring
+
+Batting
+
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Other
+
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+Support us without the ads? Go Ad-Free.
+
+Login Create Account Surf AD-FREE
+You are here: BR Home Page > Teams > Franchise Encyclopedia > 2019 Batting Statistics
+Full Site Menu 
+Return to Top
+MLB Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+MLB Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers, San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Indians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2019, 2018, 2019 MLB Pitching, 2019 MLB Batting, 2019 MLB Standings, 2019 MLB Attendance, 2019 MLB Rookies, ...
+MLB Leaders
+2019 MLB Batting, 2019 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in MLB history, MLB Probable Pitchers, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+MLB Playoffs
+2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Play Index
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Event Finder, Player Comparison Finder, Neutralized Stats, ...
+Team Finders: Season Finder, Split Finder, Game Finder, Streak Finder, Event Finder, ...
+Other Finders: Draft Finder, Game Score & Result Searches, Team Trade Histories, ...
+Managers
+Active: Terry Francona, Clint Hurdle, A.J. Hinch, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+MLB Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2019 HOF results, 2020 Hall of Fame ballot, ...
+MLB All-Star Games
+2020 All-Star Game, 2019 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities and More
+Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2019 Draft, 2018 Draft, 2017 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Negro Leagues
+Minor League Stats, Negro League Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2019 Minor Leagues, 2019 Affiliates, ...
+Baseball-Reference Bullpen
+85,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, ...
+We're Social...for Statheads
+       
+Every Sports Reference Social Media Account
+
+Site Last Updated: Tuesday, January 21, 6:39AM
+
+Question, Comment, Feedback, or Correction?
+
+Are you a Stathead, too? Subscribe to our Newsletter
+
+This Week in Sports Reference
+Find out when we add a feature or make a change
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Go ad-free to support Sports Reference and get our fastest browsing experience
+Subscribe to the Play Index and get access to more data than you can imagine
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Primary Data Provided ByGracenote Sports
+Copyright © 2000-2020 Sports Reference LLC. All rights reserved.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+BaseballInfoSolutions.com logo
+
+Some defensive statistics Copyright © Baseball Info Solutions, 2010-2020.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+ Sports Reference Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead Widgets
+About • Privacy Statement • Conditions & Terms of Service • Advertise With Us • Use of Data

@@ -1,0 +1,695 @@
+ Sports ReferenceBaseballFootball (college)Basketball (college)HockeySoccerBlogStatheadWidgetsQuestions or Comments?LoginCreate Account
+Baseball-Reference.com Logo & Link to home page
+Players
+Teams
+Seasons
+Leaders
+MLB Scores1
+MLB Playoffs
+Play Index
+Full Site Menu Below
+
+ 
+2019 Cincinnati Reds Logo
+via Sports Logos.net
+About logos
+2019 Cincinnati Reds Pitching Statistics
+2018 Season
+Record: 75-87, 4th place in NL_Central (Schedule and Results)
+Pythagorean W-L: 80-82, 701 Runs, 711 Runs Allowed
+Manager: David Bell (75-87)
+President: Dick Williams
+General Manager: Nick Krall
+Farm Director: Shawn Pender
+Scouting Director: Brad Meador
+More team info, park factors, postseason, & more
+Support us without the ads? Go Ad-Free.
+Grocery Bill Too High? Test These Realistic Tips
+Ad By Capital One
+Eat Healthy while Saving Money
+Ad By Capital One
+See More
+2019 Cincinnati Reds
+Stats
+Schedule & Results
+40-Man Roster
+Uniforms
+Contracts
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Fielding
+Scoring
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+On this page:
+Team Pitching Team Player Value--Pitchers Team Pitching Ratios* Team Batting Against* Team Win Probability* Team Starting Pitching* Team Relief Pitching* Team Baserunning/Situ* Team Pitching Pitches* Team Neutralized Pitching Team Cumulative Pitching Full Site Menu
+Statheads want to know.
+
+Get scores, news and notes in your inbox every day. View a sample email. It's also available for football, basketball and hockey.
+
+Subscribe to our Stathead Newsletter
+
+Team Pitching 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+1	SP	Luis Castillo	26	15	8	.652	3.40	32	32	0	0	0	0	190.2	139	76	72	22	79	0	226	7	3	5	781	133	3.70	1.143	6.6	1.0	3.7	10.7	2.86
+2	SP	Sonny Gray	29	11	8	.579	2.87	31	31	0	0	0	0	175.1	122	59	56	17	68	1	205	7	1	7	708	158	3.42	1.084	6.3	0.9	3.5	10.5	3.01
+3	SP	Anthony DeSclafani	29	9	9	.500	3.89	31	31	0	0	0	0	166.2	151	77	72	29	49	5	167	4	1	2	696	117	4.43	1.200	8.2	1.6	2.6	9.0	3.41
+4	SP	Tyler Mahle	24	3	12	.200	5.14	25	25	0	0	0	0	129.2	136	82	74	25	34	0	129	6	1	2	556	88	4.66	1.311	9.4	1.7	2.4	9.0	3.79
+5	SP	Tanner Roark	32	6	7	.462	4.24	21	21	0	0	0	0	110.1	119	55	52	14	38	1	108	9	0	0	484	107	4.18	1.423	9.7	1.1	3.1	8.8	2.84
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+6	CL	Raisel Iglesias	29	3	12	.200	4.16	68	0	55	0	0	34	67.0	61	31	31	12	21	4	89	2	0	3	279	109	3.92	1.224	8.2	1.6	2.8	12.0	4.24
+7	RP	Michael Lorenzen	27	1	4	.200	2.92	73	0	16	0	0	7	83.1	68	29	27	9	28	1	85	2	0	2	343	156	3.66	1.152	7.3	1.0	3.0	9.2	3.04
+8	RP	Robert Stephenson	26	3	2	.600	3.76	57	0	16	0	0	0	64.2	43	30	27	9	24	4	81	0	0	3	262	121	3.63	1.036	6.0	1.3	3.3	11.3	3.38
+9	RP	Amir Garrett*	27	5	3	.625	3.21	69	0	4	0	0	0	56.0	44	22	20	7	35	1	78	4	1	5	246	142	4.14	1.411	7.1	1.1	5.6	12.5	2.23
+10	RP	Jared Hughes	33	3	4	.429	4.10	47	0	12	0	0	1	48.1	41	27	22	6	19	0	34	2	0	0	199	111	4.72	1.241	7.6	1.1	3.5	6.3	1.79
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+11		Trevor Bauer	28	2	5	.286	6.39	10	10	0	0	0	0	56.1	57	42	40	12	19	0	68	5	0	2	247	71	4.85	1.349	9.1	1.9	3.0	10.9	3.58
+12		Lucas Sims	25	2	1	.667	4.60	24	4	2	0	0	0	43.0	31	22	22	8	19	0	57	2	0	1	177	99	4.45	1.163	6.5	1.7	4.0	11.9	3.00
+13		David Hernandez	34	2	5	.286	8.02	47	0	8	0	0	2	42.2	53	39	38	7	20	3	53	1	0	1	198	57	4.34	1.711	11.2	1.5	4.2	11.2	2.65
+14		Alex Wood*	28	1	3	.250	5.80	7	7	0	0	0	0	35.2	41	25	23	11	9	0	30	1	0	0	153	79	6.38	1.402	10.3	2.8	2.3	7.6	3.33
+15		Wandy Peralta*	27	1	1	.500	6.09	39	0	11	0	0	0	34.0	36	23	23	10	15	3	27	2	0	0	151	75	6.95	1.500	9.5	2.6	4.0	7.1	1.80
+16		Matt Bowman	28	2	0	1.000	3.66	27	0	10	0	0	0	32.0	27	15	13	2	13	3	25	0	0	0	137	125	3.68	1.250	7.6	0.6	3.7	7.0	1.92
+17		Zach Duke*	36	3	1	.750	5.01	30	0	4	0	0	0	23.1	21	13	13	4	18	1	18	2	0	0	106	92	6.47	1.671	8.1	1.5	6.9	6.9	1.00
+18		Kevin Gausman	28	0	2	.000	4.03	15	1	6	0	0	0	22.1	21	11	10	3	5	1	29	1	0	0	91	114	3.17	1.164	8.5	1.2	2.0	11.7	5.80
+19		Sal Romano	25	1	0	1.000	7.71	12	0	4	0	0	2	16.1	22	14	14	4	8	1	16	1	0	1	77	60	6.09	1.837	12.1	2.2	4.4	8.8	2.00
+20		R.J. Alaniz	28	1	0	1.000	5.40	8	0	3	0	0	0	11.2	8	7	7	0	4	0	7	0	1	0	46	86	3.04	1.029	6.2	0.0	3.1	5.4	1.75
+21		Joel Kuhnel	24	1	0	1.000	4.66	11	0	2	0	0	0	9.2	8	5	5	1	5	0	9	0	0	0	42	101	4.25	1.345	7.4	0.9	4.7	8.4	1.80
+22		Jimmy Herget	25	0	0		4.26	5	0	4	0	0	0	6.1	8	3	3	2	3	0	0	0	0	0	26	112	8.74	1.737	11.4	2.8	4.3	0.0	0.00
+23		Cody Reed*	26	0	0		1.42	3	0	1	0	0	0	6.1	6	1	1	0	1	1	7	0	0	1	25	336	1.48	1.105	8.5	0.0	1.4	9.9	7.00
+24		Keury Mella	25	0	0		7.36	2	0	1	0	0	0	3.2	5	3	3	0	2	1	4	0	0	0	18	67	2.67	1.909	12.3	0.0	4.9	9.8	2.00
+25		Jose Peraza	25	0	0		0.00	2	0	2	0	0	0	1.1	1	0	0	0	0	0	0	0	0	0	4		3.21	0.750	6.8	0.0	0.0	0.0	
+26		Kyle Farmer	28	0	0		0.00	1	0	1	0	0	0	1.1	1	0	0	0	0	0	0	0	0	0	5		3.21	0.750	6.8	0.0	0.0	0.0	
+Team Totals	28.0	75	87	.463	4.18	162	162	162	0	0	46	1438.0	1270	711	668	214	536	31	1552	58	8	35	6057	109	4.23	1.256	7.9	1.3	3.4	9.7	2.90
+Rank in 15 NL teams		11	5		4				12	6	4	14	2	3	4	7	8		1												
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+* - throws left-handed, # - throws both, else - throws right, ? - unknown, for minors bold indicates they appeared in majors
+Team Player Value--Pitchers 
+League RegisterWAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	IP	G	GS	R	RA9	RA9opp	RA9def	RA9role	PPFp	RA9avg	RAA	WAA	gmLI	WAAadj	WAR	RAR	waaWL%	162WL%	Salary	Acquired
+R.J. Alaniz	28	11.2	8	0	7	5.40	4.91	0.25	-0.33	98.1	4.25	-1	-0.1	.75	0.0	0.0	0	.482	.499		Waivers
+Trevor Bauer	28	56.1	10	10	42	6.71	4.98	0.22	0.22	101.9	5.08	-10	-0.9		0.0	-0.5	-5	.407	.494		Traded
+Matt Bowman	28	32.0	27	0	15	4.22	4.83	0.25	-0.33	103.8	4.41	1	0.1	.55	-0.1	0.3	4	.503	.500		Waivers
+Luis Castillo	26	190.2	32	32	76	3.59	4.84	0.20	0.22	102.0	4.96	29	3.2		-0.1	4.7	47	.599	.519	$557,500	Traded
+Anthony DeSclafani	29	166.2	31	31	77	4.16	4.86	0.23	0.22	101.5	4.91	14	1.5		-0.1	2.9	30	.548	.509	$2,125,000	Traded
+Zach Duke*	36	23.1	30	0	13	5.01	5.02	0.24	-0.34	101.3	4.50	-1	-0.1	.93	0.0	0.0	1	.496	.499	$2,000,000	Free Agency
+Kyle Farmer	28	1.1	1	0	0	0.00	4.81	0.31	-0.32	106.0	4.43	1	0.1	.03	0.0	0.1	1	.569	.500	$557,500	Traded
+Amir Garrett*	27	56.0	69	0	22	3.54	4.98	0.19	-0.34	101.4	4.52	6	0.6	1.58	0.1	1.2	11	.509	.504	$567,500	Amateur Draft
+Kevin Gausman	28	22.1	15	1	11	4.43	4.93	0.20	-0.28	100.2	4.46	0	0.0	.89	0.0	0.2	2	.501	.500		Waivers
+Sonny Gray	29	175.1	31	31	59	3.03	4.80	0.20	0.21	103.0	4.96	38	4.2		-0.1	5.6	54	.634	.526	$7,500,000	Traded
+Jimmy Herget	25	6.1	5	0	3	4.26	4.84	0.30	-0.33	105.5	4.45	0	0.0	.06	0.0	0.1	1	.503	.500		Amateur Draft
+David Hernandez	34	42.2	47	0	39	8.23	4.94	0.24	-0.33	101.1	4.42	-18	-1.7	1.48	-0.5	-1.9	-14	.463	.489	$2,500,000	Free Agency
+Jared Hughes	33	48.1	47	0	27	5.03	4.92	0.24	-0.33	102.7	4.46	-3	-0.3	1.00	-0.1	0.1	1	.494	.498	$2,125,000	Free Agency
+Raisel Iglesias	29	67.0	68	0	31	4.16	4.89	0.20	-0.33	101.5	4.42	2	0.2	1.98	0.0	0.8	8	.503	.501	$5,714,285	Amateur Free Agent
+Joel Kuhnel	24	9.2	11	0	5	4.66	4.91	0.24	-0.33	102.8	4.46	0	0.0	.72	0.0	0.1	1	.498	.500		Amateur Draft
+Michael Lorenzen	27	83.1	73	0	29	3.13	4.85	0.22	-0.33	101.3	4.36	12	1.2	1.43	0.1	2.0	19	.516	.507	$1,950,000	Amateur Draft
+Tyler Mahle	24	129.2	25	25	82	5.69	4.98	0.24	0.22	100.3	4.98	-10	-1.0		-0.1	0.1	2	.461	.494	$570,000	Amateur Draft
+Keury Mella	25	3.2	2	0	3	7.36	4.98	0.27	-0.34	106.0	4.64	-1	-0.1	.22	0.0	0.0	-1	.447	.499		Traded
+Wandy Peralta*	27	34.0	39	0	23	6.09	4.82	0.26	-0.33	103.9	4.41	-6	-0.6	.80	0.0	-0.3	-3	.484	.496	$570,000	Amateur Free Agent
+Jose Peraza	25	1.1	2	0	0	0.00	5.02	0.24	-0.34	106.0	4.70	1	0.1	.00	0.0	0.1	1	.536	.500	$2,775,000	Traded
+Cody Reed*	26	6.1	3	0	1	1.42	5.16	0.22	-0.35	106.0	4.87	2	0.3	.30	-0.1	0.2	3	.587	.502		Traded
+Tanner Roark	32	110.1	21	21	55	4.49	4.85	0.24	0.22	103.5	4.99	6	0.7		-0.1	1.6	16	.531	.504	$10,000,000	Traded
+Sal Romano	25	16.1	12	0	14	7.71	4.96	0.26	-0.34	103.6	4.52	-6	-0.6	.72	0.0	-0.4	-4	.454	.497		Amateur Draft
+Lucas Sims	25	43.0	24	4	22	4.60	4.83	0.19	-0.12	103.3	4.68	0	0.0	.86	-0.1	0.4	4	.502	.500		Traded
+Robert Stephenson	26	64.2	57	0	30	4.18	4.80	0.20	-0.33	102.4	4.39	2	0.2	1.05	-0.1	0.6	8	.503	.501	$565,000	Amateur Draft
+Alex Wood*	28	35.2	7	7	25	6.31	4.64	0.26	0.21	102.3	4.69	-6	-0.6		0.0	-0.3	-3	.416	.496	$9,650,000	Traded
+Team Total	28.0	1438.0	697	162	711	4.45	4.87	0.22	0.01	102.1	4.75	52	6.1	1.22	-1.5	17.4	182	.509	.502	$49,726,785	
+Name	Age	IP	G	GS	R	RA9	RA9opp	RA9def	RA9role	PPFp	RA9avg	RAA	WAA	gmLI	WAAadj	WAR	RAR	waaWL%	162WL%	Salary	Acquired
+When shopping for student credit cards, here are some important card features to remember
+Ad by Capital One
+See More
+Team Pitching Ratios* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	IP	Ptn%	HR%	SO%	BB%	SO-BB%	XBH%	X/H%	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB	Opp	DP	%	PAu
+R.J. Alaniz	28	11.2	52%	0.0%	15.2%	8.7%	6.5%	4.4%	25%	0.84	1.00	76%	20%	0.0%	11%	10	1	10%	0
+Trevor Bauer	28	56.1	49%	4.9%	27.5%	7.7%	19.8%	11.3%	49%	0.53	0.61	57%	22%	14.3%	14%	39	2	5%	0
+Matt Bowman	28	32.0	55%	1.5%	18.3%	9.5%	8.8%	7.3%	37%	1.23	1.54	71%	21%	5.1%	11%	18	0	0%	0
+Luis Castillo	26	190.2	47%	2.8%	28.9%	10.1%	18.8%	6.7%	37%	1.25	1.87	56%	19%	11.6%	7%	138	17	12%	0
+Anthony DeSclafani	29	166.2	48%	4.2%	24.0%	7.0%	17.0%	8.3%	38%	0.75	1.06	64%	23%	12.3%	12%	110	9	8%	0
+Zach Duke*	36	23.1	61%	3.8%	17.0%	17.0%	0.0%	8.5%	43%	0.97	1.48	59%	29%	12.9%	9%	25	5	20%	0
+Kyle Farmer	28	1.1	20%	0.0%	0.0%	0.0%	0.0%	0.0%	0%	0.67	1.00	100%	40%	0.0%	0%	0	0		0
+Amir Garrett*	27	56.0	46%	2.9%	31.7%	14.2%	17.5%	6.5%	36%	1.21	1.70	50%	22%	12.7%	5%	37	4	11%	0
+Kevin Gausman	28	22.1	51%	3.3%	31.9%	5.5%	26.4%	7.7%	33%	0.74	0.94	57%	32%	10.0%	3%	19	0	0%	0
+Sonny Gray	29	175.1	55%	2.4%	29.0%	9.6%	19.4%	5.9%	34%	1.06	1.36	57%	21%	9.5%	12%	106	13	12%	0
+Jimmy Herget	25	6.1	54%	7.7%	0.0%	11.5%	-11.5%	15.4%	50%	0.28	0.46	81%	35%	12.5%	11%	5	1	20%	0
+David Hernandez	34	42.2	59%	3.5%	26.8%	10.1%	16.7%	11.6%	43%	0.42	0.60	59%	31%	9.3%	12%	40	3	8%	0
+Jared Hughes	33	48.1	66%	3.0%	17.1%	9.6%	7.5%	7.5%	37%	1.64	2.55	68%	20%	11.8%	4%	35	6	17%	0
+Raisel Iglesias	29	67.0	58%	4.3%	31.9%	7.5%	24.4%	9.3%	43%	0.44	0.62	55%	29%	12.5%	16%	43	3	7%	0
+Joel Kuhnel	24	9.2	60%	2.4%	21.4%	11.9%	9.5%	4.8%	25%	1.15	1.22	64%	14%	10.0%	23%	8	1	13%	0
+Michael Lorenzen	27	83.1	57%	2.6%	24.8%	8.2%	16.6%	6.4%	32%	0.83	1.05	63%	25%	8.3%	11%	58	3	5%	0
+Tyler Mahle	24	129.2	54%	4.5%	23.2%	6.1%	17.1%	8.5%	35%	0.91	1.26	65%	25%	13.4%	7%	83	9	11%	0
+Keury Mella	25	3.2	44%	0.0%	22.2%	11.1%	11.1%	11.1%	40%	0.50	0.75	67%	33%	0.0%	13%	1	0	0%	0
+Wandy Peralta*	27	34.0	50%	6.6%	17.9%	9.9%	8.0%	9.9%	42%	0.91	1.85	64%	22%	19.2%	4%	28	3	11%	0
+Jose Peraza	25	1.1	75%	0.0%	0.0%	0.0%	0.0%	0.0%	0%	1.00	1.00	100%	0%	0.0%	50%	2	1	50%	0
+Cody Reed*	26	6.1	52%	0.0%	28.0%	4.0%	24.0%	0.0%	0%	3.25	2.25	68%	12%	0.0%	0%	9	2	22%	0
+Tanner Roark	32	110.1	51%	2.9%	22.3%	7.9%	14.5%	8.1%	33%	0.59	0.78	65%	31%	7.9%	13%	80	12	15%	0
+Sal Romano	25	16.1	55%	5.2%	20.8%	10.4%	10.4%	15.6%	55%	0.63	1.13	62%	27%	12.9%	3%	15	2	13%	0
+Lucas Sims	25	43.0	57%	4.5%	32.2%	10.7%	21.5%	9.0%	52%	0.34	0.42	51%	20%	13.6%	19%	32	1	3%	0
+Robert Stephenson	26	64.2	56%	3.4%	30.9%	9.2%	21.8%	9.9%	61%	0.47	0.65	56%	26%	10.0%	14%	32	2	6%	0
+Alex Wood*	28	35.2	18%	7.2%	19.6%	5.9%	13.7%	13.1%	49%	0.59	1.00	65%	30%	16.9%	6%	23	4	17%	0
+League Average																			
+Team Total	28.2		52%	3.5%	25.6%	8.9%	16.8%	8.1%	39%	0.81	1.13	60%	24%	11.3%	11%	996	104	10%	0
+Name	Age	IP	Ptn%	HR%	SO%	BB%	SO-BB%	XBH%	X/H%	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB	Opp	DP	%	PAu
+Team Batting Against* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	IP	PAu	G	PA	AB	R	H	2B	3B	HR	SB	CS	BB	SO	BA	OBP	SLG	OPS	BAbip	TB	GDP	HBP	SH	SF	IBB	ROE
+R.J. Alaniz	28	11.2		8	46	41	7	8	2	0	0	2	0	4	7	.195	.261	.244	.505	.229	10	1	0	0	1	0	0
+Trevor Bauer	28	56.1		10	247	218	42	57	14	2	12	6	1	19	68	.261	.332	.509	.841	.321	111	2	5	3	2	0	3
+Matt Bowman	28	32.0		27	137	122	15	27	8	0	2	5	0	13	25	.221	.292	.336	.628	.258	41	0	0	0	2	3	1
+Luis Castillo	26	190.2		32	781	688	76	139	29	1	22	8	2	79	226	.202	.290	.343	.633	.265	236	17	7	6	1	0	6
+Anthony DeSclafani	29	166.2		31	696	635	77	151	28	1	29	11	3	49	167	.238	.295	.422	.717	.276	268	9	4	5	3	5	8
+Zach Duke*	36	23.1		30	106	84	13	21	5	0	4	4	0	18	18	.250	.390	.452	.843	.270	38	5	2	1	1	1	0
+Kyle Farmer	28	1.1		1	5	5	0	1	0	0	0	0	0	0	0	.200	.200	.200	.400	.200	1	0	0	0	0	0	0
+Amir Garrett*	27	56.0		69	246	207	22	44	9	0	7	7	1	35	78	.213	.337	.357	.695	.303	74	4	4	0	0	1	0
+Kevin Gausman	28	22.1		15	91	84	11	21	4	0	3	3	3	5	29	.250	.300	.405	.705	.346	34	0	1	1	0	1	1
+Sonny Gray	29	175.1		31	708	622	59	122	21	4	17	14	5	68	205	.196	.281	.325	.605	.259	202	13	7	6	5	1	6
+Jimmy Herget	25	6.1		5	26	23	3	8	2	0	2	0	0	3	0	.348	.423	.696	1.119	.286	16	1	0	0	0	0	0
+David Hernandez	34	42.2		47	198	173	39	53	13	3	7	2	0	20	53	.306	.376	.538	.913	.397	93	3	1	1	3	3	0
+Jared Hughes	33	48.1		47	199	174	27	41	9	0	6	3	1	19	34	.236	.316	.391	.707	.259	68	6	2	3	1	0	2
+Raisel Iglesias	29	67.0		68	279	254	31	61	13	1	12	0	1	21	89	.240	.302	.441	.743	.318	112	3	2	1	1	4	0
+Joel Kuhnel	24	9.2		11	42	37	5	8	1	0	1	1	0	5	9	.216	.310	.324	.634	.259	12	1	0	0	0	0	1
+Michael Lorenzen	27	83.1		73	343	307	29	68	12	1	9	5	1	28	85	.221	.289	.355	.644	.274	109	3	2	4	2	1	3
+Tyler Mahle	24	129.2		25	556	512	82	136	21	1	25	3	2	34	129	.266	.318	.457	.775	.308	234	9	6	2	2	0	6
+Keury Mella	25	3.2		2	18	16	3	5	2	0	0	0	0	2	4	.313	.389	.438	.826	.417	7	0	0	0	0	1	0
+Wandy Peralta*	27	34.0		39	151	131	23	36	5	0	10	1	1	15	27	.275	.351	.542	.893	.268	71	3	2	0	3	3	0
+Jose Peraza	25	1.1		2	4	4	0	1	0	0	0	0	0	0	0	.250	.250	.250	.500	.250	1	1	0	0	0	0	0
+Cody Reed*	26	6.1		3	25	24	1	6	0	0	0	0	0	1	7	.250	.280	.250	.530	.353	6	2	0	0	0	1	0
+Tanner Roark	32	110.1		21	484	436	55	119	23	2	14	3	0	38	108	.273	.343	.431	.774	.333	188	12	9	0	1	1	3
+Sal Romano	25	16.1		12	77	67	14	22	8	0	4	0	1	8	16	.328	.403	.627	1.029	.375	42	2	1	0	1	1	0
+Lucas Sims	25	43.0		24	177	154	22	31	7	1	8	3	2	19	57	.201	.295	.416	.711	.256	64	1	2	1	1	0	0
+Robert Stephenson	26	64.2		57	262	236	30	43	15	2	9	6	1	24	81	.182	.257	.377	.634	.231	89	2	0	0	1	4	3
+Alex Wood*	28	35.2		7	153	141	25	41	9	0	11	1	1	9	30	.291	.338	.589	.926	.300	83	4	1	2	0	0	1
+League Average																											
+Team Total	28.2			697	6057	5395	711	1270	260	19	214	88	26	536	1552	.235	.310	.410	.719	.289	2210	104	58	36	31	31	44
+Name	Age	IP	PAu	G	PA	AB	R	H	2B	3B	HR	SB	CS	BB	SO	BA	OBP	SLG	OPS	BAbip	TB	GDP	HBP	SH	SF	IBB	ROE
+
+Team Win Probability* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	IP	PtchR	PtchW	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	LevHi	LevMd	LevLo
+R.J. Alaniz	28	11.2	-0.7	-0.1	49	0.2	0.6	-0.3	.61	0.3	0.1	-0.1	0.0	0.92	2.2	2	0	5
+Trevor Bauer	28	56.1	-10.6	-1.0	257	-0.8	4.1	-4.9	.96	-0.9	0.0	-10.9	-1.0	0.92	-8.7	0	0	0
+Matt Bowman	28	32.0	2.7	0.3	141	0.6	1.2	-0.6	.46	0.6	0.6	4.0	0.4	0.94	6.8	2	7	17
+Luis Castillo	26	190.2	24.1	2.5	801	2.6	15.1	-12.5	1.02	2.9	-0.4	26.2	2.6	0.90	34.3	0	0	0
+Anthony DeSclafani	29	166.2	12.0	1.2	710	0.9	12.3	-11.5	.98	0.7	0.2	11.2	1.1	0.89	8.6	0	0	0
+Zach Duke*	36	23.1	-0.6	-0.1	110	0.1	1.1	-1.1	.65	-0.3	0.3	-2.9	-0.3	0.96	-4.1	7	9	14
+Kyle Farmer	28	1.1	0.8	0.1	5	0.0	0.0	0.0	.01	0.1	0.1	1.0	0.1	0.81	0.9	0	0	1
+Amir Garrett*	27	56.0	7.9	0.8	260	0.4	6.4	-6.0	1.42	0.0	0.3	3.1	0.3	0.97	2.5	31	30	8
+Kevin Gausman	28	22.1	1.3	0.1	97	0.0	1.5	-1.6	.95	0.2	-0.2	1.9	0.2	0.98	2.3	2	5	6
+Sonny Gray	29	175.1	32.0	3.3	732	2.9	13.3	-10.4	.98	2.7	0.3	34.5	3.5	0.88	33.2	0	0	0
+Jimmy Herget	25	6.1	0.5	0.0	26	0.0	0.0	0.0	.04	-0.2	0.5	-1.1	-0.1	0.96	-1.9	0	0	4
+David Hernandez	34	42.2	-15.0	-1.4	203	-1.2	3.9	-5.1	1.20	-1.1	0.1	-15.6	-1.5	1.01	-14.4	24	10	13
+Jared Hughes	33	48.1	0.9	0.1	205	-0.3	3.0	-3.4	.87	0.4	-0.8	-0.2	0.0	0.90	4.0	13	12	20
+Raisel Iglesias	29	67.0	3.9	0.4	291	-0.9	9.8	-10.8	1.94	0.3	-0.8	0.6	0.1	0.91	5.4	47	14	7
+Joel Kuhnel	24	9.2	0.2	0.0	43	0.4	0.6	-0.3	.67	0.3	0.3	0.3	0.0	0.93	1.2	2	2	6
+Michael Lorenzen	27	83.1	14.7	1.5	353	2.2	8.3	-6.1	1.28	1.3	0.4	13.6	1.3	0.93	14.5	32	21	19
+Tyler Mahle	24	129.2	-9.3	-0.9	564	-1.0	8.8	-9.8	.88	-0.1	-1.0	-6.7	-0.6	0.85	-1.5	0	0	0
+Keury Mella	25	3.2	-0.9	-0.1	19	0.0	0.0	0.0	.10	0.0	0.0	-1.4	-0.1	1.15	-0.4	0	0	2
+Wandy Peralta*	27	34.0	-4.8	-0.5	153	-0.1	1.9	-2.0	.69	-0.5	0.3	-7.1	-0.7	0.97	-7.3	7	7	25
+Jose Peraza	25	1.1	0.8	0.1	4	0.0	0.0	0.0	.00			0.7	0.1	0.93	0.6	0	0	0
+Cody Reed*	26	6.1	2.3	0.2	25	0.0	0.1	-0.1	.22	0.1	0.0	2.5	0.3	1.02	1.6	0	0	3
+Tanner Roark	32	110.1	4.0	0.4	489	0.0	8.1	-8.1	.92	0.1	-0.1	3.4	0.3	0.90	0.3	0	0	0
+Sal Romano	25	16.1	-5.0	-0.5	79	0.2	0.5	-0.2	.31	-0.4	1.1	-6.1	-0.6	1.02	-6.5	2	1	9
+Lucas Sims	25	43.0	0.6	0.1	182	0.6	2.8	-2.2	.84	0.6	0.1	2.6	0.2	0.97	6.6	2	9	9
+Robert Stephenson	26	64.2	5.1	0.5	277	0.4	4.4	-4.0	.87	0.6	-0.2	5.9	0.6	0.91	7.4	15	18	24
+Alex Wood*	28	35.2	-4.8	-0.5	155	-0.6	2.6	-3.1	.89	-0.9	0.2	-4.4	-0.4	0.85	-8.9	0	0	0
+League Average																		
+Team Total	28.2		62.3	6.5	6230	6.5	110.5	-104.0	.99	7.0	-0.4	54.8	5.8	0.91	78.7	188	145	192
+Name	Age	IP	PtchR	PtchW	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	LevHi	LevMd	LevLo
+Team Starting Pitching*
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Trevor Bauer
+Luis Castillo
+Anthony DeSclafani
+Kevin Gausman
+Sonny Gray
+Tyler Mahle
+Tanner Roark
+Lucas Sims
+Alex Wood*
+League Average
+Team Total
+Name
+Name	Age	IP	G	GS	Wgs	Lgs	ND	Wchp	Ltuf	Wtm	Ltm	tmW-L%	Wlst	Lsv	CG	SHO	QS	QS%	GmScA	Best	Wrst	BQR	BQS	sDR	lDR	RS/GS	RS/IP	IP/GS	Pit/GS	<80	80-99	100-119	≥120	Max
+Trevor Bauer	28	56.1	10	10	2	5	3	0	1	3	7	.300	2	1	0	0	4	40%	47.2	78	13	5	2	1	6	5.0	3.7	5.6	100	1	2	7	0	117
+Luis Castillo	26	190.2	32	32	15	8	9	3	4	17	15	.531	3	3	0	0	20	63%	58.3	85	16	18	5	0	18	4.2	4.4	6.0	99	2	11	19	0	119
+Anthony DeSclafani	29	166.2	31	31	9	9	13	5	2	15	16	.484	1	4	0	0	11	35%	53.1	80	27	16	4	0	18	4.3	3.4	5.4	86	6	22	3	0	110
+Kevin Gausman	28	22.1	15	1	0	1	0	0	0	0	1	.000	0	0	0	0	0	0%	40.0	40	40	0	0	0	0	2.0	0.0	2.0	35	1	0	0	0	35
+Sonny Gray	29	175.1	31	31	11	8	12	3	4	19	12	.613	6	4	0	0	17	55%	59.2	85	34	18	4	0	19	4.8	4.7	5.7	94	3	15	13	0	111
+Tyler Mahle	24	129.2	25	25	3	12	10	2	1	7	18	.280	4	4	0	0	7	28%	48.4	69	9	14	10	1	17	3.8	3.7	5.2	88	6	15	4	0	103
+Tanner Roark	32	110.1	21	21	6	7	8	3	1	10	11	.476	2	4	0	0	4	19%	49.9	69	12	14	2	0	11	5.1	4.7	5.3	96	0	16	5	0	116
+Lucas Sims	25	43.0	24	4	1	1	2	1	0	2	2	.500	0	1	0	0	0	0%	48.3	58	41	5	2	3	1	5.0	9.0	4.2	63	3	0	1	0	100
+Alex Wood*	28	35.2	7	7	1	3	3	0	0	2	5	.286	0	2	0	0	2	29%	44.9	62	24	4	3	0	3	2.9	2.7	5.1	84	3	3	1	0	103
+League Average																																		
+Team Total	28.2		697	162	48	54	60	17	13	75	87	.463	18	23	0	0	65	40%	53	85	9	242	83	5	93	4.4	4.2	5.5	92	25	84	53	0	119
+Name	Age	IP	G	GS	Wgs	Lgs	ND	Wchp	Ltuf	Wtm	Ltm	tmW-L%	Wlst	Lsv	CG	SHO	QS	QS%	GmScA	Best	Wrst	BQR	BQS	sDR	lDR	RS/GS	RS/IP	IP/GS	Pit/GS	<80	80-99	100-119	≥120	Max
+Support us without the ads? Go Ad-Free.
+Team Relief Pitching*
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+R.J. Alaniz
+Matt Bowman
+Zach Duke*
+Kyle Farmer
+Amir Garrett*
+Kevin Gausman
+Jimmy Herget
+David Hernandez
+Jared Hughes
+Raisel Iglesias
+Joel Kuhnel
+Michael Lorenzen
+Keury Mella
+Wandy Peralta*
+Jose Peraza
+Cody Reed*
+Sal Romano
+Lucas Sims
+Robert Stephenson
+League Average
+Team Total
+Name
+Name	Age	IP	G	GR	GF	Wgr	Lgr	SVOpp	SV	BSv	SV%	SVSit	Hold	IR	IS	IS%	1stIP	aLI	LevHi	LevMd	LevLo	Ahd	Tie	Bhd	Runr	Empt	>3o	<3o	IPmult	0DR	Out/GR	Pit/GR
+R.J. Alaniz	28	11.2	8	8	3	1	0	0	0	0		0	0	6	2	33%	8	.614	2	0	5	1	1	6	3	5	5	2	5	1	4.4	23
+Matt Bowman	28	32.0	27	27	10	2	0	0	0	0		0	0	11	4	36%	8	.457	2	7	17	5	1	21	8	19	9	7	10	4	3.6	21
+Zach Duke*	36	23.1	30	30	4	3	1	0	0	0		5	4	13	5	38%	6	.651	7	9	14	12	4	14	8	22	4	19	5	7	2.3	14
+Kyle Farmer	28	1.1	1	1	1	0	0	0	0	0		0	0	2	0	0%	8	.008	0	0	1	0	0	1	1	0	1	0	1	0	4.0	12
+Amir Garrett*	27	56.0	69	69	4	5	3	3	0	3	0%	28	22	41	13	32%	8	1.418	31	30	8	33	15	21	26	43	11	32	22	13	2.4	14
+Kevin Gausman	28	22.1	15	14	6	0	1	0	0	0		2	2	8	2	25%	8	.946	2	5	6	3	3	8	4	10	8	1	8	1	4.4	24
+Jimmy Herget	25	6.1	5	5	4	0	0	0	0	0		0	0	3	3	100%	8	.041	0	0	4	0	0	5	2	3	2	2	2	1	3.8	19
+David Hernandez	34	42.2	47	47	8	2	5	5	2	3	40%	18	12	25	9	36%	7	1.199	24	10	13	23	10	14	16	31	8	18	10	13	2.7	17
+Jared Hughes	33	48.1	47	47	12	3	4	3	1	2	33%	7	4	22	9	41%	6	.869	13	12	20	14	9	24	13	34	13	19	14	10	3.1	17
+Raisel Iglesias	29	67.0	68	68	55	3	12	40	34	6	85%	43	3	16	4	25%	9	1.939	47	14	7	47	17	4	12	56	11	13	13	20	3.0	17
+Joel Kuhnel	24	9.2	11	11	2	1	0	0	0	0		1	1	5	1	20%	8	.674	2	2	6	1	2	8	3	8	2	4	3	0	2.6	15
+Michael Lorenzen	27	83.1	73	73	16	1	4	11	7	4	64%	32	21	44	13	30%	7	1.275	32	21	19	41	10	22	27	46	31	21	34	15	3.4	18
+Keury Mella	25	3.2	2	2	1	0	0	0	0	0		0	0	2	1	50%	9	.101	0	0	2	0	0	2	1	1	1	0	1	0	5.5	32
+Wandy Peralta*	27	34.0	39	39	11	1	1	1	0	1	0%	3	2	21	8	38%	8	.688	7	7	25	11	4	24	13	26	6	16	11	7	2.6	15
+Jose Peraza	25	1.1	2	2	2	0	0	0	0	0		0	0	0	0		9	.000	0	0	0	0	0	2	0	2	0	1	0	0	2.0	8
+Cody Reed*	26	6.1	3	3	1	0	0	0	0	0		0	0	1	0	0%	7	.218	0	0	3	2	0	1	1	2	3	0	3	0	6.3	29
+Sal Romano	25	16.1	12	12	4	1	0	2	2	0	100%	3	1	5	3	60%	9	.306	2	1	9	3	2	7	3	9	4	3	6	1	4.1	26
+Lucas Sims	25	43.0	24	20	2	1	0	0	0	0		3	3	13	4	31%	6	.838	2	9	9	4	2	14	7	13	10	2	10	1	4.0	25
+Robert Stephenson	26	64.2	57	57	16	3	2	4	0	4	0%	15	11	15	4	27%	7	.867	15	18	24	22	8	27	10	47	14	10	16	11	3.4	18
+League Average																																
+Team Total	28.2		697	535	162	27	33	69	46	23	67%	160	86	253	85	34%		.990	188	145	192	222	88	225	158	377	143	170	174	105	3.1	17
+Name	Age	IP	G	GR	GF	Wgr	Lgr	SVOpp	SV	BSv	SV%	SVSit	Hold	IR	IS	IS%	1stIP	aLI	LevHi	LevMd	LevLo	Ahd	Tie	Bhd	Runr	Empt	>3o	<3o	IPmult	0DR	Out/GR	Pit/GR
+Team Baserunning/Situ* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	IP	PA	H	Inf	Bnt	All	GS	GSo	vRH	vLH	Hm	Rd	<2,3B	Scr	SO	%	ROE	WP	PB	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	BT	PAu
+R.J. Alaniz	28	11.2	46	8	1	0	0	0	1	0	0	0	0	2	2	0	100%	0	0	0	17	2	0	100%	2	0	0	0	0	0	0	0	2	0
+Trevor Bauer	28	56.1	247	57	8	1	12	0	3	7	5	6	6	12	7	3	58%	3	2	0	84	6	1	86%	6	0	0	1	0	0	0	0	5	0
+Matt Bowman	28	32.0	137	27	2	1	2	0	3	2	0	1	1	6	4	1	67%	1	0	0	50	5	0	100%	4	0	1	0	0	0	0	0	4	0
+Luis Castillo	26	190.2	781	139	19	1	22	0	14	9	13	12	10	31	10	11	32%	6	5	0	255	8	2	80%	8	2	0	0	0	0	1	1	11	0
+Anthony DeSclafani	29	166.2	696	151	15	2	29	0	11	12	17	15	14	31	13	8	42%	8	2	1	210	11	3	79%	7	3	4	0	0	0	0	0	8	0
+Zach Duke*	36	23.1	106	21	2	0	4	0	2	1	3	3	1	4	2	1	50%	0	0	1	47	4	0	100%	2	0	2	0	0	0	0	0	2	0
+Kyle Farmer	28	1.1	5	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	2	0	0		0	0	0	0	0	0	0	0	0	0
+Amir Garrett*	27	56.0	246	44	7	0	7	0	11	5	2	5	2	8	2	4	25%	0	5	0	89	7	1	88%	6	0	1	1	0	0	0	0	7	0
+Kevin Gausman	28	22.1	91	21	2	1	3	0	5	1	2	1	2	7	1	5	14%	1	0	0	30	3	3	50%	3	2	0	1	0	0	0	0	0	0
+Sonny Gray	29	175.1	708	122	10	2	17	0	10	9	8	9	8	22	10	2	45%	6	7	0	234	14	5	74%	14	3	0	1	0	1	0	0	16	0
+Jimmy Herget	25	6.1	26	8	0	0	2	0	1	0	2	2	0	3	1	0	33%	0	0	0	10	0	0		0	0	0	0	0	0	0	0	0	0
+David Hernandez	34	42.2	198	53	4	1	7	0	9	2	5	4	3	17	11	2	65%	0	1	2	77	2	0	100%	2	0	0	0	0	0	0	0	9	0
+Jared Hughes	33	48.1	199	41	8	1	6	1	3	5	1	5	1	10	6	1	60%	2	0	1	69	3	1	75%	2	0	1	1	0	0	0	0	2	0
+Raisel Iglesias	29	67.0	279	61	2	0	12	1	5	5	7	5	7	13	4	5	31%	0	3	2	86	0	1	0%	0	1	0	0	0	0	1	0	9	0
+Joel Kuhnel	24	9.2	42	8	1	0	1	0	0	0	1	1	0	3	1	0	33%	1	0	0	15	1	0	100%	1	0	0	0	0	0	0	0	0	0
+Michael Lorenzen	27	83.1	343	68	5	1	9	0	6	5	4	6	3	15	8	3	53%	3	2	0	120	5	1	83%	4	1	1	0	0	0	0	0	5	0
+Tyler Mahle	24	129.2	556	136	12	1	25	1	8	10	15	11	14	15	10	4	67%	6	2	1	179	3	2	60%	2	2	0	0	1	0	0	0	8	0
+Keury Mella	25	3.2	18	5	0	0	0	0	2	0	0	0	0	1	0	1	0%	0	0	0	3	0	0		0	0	0	0	0	0	0	0	0	0
+Wandy Peralta*	27	34.0	151	36	3	1	10	2	8	5	5	8	2	6	3	1	50%	0	0	0	55	1	1	50%	1	1	0	0	0	0	1	1	3	0
+Jose Peraza	25	1.1	4	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0	2	0	0		0	0	0	0	0	0	0	0	0	0
+Cody Reed*	26	6.1	25	6	0	0	0	0	0	0	0	0	0	0	0	0		0	1	0	15	0	0		0	0	0	0	0	0	0	0	0	0
+Tanner Roark	32	110.1	484	119	11	1	14	0	7	4	10	7	7	15	6	4	40%	3	0	0	185	3	0	100%	3	0	0	0	0	0	0	0	1	0
+Sal Romano	25	16.1	77	22	0	0	4	0	5	2	2	3	1	10	6	3	60%	0	1	0	28	0	1	0%	0	1	0	0	0	0	0	0	3	0
+Lucas Sims	25	43.0	177	31	2	0	8	2	7	5	3	3	5	10	5	2	50%	0	1	2	57	3	2	60%	2	1	1	1	0	0	0	0	5	0
+Robert Stephenson	26	64.2	262	43	2	1	9	1	2	5	4	5	4	17	5	7	29%	3	3	0	80	6	1	86%	6	1	0	0	0	0	0	0	6	0
+Alex Wood*	28	35.2	153	41	2	0	11	0	0	9	2	4	7	4	2	1	50%	1	0	0	49	1	1	50%	1	1	0	0	0	0	0	0	0	0
+League Average																																		
+Team Total	28.2		6057	1270	119	15	214	8	123	103	111	116	98	262	119	69	45%	44	35	10	2048	88	26	77%	76	19	11	6	1	1	3	2	106	0
+Name	Age	IP	PA	H	Inf	Bnt	All	GS	GSo	vRH	vLH	Hm	Rd	<2,3B	Scr	SO	%	ROE	WP	PB	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	BT	PAu
+Team Pitching Pitches*
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+R.J. Alaniz
+Trevor Bauer
+Matt Bowman
+Luis Castillo
+Anthony DeSclafani
+Zach Duke*
+Kyle Farmer
+Amir Garrett*
+Kevin Gausman
+Sonny Gray
+Jimmy Herget
+David Hernandez
+Jared Hughes
+Raisel Iglesias
+Joel Kuhnel
+Michael Lorenzen
+Tyler Mahle
+Keury Mella
+Wandy Peralta*
+Jose Peraza
+Cody Reed*
+Tanner Roark
+Sal Romano
+Lucas Sims
+Robert Stephenson
+Alex Wood*
+League Average
+Team Total
+Name
+Name	Age	IP	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1st%	30%	30c	30s	02%	02c	02s	02h	L/SO	S/SO	L/SO%	3pK	4pW	PAu	Pitu	Stru
+R.J. Alaniz	28	11.2	46	180	3.91	110	61.1%	23.6%	13.6%	30.9%	31.8%	76.4%	0.0%	46.7%	82.1%	47.8%	2.2%	1	0	10.9%	5	1	0	1	6	14.3%	0	1	0	0	0
+Trevor Bauer	28	56.1	248	1002	4.04	629	62.8%	25.8%	21.5%	28.1%	24.6%	74.2%	0.0%	46.6%	71.1%	61.3%	2.4%	6	3	26.6%	66	39	3	22	46	32.4%	19	3	0	0	0
+Matt Bowman	28	32.0	137	561	4.09	360	64.2%	30.6%	13.6%	28.3%	27.5%	69.4%	0.0%	44.6%	80.4%	67.2%	3.6%	5	1	28.5%	39	20	3	6	19	24.0%	6	1	0	0	0
+Luis Castillo	26	190.2	782	3162	4.04	1944	61.5%	23.1%	27.6%	25.2%	24.1%	76.9%	0.0%	47.3%	64.1%	56.3%	6.0%	47	34	24.6%	192	96	6	22	201	9.7%	29	13	0	0	0
+Anthony DeSclafani	29	166.2	697	2668	3.83	1712	64.2%	25.0%	17.7%	29.5%	27.8%	75.0%	0.0%	48.1%	76.4%	61.1%	4.3%	30	18	25.7%	179	83	6	53	114	31.7%	22	7	0	0	0
+Zach Duke*	36	23.1	106	408	3.85	230	56.4%	28.7%	17.0%	24.8%	29.6%	71.3%	0.0%	40.2%	76.2%	53.8%	5.7%	6	0	27.4%	29	18	1	5	13	27.8%	7	5	0	0	0
+Kyle Farmer	28	1.1	5	12	2.40	9	75.0%	22.2%	22.2%	0.0%	55.6%	77.8%	0.0%	58.3%	71.4%	80.0%	0.0%	0	0	0.0%	0	0	0	0	0		0	0	0	0	0
+Amir Garrett*	27	56.0	246	978	3.98	592	60.5%	27.0%	28.4%	22.8%	21.8%	73.0%	0.0%	44.2%	61.1%	62.6%	8.1%	20	11	25.2%	62	37	2	16	62	20.5%	16	9	0	0	0
+Kevin Gausman	28	22.1	91	374	4.11	256	68.4%	20.3%	29.3%	28.5%	21.9%	79.7%	0.0%	54.5%	63.2%	62.6%	3.3%	3	2	38.5%	35	25	2	1	28	3.4%	11	0	0	0	0
+Sonny Gray	29	175.1	710	2909	4.10	1775	61.0%	30.8%	19.7%	25.4%	24.1%	69.2%	0.0%	42.2%	71.6%	55.5%	6.1%	43	28	22.3%	158	82	4	49	154	23.9%	29	13	0	0	0
+Jimmy Herget	25	6.1	26	95	3.65	60	63.2%	30.0%	11.7%	20.0%	38.3%	70.0%	0.0%	44.2%	83.3%	76.9%	11.5%	3	2	50.0%	13	6	1	0	0		0	1	0	0	0
+David Hernandez	34	42.2	198	783	3.95	524	66.9%	24.2%	24.4%	27.7%	23.7%	75.8%	0.0%	50.7%	67.8%	65.2%	3.5%	7	3	34.8%	69	43	4	15	38	28.3%	10	1	0	0	0
+Jared Hughes	33	48.1	199	779	3.91	469	60.2%	23.5%	16.8%	29.0%	30.7%	76.5%	0.0%	46.1%	78.0%	62.3%	4.0%	8	6	14.6%	29	16	1	5	29	14.7%	3	2	0	0	0
+Raisel Iglesias	29	67.0	279	1133	4.06	739	65.2%	24.6%	25.6%	27.2%	22.6%	75.4%	0.0%	49.2%	66.1%	55.9%	5.4%	15	8	24.0%	67	42	6	18	71	20.2%	11	3	0	0	0
+Joel Kuhnel	24	9.2	42	166	3.95	103	62.0%	16.5%	24.3%	32.0%	27.2%	83.5%	0.0%	51.8%	70.9%	69.0%	4.8%	2	2	31.0%	13	9	0	0	9	0.0%	4	0	0	0	0
+Michael Lorenzen	27	83.1	344	1335	3.88	841	63.0%	22.5%	24.1%	26.3%	27.1%	77.5%	0.0%	48.8%	68.9%	62.5%	3.2%	11	9	21.8%	75	41	5	6	79	7.1%	20	1	0	0	0
+Tyler Mahle	24	129.2	556	2211	3.98	1460	66.0%	30.0%	16.3%	27.2%	26.5%	70.0%	0.0%	46.2%	76.7%	68.3%	2.2%	12	9	30.9%	172	97	11	29	100	22.5%	36	3	0	0	0
+Keury Mella	25	3.2	18	63	3.50	40	63.5%	20.0%	27.5%	22.5%	30.0%	80.0%	0.0%	50.8%	65.6%	55.6%	5.6%	1	0	22.2%	4	3	0	1	3	25.0%	2	0	0	0	0
+Wandy Peralta*	27	34.0	151	573	3.79	350	61.1%	19.7%	26.0%	23.7%	30.6%	80.3%	0.0%	49.0%	67.6%	51.7%	5.3%	8	4	17.9%	27	16	2	3	24	11.1%	6	2	0	0	0
+Jose Peraza	25	1.1	4	15	3.75	9	60.0%	11.1%	0.0%	44.4%	44.4%	88.9%	0.0%	53.3%	100.0%	75.0%	0.0%	0	0	25.0%	1	0	0	0	0		0	0	0	0	0
+Cody Reed*	26	6.1	25	88	3.52	62	70.5%	33.9%	14.5%	24.2%	27.4%	66.1%	0.0%	46.6%	78.0%	64.0%	12.0%	3	2	20.0%	5	3	0	1	6	14.3%	2	0	0	0	0
+Tanner Roark	32	110.1	484	2013	4.16	1240	61.6%	25.3%	15.7%	32.4%	26.5%	74.7%	0.0%	46.0%	78.9%	58.1%	4.1%	20	15	25.0%	121	61	6	41	67	38.0%	11	4	0	0	0
+Sal Romano	25	16.1	78	306	3.92	186	60.8%	33.3%	12.4%	26.3%	28.0%	66.7%	0.0%	40.5%	81.5%	51.3%	10.3%	8	6	24.4%	19	11	1	8	8	50.0%	3	1	0	0	0
+Lucas Sims	25	43.0	177	751	4.24	470	62.6%	24.9%	25.5%	28.5%	21.1%	75.1%	0.0%	47.0%	66.0%	66.1%	4.0%	7	3	36.2%	64	31	0	3	54	5.3%	12	4	0	0	0
+Robert Stephenson	26	64.2	263	1028	3.91	677	65.9%	23.9%	30.0%	23.0%	23.0%	76.1%	0.0%	50.1%	60.6%	63.1%	7.6%	20	11	39.9%	105	66	5	14	67	17.3%	15	6	0	0	0
+Alex Wood*	28	35.2	153	586	3.83	375	64.0%	23.7%	18.9%	27.2%	30.1%	76.3%	0.0%	48.8%	75.2%	67.3%	5.2%	8	7	30.7%	47	26	2	4	25	13.3%	6	1	0	0	0
+League Average																															
+Team Total	28.2		6065	24179	3.99	15222	63.0%	25.8%	21.4%	27.1%	25.7%	74.2%	0.0%	46.7%	71.1%	60.4%	4.8%	294	184	26.3%	1596	872	71	323	1223	20.8%	280	81	0	0	0
+Name	Age	IP	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1st%	30%	30c	30s	02%	02c	02s	02h	L/SO	S/SO	L/SO%	3pK	4pW	PAu	Pitu	Stru
+Team Neutralized Pitching 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	W	L	W-L%	ERA	IP	H	R	ER	HR	BB	SO	HBP	WHIP	H9	BB9	SO9	SO/W	HR9	Gact
+R.J. Alaniz	28	1	1	.500	7.88	16.0	18	16	14	3	7	13	0	1.563	10.1	3.9	7.3	1.86	1.7	12
+Trevor Bauer	28	12	12	.500	3.85	213.0	169	101	91	31	75	253	17	1.146	7.1	3.2	10.7	3.37	1.3	34
+Matt Bowman	28	2	2	.500	3.38	32.0	24	13	12	2	12	25	0	1.125	6.8	3.4	7.0	2.08	0.6	27
+Luis Castillo	26	12	9	.571	2.73	191.0	129	65	58	20	73	226	6	1.058	6.1	3.4	10.6	3.10	0.9	32
+Anthony DeSclafani	29	10	9	.526	3.18	167.0	140	66	59	27	45	167	4	1.108	7.5	2.4	9.0	3.71	1.5	31
+Zach Duke*	36	1	2	.333	4.30	23.0	20	12	11	4	17	18	2	1.609	7.8	6.7	7.0	1.06	1.6	30
+Kyle Farmer	28	0	0		0.00	1.0	0	0	0	0	0	0	0	0.000	0.0	0.0	0.0		0.0	1
+Amir Garrett*	27	3	3	.500	2.73	56.0	41	19	17	7	33	78	4	1.321	6.6	5.3	12.5	2.36	1.1	69
+Kevin Gausman	28	5	6	.455	4.85	102.0	104	61	55	14	29	114	5	1.304	9.2	2.6	10.1	3.93	1.2	31
+Sonny Gray	29	12	7	.632	2.37	175.0	114	51	46	16	64	205	7	1.017	5.9	3.3	10.5	3.20	0.8	31
+Jimmy Herget	25	0	1	.000	4.50	6.0	8	3	3	2	3	0	0	1.833	12.0	4.5	0.0	0.00	3.0	5
+David Hernandez	34	2	3	.400	6.49	43.0	49	34	31	6	18	53	1	1.558	10.3	3.8	11.1	2.94	1.3	47
+Jared Hughes	33	4	4	.500	3.68	71.0	54	32	29	12	26	54	2	1.127	6.8	3.3	6.8	2.08	1.5	72
+Raisel Iglesias	29	4	3	.571	3.22	67.0	57	27	24	11	20	89	2	1.149	7.7	2.7	12.0	4.45	1.5	68
+Joel Kuhnel	24	1	0	1.000	3.60	10.0	7	4	4	1	4	9	0	1.100	6.3	3.6	8.1	2.25	0.9	11
+Michael Lorenzen	27	5	4	.556	2.39	83.0	64	25	22	8	26	85	2	1.084	6.9	2.8	9.2	3.27	0.9	73
+Tyler Mahle	24	6	8	.429	4.36	130.0	126	70	63	23	32	129	6	1.215	8.7	2.2	8.9	4.03	1.6	25
+Keury Mella	25	0	0		4.50	4.0	4	2	2	0	2	4	0	1.500	9.0	4.5	9.0	2.00	0.0	2
+Wandy Peralta*	27	2	2	.500	4.50	40.0	38	22	20	10	15	32	2	1.325	8.6	3.4	7.2	2.13	2.3	47
+Jose Peraza	25	0	0		0.00	1.0	0	0	0	0	0	0	0	0.000	0.0	0.0	0.0		0.0	2
+Cody Reed*	26	1	0	1.000	1.50	6.0	6	1	1	0	1	7	0	1.167	9.0	1.5	10.5	7.00	0.0	3
+Tanner Roark	32	9	9	.500	3.65	165.0	170	74	67	26	48	158	12	1.321	9.3	2.6	8.6	3.29	1.4	31
+Sal Romano	25	1	1	.500	6.19	16.0	21	12	11	4	8	16	1	1.813	11.8	4.5	9.0	2.00	2.3	12
+Lucas Sims	25	3	2	.600	3.56	43.0	29	19	17	7	18	57	2	1.093	6.1	3.8	11.9	3.17	1.5	24
+Robert Stephenson	26	4	3	.571	3.18	65.0	40	26	23	8	22	81	0	0.954	5.5	3.0	11.2	3.68	1.1	57
+Alex Wood*	28	2	2	.500	5.00	36.0	39	22	20	10	9	30	1	1.333	9.8	2.3	7.5	3.33	2.5	7
+Name	Age	W	L	W-L%	ERA	IP	H	R	ER	HR	BB	SO	HBP	WHIP	H9	BB9	SO9	SO/W	HR9	Gact
+Team Cumulative Pitching 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	Yrs	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	WHIP	H9	HR9	BB9	SO9	SO/W	ERA+
+R.J. Alaniz	28	1	1	0	1.000	9.19	12	0	4	0	0	0	15.2	19	17	16	3	7	0	13	0	1	0	71	51	1.660	10.9	1.7	4.0	7.5	1.86	51
+Trevor Bauer	28	8	70	60	.538	4.04	194	184	6	3	1	1	1117.0	1010	539	502	132	437	8	1179	60	2	44	4753	109	1.295	8.1	1.1	3.5	9.5	2.70	109
+Matt Bowman	28	4	7	13	.350	4.02	183	0	37	0	0	2	181.1	167	91	81	14	62	10	149	7	0	2	774	104	1.263	8.3	0.7	3.1	7.4	2.40	104
+Luis Castillo	26	3	28	27	.509	3.68	78	78	0	0	0	0	449.2	361	197	184	61	160	2	489	15	6	11	1848	119	1.159	7.2	1.2	3.2	9.8	3.06	119
+Anthony DeSclafani	29	5	36	37	.493	4.13	116	108	4	1	1	0	622.2	623	312	286	90	169	14	557	17	2	20	2618	102	1.272	9.0	1.3	2.4	8.1	3.30	102
+Zach Duke*	36	15	69	91	.431	4.31	570	169	67	6	3	4	1360.0	1554	714	651	132	419	31	854	45	8	32	5915	97	1.451	10.3	0.9	2.8	5.7	2.04	97
+Kyle Farmer	28	1	0	0		0.00	1	0	1	0	0	0	1.1	1	0	0	0	0	0	0	0	0	0	5		0.750	6.8	0.0	0.0	0.0		
+Amir Garrett*	27	3	9	13	.409	5.12	151	14	11	0	0	0	189.2	174	112	108	38	100	6	212	9	1	9	831	86	1.445	8.3	1.8	4.7	10.1	2.12	86
+Kevin Gausman	28	7	47	63	.427	4.30	191	154	10	1	0	0	925.2	964	465	442	130	280	8	855	25	1	44	3947	99	1.344	9.4	1.3	2.7	8.3	3.05	99
+Sonny Gray	29	7	70	60	.538	3.53	186	177	2	6	4	0	1076.0	936	468	422	104	377	4	994	29	3	72	4476	116	1.220	7.8	0.9	3.2	8.3	2.64	116
+Jimmy Herget	25	1	0	0		4.26	5	0	4	0	0	0	6.1	8	3	3	2	3	0	0	0	0	0	26	112	1.737	11.4	2.8	4.3	0.0	0.00	112
+David Hernandez	34	10	38	47	.447	4.12	547	27	129	0	0	24	648.2	594	311	297	88	253	19	664	26	4	45	2774	102	1.306	8.2	1.2	3.5	9.2	2.62	102
+Jared Hughes	33	9	29	24	.547	2.88	524	0	125	0	0	12	519.0	457	193	166	44	176	23	350	35	0	29	2138	140	1.220	7.9	0.8	3.1	6.1	1.99	140
+Raisel Iglesias	29	5	14	29	.326	3.17	252	21	185	0	0	98	388.2	314	142	137	47	127	8	448	17	3	11	1596	135	1.135	7.3	1.1	2.9	10.4	3.53	135
+Joel Kuhnel	24	1	1	0	1.000	4.66	11	0	2	0	0	0	9.2	8	5	5	1	5	0	9	0	0	0	42	101	1.345	7.4	0.9	4.7	8.4	1.80	101
+Michael Lorenzen	27	5	19	20	.487	3.94	250	24	45	0	0	10	410.2	396	190	180	47	166	14	350	21	3	22	1765	108	1.369	8.7	1.0	3.6	7.7	2.11	108
+Tyler Mahle	24	3	11	23	.324	4.88	52	52	0	0	0	0	261.2	280	156	142	47	98	8	253	13	1	4	1155	90	1.445	9.6	1.6	3.4	8.7	2.58	90
+Keury Mella	25	3	0	0		7.94	8	0	3	0	0	0	17.0	23	15	15	5	12	2	13	1	0	1	85	58	2.059	12.2	2.6	6.4	6.9	1.08	58
+Wandy Peralta*	27	4	6	7	.462	4.93	185	0	30	0	0	0	157.0	162	92	86	22	78	6	125	6	0	4	701	90	1.529	9.3	1.3	4.5	7.2	1.60	90
+Jose Peraza	25	1	0	0		0.00	2	0	2	0	0	0	1.1	1	0	0	0	0	0	0	0	0	0	4		0.750	6.8	0.0	0.0	0.0		
+Cody Reed*	26	4	2	11	.154	5.42	42	18	6	0	0	1	114.2	129	80	69	20	54	6	109	6	2	7	522	80	1.596	10.1	1.6	4.2	8.6	2.02	80
+Tanner Roark	32	7	74	64	.536	3.71	213	172	10	1	1	1	1100.1	1047	481	453	126	314	17	890	53	2	17	4582	113	1.237	8.6	1.0	2.6	7.3	2.83	113
+Sal Romano	25	3	14	19	.424	5.17	67	41	5	0	0	2	249.0	268	155	143	36	98	9	194	9	0	13	1105	83	1.470	9.7	1.3	3.5	7.0	1.98	83
+Lucas Sims	25	3	5	7	.417	5.49	47	14	5	0	0	0	116.1	110	72	71	20	55	3	117	8	0	1	509	81	1.418	8.5	1.5	4.3	9.1	2.13	81
+Robert Stephenson	26	4	10	13	.435	4.91	94	22	22	0	0	1	198.0	182	120	108	32	108	11	209	6	4	12	878	91	1.465	8.3	1.5	4.9	9.5	1.94	91
+Alex Wood*	28	7	53	43	.552	3.40	179	136	11	1	0	0	839.0	788	348	317	79	238	17	768	29	4	23	3481	114	1.223	8.5	0.8	2.6	8.2	3.23	114
+Name	Age	Yrs	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	WHIP	H9	HR9	BB9	SO9	SO/W	ERA+
+* - Disclaimer & Completeness Note 
+* Many Detailed Statistics are based on play-by-play accounts accumulated by RetroSheet. These totals may be incomplete (3.6% of all plays from 1925 to 1973 are missing or have incomplete accounts, click link for year and team summary of data completeness) for some players prior to 1974 and even complete seasons may not match the official totals due to errors in both the official totals and the play-by-play accounts. Pre-1954 seasons have a substantial numbers of games missing play-by-play accounts and should be viewed as essentially incomplete.
+More 2019 Reds Pages
+2019 Cincinnati Reds
+
+Stats
+
+Schedule & Results
+
+40-Man Roster
+
+Uniforms
+
+Contracts
+
+Batting
+
+Pitching
+
+Fielding
+
+Scoring
+
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+Support us without the ads? Go Ad-Free.
+21 Tips for Saving While Grocery Shopping
+Ad by Capital One
+See More
+Login Create Account Surf AD-FREE
+You are here: BR Home Page > Teams > Franchise Encyclopedia > 2019 Pitching Statistics
+Full Site Menu 
+Return to Top
+MLB Players
+Current Greats: Clayton Kershaw, Bryce Harper, Mike Trout, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+MLB Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Indians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2019, 2018, 2019 MLB Pitching, 2019 MLB Batting, 2019 MLB Standings, 2019 MLB Attendance, 2019 MLB Rookies, ...
+MLB Leaders
+2019 MLB Batting, 2019 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in MLB history, MLB Probable Pitchers, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+MLB Playoffs
+2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Play Index
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Event Finder, Player Comparison Finder, Neutralized Stats, ...
+Team Finders: Season Finder, Split Finder, Game Finder, Streak Finder, Event Finder, ...
+Other Finders: Draft Finder, Game Score & Result Searches, Team Trade Histories, ...
+Managers
+Active: Terry Francona, Clint Hurdle, A.J. Hinch, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+MLB Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2019 HOF results, 2020 Hall of Fame ballot, ...
+MLB All-Star Games
+2020 All-Star Game, 2019 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities and More
+Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2019 Draft, 2018 Draft, 2017 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Negro Leagues
+Minor League Stats, Negro League Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2019 Minor Leagues, 2019 Affiliates, ...
+Baseball-Reference Bullpen
+85,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, ...
+We're Social...for Statheads
+      
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, December 29, 6:47AM
+
+Question, Comment, Feedback, or Correction?
+
+Are you a Stathead, too? Subscribe to our Newsletter
+
+This Week in Sports Reference
+Find out when we add a feature or make a change
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Go ad-free to support Sports Reference and get our fastest browsing experience
+Subscribe to the Play Index and get access to more data than you can imagine
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Primary Data Provided By Gracenote Sports
+Copyright © 2000-2019 Sports Reference LLC. All rights reserved.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+BaseballInfoSolutions.com logo
+
+Some defensive statistics Copyright © Baseball Info Solutions, 2010-2019.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+ Sports Reference Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead Widgets
+About • Privacy Statement • Conditions & Terms of Service • Advertise With Us • Use of Data
+

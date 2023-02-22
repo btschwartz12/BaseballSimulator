@@ -1,0 +1,825 @@
+ Sports ReferenceBaseballFootball (college)Basketball (college)HockeySoccerBlogStatheadWidgetsQuestions or Comments?LoginCreate AccountBaseball-Reference.com Logo & Link to home page
+Players
+Teams
+Seasons
+Leaders
+MLB Scores1
+MLB Playoffs
+Play Index
+Full Site Menu Below
+Enter Person, Team, Section, etc
+2019 Oakland Athletics Logo
+via Sports Logos.net
+
+About logos
+
+2019 Oakland Athletics Batting Statistics
+2018 Season
+Record: 97-65, 2nd place in AL_West (Schedule and Results)
+
+Postseason: Lost AL Wild Card Game (1-0) to Tampa Bay Rays
+
+Manager: Bob Melvin (97-65)
+
+President: Billy Beane (Executive VP, Baseball Operations)
+
+General Manager: David Forst
+
+Farm Director: Keith Lieppman
+
+Scouting Director: Eric Kubota
+
+More team info, park factors, postseason, & more
+Support us without the ads? Go Ad-Free.
+
+
+2019 Oakland Athletics
+Stats
+Schedule & Results
+40-Man Roster
+Uniforms
+Contracts
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Fielding
+Scoring
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+On this page:
+
+Team Batting Team Player Value--Batters Team Advanced Batting Team Batting Ratios* Team Win Probability* Team Baserunning/Misc* Team PH/HR/Situ Hitting* Team Pitches Batting* Team Neutralized Batting Team Cumulative Batting Full Site Menu
+Statheads want to know.
+Get scores, news and notes in your inbox every day. View a sample email. It's also available for football, basketball and hockey.
+
+Subscribe to our Stathead Newsletter
+
+Team Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+1	C	Josh Phegley	31	106	342	314	44	75	18	0	12	62	0	1	15	63	.239	.282	.411	.693	85	129	11	6	2	5	0
+2	1B	Matt Olson*	25	127	547	483	73	129	26	0	36	91	0	0	51	138	.267	.351	.545	.896	137	263	11	12	0	1	7
+3	2B	Jurickson Profar#	26	139	518	459	65	100	24	2	20	67	9	1	48	75	.218	.301	.410	.711	90	188	12	8	0	3	2
+4	SS	Marcus Semien	28	162	747	657	123	187	43	7	33	92	10	8	87	102	.285	.369	.522	.892	138	343	11	2	0	1	2
+5	3B	Matt Chapman	26	156	670	583	102	145	36	3	36	91	1	1	73	147	.249	.342	.506	.848	126	295	12	11	0	3	0
+6	LF	Robbie Grossman#	29	138	482	420	57	101	21	3	6	38	9	4	59	86	.240	.334	.348	.682	86	146	7	1	0	2	2
+7	CF	Ramon Laureano	24	123	481	434	79	125	29	0	24	67	13	2	27	123	.288	.340	.521	.860	128	226	7	11	1	8	0
+8	RF	Stephen Piscotty	28	93	393	357	46	89	17	1	13	44	2	0	29	84	.249	.309	.412	.720	93	147	13	3	1	3	0
+9	DH	Khris Davis	31	133	533	481	61	106	11	0	23	73	0	0	47	146	.220	.293	.387	.679	82	186	11	3	0	2	3
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+10	OF	Mark Canha	30	126	497	410	80	112	16	3	26	58	3	2	67	107	.273	.396	.517	.913	145	212	10	18	0	2	1
+11	OF	Chad Pinder	27	124	370	341	45	82	21	0	13	47	0	1	20	88	.240	.290	.416	.706	88	142	11	5	1	3	0
+12	1B	Kendrys Morales#	36	34	126	108	9	22	1	1	1	7	0	0	14	20	.204	.310	.259	.569	58	28	3	3	0	1	0
+13	C	Chris Herrmann*	31	30	94	84	9	17	3	0	1	8	0	0	9	29	.202	.280	.274	.553	52	23	4	0	1	0	0
+14	LF	Seth Brown*	26	26	83	75	11	22	8	2	0	13	1	0	7	23	.293	.361	.453	.815	120	34	2	1	0	0	0
+15	C	Nick Hundley	35	31	73	70	5	14	3	1	2	5	0	1	2	18	.200	.233	.357	.590	57	25	7	1	0	0	0
+16	IF	Sheldon Neuse	24	25	61	56	3	14	3	0	0	7	0	0	4	19	.250	.295	.304	.599	64	17	2	0	0	1	0
+17	C	Sean Murphy	24	20	60	53	14	13	5	0	4	8	0	0	6	16	.245	.333	.566	.899	137	30	3	1	0	0	0
+18	2B	Franklin Barreto	23	23	58	57	6	7	2	0	2	5	1	0	1	23	.123	.138	.263	.401	5	15	0	0	0	0	0
+19	2B	Corban Joseph*	30	11	40	37	4	7	2	0	1	5	0	0	2	5	.189	.225	.324	.549	46	12	2	0	0	1	0
+20	C	Beau Taylor*	29	20	29	23	3	4	0	0	2	2	0	0	4	6	.174	.321	.435	.756	103	10	0	1	0	0	0
+21	C	Dustin Garneau	31	7	19	17	3	5	2	0	1	7	0	0	2	4	.294	.368	.588	.957	153	10	0	0	0	0	0
+22	LF	Nick Martini*	29	6	13	11	1	1	0	0	1	2	0	0	2	5	.091	.231	.364	.594	57	4	0	0	0	0	0
+23	OF	Skye Bolt#	25	5	11	10	1	1	1	0	0	0	0	0	1	3	.100	.182	.200	.382	4	2	0	0	0	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+24	P	Brett Anderson*	31	3	8	8	1	4	0	0	0	0	0	0	0	2	.500	.500	.500	1.000	174	4	0	0	0	0	0
+25	P	Chris Bassitt	30	3	5	4	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	0	0	1	0	0
+26	P	Homer Bailey	33	2	4	4	0	2	0	0	0	1	0	0	0	1	.500	.500	.500	1.000	174	2	0	0	0	0	0
+27	P	Daniel Mengden	26	1	2	2	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	0	0	0	0	0
+28	P	Frankie Montas	26	1	2	1	0	0	0	0	0	0	0	0	1	0	.000	.500	.000	.500	58	0	0	0	0	0	0
+29	P	Yusmeiro Petit	34	6	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	1	0	0	0	0
+30	P	Tanner Anderson	26	1	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+31	P	J.B. Wendelken	26	2	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+32	P	Paul Blackburn	25	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+33	P	Mike Fiers	34	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+34	P	Joakim Soria	35	5	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+35	P	Marco Estrada	35	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+36	P	Fernando Rodney	42	2	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+37	P	Ryan Buchter*	32	4	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+38	P	Blake Treinen	31	3	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+39	P	Tanner Roark	32	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+40	P	Sean Manaea	27	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+41	P	Ryan Dull	29	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+42	P	Wei-Chung Wang*	27	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+43	P	A.J. Puk*	24	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+44	P	Liam Hendriks	30	5	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+45	P	Brian Schlitter	33	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+46	P	Jake Diekman*	32	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+47	P	Jesus Luzardo*	21	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+48	P	Lou Trivino	27	4	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+49	P	Aaron Brooks	29	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Team Totals	27.9	162	6270	5561	845	1384	292	23	257	800	49	21	578	1338	.249	.327	.448	.776	108	2493	140	87	7	36	17
+Rank in 15 AL teams				7	5	7	5	9	4		14	4	5	5	8	5	5	5		5		1		11	
+Non-Pitcher Totals	27.9	162	6247	5540	844	1378	292	23	257	799	49	21	577	1330	.249	.327	.449	.776	108	2487	139	87	6	36	17
+Pitcher Totals	27.2	162	23	21	1	6	0	0	0	1	0	0	1	8	.286	.318	.286	.604	67	6	1	0	1	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - bats left-handed, # - bats both, else - bats right, ? - unknown; OPS_lg for OPS+ does not include pitchers.
+Team Player Value--Batters 
+League RegisterWAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+Brett Anderson*	31	3	8	1	0	0	0	1	2	0.2	0	2	0.2	.558	.501	0.2	0.0	2	$1,500,000	Free Agency	1
+Tanner Anderson	26	1	1	0	0	0	0	0	0	0.0	0	0	0.0	.485	.500	0.0	0.0	0		Traded	/1
+Homer Bailey	33	2	4	0	0	0	0	1	1	0.1	0	1	0.1	.543	.501	0.1	0.0	1		Traded	1
+Franklin Barreto	23	23	58	-7	0	1	-1	1	-6	-0.6	2	-4	-0.4	.473	.496	-0.3	0.0	-3	$557,500	Traded	4/6
+Chris Bassitt	30	3	5	-1	0	0	0	1	-1	-0.1	0	-1	-0.1	.480	.500	-0.1	0.0	-1	$565,000	Traded	1
+Paul Blackburn	25	0		0	0	0	0													Traded	/1
+Skye Bolt#	25	5	11	-1	0	0	1	0	0	0.0	0	0	0.0	.491	.500	-0.1	0.1	-1		Amateur Draft	/89
+Aaron Brooks	29	0		0	0	0	0												$560,000	Purchased	1
+Seth Brown*	26	26	83	2	-1	0	5	-1	5	0.6	3	8	0.8	.520	.503	0.3	0.4	3		Amateur Draft	7/3
+Ryan Buchter*	32	4	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$1,400,000	Traded	1
+Mark Canha	30	126	497	33	0	0	-3	-2	28	2.8	18	45	4.5	.521	.516	4.7	-0.4	48	$2,050,000	Traded	89D37
+Matt Chapman	26	156	670	23	0	-1	18	3	43	4.4	24	67	6.7	.527	.526	4.8	2.3	49	$580,000	Amateur Draft	*5
+Khris Davis	31	133	533	-11	-1	-1	1	-12	-24	-2.1	19	-4	-0.3	.483	.486	-0.5	-0.9	-5	$16,500,000	Traded	*D/7
+Jake Diekman*	32	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Traded	1
+Ryan Dull	29	0		0	0	0	0												$860,000	Amateur Draft	/1
+Marco Estrada	35	0		0	0	0	0												$4,000,000	Free Agency	/1
+Mike Fiers	34	0		0	0	0	0												$6,000,000	Traded	1
+Dustin Garneau	31	7	19	1	0	0	0	0	1	0.1	1	2	0.2	.518	.501	0.2	0.0	2		Waivers	/2
+Robbie Grossman#	29	138	482	-7	0	1	4	-5	-8	-0.6	17	10	1.0	.495	.495	0.6	0.1	6	$2,000,000	Free Agency	*79/8
+Liam Hendriks	30	5	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$2,150,000	Traded	1
+Chris Herrmann*	31	30	94	-5	0	-1	-1	1	-6	-0.5	3	-2	-0.2	.482	.497	-0.1	0.1	-1	$1,000,000	Free Agency	2/7
+Nick Hundley	35	31	73	-5	-1	-1	-1	1	-6	-0.6	3	-4	-0.4	.480	.496	-0.3	0.1	-3	$1,250,000	Free Agency	2
+Corban Joseph*	30	11	40	-3	0	0	0	0	-3	-0.3	1	-1	-0.1	.474	.498	-0.1	0.0	-1		Waivers	/45D
+Ramon Laureano	24	123	481	16	3	1	-1	2	21	2.1	17	38	3.8	.516	.512	3.8	0.3	39	$557,500	Traded	*89
+Jesus Luzardo*	21	0		0	0	0	0													Traded	/1
+Sean Manaea	27	0		0	0	0	0												$3,150,000	Traded	/1
+Nick Martini*	29	6	13	-1	0	0	0	0	-1	-0.1	0	-1	-0.1	.484	.499	-0.1	0.0	-1	$557,500	Free Agency	/7D1
+Daniel Mengden	26	1	2	-1	0	0	0	0	0	0.0	0	0	0.0	.475	.500	0.0	0.0	0		Traded	1
+Frankie Montas	26	1	2	0	0	0	0	0	0	0.0	0	0	0.0	.534	.500	0.0	0.0	0	$560,000	Traded	1
+Kendrys Morales#	36	34	126	-6	-1	0	0	-2	-9	-0.8	5	-4	-0.4	.474	.495	-0.4	-0.2	-4	$12,000,000	Traded	3/D1
+Sean Murphy	24	20	60	2	1	0	0	1	4	0.4	2	6	0.6	.519	.502	0.6	0.1	6		Amateur Draft	2/D
+Sheldon Neuse	24	25	61	-3	0	0	3	0	0	0.0	2	2	0.2	.499	.500	-0.1	0.4	-1		Traded	4/5D
+Matt Olson*	25	127	547	26	-1	-1	14	-7	31	3.2	19	51	5.1	.524	.519	3.6	0.9	37	$575,000	Amateur Draft	*3
+Yusmeiro Petit	34	6	1	0	0	0	0	0	0	0.0	0	0	0.0	.494	.500	0.0	0.0	0	$5,500,000	Free Agency	1
+Josh Phegley	31	106	342	-5	-1	-2	-9	6	-11	-0.9	12	2	0.3	.490	.494	1.1	-0.2	11	$1,075,000	Traded	2
+Chad Pinder	27	124	370	-5	-1	0	11	-3	3	0.5	13	17	1.7	.503	.502	0.6	1.0	6	$565,000	Amateur Draft	7945/8D63
+Stephen Piscotty	28	93	393	-5	2	-1	1	-4	-7	-0.6	14	7	0.7	.492	.496	0.6	-0.2	6	$7,333,333	Traded	9/D
+Jurickson Profar#	26	139	518	-9	2	1	-8	2	-12	-1.0	19	7	0.8	.492	.493	1.5	-0.4	15	$3,600,000	Traded	*4/D73
+A.J. Puk*	24	0		0	0	0	0													Amateur Draft	1
+Tanner Roark	32	0		0	0	0	0													Traded	1
+Fernando Rodney	42	2	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$5,250,000	Traded	1
+Brian Schlitter	33	0		0	0	0	0													Free Agency	/1
+Marcus Semien	28	162	747	43	2	0	5	9	59	5.8	25	83	8.1	.534	.534	7.5	1.5	78	$5,900,000	Traded	*6
+Joakim Soria	35	5	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$6,500,000	Free Agency	1
+Beau Taylor*	29	10	28	0	0	1	-2	1	-1	-0.1	1	0	0.0	.493	.500	0.2	-0.1	2		Free Agency	/2
+Blake Treinen	31	3	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$6,400,000	Traded	1
+Lou Trivino	27	4	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$557,500	Amateur Draft	1
+Wei-Chung Wang*	27	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Free Agency	1
+J.B. Wendelken	26	2	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$557,500	Traded	1
+Team Total	27.8	1699	6269	72	3	-5	37	-3	104	11.8	221	325	32.8	.506	.506	27.9	4.9	288	$101,610,833		
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+
+Team Advanced Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Brett Anderson*	31	8	4	2	13.4	102	.667	.500	.248	.500	.317	.500	.430	1.000	.747	174	.858	0.8	0.1	1.000	.000	.000		1
+Tanner Anderson	26	1	1	0	0.0	102		.000	.248	.000	.317	.000	.430	.000	.747	-100	.000	-0.3	0.0	.000	.000	.000		/1
+Homer Bailey	33	4	2	1	13.4	102	.667	.500	.248	.500	.317	.500	.430	1.000	.747	174	.858	0.4	0.0	1.000	.000	.000		1
+Franklin Barreto	23	58	50	2	1.1	102	.156	.123	.248	.138	.317	.263	.430	.401	.747	5	.056	-7.8	-0.8	.340	.175	.140	1.3	4/6
+Chris Bassitt	30	5	5	0	0.0	102	.000	.000	.248	.000	.317	.000	.430	.000	.747	-100	.000	-1.1	-0.1	.000	.000	.000		1
+Skye Bolt#	25	11	9	0	0.0	102	.143	.100	.248	.182	.317	.200	.430	.382	.747	4	.000	-1.3	-0.1	.333	.200	.100		/89
+Seth Brown*	26	83	55	12	5.9	102	.423	.293	.248	.361	.317	.453	.430	.815	.747	120	.570	2.4	0.2	.782	.267	.160	.0	7/3
+Ryan Buchter*	32	0	0														.000	0.0	0.0					1
+Mark Canha	30	497	312	88	7.6	102	.308	.273	.248	.396	.317	.517	.430	.913	.747	145	.679	30.0	2.8	.968	.410	.244	5.4	89D37
+Matt Chapman	26	670	454	103	6.1	102	.270	.249	.248	.342	.317	.506	.430	.848	.747	126	.587	22.9	2.1	.843	.383	.257	1.9	*5
+Khris Davis	31	533	388	54	3.7	102	.264	.220	.248	.293	.317	.387	.430	.679	.747	82	.367	-12.7	-1.2	.611	.264	.166	.0	*D/7
+Jake Diekman*	32	0	0														.000	0.0	0.0					1
+Dustin Garneau	31	19	12	4	8.9	102	.333	.294	.248	.368	.317	.588	.430	.957	.747	153	.742	1.4	0.1	1.000	.412	.294	.0	/2
+Robbie Grossman#	29	482	332	52	4.2	102	.288	.240	.248	.334	.317	.348	.430	.682	.747	86	.419	-6.3	-0.6	.652	.260	.107	7.2	*79/8
+Liam Hendriks	30	0	0														.000	0.0	0.0					1
+Chris Herrmann*	31	94	72	6	2.2	102	.296	.202	.248	.280	.317	.274	.430	.553	.747	52	.185	-5.7	-0.5	.451	.179	.071	.0	2/7
+Nick Hundley	35	73	64	3	1.3	102	.240	.200	.248	.233	.317	.357	.430	.590	.747	57	.074	-4.5	-0.4	.438	.171	.157	.0	2
+Corban Joseph*	30	40	33	2	1.6	102	.188	.189	.248	.225	.317	.324	.430	.549	.747	46	.112	-2.7	-0.3	.438	.189	.135	.0	/45D
+Ramon Laureano	24	481	327	79	6.5	102	.342	.288	.248	.340	.317	.521	.430	.860	.747	128	.614	18.8	1.8	.871	.320	.233	16.9	*89
+Nick Martini*	29	13	10	1	2.7	102	.000	.091	.248	.231	.317	.364	.430	.594	.747	57	.241	-0.7	-0.1	.600	.455	.273	.0	/7D1
+Daniel Mengden	26	2	2	0	0.0	102		.000	.248	.000	.317	.000	.430	.000	.747	-100	.000	-0.6	-0.1	.000	.000	.000		1
+Frankie Montas	26	2	1	0	0.0	102	.000	.000	.248	.500	.317	.000	.430	.500	.747	58	.000	0.1	0.0	1.000	1.000	.000		1
+Kendrys Morales#	36	126	90	9	2.7	102	.239	.204	.248	.310	.317	.259	.430	.569	.747	58	.241	-6.1	-0.6	.506	.185	.056	.0	3/D1
+Sean Murphy	24	60	43	9	5.6	102	.273	.245	.248	.333	.317	.566	.430	.899	.747	137	.551	2.9	0.3	.860	.434	.321	.0	2/D
+Sheldon Neuse	24	61	45	5	3.0	102	.368	.250	.248	.295	.317	.304	.430	.599	.747	64	.278	-2.7	-0.3	.477	.125	.054		4/5D
+Matt Olson*	25	547	366	92	6.7	102	.300	.267	.248	.351	.317	.545	.430	.896	.747	137	.632	26.4	2.5	.893	.383	.277	.0	*3
+Yusmeiro Petit	34	1	2	0	0.0	102	.000	.000	.248	.000	.317	.000	.430	.000	.747	-100	.000	-0.3	0.0	.000	.000	.000		1
+Josh Phegley	31	342	258	34	3.5	102	.258	.239	.248	.282	.317	.411	.430	.693	.747	85	.344	-6.5	-0.6	.598	.217	.172	.0	2
+Chad Pinder	27	370	275	39	3.8	102	.284	.240	.248	.290	.317	.416	.430	.706	.747	88	.375	-5.3	-0.5	.616	.232	.176	.0	7945/8D63
+Stephen Piscotty	28	393	285	44	4.1	102	.289	.249	.248	.309	.317	.412	.430	.720	.747	93	.413	-3.2	-0.3	.644	.249	.162	3.5	9/D
+Jurickson Profar#	26	518	375	57	4.1	102	.218	.218	.248	.301	.317	.410	.430	.711	.747	90	.405	-5.8	-0.5	.680	.314	.192	12.4	*4/D73
+Fernando Rodney	42	0	0														.000	0.0	0.0					1
+Marcus Semien	28	747	490	128	7.0	102	.294	.285	.248	.369	.317	.522	.430	.892	.747	138	.648	37.6	3.5	.904	.373	.237	15.3	*6
+Joakim Soria	35	0	0														.000	0.0	0.0					1
+Beau Taylor*	29	28	18	4	6.0	102	.143	.182	.248	.333	.317	.455	.430	.788	.747	111	.578	0.4	0.0	.833	.455	.273	.0	/2
+Beau Taylor*	29	1	1	0	0.0	102	.000	.000	.248	.000	.317	.000	.430	.000	.747	-100	.000	-0.3	0.0	.000	.000	.000		
+Blake Treinen	31	0	0														.000	0.0	0.0					1
+Lou Trivino	27	0	0														.000	0.0	0.0					1
+Wei-Chung Wang*	27	0	0														.000	0.0	0.0					1
+J.B. Wendelken	26	0	0														.000	0.0	0.0					1
+League Average					5.0	106	.297	.252	.254	.322	.323	.437	.440	.759	.763	99	.495			.720	.288	.185		
+Team Total	27.8	6270	4381	830	5.1	102	.282	.249	.248	.327	.317	.448	.430	.776	.747	108	.505	70.2	6.4	.739	.308	.199	82.3	
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Team Batting Ratios* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+Brett Anderson*	31	8	0.0%	25.0%	0.0%	0.0%	0%		4.0			1.50		75%	33%	0.0%	0%
+Tanner Anderson	26	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Homer Bailey	33	4	0.0%	25.0%	0.0%	0.0%	0%		4.0		4.0	0.50	0.00	75%	67%	0.0%	0%
+Franklin Barreto	23	58	3.5%	39.7%	1.7%	6.9%	57%	23.00	2.5	28.5	11.4	1.36	1.89	55%	12%	15.4%	7%
+Chris Bassitt	30	5	0.0%	40.0%	0.0%	0.0%			2.0			1.00	2.00	40%	33%	0.0%	0%
+Skye Bolt#	25	11	0.0%	27.3%	9.1%	9.1%	100%	3.00	3.3			0.40	0.50	64%	29%	0.0%	20%
+Seth Brown*	26	83	0.0%	27.7%	8.4%	12.1%	46%	3.29	3.3		5.8	0.49	0.88	63%	35%	0.0%	9%
+Mark Canha	30	497	5.2%	21.5%	13.5%	9.1%	40%	1.60	3.8	15.8	7.1	0.69	0.90	56%	23%	17.4%	17%
+Matt Chapman	26	670	5.4%	21.9%	10.9%	11.2%	52%	2.01	4.0	16.2	6.4	0.71	0.85	60%	19%	17.0%	17%
+Khris Davis	31	533	4.3%	27.4%	8.8%	6.4%	32%	3.11	3.3	20.9	6.6	0.74	0.88	59%	24%	13.1%	9%
+Dustin Garneau	31	19	5.3%	21.1%	10.5%	15.8%	60%	2.00	4.3	17.0	2.4	0.30	0.33	63%	15%	12.5%	20%
+Robbie Grossman#	29	482	1.2%	17.8%	12.2%	6.2%	30%	1.46	4.9	70.0	11.1	0.68	0.91	68%	29%	3.3%	9%
+Chris Herrmann*	31	94	1.1%	30.9%	9.6%	4.3%	24%	3.22	2.9	84.0	10.5	1.39	2.07	57%	21%	5.0%	13%
+Nick Hundley	35	73	2.7%	24.7%	2.7%	8.2%	43%	9.00	3.9	35.0	14.0	0.79	1.50	68%	13%	8.7%	21%
+Corban Joseph*	30	40	2.5%	12.5%	5.0%	7.5%	43%	2.50	7.4	37.0	7.4	1.20	1.80	80%	21%	7.7%	13%
+Ramon Laureano	24	481	5.0%	25.6%	5.6%	11.0%	42%	4.56	3.5	18.1	6.5	0.59	0.75	61%	28%	13.3%	10%
+Nick Martini*	29	13	7.7%	38.5%	15.4%	7.7%	100%	2.50	2.2	11.0	5.5	0.50	0.67	38%	17%	25.0%	0%
+Daniel Mengden	26	2	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Frankie Montas	26	2	0.0%	0.0%	50.0%	0.0%		0.00						50%	0%		
+Kendrys Morales#	36	126	0.8%	15.9%	11.1%	2.4%	14%	1.43	5.4	108.0	15.4	0.82	1.06	70%	29%	2.3%	12%
+Sean Murphy	24	60	6.7%	26.7%	10.0%	15.0%	69%	2.67	3.3	13.3	6.6	0.95	1.70	55%	27%	23.5%	11%
+Sheldon Neuse	24	61	0.0%	31.2%	6.6%	4.9%	21%	4.75	2.9		8.0	0.81	1.60	62%	34%	0.0%	5%
+Matt Olson*	25	547	6.6%	25.2%	9.3%	11.3%	48%	2.71	3.5	13.4	5.3	0.49	0.75	57%	26%	18.0%	13%
+Yusmeiro Petit	34	1	0.0%	0.0%	0.0%	0.0%								100%	0%		
+Josh Phegley	31	342	3.5%	18.4%	4.4%	8.8%	40%	4.20	5.0	26.2	5.1	0.56	0.78	71%	27%	8.3%	12%
+Chad Pinder	27	370	3.5%	23.8%	5.4%	9.2%	42%	4.40	3.9	26.2	7.3	0.97	1.39	66%	26%	11.1%	10%
+Stephen Piscotty	28	393	3.3%	21.4%	7.4%	7.9%	35%	2.90	4.3	27.5	8.1	0.79	1.12	67%	27%	9.0%	6%
+Jurickson Profar#	26	518	3.9%	14.5%	9.3%	8.9%	46%	1.56	6.1	23.0	6.9	0.75	1.00	71%	23%	11.0%	18%
+Marcus Semien	28	747	4.4%	13.7%	11.7%	11.1%	44%	1.17	6.4	19.9	7.1	0.69	0.84	70%	25%	11.5%	13%
+Beau Taylor*	29	28	7.1%	21.4%	14.3%	7.1%	50%	1.50	3.8	11.5	11.5	1.83	3.33	54%	18%	33.3%	0%
+League Average			3.7%	23.0%	8.5%	8.7%	39%	2.70	3.9	24.1	7.4	0.74	1.00	63%	25%	11.0%	12%
+Team Total	27.8	6269	4.1%	21.3%	9.2%	9.1%	41%	2.31	4.2	21.6	7.0	0.71	0.95	64%	25%	11.8%	12%
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+Team Win Probability* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Brett Anderson*	31	8	0.8	0.1	8	0.0	0.1	0.0	.34	0.1	0.0	0.7	0.1	0.80	0.6		0
+Tanner Anderson	26	1	-0.3	0.0	1	0.0	0.0	0.0	.10	0.0	0.0	-0.2	0.0	0.61	-0.3	0.10	1
+Homer Bailey	33	4	0.4	0.0	4	0.1	0.1	0.0	.60	0.1	0.1	0.7	0.1	0.91	0.6		0
+Franklin Barreto	23	58	-7.8	-0.8	60	-0.5	0.4	-0.9	.69	-0.6	-0.2	-6.9	-0.7	0.94	-7.2		0
+Chris Bassitt	30	5	-1.1	-0.1	5	-0.1	0.0	-0.1	.93	-0.1	0.0	-1.1	-0.1	0.86	-1.3		0
+Skye Bolt#	25	11	-1.3	-0.1	11	-0.1	0.1	-0.2	.67	-0.1	0.0	-1.7	-0.2	0.88	-1.9	1.11	3
+Seth Brown*	26	83	2.4	0.2	86	0.6	1.9	-1.3	.92	0.3	0.4	1.7	0.2	1.07	1.8	1.73	6
+Mark Canha	30	497	30.0	2.8	509	1.3	8.9	-7.6	.93	2.9	-1.5	24.2	2.3	0.94	35.7	1.65	8
+Matt Chapman	26	670	22.9	2.1	681	3.6	14.1	-10.5	.93	2.5	1.4	29.0	2.8	0.89	31.0		0
+Khris Davis	31	533	-12.7	-1.2	536	-0.9	9.3	-10.1	.98	-1.0	0.2	-11.1	-1.1	0.96	-11.4	1.54	4
+Dustin Garneau	31	19	1.4	0.1	20	0.5	0.6	-0.1	.71	0.2	0.5	4.8	0.4	0.92	2.1	0.06	1
+Robbie Grossman#	29	482	-6.3	-0.6	501	-0.6	7.3	-7.9	.93	-1.0	0.3	-4.3	-0.4	0.90	-7.9	1.45	21
+Chris Herrmann*	31	94	-5.7	-0.5	94	-0.3	1.5	-1.8	1.01	-0.5	0.2	-8.0	-0.8	1.00	-7.8	1.48	5
+Nick Hundley	35	73	-4.5	-0.4	74	-1.2	0.7	-1.9	.93	-0.7	-0.6	-12.9	-1.3	0.97	-8.3	0.01	1
+Corban Joseph*	30	40	-2.7	-0.3	40	-0.2	0.5	-0.6	.82	-0.1	-0.1	-2.9	-0.3	0.98	-2.1		0
+Ramon Laureano	24	481	18.8	1.8	503	2.0	10.2	-8.1	1.01	1.6	0.4	13.1	1.3	0.95	18.8	1.79	3
+Nick Martini*	29	13	-0.7	-0.1	13	-0.1	0.2	-0.2	.90	-0.1	0.0	0.0	0.0	0.83	-0.6	0.93	2
+Daniel Mengden	26	2	-0.6	-0.1	2	-0.1	0.0	-0.1	1.71	-0.1	0.0	-0.9	-0.1	1.43	-0.6		0
+Frankie Montas	26	2	0.1	0.0	2	0.0	0.0	0.0	1.10	0.0	0.0	0.0	0.0	0.80	0.0		0
+Kendrys Morales#	36	126	-6.1	-0.6	126	-0.6	1.6	-2.2	.94	-0.8	0.1	-5.4	-0.5	0.88	-8.0	1.10	4
+Sean Murphy	24	60	2.9	0.3	63	-0.4	0.8	-1.2	.89	0.1	-0.5	0.1	0.0	0.96	1.3	2.95	1
+Sheldon Neuse	24	61	-2.7	-0.3	63	-0.3	0.7	-1.0	.87	-0.3	0.0	-2.2	-0.2	0.93	-3.2		0
+Matt Olson*	25	547	26.4	2.5	554	4.7	12.7	-8.1	.94	2.8	2.2	29.2	2.8	0.92	31.7		0
+Yusmeiro Petit	34	1	-0.3	0.0	1	0.0	0.0	0.0	.79	-0.1	0.0	-1.6	-0.2	2.22	-0.7		0
+Josh Phegley	31	342	-6.5	-0.6	347	-0.7	5.2	-6.0	.90	-0.4	-0.4	7.2	0.7	0.94	-2.9	1.69	7
+Chad Pinder	27	370	-5.3	-0.5	372	-1.4	5.5	-6.9	.94	-1.0	-0.5	-10.4	-1.0	0.98	-11.1	1.46	23
+Stephen Piscotty	28	393	-3.2	-0.3	400	-1.0	6.1	-7.1	.94	-0.4	-0.6	-9.9	-1.0	0.93	-7.9	1.23	1
+Jurickson Profar#	26	518	-5.8	-0.5	535	0.0	9.0	-9.0	.98	-0.4	0.4	-5.0	-0.5	0.96	-5.2	2.20	6
+Marcus Semien	28	747	37.6	3.5	788	2.3	13.9	-11.7	.91	3.3	-0.8	43.7	4.2	0.88	42.2		0
+Beau Taylor*	29	28	0.1	0.0	29	0.0	0.5	-0.4	.97	0.2	-0.2	-1.0	-0.1	0.97	1.7	2.77	1
+League Average									.95								
+Team Total	27.8	6269	70.2	6.4	6428	6.7	111.8	-105.1	.94	6.5	0.6	69.0	6.4	0.93	79.0	1.51	98
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Team Baserunning/Misc* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Brett Anderson*
+Tanner Anderson
+Homer Bailey
+Franklin Barreto
+Chris Bassitt
+Skye Bolt#
+Seth Brown*
+Mark Canha
+Matt Chapman
+Khris Davis
+Dustin Garneau
+Robbie Grossman#
+Chris Herrmann*
+Nick Hundley
+Corban Joseph*
+Ramon Laureano
+Nick Martini*
+Daniel Mengden
+Frankie Montas
+Kendrys Morales#
+Sean Murphy
+Sheldon Neuse
+Matt Olson*
+Yusmeiro Petit
+Josh Phegley
+Chad Pinder
+Stephen Piscotty
+Jurickson Profar#
+Marcus Semien
+Beau Taylor*
+League Average
+Team Total
+Name
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Brett Anderson*	31	8	0	0	25%	7	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	1	1	0	0	0	0	0	0	0
+Tanner Anderson	26	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Homer Bailey	33	4	0	0	0%	4	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	1	1	0	0	0	0	0	0	0
+Franklin Barreto	23	58	1	0	40%	14	1	0	100%	1	0	0	0	0	0	0	0	1	0	0	1	0	3	50%	2	1	1	0	0	0	0	0	0
+Chris Bassitt	30	5	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Skye Bolt#	25	11	0	0	50%	4	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	100%	0	0	0	1	0	1	0	0	0
+Seth Brown*	26	83	0	0	37%	41	1	0	100%	1	0	0	0	0	0	1	0	0	0	0	0	0	2	0%	5	5	0	1	1	0	1	1	0
+Mark Canha	30	497	6	0	31%	204	3	2	60%	2	2	1	0	0	0	1	1	5	0	3	0	2	12	54%	27	14	13	11	5	5	16	4	11
+Matt Chapman	26	670	7	0	34%	216	1	1	50%	1	1	0	0	0	0	1	0	11	0	3	3	5	14	51%	37	20	15	3	1	2	11	1	9
+Khris Davis	31	533	6	0	29%	181	0	0		0	0	0	0	0	0	0	0	2	0	0	1	1	11	30%	29	23	5	6	5	0	11	2	9
+Dustin Garneau	31	19	0	0	33%	16	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	0%	2	2	0	0	0	0	1	1	0
+Robbie Grossman#	29	482	3	0	33%	208	9	4	69%	9	4	0	0	0	0	0	0	1	1	0	0	0	11	43%	23	17	6	8	4	4	11	3	8
+Chris Herrmann*	31	94	1	0	32%	29	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	50%	1	1	0	2	1	1	1	0	1
+Nick Hundley	35	73	0	0	20%	19	0	1	0%	0	1	0	0	0	0	0	0	0	0	0	0	0	0	25%	3	3	0	0	0	0	1	0	1
+Corban Joseph*	30	40	0	0	38%	13	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	40%	2	2	0	0	0	0	3	1	2
+Ramon Laureano	24	481	2	0	40%	177	13	2	87%	10	2	3	0	0	0	1	1	2	1	1	0	0	11	51%	22	14	8	9	3	6	10	3	7
+Nick Martini*	29	13	0	0	0%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Daniel Mengden	26	2	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Frankie Montas	26	2	0	0	0%	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Kendrys Morales#	36	126	1	0	21%	48	0	0		0	0	0	0	0	0	0	0	1	0	0	0	1	0	20%	8	6	2	4	3	1	3	3	0
+Sean Murphy	24	60	0	0	63%	22	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	5	50%	3	3	0	0	0	0	3	0	3
+Sheldon Neuse	24	61	0	0	17%	19	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	0%	1	1	0	0	0	0	1	1	0
+Matt Olson*	25	547	5	0	24%	193	0	0		0	0	0	0	0	0	0	0	4	0	3	1	0	13	41%	21	17	4	4	4	0	12	1	11
+Yusmeiro Petit	34	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Josh Phegley	31	342	6	0	38%	99	0	1	0%	0	1	0	0	0	0	0	0	1	0	0	0	1	6	25%	10	9	1	7	5	2	11	6	4
+Chad Pinder	27	370	4	0	33%	120	0	1	0%	0	1	0	0	0	0	1	1	0	0	0	0	0	5	46%	15	11	4	6	1	5	5	2	3
+Stephen Piscotty	28	393	1	0	31%	151	2	0	100%	2	0	0	0	0	0	0	0	4	1	3	0	0	5	50%	18	14	4	5	1	4	11	2	9
+Jurickson Profar#	26	518	1	0	32%	160	9	1	90%	9	1	0	0	0	0	0	0	3	1	1	0	1	12	41%	18	15	3	6	2	4	13	5	8
+Marcus Semien	28	747	12	0	37%	323	10	8	56%	8	7	2	1	0	0	2	2	4	0	1	2	1	29	44%	26	20	6	10	6	4	19	4	14
+Beau Taylor*	29	28	0	0	14%	10	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	0%	1	1	0	0	0	0	0	0	0
+League Average					31%				72%															40%									
+Team Total	27.8	6269	56	0	33%	2280	49	21	70%	43	20	6	1	0	0	7	5	39	4	15	8	12	144	42%	276	201	72	83	42	39	144	40	100
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Support us without the ads? Go Ad-Free.
+Team PH/HR/Situ Hitting* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+|
+Name
+Brett Anderson*
+Tanner Anderson
+Homer Bailey
+Franklin Barreto
+Chris Bassitt
+Skye Bolt#
+Seth Brown*
+Mark Canha
+Matt Chapman
+Khris Davis
+Dustin Garneau
+Robbie Grossman#
+Chris Herrmann*
+Nick Hundley
+Corban Joseph*
+Ramon Laureano
+Nick Martini*
+Daniel Mengden
+Frankie Montas
+Kendrys Morales#
+Sean Murphy
+Sheldon Neuse
+Matt Olson*
+Yusmeiro Petit
+Josh Phegley
+Chad Pinder
+Stephen Piscotty
+Jurickson Profar#
+Marcus Semien
+Beau Taylor*
+League Average
+Team Total
+Name
+Hits	Pinch Hitting	Home Runs	SH	GIDP	PrdOut	BaseRunners	Advances	
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Brett Anderson*	31	8	50.0%	4	1	0	0	0	0	0		0	0	0	0	0	0	0	0	1	0	0.0%	0	0		0	0		4	0	0.0%	0	0		1	1	100.0%	0
+Tanner Anderson	26	1	0.0%	0	0	0	1	0	0	0	0.10	0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Homer Bailey	33	4	50.0%	2	1	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		1	0	0.0%	1	0	0.0%	2	1	50.0%	0	0		0	0		0
+Franklin Barreto	23	58	46.6%	7	1	0	0	0	0	0		2	0	2	0	2	1	1	0	1	0	0.0%	7	0	0.0%	9	2	22.2%	33	4	12.1%	3	0	0.0%	3	1	33.3%	0
+Chris Bassitt	30	5	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	1	1	100.0%	1	0	0.0%	1	0	0.0%	1	0	0.0%	0	0		0	0		0
+Skye Bolt#	25	11	100.0%	1	0	0	3	1	0	0	1.11	0	0	0	0	0	0	0	0	0	0		0	0		1	0	0.0%	4	0	0.0%	1	0	0.0%	0	0		0
+Seth Brown*	26	83	83.1%	22	1	0	6	1	0	1	1.73	0	0	3	0	0	0	0	0	0	0		24	2	8.3%	15	2	13.3%	73	13	17.8%	7	1	14.3%	7	4	57.1%	0
+Mark Canha	30	497	31.6%	112	8	0	8	1	1	2	1.65	26	0	13	18	8	15	11	0	0	0		93	10	10.8%	34	11	32.4%	301	37	12.3%	26	12	46.2%	21	11	52.4%	0
+Matt Chapman	26	670	26.7%	145	20	0	0	0	0	0		36	0	9	25	11	21	15	0	0	0		145	12	8.3%	63	10	15.9%	361	59	16.3%	27	15	55.6%	23	12	52.2%	0
+Khris Davis	31	533	28.1%	106	8	0	4	2	0	2	1.54	23	0	14	12	11	9	14	0	0	0		100	11	11.0%	45	8	17.8%	357	51	14.3%	29	15	51.7%	30	13	43.3%	0
+Dustin Garneau	31	19	63.2%	5	0	0	1	0	0	0	0.06	1	0	0	0	1	0	1	0	0	0		1	0	0.0%	0	0		8	6	75.0%	1	1	100.0%	1	1	100.0%	0
+Robbie Grossman#	29	482	100.0%	101	8	0	21	5	1	7	1.45	6	0	7	5	1	2	4	0	1	0	0.0%	74	7	9.5%	33	6	18.2%	236	34	14.4%	17	7	41.2%	14	8	57.1%	0
+Chris Herrmann*	31	94	89.4%	17	3	0	5	1	0	1	1.48	1	1	4	1	0	1	0	0	1	1	100.0%	21	4	19.1%	10	1	10.0%	66	7	10.6%	3	1	33.3%	2	1	50.0%	0
+Nick Hundley	35	73	24.7%	14	1	0	1	0	0	0	0.01	2	0	3	1	1	0	2	0	0	0		19	7	36.8%	11	2	18.2%	54	4	7.4%	4	1	25.0%	4	2	50.0%	0
+Corban Joseph*	30	40	97.5%	7	0	0	0	0	0	0		1	0	1	1	0	1	0	0	0	0		10	2	20.0%	7	4	57.1%	27	4	14.8%	3	3	100.0%	2	1	50.0%	0
+Ramon Laureano	24	481	28.1%	125	14	0	3	0	0	0	1.79	24	1	16	18	6	13	11	0	1	1	100.0%	106	7	6.6%	45	13	28.9%	300	45	15.0%	29	18	62.1%	18	7	38.9%	0
+Nick Martini*	29	13	100.0%	1	0	0	2	1	1	2	0.93	1	0	0	1	0	0	1	0	0	0		2	0	0.0%	1	1	100.0%	6	1	16.7%	0	0		1	1	100.0%	0
+Daniel Mengden	26	2	0.0%	0	0	0	0	0	0	0		0	0	1	0	0	0	0	0	0	0		0	0		0	0		3	0	0.0%	0	0		0	0		0
+Frankie Montas	26	2	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Kendrys Morales#	36	126	100.0%	22	0	0	4	2	0	1	1.10	1	0	3	1	0	0	1	0	0	0		27	3	11.1%	8	3	37.5%	62	7	11.3%	5	4	80.0%	6	3	50.0%	0
+Sean Murphy	24	60	33.3%	13	1	0	1	0	0	0	2.95	4	0	2	4	0	1	3	0	0	0		12	3	25.0%	3	0	0.0%	40	4	10.0%	4	2	50.0%	1	1	100.0%	0
+Sheldon Neuse	24	61	59.0%	14	0	0	0	0	0	0		0	0	3	0	0	0	0	0	0	0		11	2	18.2%	6	3	50.0%	35	7	20.0%	3	2	66.7%	3	2	66.7%	0
+Matt Olson*	25	547	68.4%	129	13	5	0	0	0	0		36	0	12	25	11	13	23	0	1	0	0.0%	125	11	8.8%	41	14	34.2%	338	60	17.8%	29	15	51.7%	25	18	72.0%	0
+Yusmeiro Petit	34	1	100.0%	0	0	0	0	0	0	0		0	0	1	0	0	0	0	0	0	0		1	1	100.0%	1	0	0.0%	3	0	0.0%	1	0	0.0%	0	0		0
+Josh Phegley	31	342	30.1%	75	6	0	7	2	0	2	1.69	12	0	8	7	5	4	8	0	2	2	100.0%	50	11	22.0%	21	12	57.1%	219	55	25.1%	19	15	79.0%	11	6	54.6%	0
+Chad Pinder	27	370	48.4%	82	5	0	23	5	2	6	1.46	13	0	14	6	7	6	7	0	1	1	100.0%	90	11	12.2%	38	12	31.6%	252	35	13.9%	16	7	43.8%	14	10	71.4%	0
+Stephen Piscotty	28	393	23.4%	89	10	0	1	0	0	0	1.23	13	0	9	7	6	8	5	0	1	1	100.0%	79	13	16.5%	40	9	22.5%	235	35	14.9%	14	8	57.1%	15	6	40.0%	0
+Jurickson Profar#	26	518	100.0%	100	6	0	6	2	0	1	2.20	20	1	17	17	3	11	9	0	0	0		111	12	10.8%	53	14	26.4%	349	47	13.5%	24	14	58.3%	20	10	50.0%	0
+Marcus Semien	28	747	27.2%	187	15	0	0	0	0	0		33	1	7	26	7	15	18	0	0	0		98	11	11.2%	40	9	22.5%	311	61	19.6%	22	11	50.0%	20	13	65.0%	0
+Beau Taylor*	29	28	89.3%	4	0	0	1	0	0	0	2.77	2	0	0	2	0	1	1	0	0	0		4	0	0.0%	1	1	100.0%	14	0	0.0%	0	0		1	0	0.0%	0
+League Average			54.1%																			60.8%			10.1%			26.6%			14.8%			49.6%			51.5%	
+Team Total	27.8	6269	48.8%	1384	122	5	98	23	5	25	1.51	257	4	149	177	80	122	135	0	11	7	63.6%	1212	140	11.6%	528	137	26.0%	3695	577	15.6%	287	152	53.0%	243	132	54.3%	0
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Team Pitches Batting* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Brett Anderson*
+Tanner Anderson
+Homer Bailey
+Franklin Barreto
+Chris Bassitt
+Skye Bolt#
+Seth Brown*
+Mark Canha
+Matt Chapman
+Khris Davis
+Dustin Garneau
+Robbie Grossman#
+Chris Herrmann*
+Nick Hundley
+Corban Joseph*
+Ramon Laureano
+Nick Martini*
+Daniel Mengden
+Frankie Montas
+Kendrys Morales#
+Sean Murphy
+Sheldon Neuse
+Matt Olson*
+Yusmeiro Petit
+Josh Phegley
+Chad Pinder
+Stephen Piscotty
+Jurickson Profar#
+Marcus Semien
+Beau Taylor*
+League Average
+Team Total
+Name
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Brett Anderson*	31	8	23	2.88	18	78.3%	44.4%	22.2%	0.0%	33.3%	55.6%	0.0%	43.5%	60.0%	12.5%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	2	0.0%	0	0	0
+Tanner Anderson	26	1	6	6.00	5	83.3%	40.0%	20.0%	40.0%	0.0%	60.0%	0.0%	50.0%	66.7%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	0	100.0%	0	0	0
+Homer Bailey	33	4	12	3.00	10	83.3%	20.0%	10.0%	40.0%	30.0%	80.0%	0.0%	66.7%	87.5%	25.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Franklin Barreto	23	58	237	4.09	160	67.5%	29.4%	28.8%	20.6%	21.3%	70.6%	0.0%	47.7%	59.3%	24.1%	3.4%	2	0	13.8%	8	3	6.9%	4	3	4	19	17.4%	0	0	0
+Chris Bassitt	30	5	16	3.20	14	87.5%	50.0%	21.4%	7.1%	21.4%	50.0%	0.0%	43.8%	57.1%	20.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	2	0.0%	0	0	0
+Skye Bolt#	25	11	42	3.82	28	66.7%	39.3%	17.9%	17.9%	25.0%	60.7%	0.0%	40.5%	70.6%	18.2%	9.1%	1	0	18.2%	2	0	9.1%	1	1	1	2	33.3%	0	0	0
+Seth Brown*	26	83	333	4.01	204	61.3%	27.5%	23.0%	24.0%	25.5%	72.5%	0.0%	44.4%	68.2%	24.1%	4.8%	4	0	18.1%	15	10	10.8%	9	5	4	19	17.4%	0	0	0
+Mark Canha	30	497	2110	4.25	1269	60.1%	32.7%	15.4%	27.9%	24.0%	67.3%	0.0%	40.5%	77.2%	23.9%	4.8%	24	2	14.1%	70	27	11.1%	55	17	26	81	24.3%	0	0	0
+Matt Chapman	26	670	2805	4.19	1704	60.7%	30.9%	16.4%	26.9%	25.8%	69.1%	0.0%	42.0%	76.3%	25.2%	3.9%	26	0	15.2%	102	47	11.6%	78	37	48	99	32.7%	0	0	0
+Khris Davis	31	534	2072	3.88	1284	62.0%	16.6%	29.1%	28.0%	26.2%	83.4%	0.0%	51.7%	65.1%	41.2%	3.4%	18	3	13.3%	71	40	8.1%	43	27	22	124	15.1%	0	0	0
+Dustin Garneau	31	19	64	3.37	41	64.1%	31.7%	12.2%	24.4%	31.7%	68.3%	0.0%	43.8%	82.1%	47.4%	10.5%	2	0	15.8%	3	0	15.8%	3	2	2	2	50.0%	0	0	0
+Robbie Grossman#	29	484	1899	3.92	1139	60.0%	36.1%	9.9%	24.5%	29.5%	63.9%	0.0%	38.3%	84.5%	26.2%	5.2%	25	0	13.8%	67	18	11.2%	54	22	42	44	48.8%	0	0	0
+Chris Herrmann*	31	94	372	3.96	236	63.4%	25.4%	22.0%	28.8%	23.7%	74.6%	0.0%	47.3%	70.5%	27.7%	3.2%	3	0	9.6%	9	4	8.5%	8	6	5	24	17.2%	0	0	0
+Nick Hundley	35	73	260	3.56	174	66.9%	23.6%	17.2%	29.3%	29.9%	76.4%	0.0%	51.2%	77.4%	41.1%	4.1%	3	0	15.1%	11	7	6.8%	5	4	5	13	27.8%	0	0	0
+Corban Joseph*	30	40	133	3.33	92	69.2%	30.4%	8.7%	25.0%	35.9%	69.6%	0.0%	48.1%	87.5%	27.5%	7.5%	3	1	7.5%	3	0	2.5%	1	0	0	5	0.0%	0	0	0
+Ramon Laureano	24	481	1954	4.06	1292	66.1%	26.2%	20.9%	28.1%	24.8%	73.8%	0.0%	48.8%	71.7%	22.9%	2.9%	14	1	12.5%	60	34	6.0%	29	18	36	87	29.3%	0	0	0
+Nick Martini*	29	13	68	5.23	43	63.2%	20.9%	18.6%	46.5%	14.0%	79.1%	0.0%	50.0%	76.5%	23.1%	7.7%	1	0	15.4%	2	1	0.0%	0	0	0	5	0.0%	0	0	0
+Daniel Mengden	26	2	8	4.00	6	75.0%	16.7%	83.3%	0.0%	0.0%	83.3%	0.0%	62.5%	0.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	2	0.0%	0	0	0
+Frankie Montas	26	2	7	3.50	3	42.9%	33.3%	0.0%	33.3%	33.3%	66.7%	0.0%	28.6%	100.0%	0.0%	0.0%	0	0	0.0%	0	0	50.0%	1	0	0	0		0	0	0
+Kendrys Morales#	36	126	508	4.03	311	61.2%	33.4%	13.2%	24.8%	28.6%	66.6%	0.0%	40.7%	80.2%	15.1%	6.3%	8	0	18.3%	23	13	15.9%	20	11	8	12	40.0%	0	0	0
+Sean Murphy	24	60	257	4.28	166	64.6%	27.1%	21.7%	28.9%	22.3%	72.9%	0.0%	47.1%	70.2%	26.7%	3.3%	2	0	8.3%	5	1	3.3%	2	1	1	15	6.3%	0	0	0
+Sheldon Neuse	24	61	260	4.26	169	65.0%	26.6%	21.9%	29.0%	22.5%	73.4%	0.0%	47.7%	70.2%	21.3%	3.3%	2	0	8.2%	5	2	4.9%	3	3	7	12	36.8%	0	0	0
+Matt Olson*	25	548	2316	4.23	1411	60.9%	26.4%	20.7%	28.4%	24.5%	73.6%	0.0%	44.9%	71.9%	21.4%	5.8%	32	5	16.8%	92	45	9.9%	54	34	19	119	13.8%	0	0	0
+Yusmeiro Petit	34	1	4	4.00	2	50.0%	50.0%	0.0%	0.0%	50.0%	50.0%	0.0%	25.0%	100.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Josh Phegley	31	342	1279	3.74	845	66.1%	28.3%	16.2%	25.0%	30.5%	71.7%	0.0%	47.4%	77.4%	26.6%	4.1%	14	0	12.0%	41	17	8.2%	28	19	9	54	14.3%	0	0	0
+Chad Pinder	27	370	1325	3.58	870	65.7%	21.1%	20.2%	29.1%	29.5%	78.9%	0.0%	51.8%	74.3%	38.6%	3.5%	13	0	11.4%	42	23	6.5%	24	12	17	71	19.3%	0	0	0
+Stephen Piscotty	28	394	1492	3.79	987	66.2%	22.9%	22.3%	26.7%	28.1%	77.1%	0.0%	51.0%	71.1%	37.1%	4.1%	16	1	12.4%	49	19	7.1%	28	11	11	73	13.1%	0	0	0
+Jurickson Profar#	26	521	2069	3.97	1284	62.1%	27.4%	14.6%	27.8%	30.1%	72.6%	0.0%	45.0%	79.8%	26.7%	5.6%	29	2	15.7%	82	24	10.4%	54	32	15	60	20.0%	0	0	0
+Marcus Semien	28	748	2970	3.97	1781	60.0%	29.8%	12.9%	26.1%	31.2%	70.2%	0.0%	42.1%	81.7%	23.7%	5.9%	44	4	15.1%	113	50	10.2%	76	43	30	72	29.4%	0	0	0
+Beau Taylor*	29	28	125	4.46	76	60.8%	27.6%	18.4%	31.6%	22.4%	72.4%	0.0%	44.0%	74.5%	21.4%	7.1%	2	0	10.7%	3	1	10.7%	3	2	3	3	50.0%	0	0	0
+League Average				3.96		63.3%	26.3%	18.9%	27.9%	26.9%	73.7%	0.0%	46.7%	74.4%	28.9%	4.3%			13.6%			8.8%					22.8%			
+Team Total	27.8	6278	25026	3.99	15624	62.4%	27.6%	18.0%	27.1%	27.3%	72.4%	0.0%	45.2%	75.1%	27.6%	4.6%	288	19	14.0%	878	386	9.3%	583	310	316	1022	23.6%	0	0	0
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Team Neutralized Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Brett Anderson*	31	3	8	8	1	4	0	0	0	0	0	0	0	2	.500	.500	.500	1.000	2	3
+Tanner Anderson	26	1	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	1
+Homer Bailey	33	3	5	5	0	2	0	0	0	1	0	0	0	1	.400	.400	.400	.800	1	3
+Franklin Barreto	23	23	58	57	6	7	2	0	2	5	1	0	1	23	.123	.138	.263	.401	2	23
+Chris Bassitt	30	3	5	4	0	0	0	0	0	0	0		0	2	.000	.000	.000	.000	0	3
+Skye Bolt#	25	5	11	10	0	0	0	0	0	0	0		1	3	.000	.091	.000	.091	0	5
+Aaron Brooks	29	2	4	3	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	2
+Seth Brown*	26	26	83	75	11	22	8	2	0	13	1	0	7	23	.293	.361	.453	.815	12	26
+Mark Canha	30	126	495	409	78	111	16	3	26	57	3	2	66	107	.271	.394	.516	.910	78	126
+Matt Chapman	26	156	667	581	100	143	36	3	36	89	1	1	72	147	.246	.339	.504	.843	96	156
+Khris Davis	31	133	532	480	60	105	11	0	23	72	0	0	47	146	.219	.291	.385	.677	53	133
+Dustin Garneau	31	35	100	86	13	21	5	0	3	13	0	0	10	22	.244	.350	.407	.757	11	35
+Robbie Grossman#	29	138	480	419	56	100	21	3	6	37	9	4	58	86	.239	.331	.346	.677	48	138
+Chris Herrmann*	31	30	92	83	8	16	3	0	1	7	0	0	8	29	.193	.264	.265	.529	6	30
+Nick Hundley	35	31	72	69	4	13	3	1	2	4	0	1	2	18	.188	.222	.348	.570	5	31
+Corban Joseph*	30	28	68	64	4	10	3	0	1	6	0	0	3	12	.156	.191	.250	.441	3	28
+Ramon Laureano	24	123	479	432	77	123	29	0	24	66	13	2	27	123	.285	.337	.519	.855	73	123
+Nick Martini*	29	32	107	92	7	20	4	1	1	6	0	0	13	26	.217	.318	.315	.633	9	32
+Daniel Mengden	26	1	2	2	0	0	0	0	0	0	0		0	2	.000	.000	.000	.000	0	1
+Frankie Montas	26	1	2	1	0	0	0	0	0	0	0		1	0	.000	.500	.000	.500	0	1
+Kendrys Morales#	36	53	199	169	15	32	2	1	2	11	0	0	25	26	.189	.307	.249	.555	12	53
+Sean Murphy	24	20	59	52	13	12	5	0	4	7	0	0	6	16	.231	.322	.558	.880	9	20
+Sheldon Neuse	24	25	61	56	3	14	3	0	0	7	0	0	4	19	.250	.295	.304	.599	5	25
+Matt Olson*	25	127	546	482	72	128	26	0	36	89	0	0	51	138	.266	.350	.544	.893	87	127
+Yusmeiro Petit	34	6	1	1	0	0	0	0	0	0	0		0	0	.000	.000	.000	.000	0	6
+Josh Phegley	31	106	340	312	42	73	18	0	12	60	0	1	15	63	.234	.278	.407	.685	34	106
+Chad Pinder	27	124	369	340	44	81	21	0	13	46	0	1	20	88	.238	.288	.415	.703	39	124
+Stephen Piscotty	28	93	392	356	45	88	17	1	13	43	2	0	29	84	.247	.307	.410	.717	44	93
+Jurickson Profar#	26	139	517	458	64	99	24	2	20	66	9	1	48	75	.216	.300	.408	.708	54	139
+Tanner Roark	32	19	33	32	1	4	1	0	1	1	0	0	0	13	.125	.125	.250	.375	1	19
+Marcus Semien	28	162	743	654	120	184	42	7	32	90	10	8	86	102	.281	.366	.514	.880	123	162
+Beau Taylor*	29	21	30	25	3	4	0	0	2	2	0	0	4	7	.160	.300	.400	.700	3	21
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Team Cumulative Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+Brett Anderson*	31	11	56	103	87	2	12	3	0	0	5	0	0	6	48	.138	.194	.172	.366	2	15	3	0	10	0	0
+Tanner Anderson	26	2	7	2	2	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Homer Bailey	33	13	208	440	373	22	61	8	0	0	18	0	0	11	145	.164	.190	.185	.375	2	69	11	1	55	0	0
+Franklin Barreto	23	3	80	209	201	26	38	7	2	9	27	3	0	7	85	.189	.220	.378	.598	60	76	4	1	0	0	0
+Chris Bassitt	30	5	4	7	6	0	0	0	0	0	0	0	0	0	3	.000	.000	.000	.000	-100	0	0	0	1	0	0
+Paul Blackburn	25	3	2	5	5	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	1	0	0	0	0
+Skye Bolt#	25	1	5	11	10	1	1	1	0	0	0	0	0	1	3	.100	.182	.200	.382	4	2	0	0	0	0	0
+Aaron Brooks	29	4	3	6	5	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0
+Seth Brown*	26	1	26	83	75	11	22	8	2	0	13	1	0	7	23	.293	.361	.453	.815	120	34	2	1	0	0	0
+Ryan Buchter*	32	5	110	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Mark Canha	30	5	445	1624	1430	221	356	73	7	67	200	13	7	141	367	.249	.333	.450	.783	113	644	36	43	1	9	4
+Matt Chapman	26	3	385	1612	1420	241	365	101	11	74	199	2	6	163	385	.257	.341	.500	.841	127	710	32	22	0	7	0
+Khris Davis	31	7	908	3591	3207	486	782	154	8	216	570	18	5	308	960	.244	.316	.499	.815	119	1600	92	45	0	31	10
+Jake Diekman*	32	8	214	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Ryan Dull	29	5	12	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Marco Estrada	35	12	150	162	135	4	19	4	0	0	7	0	0	7	64	.141	.183	.170	.353	-3	23	1	0	20	0	0
+Mike Fiers	34	9	68	104	86	1	7	0	0	0	2	0	0	0	45	.081	.081	.081	.163	-55	7	0	0	18	0	0
+Dustin Garneau	31	5	123	381	338	37	70	22	0	8	38	0	0	35	94	.207	.290	.343	.633	63	116	7	5	1	1	2
+Robbie Grossman#	29	7	675	2556	2196	296	556	119	8	42	231	29	19	324	536	.253	.351	.372	.723	99	817	27	12	12	12	3
+Liam Hendriks	30	9	22	3	2	0	0	0	0	0	0	0	0	1	1	.000	.333	.000	.333	4	0	0	0	0	0	0
+Chris Herrmann*	31	8	370	992	887	108	182	34	7	25	103	10	1	94	272	.205	.282	.344	.626	67	305	13	2	6	3	1
+Nick Hundley	35	12	974	3373	3097	319	766	169	20	93	376	15	18	219	810	.247	.299	.405	.703	91	1254	69	19	10	28	18
+Corban Joseph*	30	3	44	94	88	7	15	5	0	1	10	0	0	5	18	.170	.213	.261	.474	28	23	2	0	0	1	0
+Ramon Laureano	24	2	171	657	590	106	170	41	1	29	86	20	3	43	173	.288	.345	.508	.853	129	300	7	13	1	10	0
+Jesus Luzardo*	21	1	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Sean Manaea	27	4	6	12	10	0	1	0	0	0	0	0	0	1	3	.100	.182	.100	.282	-18	1	0	0	1	0	0
+Nick Martini*	29	2	87	288	245	34	66	13	4	2	26	0	0	35	62	.269	.372	.380	.751	107	93	0	6	0	2	1
+Daniel Mengden	26	4	5	15	13	2	2	0	0	0	1	0	0	1	6	.154	.214	.154	.368	5	2	0	0	1	0	0
+Frankie Montas	26	4	4	7	6	0	0	0	0	0	0	0	0	1	5	.000	.143	.000	.143	-55	0	0	0	0	0	0
+Kendrys Morales#	36	13	1363	5357	4856	584	1289	257	7	213	740	6	15	417	978	.265	.327	.453	.780	111	2199	170	48	0	36	39
+Sean Murphy	24	1	20	60	53	14	13	5	0	4	8	0	0	6	16	.245	.333	.566	.899	137	30	3	1	0	0	0
+Sheldon Neuse	24	1	25	61	56	3	14	3	0	0	7	0	0	4	19	.250	.295	.304	.599	64	17	2	0	0	1	0
+Matt Olson*	25	4	359	1451	1273	194	323	62	0	89	220	2	1	150	365	.254	.343	.512	.855	131	652	31	25	0	3	11
+Yusmeiro Petit	34	12	199	129	119	6	6	0	0	0	3	0	0	3	49	.050	.074	.050	.124	-66	6	3	0	7	0	0
+Josh Phegley	31	7	376	1185	1100	127	250	67	1	34	160	2	2	54	232	.227	.269	.383	.652	77	421	33	14	4	13	0
+Chad Pinder	27	4	343	1067	972	128	238	52	2	42	120	2	4	68	282	.245	.303	.432	.735	98	420	23	16	3	7	1
+Stephen Piscotty	28	5	567	2304	2059	279	545	124	9	78	295	16	12	194	474	.265	.336	.447	.783	110	921	66	33	2	15	4
+Jurickson Profar#	26	6	491	1830	1616	222	378	80	11	52	197	24	7	167	305	.234	.315	.394	.709	88	636	30	29	10	8	3
+A.J. Puk*	24	1	0	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Tanner Roark	32	7	190	351	309	12	45	8	1	1	14	0	0	8	114	.146	.170	.188	.358	-5	58	3	1	33	0	0
+Fernando Rodney	42	17	227	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Brian Schlitter	33	4	74	1	1	0	1	0	0	0	0	0	0	0	0	1.000	1.000	1.000	2.000	460	1	0	0	0	0	0
+Marcus Semien	28	7	805	3384	3055	439	783	161	21	108	357	62	24	301	681	.256	.323	.429	.752	106	1310	61	7	7	14	5
+Joakim Soria	35	12	95	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Beau Taylor*	29	2	28	37	30	3	5	1	0	2	2	0	0	5	9	.167	.306	.400	.706	90	12	0	1	0	0	0
+Blake Treinen	31	6	186	19	14	0	1	0	0	0	0	0	0	1	9	.071	.133	.071	.205	-41	1	0	0	4	0	0
+Lou Trivino	27	2	8	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Wei-Chung Wang*	27	3	28	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+J.B. Wendelken	26	3	4	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - Disclaimer & Completeness Note 
+* Many Detailed Statistics are based on play-by-play accounts accumulated by RetroSheet. These totals may be incomplete (3.6% of all plays from 1925 to 1973 are missing or have incomplete accounts, click link for year and team summary of data completeness) for some players prior to 1974 and even complete seasons may not match the official totals due to errors in both the official totals and the play-by-play accounts. Pre-1954 seasons have a substantial numbers of games missing play-by-play accounts and should be viewed as essentially incomplete.
+More 2019 Athletics Pages
+2019 Oakland Athletics
+
+Stats
+
+Schedule & Results
+
+40-Man Roster
+
+Uniforms
+
+Contracts
+
+Batting
+
+Pitching
+
+Fielding
+
+Scoring
+
+Batting
+
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Other
+
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+Support us without the ads? Go Ad-Free.
+Login Create Account Surf AD-FREE
+You are here: BR Home Page > Teams > Franchise Encyclopedia > 2019 Batting Statistics
+Full Site Menu 
+Return to Top
+MLB Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+MLB Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers, San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Indians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2019, 2018, 2019 MLB Pitching, 2019 MLB Batting, 2019 MLB Standings, 2019 MLB Attendance, 2019 MLB Rookies, ...
+MLB Leaders
+2019 MLB Batting, 2019 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in MLB history, MLB Probable Pitchers, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+MLB Playoffs
+2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Play Index
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Event Finder, Player Comparison Finder, Neutralized Stats, ...
+Team Finders: Season Finder, Split Finder, Game Finder, Streak Finder, Event Finder, ...
+Other Finders: Draft Finder, Game Score & Result Searches, Team Trade Histories, ...
+Managers
+Active: Terry Francona, Clint Hurdle, A.J. Hinch, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+MLB Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2019 HOF results, 2020 Hall of Fame ballot, ...
+MLB All-Star Games
+2020 All-Star Game, 2019 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities and More
+Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2019 Draft, 2018 Draft, 2017 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Negro Leagues
+Minor League Stats, Negro League Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2019 Minor Leagues, 2019 Affiliates, ...
+Baseball-Reference Bullpen
+85,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, ...
+We're Social...for Statheads
+       
+Every Sports Reference Social Media Account
+
+Site Last Updated: Tuesday, January 21, 6:39AM
+
+Question, Comment, Feedback, or Correction?
+
+Are you a Stathead, too? Subscribe to our Newsletter
+
+This Week in Sports Reference
+Find out when we add a feature or make a change
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Go ad-free to support Sports Reference and get our fastest browsing experience
+Subscribe to the Play Index and get access to more data than you can imagine
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Primary Data Provided ByGracenote Sports
+Copyright © 2000-2020 Sports Reference LLC. All rights reserved.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+BaseballInfoSolutions.com logo
+
+Some defensive statistics Copyright © Baseball Info Solutions, 2010-2020.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+ Sports Reference Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead Widgets
+About • Privacy Statement • Conditions & Terms of Service • Advertise With Us • Use of Data

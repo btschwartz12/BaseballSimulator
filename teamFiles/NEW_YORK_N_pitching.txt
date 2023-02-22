@@ -1,0 +1,742 @@
+ Sports ReferenceBaseballFootball (college)Basketball (college)HockeySoccerBlogStatheadWidgetsQuestions or Comments?LoginCreate AccountBaseball-Reference.com Logo & Link to home page
+Players
+Teams
+Seasons
+Leaders
+MLB Scores1
+MLB Playoffs
+Play Index
+Full Site Menu Below
+Enter Person, Team, Section, etc
+2019 New York Mets Logo
+via Sports Logos.net
+
+About logos
+
+2019 New York Mets Pitching Statistics
+2018 Season
+Record: 86-76, 3rd place in NL_East (Schedule and Results)
+
+Manager: Mickey Callaway (86-76)
+
+General Manager: Brodie Van Wagenen (Executive VP & GM)
+
+Farm Director: Allard Baird
+
+Scouting Director: Marc Tramuta
+
+Ballpark: Citi Field
+
+Attendance: 2,442,532 (9th of 15)
+
+More team info, park factors, postseason, & more
+Support us without the ads? Go Ad-Free.
+
+
+2019 New York Mets
+Stats
+Schedule & Results
+40-Man Roster
+Uniforms
+Contracts
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Fielding
+Scoring
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+On this page:
+
+Team Pitching Team Player Value--Pitchers Team Pitching Ratios* Team Batting Against* Team Win Probability* Team Starting Pitching* Team Relief Pitching* Team Baserunning/Situ* Team Pitching Pitches* Team Neutralized Pitching Team Cumulative Pitching Full Site Menu
+This Week in Sports Reference
+Want to know when we do something new? Around once a week we'll give you a quick update on all the things we've been up to. View a sample email.
+
+Become a Sports Reference Power User
+
+Team Pitching 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+1	SP	Jacob deGrom	31	11	8	.579	2.43	32	32	0	0	0	0	204.0	154	59	55	19	44	1	255	7	0	2	804	167	2.67	0.971	6.8	0.8	1.9	11.3	5.80
+2	SP	Noah Syndergaard	26	10	8	.556	4.28	32	32	0	1	1	0	197.2	194	101	94	24	50	2	202	6	0	4	825	95	3.60	1.234	8.8	1.1	2.3	9.2	4.04
+3	SP	Zack Wheeler	29	11	8	.579	3.96	31	31	0	0	0	0	195.1	196	93	86	22	50	4	195	2	0	5	828	102	3.48	1.259	9.0	1.0	2.3	9.0	3.90
+4	SP	Steven Matz*	28	11	10	.524	4.21	32	30	0	1	1	0	160.1	163	83	75	27	52	7	153	7	0	3	691	96	4.60	1.341	9.1	1.5	2.9	8.6	2.94
+5	SP	Jason Vargas*	36	6	5	.545	4.01	19	18	1	1	1	0	94.1	81	45	42	14	39	2	81	1	0	3	400	101	4.70	1.272	7.7	1.3	3.7	7.7	2.08
+6	SP	Marcus Stroman	28	4	2	.667	3.77	11	11	0	0	0	0	59.2	65	27	25	8	23	1	60	1	0	3	261	108	4.15	1.475	9.8	1.2	3.5	9.1	2.61
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+7	CL	Edwin Diaz	25	2	7	.222	5.59	66	0	48	0	0	26	58.0	58	36	36	15	22	3	99	4	0	3	254	73	4.51	1.379	9.0	2.3	3.4	15.4	4.50
+8	RP	Seth Lugo	29	7	4	.636	2.70	61	0	14	0	0	6	80.0	56	28	24	8	16	4	104	5	0	2	314	150	2.70	0.900	6.3	0.9	1.8	11.7	6.50
+9	RP	Robert Gsellman	25	2	3	.400	4.66	52	0	9	0	0	1	63.2	64	36	33	7	23	2	60	6	0	4	277	87	4.12	1.366	9.0	1.0	3.3	8.5	2.61
+10	RP	Jeurys Familia	29	4	2	.667	5.70	66	0	14	0	0	0	60.0	62	39	38	7	42	4	63	3	0	3	274	71	4.88	1.733	9.3	1.1	6.3	9.5	1.50
+11	RP	Justin Wilson*	31	4	2	.667	2.54	45	0	9	0	0	4	39.0	33	12	11	4	19	1	44	2	1	4	166	161	3.91	1.333	7.6	0.9	4.4	10.2	2.32
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+12		Luis Avilan*	29	4	0	1.000	5.06	45	0	8	0	0	0	32.0	33	18	18	5	14	0	30	3	0	2	141	81	4.96	1.469	9.3	1.4	3.9	8.4	2.14
+13		Wilmer Font	29	1	2	.333	4.94	15	3	1	0	0	0	31.0	29	17	17	8	13	1	24	2	1	1	134	83	6.47	1.355	8.4	2.3	3.8	7.0	1.85
+14		Drew Gagnon	29	3	1	.750	8.37	18	0	8	0	0	0	23.2	34	26	22	11	7	0	17	2	0	2	117	49	8.96	1.732	12.9	4.2	2.7	6.5	2.43
+15		Walker Lockett	25	1	1	.500	8.34	9	4	1	0	0	0	22.2	33	21	21	6	6	0	16	1	0	1	103	49	6.17	1.721	13.1	2.4	2.4	6.4	2.67
+16		Tyler Bashlor	26	0	3	.000	6.95	24	0	7	0	0	0	22.0	21	17	17	6	17	2	20	0	0	0	103	59	7.26	1.727	8.6	2.5	7.0	8.2	1.18
+17		Paul Sewald	29	1	1	.500	4.58	17	0	6	0	0	1	19.2	18	10	10	3	3	0	22	1	0	0	80	90	3.57	1.068	8.2	1.4	1.4	10.1	7.33
+18		Chris Mazza	29	1	1	.500	5.51	9	0	6	0	0	0	16.1	21	10	10	0	5	0	11	4	0	0	74	75	3.52	1.592	11.6	0.0	2.8	6.1	2.20
+19		Brad Brach	33	1	1	.500	3.68	16	0	0	0	0	0	14.2	15	6	6	1	3	1	15	0	0	0	61	113	2.67	1.227	9.2	0.6	1.8	9.2	5.00
+20		Chris Flexen	24	0	3	.000	6.59	9	1	4	0	0	0	13.2	15	12	10	1	13	2	10	0	0	1	70	63	5.56	2.049	9.9	0.7	8.6	6.6	0.77
+21		Daniel Zamora*	26	0	1	.000	5.19	17	0	3	0	0	0	8.2	10	5	5	1	5	1	8	1	0	0	41	81	4.94	1.731	10.4	1.0	5.2	8.3	1.60
+22		Hector Santiago*	31	1	0	1.000	6.75	8	0	6	0	0	0	8.0	10	6	6	1	5	0	6	0	0	0	38	63	5.21	1.875	11.3	1.1	5.6	6.8	1.20
+23		Tim Peterson	28	0	0		4.91	6	0	2	0	0	0	7.1	7	4	4	1	7	1	3	1	0	3	35	87	7.44	1.909	8.6	1.2	8.6	3.7	0.43
+24		Brooks Pounders	28	1	0	1.000	6.14	7	0	3	0	0	0	7.1	9	5	5	1	2	0	5	1	0	1	34	69	4.85	1.500	11.0	1.2	2.5	6.1	2.50
+25		Corey Oswalt	25	0	1	.000	12.15	2	0	0	0	0	0	6.2	9	9	9	1	6	1	5	0	0	0	34	35	6.36	2.250	12.2	1.4	8.1	6.8	0.83
+26		Stephen Nogosek	24	0	1	.000	10.80	7	0	6	0	0	0	6.2	12	8	8	2	2	0	6	0	0	0	34	40	6.21	2.100	16.2	2.7	2.7	8.1	3.00
+27		Jacob Rhame	26	0	1	.000	4.26	5	0	3	0	0	0	6.1	3	4	3	1	9	0	5	0	0	0	30	101	7.95	1.895	4.3	1.4	12.8	7.1	0.56
+28		Ryan O'Rourke*	31	0	0		0.00	2	0	0	0	0	0	1.1	0	0	0	0	3	0	1	0	0	0	6		8.46	2.250	0.0	0.0	20.3	6.8	0.33
+29		Donnie Hart*	28	0	0		0.00	1	0	0	0	0	0	1.0	0	0	0	0	0	0	0	0	0	0	3		3.21	0.000	0.0	0.0	0.0	0.0	
+30		Aaron Altherr	28	0	0			0	0	0	0	0	0	0.0	0	0	0	0	0	0	0	0	0	0	0								
+Team Totals	28.7	86	76	.531	4.24	162	162	159	3	3	38	1461.0	1405	737	688	204	500	40	1520	60	2	47	6232	96	4.10	1.304	8.7	1.3	3.1	9.4	3.04
+Rank in 15 NL teams		6	10		6				1	4	10	3	11	6	7	6	3		2												
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+* - throws left-handed, # - throws both, else - throws right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Team Player Value--Pitchers 
+League RegisterWAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	IP	G	GS	R	RA9	RA9opp	RA9def	RA9role	PPFp	RA9avg	RAA	WAA	gmLI	WAAadj	WAR	RAR	waaWL%	162WL%	Salary	Acquired
+Luis Avilan*	29	32.0	45	0	18	5.06	4.87	-0.45	-0.33	94.1	4.70	-1	-0.1	.89	-0.1	0.1	2	.497	.499	$1,600,000	Free Agency
+Tyler Bashlor	26	22.0	24	0	17	6.95	4.65	-0.46	-0.32	92.2	4.42	-6	-0.6	.84	0.0	-0.4	-4	.475	.496		Amateur Draft
+Brad Brach	33	14.2	16	0	6	3.68	4.62	-0.45	-0.31	93.9	4.47	1	0.1	1.37	0.0	0.3	3	.508	.501		Free Agency
+Jacob deGrom	31	204.0	32	32	59	2.60	4.69	-0.38	0.21	91.3	4.82	51	5.6		-0.1	7.3	69	.676	.535	$9,000,000	Amateur Draft
+Edwin Diaz	25	58.0	66	0	36	5.59	4.73	-0.34	-0.32	91.5	4.35	-8	-0.8	1.46	-0.3	-0.6	-3	.488	.495	$607,425	Traded
+Jeurys Familia	29	60.0	66	0	39	5.85	4.78	-0.43	-0.32	92.1	4.49	-9	-0.9	.97	-0.1	-0.4	-3	.487	.495	$6,666,666	Free Agency
+Chris Flexen	24	13.2	9	1	12	7.90	4.86	-0.53	-0.16	97.1	5.07	-4	-0.4	1.23	-0.1	-0.3	-3	.454	.497		Amateur Draft
+Wilmer Font	29	31.0	15	3	17	4.94	4.91	-0.47	-0.15	91.0	4.76	-1	-0.1	.74	0.0	0.2	2	.496	.500		Traded
+Drew Gagnon	29	23.2	18	0	26	9.89	4.76	-0.59	-0.20	96.9	4.99	-13	-1.2	1.09	-0.1	-1.1	-11	.432	.492		Free Agency
+Robert Gsellman	25	63.2	52	0	36	5.09	4.73	-0.45	-0.32	92.0	4.47	-4	-0.4	1.27	-0.2	0.0	2	.492	.497	$582,500	Amateur Draft
+Donnie Hart*	28	1.0	1	0	0	0.00	4.93	-0.45	-0.33	94.0	4.74	1	0.1	.00	0.0	0.0	1	.555	.500		Waivers
+Walker Lockett	25	22.2	9	4	21	8.34	4.72	-0.54	0.09	93.9	5.02	-8	-0.8	.71	0.0	-0.6	-6	.414	.495		Traded
+Seth Lugo	29	80.0	61	0	28	3.15	4.74	-0.36	-0.32	93.3	4.46	12	1.2	1.62	0.2	2.2	19	.520	.507	$591,875	Amateur Draft
+Steven Matz*	28	160.1	32	30	83	4.66	4.72	-0.46	0.20	92.2	4.96	6	0.6	1.10	-0.1	1.9	20	.518	.504	$2,625,000	Amateur Draft
+Chris Mazza	29	16.1	9	0	10	5.51	4.78	-0.51	-0.19	89.3	4.55	-2	-0.2	.47	0.0	0.0	0	.481	.499		Rule 5 Draft
+Stephen Nogosek	24	6.2	7	0	8	10.80	4.87	-0.60	-0.33	96.9	4.98	-4	-0.4	.37	0.1	-0.2	-4	.441	.497		Traded
+Ryan O'Rourke*	31	1.1	2	0	0	0.00	4.46	-0.24	-0.30	93.0	4.08	1	0.1	2.40	0.0	0.1	1	.531	.500		Free Agency
+Corey Oswalt	25	6.2	2	0	9	12.15	4.73	-0.53	-0.03	96.9	5.06	-5	-0.4	.97	0.0	-0.4	-5	.290	.497		Amateur Draft
+Tim Peterson	28	7.1	6	0	4	4.91	4.89	-0.50	-0.33	91.3	4.63	0	0.0	.60	0.0	0.0	0	.496	.500	$555,000	Amateur Draft
+Brooks Pounders	28	7.1	7	0	5	6.14	4.77	-0.55	-0.32	97.8	4.89	-1	-0.1	.73	0.0	0.0	0	.486	.499		Purchased
+Jacob Rhame	26	6.1	5	0	4	5.68	4.76	-0.39	-0.32	89.5	4.32	-1	-0.1	.83	0.0	0.0	0	.481	.499		Traded
+Hector Santiago*	31	8.0	8	0	6	6.75	4.05	-0.52	-0.27	86.4	3.71	-3	-0.3	.50	0.0	-0.1	-2	.467	.498	$100,000	Free Agency
+Paul Sewald	29	19.2	17	0	10	4.58	4.60	-0.42	-0.31	93.3	4.40	0	0.0	.73	0.0	0.1	1	.498	.500		Amateur Draft
+Marcus Stroman	28	59.2	11	11	27	4.07	4.59	-0.46	0.21	95.2	5.00	6	0.7		0.0	1.2	12	.560	.504		Traded
+Noah Syndergaard	26	197.2	32	32	101	4.60	4.67	-0.44	0.21	91.4	4.87	6	0.6		-0.1	2.3	24	.520	.504	$6,000,000	Traded
+Jason Vargas*	36	94.1	19	18	45	4.29	4.94	-0.45	0.21	90.2	5.05	8	0.8	.01	-0.1	1.6	17	.545	.505	$8,000,000	Free Agency
+Zack Wheeler	29	195.1	31	31	93	4.28	4.73	-0.46	0.21	94.2	5.08	18	1.9		-0.1	3.5	35	.560	.511	$5,975,000	Traded
+Justin Wilson*	31	39.0	45	0	12	2.77	4.83	-0.40	-0.33	93.3	4.57	8	0.8	1.42	0.1	1.3	11	.518	.505	$5,000,000	Free Agency
+Daniel Zamora*	26	8.2	17	0	5	5.19	5.03	-0.48	-0.34	89.7	4.63	-1	-0.1	1.40	0.0	0.0	0	.497	.500		Traded
+Team Total	28.7	1461.0	664	162	737	4.54	4.73	-0.44	0.03	92.4	4.80	46	5.6	1.16	-1.0	17.7	179	.509	.502	$47,303,466	
+Name	Age	IP	G	GS	R	RA9	RA9opp	RA9def	RA9role	PPFp	RA9avg	RAA	WAA	gmLI	WAAadj	WAR	RAR	waaWL%	162WL%	Salary	Acquired
+
+Team Pitching Ratios* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	IP	Ptn%	HR%	SO%	BB%	SO-BB%	XBH%	X/H%	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB	Opp	DP	%	PAu
+Luis Avilan*	29	32.0	38%	3.6%	21.3%	9.9%	11.4%	7.1%	30%	0.81	1.41	63%	27%	10.9%	12%	31	4	13%	0
+Tyler Bashlor	26	22.0	63%	5.8%	19.4%	16.5%	2.9%	7.8%	38%	0.48	0.64	57%	20%	15.4%	11%	18	1	6%	0
+Brad Brach	33	14.2	64%	1.6%	24.6%	4.9%	19.7%	4.9%	20%	0.58	0.56	67%	19%	4.5%	15%	4	0	0%	0
+Jacob deGrom	31	204.0	57%	2.4%	31.7%	5.5%	26.2%	6.0%	31%	0.80	1.07	59%	24%	8.3%	16%	130	10	8%	0
+Edwin Diaz	25	58.0	60%	5.9%	39.0%	8.7%	30.3%	9.8%	43%	0.58	0.67	44%	28%	20.0%	7%	50	2	4%	0
+Jeurys Familia	29	60.0	58%	2.6%	23.0%	15.3%	7.7%	8.0%	36%	1.04	1.67	57%	23%	9.6%	9%	62	12	19%	0
+Chris Flexen	24	13.2	60%	1.4%	14.3%	18.6%	-4.3%	10.0%	47%	0.52	0.48	66%	30%	3.6%	10%	17	0	0%	0
+Wilmer Font	29	31.0	63%	6.0%	17.9%	9.7%	8.2%	13.4%	62%	0.57	0.84	65%	20%	14.5%	8%	16	2	13%	0
+Drew Gagnon	29	23.2	60%	9.4%	14.5%	6.0%	8.6%	14.5%	50%	0.65	0.74	68%	23%	24.4%	18%	17	1	6%	0
+Robert Gsellman	25	63.2	62%	2.5%	21.7%	8.3%	13.4%	9.4%	41%	0.79	0.98	65%	25%	7.8%	13%	51	7	14%	0
+Donnie Hart*	28	1.0	0%	0.0%	0.0%	0.0%	0.0%	0.0%				100%	0%			0	0		0
+Walker Lockett	25	22.2	55%	5.8%	15.5%	5.8%	9.7%	11.7%	36%	0.72	1.50	71%	26%	14.3%	9%	21	3	14%	0
+Seth Lugo	29	80.0	59%	2.6%	33.1%	5.1%	28.0%	6.1%	34%	0.77	0.88	57%	21%	8.5%	11%	49	2	4%	0
+Steven Matz*	28	160.1	21%	3.9%	22.1%	7.5%	14.6%	9.1%	39%	0.91	1.29	65%	23%	12.5%	12%	125	16	13%	0
+Chris Mazza	29	16.1	57%	0.0%	14.9%	6.8%	8.1%	13.5%	48%	0.69	1.18	73%	43%	0.0%	6%	20	4	20%	0
+Stephen Nogosek	24	6.2	62%	5.9%	17.7%	5.9%	11.8%	11.8%	33%	0.63	0.75	71%	35%	13.3%	6%	10	0	0%	0
+Ryan O'Rourke*	31	1.1	67%	0.0%	16.7%	50.0%	-33.3%	0.0%		0.00	0.00	33%	0%	0.0%	50%	1	0	0%	0
+Corey Oswalt	25	6.2	53%	2.9%	14.7%	17.7%	-2.9%	14.7%	56%	0.57	1.14	65%	35%	7.1%	0%	8	1	13%	0
+Tim Peterson	28	7.1	66%	2.9%	8.6%	20.0%	-11.4%	5.7%	29%	0.33	0.73	66%	33%	8.3%	33%	6	2	33%	0
+Brooks Pounders	28	7.1	62%	2.9%	14.7%	5.9%	8.8%	8.8%	33%	0.67	1.29	71%	42%	7.7%	13%	3	0	0%	0
+Jacob Rhame	26	6.1	50%	3.3%	16.7%	30.0%	-13.3%	10.0%	100%	0.50	0.86	47%	19%	11.1%	10%	7	1	14%	0
+Hector Santiago*	31	8.0	34%	2.6%	15.8%	13.2%	2.6%	15.8%	60%	0.30	0.20	68%	22%	6.3%	20%	9	0	0%	0
+Paul Sewald	29	19.2	71%	3.8%	27.5%	3.8%	23.8%	11.3%	50%	0.18	0.19	63%	28%	7.9%	16%	13	1	8%	0
+Marcus Stroman	28	59.2	44%	3.1%	23.0%	8.8%	14.2%	8.1%	32%	0.93	1.79	64%	32%	9.4%	7%	52	5	10%	0
+Noah Syndergaard	26	197.2	54%	2.9%	24.5%	6.1%	18.4%	7.9%	34%	0.92	1.28	65%	24%	9.6%	14%	133	14	11%	0
+Jason Vargas*	36	94.1	23%	3.5%	20.3%	9.8%	10.5%	8.8%	43%	0.64	0.89	66%	24%	10.3%	18%	76	11	14%	0
+Zack Wheeler	29	195.1	57%	2.7%	23.6%	6.0%	17.5%	6.8%	29%	0.78	1.03	66%	26%	7.8%	12%	169	13	8%	0
+Justin Wilson*	31	39.0	34%	2.4%	26.5%	11.5%	15.1%	5.4%	27%	1.09	1.52	58%	25%	9.1%	6%	39	4	10%	0
+Daniel Zamora*	26	8.2	54%	2.4%	19.5%	12.2%	7.3%	9.8%	40%	0.37	0.55	63%	19%	5.6%	5%	6	0	0%	0
+League Average																			
+Team Total	28.6		50%	3.3%	24.4%	8.0%	16.4%	8.2%	36%	0.77	1.06	63%	25%	10.1%	13%	1143	116	10%	0
+Name	Age	IP	Ptn%	HR%	SO%	BB%	SO-BB%	XBH%	X/H%	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB	Opp	DP	%	PAu
+Team Batting Against* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	IP	PAu	G	PA	AB	R	H	2B	3B	HR	SB	CS	BB	SO	BA	OBP	SLG	OPS	BAbip	TB	GDP	HBP	SH	SF	IBB	ROE
+Luis Avilan*	29	32.0		45	141	124	18	33	5	0	5	3	0	14	30	.266	.355	.427	.782	.315	53	4	3	0	0	0	0
+Tyler Bashlor	26	22.0		24	103	84	17	21	2	0	6	3	0	17	20	.250	.373	.488	.861	.254	41	1	0	1	1	2	0
+Brad Brach	33	14.2		16	61	57	6	15	1	1	1	0	1	3	15	.263	.300	.368	.668	.341	21	0	0	1	0	1	0
+Jacob deGrom	31	204.0		32	804	745	59	154	28	1	19	24	4	44	255	.207	.257	.323	.580	.285	241	10	7	5	3	1	5
+Edwin Diaz	25	58.0		66	254	225	36	58	10	0	15	11	0	22	99	.258	.332	.502	.834	.381	113	2	4	1	2	3	0
+Jeurys Familia	29	60.0		66	274	226	39	62	14	1	7	6	2	42	63	.274	.393	.438	.831	.350	99	12	3	2	1	4	2
+Chris Flexen	24	13.2		9	70	56	12	15	6	0	1	1	0	13	10	.268	.400	.429	.829	.304	24	0	0	0	1	2	1
+Wilmer Font	29	31.0		15	134	119	17	29	10	0	8	2	1	13	24	.244	.328	.529	.858	.241	63	2	2	0	0	1	1
+Drew Gagnon	29	23.2		18	117	108	26	34	6	0	11	3	0	7	17	.315	.368	.676	1.043	.288	73	1	2	0	0	0	4
+Robert Gsellman	25	63.2		52	277	245	36	64	18	1	7	4	0	23	60	.261	.337	.429	.766	.317	105	7	6	1	2	2	4
+Donnie Hart*	28	1.0		1	3	3	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	.000	0	0	0	0	0	0	0
+Walker Lockett	25	22.2		9	103	95	21	33	5	1	6	0	2	6	16	.347	.392	.611	1.003	.370	58	3	1	1	0	0	0
+Seth Lugo	29	80.0		61	314	291	28	56	10	1	8	3	1	16	104	.192	.246	.316	.562	.267	92	2	5	1	1	4	3
+Steven Matz*	28	160.1		32	691	626	83	163	32	4	27	9	2	52	153	.260	.324	.454	.777	.304	284	16	7	5	1	7	8
+Chris Mazza	29	16.1		9	74	64	10	21	9	1	0	0	1	5	11	.328	.405	.500	.905	.389	32	4	4	0	1	0	0
+Stephen Nogosek	24	6.2		7	34	31	8	12	2	0	2	0	0	2	6	.387	.412	.645	1.057	.417	20	0	0	0	1	0	0
+Ryan O'Rourke*	31	1.1		2	6	3	0	0	0	0	0	0	1	3	1	.000	.500	.000	.500	.000	0	0	0	0	0	0	0
+Corey Oswalt	25	6.2		2	34	28	9	9	4	0	1	0	0	6	5	.321	.441	.571	1.013	.364	16	1	0	0	0	1	0
+Tim Peterson	28	7.1		6	35	27	4	7	1	0	1	1	0	7	3	.259	.429	.407	.836	.261	11	2	1	0	0	1	0
+Brooks Pounders	28	7.1		7	34	30	5	9	1	1	1	2	0	2	5	.300	.364	.500	.864	.333	15	0	1	1	0	0	1
+Jacob Rhame	26	6.1		5	30	20	4	3	2	0	1	0	0	9	5	.150	.414	.400	.814	.143	8	1	0	1	0	0	1
+Hector Santiago*	31	8.0		8	38	33	6	10	5	0	1	0	0	5	6	.303	.395	.545	.940	.346	18	0	0	0	0	0	0
+Paul Sewald	29	19.2		17	80	74	10	18	6	0	3	0	0	3	22	.243	.278	.446	.724	.300	33	1	1	1	1	0	0
+Marcus Stroman	28	59.2		11	261	235	27	65	12	1	8	3	2	23	60	.277	.342	.438	.781	.339	103	5	1	1	1	1	2
+Noah Syndergaard	26	197.2		32	825	758	101	194	37	4	24	42	3	50	202	.256	.304	.410	.714	.315	311	14	6	3	8	2	5
+Jason Vargas*	36	94.1		19	400	355	45	81	20	1	14	9	1	39	81	.228	.304	.408	.712	.255	145	11	1	2	3	2	7
+Zack Wheeler	29	195.1		31	828	760	93	196	33	1	22	6	1	50	195	.258	.303	.391	.694	.316	297	13	2	8	7	4	12
+Justin Wilson*	31	39.0		45	166	145	12	33	5	0	4	7	0	19	44	.228	.325	.345	.670	.299	50	4	2	0	0	1	1
+Daniel Zamora*	26	8.2		17	41	34	5	10	3	0	1	0	0	5	8	.294	.390	.471	.861	.346	16	0	1	0	1	1	0
+League Average																											
+Team Total	28.6			664	6232	5601	737	1405	287	19	204	139	22	500	1520	.251	.317	.418	.735	.307	2342	116	60	35	35	40	57
+Name	Age	IP	PAu	G	PA	AB	R	H	2B	3B	HR	SB	CS	BB	SO	BA	OBP	SLG	OPS	BAbip	TB	GDP	HBP	SH	SF	IBB	ROE
+
+Team Win Probability* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	IP	PtchR	PtchW	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	LevHi	LevMd	LevLo
+Luis Avilan*	29	32.0	-3.0	-0.3	147	0.3	2.0	-1.7	.76	-0.1	0.5	-0.3	0.0	0.98	-4.1	12	5	28
+Tyler Bashlor	26	22.0	-6.9	-0.7	107	-0.9	0.9	-1.8	.75	-0.4	-0.7	-5.9	-0.6	0.97	-5.1	7	4	13
+Brad Brach	33	14.2	1.1	0.1	62	0.0	1.2	-1.2	1.08	0.3	-0.3	1.9	0.2	0.91	2.8	5	4	7
+Jacob deGrom	31	204.0	40.2	4.2	831	4.5	15.6	-11.1	1.01	5.0	-0.6	44.1	4.9	0.89	52.4	0	0	0
+Edwin Diaz	25	58.0	-9.2	-0.9	270	-1.6	7.8	-9.4	1.91	-1.0	0.2	-8.4	-0.9	0.96	-12.5	27	17	22
+Jeurys Familia	29	60.0	-10.8	-1.0	287	-1.7	4.4	-6.1	1.02	-0.5	-1.1	-6.9	-0.7	0.99	-8.9	18	12	35
+Chris Flexen	24	13.2	-4.6	-0.4	75	-1.3	0.9	-2.2	1.15	-0.3	-0.9	-5.8	-0.6	1.07	-5.3	3	0	5
+Wilmer Font	29	31.0	-2.5	-0.2	139	-0.2	1.9	-2.2	.79	-0.5	0.3	-1.6	-0.2	0.95	-6.3	2	2	8
+Drew Gagnon	29	23.2	-13.3	-1.3	122	-0.2	1.3	-1.5	.63	-1.0	0.8	-14.8	-1.4	0.95	-18.3	4	4	9
+Robert Gsellman	25	63.2	-4.8	-0.5	286	0.2	5.6	-5.4	1.09	-0.3	0.6	-3.8	-0.4	0.97	-6.8	15	15	22
+Donnie Hart*	28	1.0	0.7	0.1	3	0.0	0.0	0.0	.00			0.5	0.1	0.62	0.8	0	0	0
+Walker Lockett	25	22.2	-10.7	-1.0	107	-0.7	1.7	-2.4	.93	-0.7	-0.1	-5.9	-0.6	0.88	-7.9	1	0	4
+Seth Lugo	29	80.0	12.1	1.2	318	3.2	9.5	-6.3	1.55	1.8	0.3	16.1	1.7	0.89	21.1	36	13	12
+Steven Matz*	28	160.1	-4.1	-0.4	703	-0.7	12.9	-13.6	1.06	-0.4	-0.2	-6.4	-0.6	0.93	-6.1	1	0	1
+Chris Mazza	29	16.1	-2.3	-0.2	76	-0.6	0.6	-1.2	.51	-0.2	-0.9	-3.0	-0.3	1.04	-3.2	1	0	7
+Stephen Nogosek	24	6.2	-4.9	-0.5	34	-0.4	0.0	-0.4	.30	0.0	-1.2	-4.5	-0.4	1.02	-3.5	1	0	5
+Ryan O'Rourke*	31	1.1	0.8	0.1	7	0.2	0.3	-0.1	2.81	0.0	0.0	0.8	0.1	1.02	0.4	2	0	0
+Corey Oswalt	25	6.2	-6.0	-0.5	35	-0.4	0.2	-0.6	.54	-0.2	-0.5	-6.2	-0.5	1.12	-3.4	1	0	1
+Tim Peterson	28	7.1	-0.4	0.0	39	0.2	0.4	-0.2	.43	-0.1	0.6	-0.7	-0.1	1.30	-0.5	1	0	5
+Brooks Pounders	28	7.1	-1.5	-0.1	38	0.0	0.5	-0.5	.77	-0.2	0.2	-1.3	-0.1	0.89	-2.9	0	4	2
+Jacob Rhame	26	6.1	-0.4	0.0	31	-0.2	0.5	-0.7	.95	-0.3	0.1	-1.1	-0.1	0.99	-2.3	2	0	3
+Hector Santiago*	31	8.0	-2.2	-0.2	39	0.2	0.7	-0.5	.98	-0.2	0.4	-1.6	-0.2	1.07	-3.1	1	0	7
+Paul Sewald	29	19.2	-0.7	-0.1	80	0.0	0.7	-0.7	.44	0.2	-0.2	1.7	0.2	0.92	2.2	3	4	8
+Marcus Stroman	28	59.2	2.1	0.2	269	0.3	4.4	-4.1	.96	0.2	0.1	2.6	0.3	0.95	0.9	0	0	0
+Noah Syndergaard	26	197.2	-5.3	-0.5	876	-0.1	14.8	-15.0	.99	0.3	-0.4	-0.7	-0.1	0.92	3.5	0	0	0
+Jason Vargas*	36	94.1	0.8	0.1	411	0.6	6.7	-6.1	.94	-0.2	0.8	4.0	0.4	0.92	-2.1	0	0	1
+Zack Wheeler	29	195.1	2.0	0.2	841	-0.4	13.6	-14.0	.95	0.8	-1.3	7.4	0.8	0.94	11.5	0	0	0
+Justin Wilson*	31	39.0	7.2	0.7	177	0.8	4.8	-4.0	1.59	0.3	0.2	6.6	0.7	0.99	4.1	19	14	12
+Daniel Zamora*	26	8.2	-0.8	-0.1	42	-0.3	0.5	-0.9	.94	0.0	-0.3	-2.8	-0.3	1.03	-0.4	7	2	7
+League Average																		
+Team Total	28.6		-27.5	-2.1	6452	1.1	114.7	-113.6	1.04	2.2	-1.2	4.0	1.1	0.94	-3.1	169	100	224
+Name	Age	IP	PtchR	PtchW	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	LevHi	LevMd	LevLo
+Team Starting Pitching* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Jacob deGrom
+Chris Flexen
+Wilmer Font
+Walker Lockett
+Steven Matz*
+Marcus Stroman
+Noah Syndergaard
+Jason Vargas*
+Zack Wheeler
+League Average
+Team Total
+Name
+Name	Age	IP	G	GS	Wgs	Lgs	ND	Wchp	Ltuf	Wtm	Ltm	tmW-L%	Wlst	Lsv	CG	SHO	QS	QS%	GmScA	Best	Wrst	BQR	BQS	sDR	lDR	RS/GS	RS/IP	IP/GS	Pit/GS	<80	80-99	100-119	≥120	Max
+Jacob deGrom	31	204.0	32	32	11	8	13	1	3	14	18	.438	5	1	0	0	23	72%	63.7	84	24	2	0	0	17	4.1	3.6	6.4	103	0	9	23	0	116
+Chris Flexen	24	13.2	9	1	0	1	0	0	0	0	1	.000	0	0	0	0	0	0%	23.0	23	23	2	0	0	1	2.0	0.0	4.3	89	0	1	0	0	89
+Wilmer Font	29	31.0	15	3	0	1	2	0	0	1	2	.333	0	0	0	0	0	0%	40.3	49	25	4	0	0	2	2.8	5.7	3.4	66	3	0	0	0	75
+Walker Lockett	25	22.2	9	4	1	1	2	1	0	2	2	.500	1	0	0	0	0	0%	39.5	56	24	9	7	0	3	6.4	7.0	4.3	68	3	1	0	0	82
+Steven Matz*	28	160.1	32	30	11	10	9	1	1	16	14	.533	3	4	1	1	15	50%	51.0	84	13	16	1	0	14	4.6	3.8	5.3	90	7	13	9	1	120
+Marcus Stroman	28	59.2	11	11	4	2	5	1	0	8	3	.727	0	3	0	0	4	36%	50.9	75	30	9	2	0	6	5.5	5.3	5.4	93	1	8	2	0	112
+Noah Syndergaard	26	197.2	32	32	10	8	14	3	4	19	13	.594	5	5	1	1	17	53%	53.2	88	7	13	5	0	18	5.3	4.9	6.2	97	3	13	16	0	116
+Jason Vargas*	36	94.1	19	18	6	5	7	2	1	10	8	.556	2	3	1	1	6	33%	52.9	84	28	9	4	1	9	5.0	4.8	5.2	85	6	8	4	0	117
+Zack Wheeler	29	195.1	31	31	11	8	12	3	2	16	15	.516	2	9	0	0	18	58%	53.8	78	21	7	1	0	15	5.4	4.7	6.3	102	1	10	20	0	118
+League Average																																		
+Team Total	28.6		664	162	54	44	64	12	11	86	76	.531	18	25	3	3	83	51%	54	88	7	195	65	1	85	4.9	4.4	5.8	95	24	63	74	1	120
+Name	Age	IP	G	GS	Wgs	Lgs	ND	Wchp	Ltuf	Wtm	Ltm	tmW-L%	Wlst	Lsv	CG	SHO	QS	QS%	GmScA	Best	Wrst	BQR	BQS	sDR	lDR	RS/GS	RS/IP	IP/GS	Pit/GS	<80	80-99	100-119	≥120	Max
+Support us without the ads? Go Ad-Free.
+Team Relief Pitching* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Luis Avilan*
+Tyler Bashlor
+Brad Brach
+Edwin Diaz
+Jeurys Familia
+Chris Flexen
+Wilmer Font
+Drew Gagnon
+Robert Gsellman
+Donnie Hart*
+Walker Lockett
+Seth Lugo
+Steven Matz*
+Chris Mazza
+Stephen Nogosek
+Ryan O'Rourke*
+Corey Oswalt
+Tim Peterson
+Brooks Pounders
+Jacob Rhame
+Hector Santiago*
+Paul Sewald
+Jason Vargas*
+Justin Wilson*
+Daniel Zamora*
+League Average
+Team Total
+Name
+Name	Age	IP	G	GR	GF	Wgr	Lgr	SVOpp	SV	BSv	SV%	SVSit	Hold	IR	IS	IS%	1stIP	aLI	LevHi	LevMd	LevLo	Ahd	Tie	Bhd	Runr	Empt	>3o	<3o	IPmult	0DR	Out/GR	Pit/GR
+Luis Avilan*	29	32.0	45	45	8	4	0	0	0	0		5	3	33	6	18%	8	.758	12	5	28	15	9	21	22	23	3	25	5	11	2.1	13
+Tyler Bashlor	26	22.0	24	24	7	0	3	3	0	3	0%	4	1	12	4	33%	8	.747	7	4	13	11	3	10	6	18	5	9	5	6	2.8	17
+Brad Brach	33	14.2	16	16	0	1	1	1	0	1	0%	3	2	10	2	20%	8	1.075	5	4	7	7	4	5	4	12	3	6	3	3	2.8	14
+Edwin Diaz	25	58.0	66	66	48	2	7	33	26	7	79%	34	1	15	8	53%	9	1.912	27	17	22	45	11	10	9	57	2	14	2	13	2.6	16
+Jeurys Familia	29	60.0	66	66	14	4	2	4	0	4	0%	18	14	15	5	33%	8	1.019	18	12	35	33	7	26	9	57	6	17	8	17	2.7	16
+Chris Flexen	24	13.2	9	8	4	0	2	0	0	0		0	0	5	1	20%	8	1.152	3	0	5	1	3	4	3	5	3	2	4	0	3.5	23
+Wilmer Font	29	31.0	15	12	1	1	1	1	0	1	0%	1	0	8	2	25%	7	.788	2	2	8	1	2	9	5	7	8	2	8	0	5.2	30
+Drew Gagnon	29	23.2	18	18	8	3	1	1	0	1	0%	1	0	10	3	30%	8	.626	4	4	9	5	3	10	5	13	6	5	6	1	3.9	23
+Robert Gsellman	25	63.2	52	52	9	2	3	5	1	4	20%	12	7	21	10	48%	8	1.086	15	15	22	21	10	21	13	39	20	11	21	9	3.7	21
+Donnie Hart*	28	1.0	1	1	0	0	0	0	0	0		0	0	0	0		8	.000	0	0	0	1	0	0	0	1	0	0	0	0	3.0	9
+Walker Lockett	25	22.2	9	5	1	0	0	0	0	0		0	0	0	0		11	.929	1	0	4	0	1	4	0	5	2	2	2	0	3.2	19
+Seth Lugo	29	80.0	61	61	14	7	4	11	6	5	55%	32	21	20	3	15%	8	1.548	36	13	12	38	14	9	11	50	25	7	26	7	3.9	21
+Steven Matz*	28	160.1	32	2	0	0	0	0	0	0		1	1	3	1	33%	7	1.057	1	0	1	1	0	1	2	0	0	2	1	0	1.5	8
+Chris Mazza	29	16.1	9	9	6	1	1	0	0	0		0	0	5	0	0%	8	.505	1	0	7	3	1	5	2	7	6	1	7	1	5.4	32
+Stephen Nogosek	24	6.2	7	7	6	0	1	0	0	0		0	0	0	0		9	.295	1	0	5	1	1	5	0	7	1	2	1	1	2.9	20
+Ryan O'Rourke*	31	1.1	2	2	0	0	0	0	0	0		0	0	1	0	0%	13	2.813	2	0	0	0	2	0	1	1	0	2	0	0	2.0	11
+Corey Oswalt	25	6.2	2	2	0	0	1	0	0	0		0	0	3	2	67%	5	.538	1	0	1	0	0	2	1	1	2	0	2	0	10.0	70
+Tim Peterson	28	7.1	6	6	2	0	0	0	0	0		0	0	8	2	25%	5	.427	1	0	5	0	0	6	4	2	3	2	3	1	3.7	24
+Brooks Pounders	28	7.1	7	7	3	1	0	0	0	0		0	0	4	1	25%	8	.766	0	4	2	0	0	7	4	3	3	2	3	2	3.1	19
+Jacob Rhame	26	6.1	5	5	3	0	1	0	0	0		0	0	4	1	25%	9	.950	2	0	3	1	1	3	2	3	3	0	3	1	3.8	24
+Hector Santiago*	31	8.0	8	8	6	1	0	0	0	0		0	0	2	2	100%	9	.975	1	0	7	1	1	6	1	7	1	3	1	1	3.0	22
+Paul Sewald	29	19.2	17	17	6	1	1	1	1	0	100%	1	0	5	1	20%	8	.438	3	4	8	4	4	9	4	13	6	4	6	2	3.5	19
+Jason Vargas*	36	94.1	19	1	1	0	0	0	0	0		0	0	0	0		9	.936	0	0	1	0	0	1	0	1	0	0	0	0	3.0	24
+Justin Wilson*	31	39.0	45	45	9	4	2	5	4	1	80%	16	9	13	5	38%	7	1.594	19	14	12	23	12	10	8	37	3	14	3	8	2.6	15
+Daniel Zamora*	26	8.2	17	17	3	0	1	0	0	0		1	0	16	6	38%	8	.941	7	2	7	3	6	8	9	8	0	12	0	3	1.5	10
+League Average																																
+Team Total	28.6		664	502	159	32	32	65	38	27	58%	129	59	213	65	31%		1.035	169	100	224	215	95	192	125	377	111	144	120	87	3.1	18
+Name	Age	IP	G	GR	GF	Wgr	Lgr	SVOpp	SV	BSv	SV%	SVSit	Hold	IR	IS	IS%	1stIP	aLI	LevHi	LevMd	LevLo	Ahd	Tie	Bhd	Runr	Empt	>3o	<3o	IPmult	0DR	Out/GR	Pit/GR
+Team Baserunning/Situ* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	IP	PA	H	Inf	Bnt	All	GS	GSo	vRH	vLH	Hm	Rd	<2,3B	Scr	SO	%	ROE	WP	PB	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	BT	PAu
+Luis Avilan*	29	32.0	141	33	1	0	5	0	4	4	1	3	2	8	2	2	25%	0	2	0	65	3	0	100%	2	0	1	0	0	0	0	0	3	0
+Tyler Bashlor	26	22.0	103	21	1	0	6	0	3	4	2	2	4	4	3	0	75%	0	0	0	36	3	0	100%	3	0	0	0	0	0	0	0	2	0
+Brad Brach	33	14.2	61	15	3	1	1	0	3	0	1	1	0	3	0	0	0%	0	0	0	14	0	1	0%	0	1	0	0	0	0	0	0	0	0
+Jacob deGrom	31	204.0	804	154	18	2	19	0	13	10	9	11	8	29	14	8	48%	5	2	0	254	24	4	86%	22	4	2	0	0	0	0	0	7	0
+Edwin Diaz	25	58.0	254	58	8	0	15	0	12	10	5	8	7	18	8	7	44%	0	3	1	85	11	0	100%	10	0	1	0	0	0	0	0	7	0
+Jeurys Familia	29	60.0	274	62	9	0	7	0	5	4	3	4	3	18	9	4	50%	2	3	3	106	6	2	75%	5	2	1	0	0	0	0	0	8	0
+Chris Flexen	24	13.2	70	15	1	0	1	0	2	1	0	1	0	4	4	0	100%	1	1	2	36	1	0	100%	1	0	0	0	0	0	0	0	6	0
+Wilmer Font	29	31.0	134	29	2	1	8	0	2	5	3	4	4	5	4	0	80%	1	1	0	52	2	1	67%	1	1	1	0	0	0	0	0	2	0
+Drew Gagnon	29	23.2	117	34	3	0	11	0	6	4	7	3	8	5	3	0	60%	4	2	0	36	3	0	100%	3	0	0	0	0	0	0	0	2	0
+Robert Gsellman	25	63.2	277	64	8	2	7	0	6	5	2	1	6	18	10	4	56%	4	4	1	110	4	0	100%	3	0	1	0	0	0	0	0	9	0
+Donnie Hart*	28	1.0	3	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0		0	0											0
+Walker Lockett	25	22.2	103	33	4	0	6	0	0	5	1	4	2	3	3	0	100%	0	1	1	38	0	2	0%	0	2	0	0	0	0	0	0	2	0
+Seth Lugo	29	80.0	314	56	3	0	8	0	13	4	4	4	4	13	7	3	54%	3	2	0	92	3	1	75%	3	1	0	0	0	0	0	0	2	0
+Steven Matz*	28	160.1	691	163	20	2	27	1	11	22	5	8	19	32	10	9	31%	8	3	2	245	9	2	82%	8	2	1	0	0	0	0	0	6	0
+Chris Mazza	29	16.1	74	21	1	0	0	0	2	0	0	0	0	7	4	1	57%	0	0	0	36	0	1	0%	0	0	0	1	0	0	1	1	1	0
+Stephen Nogosek	24	6.2	34	12	1	0	2	0	0	0	2	0	2	1	1	0	100%	0	0	0	17	0	0		0	0	0	0	0	0	0	0	1	0
+Ryan O'Rourke*	31	1.1	6	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	3	0	1	0%	0	1	0	0	0	0	0	0	0	0
+Corey Oswalt	25	6.2	34	9	0	0	1	0	3	0	1	0	1	7	4	1	57%	0	0	1	12	0	0		0	0	0	0	0	0	0	0	2	0
+Tim Peterson	28	7.1	35	7	0	0	1	0	5	1	0	0	1	4	1	1	25%	0	3	0	14	1	0	100%	1	0	0	0	0	0	0	0	5	0
+Brooks Pounders	28	7.1	34	9	1	0	1	0	0	0	1	0	1	3	1	1	33%	1	1	0	15	2	0	100%	2	0	0	0	0	0	0	0	1	0
+Jacob Rhame	26	6.1	30	3	0	0	1	0	1	1	0	1	0	0	0	0		1	0	0	16	0	0		0	0	0	0	0	0	0	0	0	0
+Hector Santiago*	31	8.0	38	10	0	0	1	0	2	0	1	1	0	2	1	1	50%	0	0	0	17	0	0		0	0	0	0	0	0	0	0	0	0
+Paul Sewald	29	19.2	80	18	2	0	3	0	0	3	0	2	1	3	2	0	67%	0	0	0	31	0	0		0	0	0	0	0	0	0	0	1	0
+Marcus Stroman	28	59.2	261	65	8	0	8	0	9	4	4	4	4	14	7	1	50%	2	3	1	93	3	2	60%	3	2	0	0	0	0	0	0	4	0
+Noah Syndergaard	26	197.2	825	194	21	2	24	0	13	11	13	17	7	55	22	20	40%	5	4	2	271	42	3	93%	38	3	4	0	0	0	2	0	17	0
+Jason Vargas*	36	94.1	400	81	6	1	14	0	5	11	3	5	9	13	12	1	92%	7	3	0	157	9	1	90%	9	1	0	0	0	0	0	0	5	0
+Zack Wheeler	29	195.1	828	196	16	0	22	0	21	10	12	11	11	45	29	7	64%	12	5	0	309	6	1	86%	6	1	0	0	0	0	0	0	14	0
+Justin Wilson*	31	39.0	166	33	8	2	4	0	4	4	0	2	2	11	2	3	18%	1	4	0	70	7	0	100%	4	0	3	0	0	0	0	0	5	0
+Daniel Zamora*	26	8.2	41	10	1	0	1	0	4	1	0	0	1	7	3	2	43%	0	0	0	11	0	0		0	0	0	0	0	0	0	0	1	0
+League Average																																		
+Team Total	28.6		6232	1405	146	13	204	1	149	124	80	97	107	332	166	76	50%	57	47	14	2241	139	22	86%	124	21	15	1	0	0	3	1	113	0
+Name	Age	IP	PA	H	Inf	Bnt	All	GS	GSo	vRH	vLH	Hm	Rd	<2,3B	Scr	SO	%	ROE	WP	PB	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	BT	PAu
+Team Pitching Pitches* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Luis Avilan*
+Tyler Bashlor
+Brad Brach
+Jacob deGrom
+Edwin Diaz
+Jeurys Familia
+Chris Flexen
+Wilmer Font
+Drew Gagnon
+Robert Gsellman
+Donnie Hart*
+Walker Lockett
+Seth Lugo
+Steven Matz*
+Chris Mazza
+Stephen Nogosek
+Ryan O'Rourke*
+Corey Oswalt
+Tim Peterson
+Brooks Pounders
+Jacob Rhame
+Hector Santiago*
+Paul Sewald
+Marcus Stroman
+Noah Syndergaard
+Jason Vargas*
+Zack Wheeler
+Justin Wilson*
+Daniel Zamora*
+League Average
+Team Total
+Name
+Name	Age	IP	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1st%	30%	30c	30s	02%	02c	02s	02h	L/SO	S/SO	L/SO%	3pK	4pW	PAu	Pitu	Stru
+Luis Avilan*	29	32.0	142	600	4.23	348	58.0%	27.6%	20.1%	25.3%	27.0%	72.4%	0.0%	42.0%	72.2%	54.9%	4.9%	7	3	17.6%	25	6	1	2	28	6.7%	3	4	0	0	0
+Tyler Bashlor	26	22.0	103	396	3.84	244	61.6%	28.3%	18.0%	26.6%	27.0%	71.7%	0.0%	44.2%	74.9%	53.4%	8.7%	9	5	20.4%	21	15	3	5	15	25.0%	6	2	0	0	0
+Brad Brach	33	14.2	62	218	3.52	149	68.3%	28.9%	18.8%	23.5%	28.9%	71.1%	0.0%	48.6%	73.6%	67.7%	9.7%	6	4	24.2%	15	7	2	3	12	20.0%	1	1	0	0	0
+Jacob deGrom	31	204.0	807	3297	4.09	2222	67.4%	20.7%	24.9%	32.0%	22.4%	79.3%	0.0%	53.4%	68.6%	63.8%	2.9%	23	17	33.5%	270	162	13	44	209	17.3%	48	5	0	0	0
+Edwin Diaz	25	58.0	254	1073	4.22	703	65.5%	21.1%	29.7%	30.9%	18.3%	78.9%	0.0%	51.7%	62.3%	63.4%	3.9%	10	3	37.0%	94	62	7	16	83	16.2%	14	5	0	0	0
+Jeurys Familia	29	60.0	275	1041	3.79	630	60.5%	30.3%	20.2%	23.2%	26.3%	69.7%	0.0%	42.2%	71.1%	54.9%	10.2%	28	16	22.5%	62	39	6	11	52	17.5%	13	8	0	0	0
+Chris Flexen	24	13.2	70	274	3.91	160	58.4%	28.1%	14.4%	28.1%	29.4%	71.9%	0.0%	42.0%	80.0%	50.0%	11.4%	8	5	18.6%	13	5	1	1	8	10.0%	1	1	0	0	0
+Wilmer Font	29	31.0	135	563	4.17	349	62.0%	26.9%	18.1%	27.8%	27.2%	73.1%	0.0%	45.3%	75.3%	57.8%	5.2%	7	5	18.5%	25	14	1	5	19	20.8%	2	1	0	0	0
+Drew Gagnon	29	23.2	117	414	3.54	271	65.5%	22.5%	18.5%	25.5%	33.6%	77.5%	0.0%	50.7%	76.2%	58.1%	6.8%	8	7	24.8%	29	19	2	0	17	0.0%	1	1	0	0	0
+Robert Gsellman	25	63.2	277	1069	3.86	674	63.0%	24.5%	19.9%	27.7%	27.9%	75.5%	0.0%	47.6%	73.7%	58.5%	5.4%	15	12	24.5%	68	37	6	14	45	23.3%	10	1	0	0	0
+Donnie Hart*	28	1.0	3	9	3.00	7	77.8%	28.6%	28.6%	0.0%	42.9%	71.4%	0.0%	55.6%	60.0%	100.0%	0.0%	0	0	33.3%	1	0	0	0	0		0	0	0	0	0
+Walker Lockett	25	22.2	103	369	3.58	251	68.0%	29.1%	12.0%	27.1%	31.9%	70.9%	0.0%	48.2%	83.1%	67.0%	2.9%	3	3	21.4%	22	16	0	3	12	18.8%	4	0	0	0	0
+Seth Lugo	29	80.0	314	1275	4.06	849	66.6%	30.7%	18.4%	28.6%	22.3%	69.3%	0.0%	46.1%	73.5%	58.3%	5.7%	18	12	28.7%	90	58	4	34	70	32.7%	15	2	0	0	0
+Steven Matz*	28	160.1	692	2702	3.90	1739	64.4%	27.6%	16.6%	28.3%	27.5%	72.4%	0.0%	46.6%	77.1%	56.4%	4.5%	31	21	24.6%	170	96	11	57	94	37.3%	26	5	0	0	0
+Chris Mazza	29	16.1	74	285	3.85	179	62.8%	24.0%	13.4%	32.4%	30.2%	76.0%	0.0%	47.7%	82.4%	62.2%	4.1%	3	3	24.3%	18	8	2	3	8	27.3%	1	0	0	0	0
+Stephen Nogosek	24	6.2	34	141	4.15	86	61.0%	27.9%	10.5%	31.4%	30.2%	72.1%	0.0%	44.0%	85.5%	41.2%	5.9%	2	2	8.8%	3	0	0	5	1	83.3%	0	0	0	0	0
+Ryan O'Rourke*	31	1.1	6	21	3.50	8	38.1%	50.0%	0.0%	25.0%	25.0%	50.0%	0.0%	19.0%	100.0%	33.3%	33.3%	2	0	0.0%	0	0	0	1	0	100.0%	0	2	0	0	0
+Corey Oswalt	25	6.2	34	139	4.09	77	55.4%	24.7%	11.7%	33.8%	29.9%	75.3%	0.0%	41.7%	84.5%	47.1%	5.9%	2	0	11.8%	4	3	1	2	3	40.0%	2	2	0	0	0
+Tim Peterson	28	7.1	35	142	4.06	79	55.6%	25.3%	17.7%	26.6%	30.4%	74.7%	0.0%	41.5%	76.3%	42.9%	8.6%	3	2	20.0%	7	4	0	1	2	33.3%	0	0	0	0	0
+Brooks Pounders	28	7.1	35	135	3.86	81	60.0%	22.2%	18.5%	27.2%	32.1%	77.8%	0.0%	46.7%	76.2%	54.3%	0.0%	0	0	8.6%	3	0	0	0	5	0.0%	0	0	0	0	0
+Jacob Rhame	26	6.1	31	121	3.90	67	55.4%	22.4%	14.9%	38.8%	23.9%	77.6%	0.0%	43.0%	80.8%	58.1%	9.7%	3	2	25.8%	8	5	0	1	4	20.0%	1	1	0	0	0
+Hector Santiago*	31	8.0	38	173	4.55	109	63.0%	26.6%	16.5%	32.1%	24.8%	73.4%	0.0%	46.2%	77.5%	57.9%	7.9%	3	0	42.1%	16	7	0	2	4	33.3%	2	3	0	0	0
+Paul Sewald	29	19.2	80	330	4.13	216	65.5%	27.3%	15.3%	32.4%	25.0%	72.7%	0.0%	47.6%	79.0%	55.0%	2.5%	2	1	23.8%	19	7	0	6	16	27.3%	5	1	0	0	0
+Marcus Stroman	28	59.2	261	1027	3.93	634	61.7%	25.7%	19.1%	27.3%	27.9%	74.3%	0.0%	45.9%	74.3%	51.7%	5.4%	14	8	18.4%	48	25	2	10	49	16.7%	6	5	0	0	0
+Noah Syndergaard	26	197.2	827	3098	3.75	2094	67.6%	24.9%	20.2%	27.8%	27.1%	75.1%	0.0%	50.8%	73.1%	65.7%	3.7%	31	25	32.0%	265	173	19	59	142	29.2%	40	4	0	0	0
+Jason Vargas*	36	94.1	400	1546	3.87	949	61.4%	28.2%	17.1%	25.3%	29.4%	71.8%	0.0%	44.0%	76.2%	58.5%	5.8%	23	13	18.5%	74	38	3	18	63	22.2%	17	8	0	0	0
+Zack Wheeler	29	195.1	828	3159	3.82	2120	67.1%	24.2%	17.4%	31.0%	27.4%	75.8%	0.0%	50.9%	77.0%	65.8%	3.3%	27	15	28.7%	238	139	15	44	150	22.6%	41	8	0	0	0
+Justin Wilson*	31	39.0	166	692	4.17	438	63.3%	21.9%	19.9%	35.2%	23.1%	78.1%	0.0%	49.4%	74.6%	56.0%	6.6%	11	6	26.5%	44	22	1	8	36	18.2%	6	4	0	0	0
+Daniel Zamora*	26	8.2	41	169	4.12	104	61.5%	32.7%	16.3%	25.0%	26.0%	67.3%	0.0%	41.4%	75.7%	53.7%	12.2%	5	3	36.6%	15	9	1	1	7	12.5%	0	1	0	0	0
+League Average																															
+Team Total	28.6		6244	24478	3.92	15837	64.7%	25.3%	19.5%	28.9%	26.2%	74.7%	0.0%	48.3%	73.9%	60.2%	4.9%	304	193	26.7%	1667	976	101	356	1154	23.4%	265	75	0	0	0
+Name	Age	IP	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1st%	30%	30c	30s	02%	02c	02s	02h	L/SO	S/SO	L/SO%	3pK	4pW	PAu	Pitu	Stru
+Team Neutralized Pitching 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	W	L	W-L%	ERA	IP	H	R	ER	HR	BB	SO	HBP	WHIP	H9	BB9	SO9	SO/W	HR9	Gact
+Aaron Altherr	28	0	0		9.00	1.0	0	1	1	0	0	2	0	0.000	0.0	0.0	18.0		0.0	1
+Luis Avilan*	29	2	2	.500	4.22	32.0	33	17	15	5	14	30	3	1.469	9.3	3.9	8.4	2.14	1.4	45
+Tyler Bashlor	26	1	1	.500	5.73	22.0	20	16	14	6	16	20	0	1.636	8.2	6.5	8.2	1.25	2.5	24
+Brad Brach	33	3	3	.500	4.50	54.0	55	30	27	4	30	60	1	1.574	9.2	5.0	10.0	2.00	0.7	58
+Jacob deGrom	31	15	8	.652	2.29	204.0	153	58	52	19	44	255	7	0.966	6.8	1.9	11.3	5.80	0.8	32
+Edwin Diaz	25	3	3	.500	4.97	58.0	57	35	32	15	22	99	4	1.362	8.8	3.4	15.4	4.50	2.3	66
+Jeurys Familia	29	3	4	.429	4.95	60.0	62	37	33	7	42	63	3	1.733	9.3	6.3	9.5	1.50	1.1	66
+Chris Flexen	24	1	1	.500	7.07	14.0	15	12	11	1	13	10	0	2.000	9.6	8.4	6.4	0.77	0.6	9
+Wilmer Font	29	5	4	.556	3.75	84.0	75	39	35	16	28	95	3	1.226	8.0	3.0	10.2	3.39	1.7	48
+Drew Gagnon	29	1	2	.333	8.25	24.0	32	25	22	10	7	17	2	1.625	12.0	2.6	6.4	2.43	3.8	18
+Robert Gsellman	25	3	4	.429	4.50	64.0	64	35	32	7	23	60	6	1.359	9.0	3.2	8.4	2.61	1.0	52
+Donnie Hart*	28	1	0	1.000	0.00	8.0	4	0	0	0	4	3	0	1.000	4.5	4.5	3.4	0.75	0.0	5
+Walker Lockett	25	1	2	.333	7.04	23.0	33	20	18	6	6	16	1	1.696	12.9	2.3	6.3	2.67	2.3	9
+Seth Lugo	29	5	4	.556	2.70	80.0	55	27	24	8	16	104	5	0.888	6.2	1.8	11.7	6.50	0.9	61
+Steven Matz*	28	9	9	.500	4.05	160.0	162	80	72	27	52	153	7	1.338	9.1	2.9	8.6	2.94	1.5	32
+Chris Mazza	29	1	1	.500	5.06	16.0	22	10	9	0	5	11	4	1.688	12.4	2.8	6.2	2.20	0.0	9
+Stephen Nogosek	24	0	1	.000	7.71	7.0	11	7	6	2	2	6	0	1.857	14.1	2.6	7.7	3.00	2.6	7
+Ryan O'Rourke*	31	0	0		0.00	1.0	0	0	0	0	3	1	0	3.000	0.0	27.0	9.0	0.33	0.0	2
+Corey Oswalt	25	0	1	.000	10.29	7.0	9	9	8	1	6	5	0	2.143	11.6	7.7	6.4	0.83	1.3	2
+Tim Peterson	28	0	1	.000	5.14	7.0	7	4	4	1	7	3	1	2.000	9.0	9.0	3.9	0.43	1.3	6
+Brooks Pounders	28	0	1	.000	5.14	7.0	9	5	4	1	2	5	1	1.571	11.6	2.6	6.4	2.50	1.3	7
+Jacob Rhame	26	0	1	.000	6.00	6.0	3	5	4	1	9	5	0	2.000	4.5	13.5	7.5	0.56	1.5	5
+Hector Santiago*	31	2	2	.500	5.82	34.0	40	24	22	8	21	40	0	1.794	10.6	5.6	10.6	1.90	2.1	19
+Paul Sewald	29	1	1	.500	3.60	20.0	17	9	8	3	3	22	1	1.000	7.7	1.4	9.9	7.33	1.4	17
+Marcus Stroman	28	11	9	.550	3.08	184.0	176	70	63	17	56	159	1	1.261	8.6	2.7	7.8	2.84	0.8	32
+Noah Syndergaard	26	11	11	.500	4.00	198.0	192	98	88	24	49	202	6	1.217	8.7	2.2	9.2	4.12	1.1	32
+Jason Vargas*	36	8	9	.471	4.20	150.0	137	78	70	20	61	124	6	1.320	8.2	3.7	7.4	2.03	1.2	30
+Zack Wheeler	29	11	11	.500	3.74	195.0	193	90	81	22	49	195	2	1.241	8.9	2.3	9.0	3.98	1.0	31
+Justin Wilson*	31	2	2	.500	2.54	39.0	33	12	11	4	19	44	2	1.333	7.6	4.4	10.2	2.32	0.9	45
+Daniel Zamora*	26	0	1	.000	4.00	9.0	10	5	4	1	5	8	1	1.667	10.0	5.0	8.0	1.60	1.0	17
+Name	Age	W	L	W-L%	ERA	IP	H	R	ER	HR	BB	SO	HBP	WHIP	H9	BB9	SO9	SO/W	HR9	Gact
+Team Cumulative Pitching 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	Yrs	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	WHIP	H9	HR9	BB9	SO9	SO/W	ERA+
+Aaron Altherr	28	1	0	0		9.00	1	0	1	0	0	0	1.0	2	1	1	0	0	0	2	0	0	0	5	101	2.000	18.0	0.0	0.0	18.0		101
+Luis Avilan*	29	8	23	10	.697	3.28	444	0	56	0	0	2	340.2	293	131	124	20	132	22	306	17	3	19	1425	121	1.248	7.7	0.5	3.5	8.1	2.32	121
+Tyler Bashlor	26	2	0	6	.000	5.33	48	0	13	0	0	0	54.0	47	33	32	12	29	2	45	3	0	1	238	73	1.407	7.8	2.0	4.8	7.5	1.55	73
+Brad Brach	33	9	36	27	.571	3.33	482	0	133	0	0	33	510.1	437	212	189	50	232	21	542	6	3	26	2154	123	1.311	7.7	0.9	4.1	9.6	2.34	123
+Jacob deGrom	31	6	66	49	.574	2.62	171	171	0	3	1	0	1101.2	894	350	321	95	266	13	1255	20	0	22	4386	148	1.053	7.3	0.8	2.2	10.3	4.72	148
+Edwin Diaz	25	4	6	21	.222	3.33	254	0	188	0	0	135	249.0	188	97	92	35	86	7	400	16	3	15	1029	123	1.100	6.8	1.3	3.1	14.5	4.65	123
+Jeurys Familia	29	8	21	21	.500	3.16	409	1	220	0	0	124	412.2	346	159	145	23	185	21	432	11	0	25	1742	122	1.287	7.5	0.5	4.0	9.4	2.34	122
+Chris Flexen	24	3	3	11	.214	8.07	27	11	7	0	0	0	68.0	91	69	61	14	54	3	49	3	0	2	343	51	2.132	12.0	1.9	7.1	6.5	0.91	51
+Wilmer Font	29	5	6	8	.429	5.32	75	22	18	0	0	0	135.1	132	80	80	31	55	3	135	4	1	4	587	81	1.382	8.8	2.1	3.7	9.0	2.45	81
+Drew Gagnon	29	2	5	2	.714	7.32	23	1	8	0	0	0	35.2	49	37	29	13	12	0	25	4	0	4	173	55	1.710	12.4	3.3	3.0	6.3	2.08	55
+Robert Gsellman	25	4	20	15	.571	4.44	153	29	34	1	0	14	308.0	320	177	152	33	108	13	254	20	0	10	1356	90	1.390	9.4	1.0	3.2	7.4	2.35	90
+Donnie Hart*	28	4	2	0	1.000	3.13	98	0	20	0	0	0	89.0	95	33	31	8	35	2	57	4	1	1	389	140	1.461	9.6	0.8	3.5	5.8	1.63	140
+Walker Lockett	25	2	1	4	.200	8.84	13	7	2	0	0	0	37.2	55	37	37	10	16	1	28	1	0	1	179	46	1.885	13.1	2.4	3.8	6.7	1.75	46
+Seth Lugo	29	4	22	15	.595	3.27	151	31	30	0	0	9	346.2	300	140	126	37	90	12	337	13	3	7	1420	122	1.125	7.8	1.0	2.3	8.7	3.74	122
+Steven Matz*	28	5	31	36	.463	4.05	103	101	0	1	1	0	549.0	543	268	247	82	170	13	516	26	1	7	2339	97	1.299	8.9	1.3	2.8	8.5	3.04	97
+Chris Mazza	29	1	1	1	.500	5.51	9	0	6	0	0	0	16.1	21	10	10	0	5	0	11	4	0	0	74	75	1.592	11.6	0.0	2.8	6.1	2.20	75
+Stephen Nogosek	24	1	0	1	.000	10.80	7	0	6	0	0	0	6.2	12	8	8	2	2	0	6	0	0	0	34	40	2.100	16.2	2.7	2.7	8.1	3.00	40
+Ryan O'Rourke*	31	3	0	1	.000	4.84	56	0	13	0	0	0	48.1	34	28	26	6	28	2	49	1	1	4	204	87	1.283	6.3	1.1	5.2	9.1	1.75	87
+Corey Oswalt	25	2	3	4	.429	6.43	19	12	2	0	0	0	71.1	78	52	51	15	26	2	50	4	0	4	316	59	1.458	9.8	1.9	3.3	6.3	1.92	59
+Tim Peterson	28	2	2	2	.500	5.91	28	0	11	0	0	0	35.0	36	23	23	9	12	3	28	2	0	3	153	65	1.371	9.3	2.3	3.1	7.2	2.33	65
+Brooks Pounders	28	4	4	2	.667	8.47	45	0	30	0	0	0	45.2	70	43	43	14	12	1	47	4	2	2	218	53	1.796	13.8	2.8	2.4	9.3	3.92	53
+Jacob Rhame	26	3	2	4	.333	6.23	44	0	20	0	0	1	47.2	53	34	33	11	24	2	40	1	0	0	215	63	1.615	10.0	2.1	4.5	7.6	1.67	63
+Hector Santiago*	31	9	47	50	.485	4.14	257	139	65	0	0	6	920.2	850	462	424	143	429	15	826	50	10	18	4019	98	1.389	8.3	1.4	4.2	8.1	1.93	98
+Paul Sewald	29	3	1	14	.067	5.16	120	0	27	0	0	3	141.1	138	85	81	19	47	4	149	5	1	4	608	77	1.309	8.8	1.2	3.0	9.5	3.17	77
+Marcus Stroman	28	6	51	47	.520	3.76	146	140	1	3	1	1	849.1	853	392	355	78	244	3	695	17	5	33	3549	113	1.292	9.0	0.8	2.6	7.4	2.85	113
+Noah Syndergaard	26	5	47	30	.610	3.31	119	118	0	3	2	0	716.0	665	291	263	63	166	9	775	19	1	25	2940	119	1.161	8.4	0.8	2.1	9.7	4.67	119
+Jason Vargas*	36	14	99	99	.500	4.29	298	277	8	13	8	0	1643.0	1664	826	784	216	508	28	1147	47	9	25	7002	93	1.322	9.1	1.2	2.8	6.3	2.26	93
+Zack Wheeler	29	5	44	38	.537	3.77	126	126	0	1	1	0	749.1	700	341	314	75	270	10	726	29	1	23	3183	100	1.294	8.4	0.9	3.2	8.7	2.69	100
+Justin Wilson*	31	8	30	21	.588	3.25	457	0	90	0	0	18	409.2	337	155	148	31	185	11	451	12	2	30	1722	124	1.274	7.4	0.7	4.1	9.9	2.44	124
+Daniel Zamora*	26	2	1	1	.500	4.08	33	0	7	0	0	0	17.2	16	8	8	2	8	2	24	2	0	0	77	99	1.358	8.2	1.0	4.1	12.2	3.00	99
+Name	Age	Yrs	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	WHIP	H9	HR9	BB9	SO9	SO/W	ERA+
+* - Disclaimer & Completeness Note 
+* Many Detailed Statistics are based on play-by-play accounts accumulated by RetroSheet. These totals may be incomplete (3.6% of all plays from 1925 to 1973 are missing or have incomplete accounts, click link for year and team summary of data completeness) for some players prior to 1974 and even complete seasons may not match the official totals due to errors in both the official totals and the play-by-play accounts. Pre-1954 seasons have a substantial numbers of games missing play-by-play accounts and should be viewed as essentially incomplete.
+More 2019 Mets Pages
+2019 New York Mets
+
+Stats
+
+Schedule & Results
+
+40-Man Roster
+
+Uniforms
+
+Contracts
+
+Batting
+
+Pitching
+
+Fielding
+
+Scoring
+
+Batting
+
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Other
+
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+Support us without the ads? Go Ad-Free.
+
+Login Create Account Surf AD-FREE
+You are here: BR Home Page > Teams > Franchise Encyclopedia > 2019 Pitching Statistics
+Full Site Menu 
+Return to Top
+MLB Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+MLB Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers, San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Indians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2019, 2018, 2019 MLB Pitching, 2019 MLB Batting, 2019 MLB Standings, 2019 MLB Attendance, 2019 MLB Rookies, ...
+MLB Leaders
+2019 MLB Batting, 2019 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in MLB history, MLB Probable Pitchers, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+MLB Playoffs
+2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Play Index
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Event Finder, Player Comparison Finder, Neutralized Stats, ...
+Team Finders: Season Finder, Split Finder, Game Finder, Streak Finder, Event Finder, ...
+Other Finders: Draft Finder, Game Score & Result Searches, Team Trade Histories, ...
+Managers
+Active: Terry Francona, Clint Hurdle, A.J. Hinch, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+MLB Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2019 HOF results, 2020 Hall of Fame ballot, ...
+MLB All-Star Games
+2020 All-Star Game, 2019 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities and More
+Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2019 Draft, 2018 Draft, 2017 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Negro Leagues
+Minor League Stats, Negro League Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2019 Minor Leagues, 2019 Affiliates, ...
+Baseball-Reference Bullpen
+85,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, ...
+We're Social...for Statheads
+       
+Every Sports Reference Social Media Account
+
+Site Last Updated: Tuesday, January 21, 6:39AM
+
+Question, Comment, Feedback, or Correction?
+
+Are you a Stathead, too? Subscribe to our Newsletter
+
+This Week in Sports Reference
+Find out when we add a feature or make a change
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Go ad-free to support Sports Reference and get our fastest browsing experience
+Subscribe to the Play Index and get access to more data than you can imagine
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Primary Data Provided ByGracenote Sports
+Copyright © 2000-2020 Sports Reference LLC. All rights reserved.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+BaseballInfoSolutions.com logo
+
+Some defensive statistics Copyright © Baseball Info Solutions, 2010-2020.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+ Sports Reference Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead Widgets
+About • Privacy Statement • Conditions & Terms of Service • Advertise With Us • Use of Data

@@ -1,0 +1,768 @@
+ Sports ReferenceBaseballFootball (college)Basketball (college)HockeySoccerBlogStatheadWidgetsQuestions or Comments?LoginCreate AccountSurf AD-FREEBaseball-Reference.com Logo & Link to home page
+Players
+Teams
+Seasons
+Leaders
+MLB Scores1
+MLB Playoffs
+Play Index
+Full Site Menu Below
+Enter Person, Team, Section, etc
+2019 Tampa Bay Rays Logo
+via Sports Logos.net
+
+About logos
+
+2019 Tampa Bay Rays Pitching Statistics
+2018 Season
+Record: 96-66, 2nd place in AL_East (Schedule and Results)
+
+Postseason:
+    Lost AL Division Series (3-2) to Houston Astros
+    Won AL Wild Card Game (1-0) over Oakland Athletics
+
+Manager: Kevin Cash (96-66)
+
+General Manager: Erik Neander (Senior VP, Baseball Operations/GM)
+
+Farm Director: Mitch Lukevics
+
+Scouting Director: Rob Metzler
+
+Ballpark: Tropicana Field
+
+More team info, park factors, postseason, & more
+Support us without the ads? Go Ad-Free.
+
+Watch this video to find out more
+Ad By Sponsor
+
+2019 Tampa Bay Rays
+Stats
+Schedule & Results
+40-Man Roster
+Uniforms
+Contracts
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Fielding
+Scoring
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+On this page:
+
+Team Pitching Team Player Value--Pitchers Team Pitching Ratios* Team Batting Against* Team Win Probability* Team Starting Pitching* Team Relief Pitching* Team Baserunning/Situ* Team Pitching Pitches* Team Neutralized Pitching Team Cumulative Pitching Full Site Menu
+This Week in Sports Reference
+Want to know when we do something new? Around once a week we'll give you a quick update on all the things we've been up to. View a sample email.
+
+Become a Sports Reference Power User
+
+Team Pitching 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+1	SP	Charlie Morton	35	16	6	.727	3.05	33	33	0	0	0	0	194.2	154	71	66	15	57	0	240	12	1	5	790	146	2.81	1.084	7.1	0.7	2.6	11.1	4.21
+2	SP	Yonny Chirinos	25	9	5	.643	3.85	26	18	0	0	0	0	133.1	112	61	57	23	28	1	114	3	3	4	530	115	4.44	1.050	7.6	1.6	1.9	7.7	4.07
+3	SP	Blake Snell*	26	6	8	.429	4.29	23	23	0	0	0	0	107.0	96	53	51	14	40	1	147	1	1	11	441	104	3.32	1.271	8.1	1.2	3.4	12.4	3.68
+4	SP	Tyler Glasnow	25	6	1	.857	1.78	12	12	0	0	0	0	60.2	40	13	12	4	14	0	76	0	0	2	230	250	2.26	0.890	5.9	0.6	2.1	11.3	5.43
+5	SP	Ryne Stanek	27	0	2	.000	3.40	41	27	3	0	0	0	55.2	44	24	21	7	20	1	61	0	0	2	228	131	3.73	1.150	7.1	1.1	3.2	9.9	3.05
+6	SP	Brendan McKay*	23	2	4	.333	5.14	13	11	0	0	0	0	49.0	53	32	28	8	16	0	56	0	0	0	216	87	4.03	1.408	9.7	1.5	2.9	10.3	3.50
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+7	CL	Emilio Pagan	28	4	2	.667	2.31	66	0	29	0	0	20	70.0	45	19	18	12	13	1	96	1	0	3	267	192	3.30	0.829	5.8	1.5	1.7	12.3	7.38
+8	RP	Diego Castillo	25	5	8	.385	3.41	65	6	18	0	0	8	68.2	59	32	26	8	26	4	81	5	0	5	290	131	3.72	1.238	7.7	1.0	3.4	10.6	3.12
+9	RP	Colin Poche*	25	5	5	.500	4.70	51	0	8	0	0	2	51.2	33	27	27	9	19	1	72	5	0	2	207	95	4.08	1.006	5.7	1.6	3.3	12.5	3.79
+10	RP	Chaz Roe	32	1	3	.250	4.06	71	0	11	0	0	1	51.0	49	27	23	3	31	2	65	1	1	3	229	110	3.31	1.569	8.6	0.5	5.5	11.5	2.10
+11	RP	Adam Kolarek*	30	4	3	.571	3.95	54	0	15	0	0	1	43.1	39	19	19	6	14	4	36	3	0	1	184	113	4.53	1.223	8.1	1.2	2.9	7.5	2.57
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+12		Ryan Yarbrough*	27	11	6	.647	4.13	28	14	1	0	0	0	141.2	121	69	65	15	20	2	117	9	1	0	563	108	3.55	0.995	7.7	1.0	1.3	7.4	5.85
+13		Jalen Beeks*	25	6	3	.667	4.31	33	3	5	0	0	1	104.1	115	56	50	12	40	1	89	9	0	3	464	103	4.41	1.486	9.9	1.0	3.5	7.7	2.23
+14		Oliver Drake	32	5	2	.714	3.21	50	0	9	0	0	2	56.0	36	20	20	9	19	1	70	1	0	1	219	139	3.87	0.982	5.8	1.4	3.1	11.3	3.68
+15		Andrew Kittredge	29	1	0	1.000	4.17	37	7	10	0	0	0	49.2	51	25	23	7	12	0	58	2	0	2	210	107	3.56	1.268	9.2	1.3	2.2	10.5	4.83
+16		Austin Pruitt	29	3	0	1.000	4.40	14	2	4	0	0	0	47.0	47	23	23	7	12	2	39	0	0	1	193	101	4.26	1.255	9.0	1.3	2.3	7.5	3.25
+17		Jose Alvarado*	24	1	6	.143	4.80	35	1	16	0	0	7	30.0	29	18	16	2	27	3	39	0	0	8	146	93	4.18	1.867	8.7	0.6	8.1	11.7	1.44
+18		Hunter Wood	25	1	1	.500	2.48	19	2	4	0	0	1	29.0	26	11	8	4	7	1	24	1	0	1	120	181	4.18	1.138	8.1	1.2	2.2	7.4	3.43
+19		Trevor Richards	26	3	0	1.000	1.93	7	3	0	0	0	0	23.1	23	7	5	3	5	0	24	0	0	0	97	233	3.47	1.200	8.9	1.2	1.9	9.3	4.80
+20		Nick Anderson	28	3	0	1.000	2.11	23	0	0	0	0	0	21.1	12	5	5	3	2	1	41	1	0	2	78	214	1.62	0.656	5.1	1.3	0.8	17.3	20.50
+21		Casey Sadler	28	0	0		1.86	9	0	8	0	0	0	19.1	16	5	4	2	5	0	11	1	0	0	79	242	4.35	1.086	7.4	0.9	2.3	5.1	2.20
+22		Wilmer Font	29	1	0	1.000	5.79	10	0	3	0	0	0	14.0	15	9	9	2	5	0	18	0	0	1	60	79	3.57	1.429	9.6	1.3	3.2	11.6	3.60
+23		Peter Fairbanks	25	2	1	.667	5.11	13	0	3	0	0	2	12.1	17	10	7	1	3	0	13	0	0	1	58	89	2.89	1.622	12.4	0.7	2.2	9.5	4.33
+24		Jake Faria	25	0	0		2.70	7	0	1	0	0	0	10.0	10	3	3	2	7	0	11	0	0	0	47	170	5.71	1.700	9.0	1.8	6.3	9.9	1.57
+25		Cole Sulser	29	0	0		0.00	7	0	4	0	0	0	7.1	5	0	0	0	3	0	9	0	0	0	29		1.99	1.091	6.1	0.0	3.7	11.0	3.00
+26		Anthony Banda*	25	0	0		6.75	3	0	1	0	0	0	4.0	6	3	3	0	0	0	2	0	0	0	18	71	2.21	1.500	13.5	0.0	0.0	4.5	
+27		Mike Brosseau	25	0	0		4.50	3	0	3	0	0	0	4.0	5	2	2	1	0	0	0	1	0	0	18	107	7.21	1.250	11.3	2.3	0.0	0.0	
+28		Jose De Leon	26	1	0	1.000	2.25	3	0	1	0	0	0	4.0	3	2	1	0	3	1	7	2	0	1	21	214	3.46	1.500	6.8	0.0	6.8	15.8	2.33
+29		Hoby Milner*	28	0	0		7.36	4	0	1	0	0	0	3.2	4	3	3	0	1	0	3	1	0	0	17	66	3.21	1.364	9.8	0.0	2.5	7.4	3.00
+30		Aaron Slegers	26	0	0		3.00	1	0	1	0	0	1	3.0	3	1	1	1	0	0	0	1	0	0	12	165	8.55	1.000	9.0	3.0	0.0	0.0	
+31		Ricardo Pinto	25	0	0		15.43	2	0	1	0	0	0	2.1	4	4	4	1	2	0	0	0	0	0	13	33	11.36	2.571	15.4	3.9	7.7	0.0	0.00
+32		Ian Gibaut	25	0	0		9.00	1	0	1	0	0	0	2.0	1	2	2	0	2	0	2	0	0	0	9	58	4.21	1.500	4.5	0.0	9.0	9.0	1.00
+33		Daniel Robertson	25	0	0		0.00	1	0	1	0	0	0	1.0	1	0	0	0	0	0	0	0	0	0	3		3.21	1.000	9.0	0.0	0.0	0.0	
+Team Totals	27.8	96	66	.593	3.65	162	162	162	0	0	46	1474.1	1274	656	598	181	453	27	1621	60	7	59	6086	122	3.65	1.171	7.8	1.1	2.8	9.9	3.58
+Rank in 15 AL teams		5	11		1				12	3	4	1	2	2	2	1	4		3												
+Rk	Pos	Name	Age	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	FIP	WHIP	H9	HR9	BB9	SO9	SO/W
+* - throws left-handed, # - throws both, else - throws right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Team Player Value--Pitchers 
+League RegisterWAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	IP	G	GS	R	RA9	RA9opp	RA9def	RA9role	PPFp	RA9avg	RAA	WAA	gmLI	WAAadj	WAR	RAR	waaWL%	162WL%	Salary	Acquired
+Jose Alvarado*	24	30.0	35	1	18	5.40	4.95	0.20	-0.32	94.4	4.18	-4	-0.4	1.54	-0.2	-0.3	-1	.488	.497	$570,600	Amateur Free Agent
+Nick Anderson	28	21.1	23	0	5	2.11	4.99	0.12	-0.32	95.2	4.32	5	0.5	1.81	0.1	0.9	8	.522	.503		Traded
+Anthony Banda*	25	4.0	3	0	3	6.75	4.97	0.30	-0.32	94.7	4.12	-1	-0.1	.08	0.0	0.0	-1	.462	.499	$556,800	Traded
+Jalen Beeks*	25	104.1	33	3	56	4.83	4.94	0.23	-0.03	95.2	4.46	-5	-0.5	.92	-0.1	0.4	7	.484	.497	$556,500	Traded
+Mike Brosseau	25	4.0	3	0	2	4.50	5.40	0.32	-0.35	96.0	4.55	0	0.0	.01	0.0	0.0	0	.499	.500		Amateur Free Agent
+Diego Castillo	25	68.2	65	6	32	4.19	5.06	0.19	-0.32	94.7	4.31	0	0.0	1.50	-0.2	0.6	8	.500	.500	$561,500	Amateur Free Agent
+Yonny Chirinos	25	133.1	26	18	61	4.12	5.24	0.22	0.21	94.6	4.95	11	1.1	.82	-0.1	2.3	27	.542	.507	$561,800	Amateur Free Agent
+Jose De Leon	26	4.0	3	0	2	4.50	4.89	0.17	-0.32	95.2	4.19	0	0.0	.27	0.0	0.0	0	.494	.500	$558,000	Traded
+Oliver Drake	32	56.0	50	0	20	3.21	5.14	0.17	-0.33	95.8	4.44	7	0.7	1.28	0.0	1.2	14	.514	.504	$566,100	Purchased
+Peter Fairbanks	25	12.1	13	0	10	7.30	4.89	0.25	-0.32	96.1	4.15	-4	-0.4	1.30	-0.1	-0.4	-3	.468	.497		Traded
+Jake Faria	25	10.0	7	0	3	2.70	5.27	0.22	-0.34	94.4	4.45	2	0.2	.62	-0.1	0.2	3	.526	.501		Amateur Draft
+Wilmer Font	29	14.0	10	0	9	5.79	4.46	0.20	-0.29	95.9	3.81	-3	-0.3	.71	0.0	-0.2	-2	.470	.498	$560,400	Traded
+Ian Gibaut	25	2.0	1	0	2	9.00	4.54	0.19	-0.30	104.0	4.21	-1	-0.1	.00	0.0	0.0	-1	.403	.499		Amateur Draft
+Tyler Glasnow	25	60.2	12	12	13	1.93	4.97	0.17	0.24	95.8	4.83	19	2.0		0.0	2.6	26	.669	.512	$566,700	Traded
+Andrew Kittredge	29	49.2	37	7	25	4.53	5.28	0.21	-0.23	94.7	4.59	0	0.0	.66	-0.1	0.4	6	.500	.500		Traded
+Adam Kolarek*	30	43.1	54	0	19	3.95	5.22	0.23	-0.34	94.8	4.41	2	0.2	1.25	-0.1	0.5	7	.503	.501	$560,800	Free Agency
+Brendan McKay*	23	49.0	13	11	32	5.88	5.01	0.22	0.21	97.3	4.87	-6	-0.6	.72	0.0	-0.1	0	.457	.497		Amateur Draft
+Hoby Milner*	28	3.2	4	0	3	7.36	5.44	0.24	-0.35	92.0	4.46	-1	-0.1	.96	0.0	-0.1	-1	.471	.499		Purchased
+Charlie Morton	35	194.2	33	33	71	3.28	5.04	0.18	0.24	95.1	4.85	32	3.3		-0.1	5.1	55	.600	.520	$15,000,000	Free Agency
+Emilio Pagan	28	70.0	66	0	19	2.44	5.11	0.17	-0.33	94.4	4.35	14	1.4	1.66	0.3	2.4	22	.521	.509		Traded
+Ricardo Pinto	25	2.1	2	0	4	15.43	4.52	0.35	-0.29	92.0	3.56	-3	-0.3	.08	0.1	-0.1	-3	.367	.498		Free Agency
+Colin Poche*	25	51.2	51	0	27	4.70	5.09	0.16	-0.33	95.4	4.39	-2	-0.2	1.77	-0.2	0.1	4	.496	.499		Traded
+Austin Pruitt	29	47.0	14	2	23	4.40	4.75	0.23	-0.02	97.1	4.37	-1	-0.1	.85	-0.1	0.3	5	.496	.500		Amateur Draft
+Trevor Richards	26	23.1	7	3	7	2.70	4.60	0.22	0.02	95.9	4.21	4	0.4	1.15	0.0	0.6	6	.553	.502		Traded
+Daniel Robertson	25	1.0	1	0	0	0.00	6.29	0.23	-0.41	92.0	5.19	1	0.1	.00	0.0	0.0	1	.557	.500	$570,300	Traded
+Chaz Roe	32	51.0	71	0	27	4.76	5.12	0.19	-0.33	94.4	4.34	-3	-0.3	1.42	-0.2	0.1	3	.496	.498	$1,275,000	Purchased
+Casey Sadler	28	19.1	9	0	5	2.33	5.27	0.24	-0.34	95.4	4.47	4	0.4	.39	-0.2	0.5	7	.549	.503		Free Agency
+Aaron Slegers	26	3.0	1	0	1	3.00	4.54	0.28	-0.29	104.0	4.13	0	0.0	.16	0.0	0.0	1	.535	.500		Purchased
+Blake Snell*	26	107.0	23	23	53	4.46	5.05	0.18	0.24	95.7	4.89	4	0.4		-0.1	1.4	17	.518	.503	$573,700	Amateur Draft
+Ryne Stanek	27	55.2	41	27	24	3.88	5.21	0.20	-0.08	94.7	4.67	4	0.4	.93	-0.1	0.9	11	.510	.503	$564,200	Amateur Draft
+Cole Sulser	29	7.1	7	0	0	0.00	4.77	0.17	-0.31	100.7	4.32	3	0.3	.31	-0.1	0.3	4	.549	.502		Traded
+Hunter Wood	25	29.0	19	2	11	3.41	5.04	0.22	-0.29	96.0	4.35	3	0.3	.75	-0.1	0.5	6	.514	.502		Amateur Draft
+Ryan Yarbrough*	27	141.2	28	14	69	4.38	4.89	0.22	0.12	96.6	4.63	2	0.2	1.12	-0.1	1.5	19	.508	.501	$563,400	Traded
+Team Total	27.8	1474.1	765	162	656	4.00	5.04	0.20	-0.03	95.4	4.59	82	8.6	1.27	-1.8	21.4	257	.511	.502	$24,165,800	
+Name	Age	IP	G	GS	R	RA9	RA9opp	RA9def	RA9role	PPFp	RA9avg	RAA	WAA	gmLI	WAAadj	WAR	RAR	waaWL%	162WL%	Salary	Acquired
+
+Team Pitching Ratios* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	IP	Ptn%	HR%	SO%	BB%	SO-BB%	XBH%	X/H%	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB	Opp	DP	%	PAu
+Jose Alvarado*	24	30.0	33%	1.4%	26.7%	18.5%	8.2%	4.8%	24%	0.93	1.63	51%	29%	5.6%	10%	38	3	8%	0
+Nick Anderson	28	21.1	51%	3.9%	52.6%	2.6%	50.0%	7.7%	50%	0.50	0.69	40%	21%	17.6%	23%	7	0	0%	0
+Anthony Banda*	25	4.0	28%	0.0%	11.1%	0.0%	11.1%	22.2%	67%	0.33	0.67	89%	25%	0.0%	8%	3	0	0%	0
+Jalen Beeks*	25	104.1	28%	2.6%	19.2%	8.6%	10.6%	8.4%	34%	0.88	1.23	67%	28%	7.8%	10%	95	9	9%	0
+Mike Brosseau	25	4.0	61%	5.6%	0.0%	0.0%	0.0%	16.7%	60%	1.13	2.00	89%	18%	16.7%	25%	0	0		0
+Diego Castillo	25	68.2	63%	2.8%	27.9%	9.0%	19.0%	6.6%	32%	1.29	1.70	58%	15%	12.7%	17%	48	7	15%	0
+Yonny Chirinos	25	133.1	54%	4.3%	21.5%	5.3%	16.2%	8.5%	40%	0.78	1.07	68%	25%	12.2%	12%	77	10	13%	0
+Jose De Leon	26	4.0	57%	0.0%	33.3%	14.3%	19.1%	0.0%	0%	0.80	0.67	43%	33%	0.0%	0%	8	0	0%	0
+Oliver Drake	32	56.0	53%	4.1%	32.0%	8.7%	23.3%	7.8%	47%	1.06	1.61	55%	21%	16.4%	11%	43	2	5%	0
+Peter Fairbanks	25	12.1	48%	1.7%	22.4%	5.2%	17.2%	13.8%	47%	0.78	1.09	71%	38%	4.5%	4%	14	1	7%	0
+Jake Faria	25	10.0	47%	4.3%	23.4%	14.9%	8.5%	10.6%	50%	0.81	1.71	57%	28%	14.3%	13%	7	1	14%	0
+Wilmer Font	29	14.0	57%	3.3%	30.0%	8.3%	21.7%	11.7%	47%	0.76	1.00	58%	24%	11.8%	19%	14	2	14%	0
+Ian Gibaut	25	2.0	44%	0.0%	22.2%	22.2%	0.0%	11.1%	100%	0.25	0.33	56%	60%	0.0%	0%	2	0	0%	0
+Tyler Glasnow	25	60.2	55%	1.7%	33.0%	6.1%	27.0%	4.4%	25%	1.00	1.17	59%	20%	6.9%	17%	34	5	15%	0
+Andrew Kittredge	29	49.2	66%	3.3%	27.6%	5.7%	21.9%	6.2%	26%	1.00	1.70	62%	25%	11.3%	10%	34	2	6%	0
+Adam Kolarek*	30	43.1	43%	3.3%	19.6%	7.6%	12.0%	7.6%	36%	1.80	2.62	68%	18%	14.3%	9%	33	3	9%	0
+Brendan McKay*	23	49.0	24%	3.7%	25.9%	7.4%	18.5%	11.1%	45%	0.56	0.67	63%	25%	9.9%	11%	40	1	3%	0
+Hoby Milner*	28	3.2	47%	0.0%	17.7%	5.9%	11.8%	17.7%	75%	0.33	0.60	71%	33%	0.0%	33%	0	0		0
+Charlie Morton	35	194.2	49%	1.9%	30.4%	7.2%	23.2%	6.8%	35%	0.92	1.25	59%	25%	6.7%	10%	144	13	9%	0
+Emilio Pagan	28	70.0	64%	4.5%	36.0%	4.9%	31.1%	7.9%	47%	0.54	0.65	54%	22%	15.0%	22%	28	2	7%	0
+Ricardo Pinto	25	2.1	46%	7.7%	0.0%	15.4%	-15.4%	15.4%	50%	0.83	2.50	77%	45%	16.7%	0%	3	0	0%	0
+Colin Poche*	25	51.2	37%	4.4%	34.8%	9.2%	25.6%	7.7%	49%	0.22	0.28	49%	21%	12.9%	21%	43	4	9%	0
+Austin Pruitt	29	47.0	48%	3.6%	20.2%	6.2%	14.0%	9.3%	38%	1.16	1.83	69%	23%	12.1%	9%	33	5	15%	0
+Trevor Richards	26	23.1	53%	3.1%	24.7%	5.2%	19.6%	8.3%	35%	0.50	0.57	66%	32%	7.3%	7%	19	1	5%	0
+Daniel Robertson	25	1.0	100%	0.0%	0.0%	0.0%	0.0%	0.0%	0%			100%	0%			1	1	100%	0
+Chaz Roe	32	51.0	76%	1.3%	28.4%	13.5%	14.9%	5.7%	27%	0.78	1.15	56%	27%	4.7%	12%	55	8	15%	0
+Casey Sadler	28	19.1	52%	2.5%	13.9%	6.3%	7.6%	6.3%	31%	1.26	1.42	76%	15%	8.3%	11%	8	2	25%	0
+Aaron Slegers	26	3.0	42%	8.3%	0.0%	0.0%	0.0%	8.3%	33%	0.57	1.25	83%	18%	20.0%	29%	3	1	33%	0
+Blake Snell*	26	107.0	17%	3.2%	33.3%	9.1%	24.3%	7.3%	33%	0.62	0.80	54%	28%	10.7%	15%	76	4	5%	0
+Ryne Stanek	27	55.2	58%	3.1%	26.8%	8.8%	18.0%	7.9%	41%	0.45	0.53	61%	28%	8.0%	12%	28	2	7%	0
+Cole Sulser	29	7.1	72%	0.0%	31.0%	10.3%	20.7%	3.5%	20%	0.60	0.30	59%	12%	0.0%	10%	4	0	0%	0
+Hunter Wood	25	29.0	60%	3.3%	20.0%	5.8%	14.2%	6.7%	31%	0.42	0.62	69%	28%	7.7%	13%	28	4	14%	0
+Ryan Yarbrough*	27	141.2	26%	2.7%	20.8%	3.6%	17.2%	8.7%	41%	0.77	1.13	71%	25%	7.7%	15%	91	14	15%	0
+League Average																			
+Team Total	27.8		45%	3.0%	26.6%	7.4%	19.2%	7.7%	37%	0.79	1.08	62%	25%	9.6%	13%	1061	107	10%	0
+Name	Age	IP	Ptn%	HR%	SO%	BB%	SO-BB%	XBH%	X/H%	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB	Opp	DP	%	PAu
+Team Batting Against* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	IP	PAu	G	PA	AB	R	H	2B	3B	HR	SB	CS	BB	SO	BA	OBP	SLG	OPS	BAbip	TB	GDP	HBP	SH	SF	IBB	ROE
+Jose Alvarado*	24	30.0		35	146	114	18	29	4	1	2	1	0	27	39	.254	.392	.360	.751	.360	41	3	0	3	2	3	2
+Nick Anderson	28	21.1		23	78	75	5	12	3	0	3	0	0	2	41	.160	.192	.320	.512	.290	24	0	1	0	0	1	0
+Anthony Banda*	25	4.0		3	18	18	3	6	4	0	0	0	0	0	2	.333	.333	.556	.889	.375	10	0	0	0	0	0	0
+Jalen Beeks*	25	104.1		33	464	409	56	115	27	0	12	3	2	40	89	.281	.354	.435	.789	.329	178	9	9	1	5	1	4
+Mike Brosseau	25	4.0		3	18	17	2	5	2	0	1	0	0	0	0	.294	.333	.588	.922	.250	10	0	1	0	0	0	0
+Diego Castillo	25	68.2		65	290	257	32	59	9	2	8	3	0	26	81	.230	.311	.374	.685	.302	96	7	5	1	1	4	3
+Yonny Chirinos	25	133.1		26	530	498	61	112	19	3	23	4	5	28	114	.225	.270	.414	.683	.246	206	10	3	0	1	1	5
+Jose De Leon	26	4.0		3	21	16	2	3	0	0	0	0	0	3	7	.188	.381	.188	.568	.333	3	0	2	0	0	1	1
+Oliver Drake	32	56.0		50	219	199	20	36	8	0	9	1	3	19	70	.181	.256	.357	.612	.225	71	2	1	0	0	1	1
+Peter Fairbanks	25	12.1		13	58	55	10	17	7	0	1	1	1	3	13	.309	.345	.491	.836	.390	27	1	0	0	0	0	3
+Jake Faria	25	10.0		7	47	40	3	10	3	0	2	0	0	7	11	.250	.362	.475	.837	.296	19	1	0	0	0	0	1
+Wilmer Font	29	14.0		10	60	55	9	15	5	0	2	1	0	5	18	.273	.333	.473	.806	.371	26	2	0	0	0	0	0
+Ian Gibaut	25	2.0		1	9	6	2	1	1	0	0	0	0	2	2	.167	.333	.333	.667	.200	2	0	0	0	1	0	0
+Tyler Glasnow	25	60.2		12	230	215	13	40	5	1	4	9	2	14	76	.186	.235	.274	.509	.265	59	5	0	0	1	0	2
+Andrew Kittredge	29	49.2		37	210	194	25	51	5	1	7	1	2	12	58	.263	.310	.407	.717	.336	79	2	2	0	2	0	1
+Adam Kolarek*	30	43.1		54	184	167	19	39	7	1	6	1	0	14	36	.234	.304	.395	.700	.264	66	3	3	0	0	4	2
+Brendan McKay*	23	49.0		13	216	198	32	53	15	1	8	1	1	16	56	.268	.321	.475	.796	.333	94	1	0	1	1	0	3
+Hoby Milner*	28	3.2		4	17	15	3	4	3	0	0	0	0	1	3	.267	.353	.467	.820	.333	7	0	1	0	0	0	0
+Charlie Morton	35	194.2		33	790	717	71	154	33	6	15	3	3	57	240	.215	.283	.340	.623	.299	244	13	12	1	3	0	5
+Emilio Pagan	28	70.0		66	267	252	19	45	6	3	12	2	0	13	96	.179	.221	.369	.590	.228	93	2	1	0	1	1	1
+Ricardo Pinto	25	2.1		2	13	11	4	4	1	0	1	0	0	2	0	.364	.462	.727	1.189	.300	8	0	0	0	0	0	0
+Colin Poche*	25	51.2		51	207	182	27	33	6	1	9	6	1	19	72	.181	.277	.374	.650	.238	68	4	5	1	0	1	0
+Austin Pruitt	29	47.0		14	193	177	23	47	10	1	7	1	0	12	39	.266	.309	.452	.761	.301	80	5	0	2	2	2	1
+Trevor Richards	26	23.1		7	97	91	7	23	5	0	3	0	2	5	24	.253	.292	.407	.698	.313	37	1	0	1	0	0	2
+Daniel Robertson	25	1.0		1	3	3	0	1	0	0	0	0	0	0	0	.333	.333	.333	.667	.333	1	1	0	0	0	0	0
+Chaz Roe	32	51.0		71	229	195	27	49	10	0	3	11	0	31	65	.251	.355	.349	.704	.359	68	8	1	0	1	2	2
+Casey Sadler	28	19.1		9	79	73	5	16	3	0	2	0	1	5	11	.219	.278	.342	.621	.233	25	2	1	0	0	0	1
+Aaron Slegers	26	3.0		1	12	11	1	3	0	0	1	0	0	0	0	.273	.333	.545	.879	.200	6	1	1	0	0	0	0
+Blake Snell*	26	107.0		23	441	399	53	96	18	0	14	15	9	40	147	.241	.311	.391	.702	.343	156	4	1	0	1	1	3
+Ryne Stanek	27	55.2		41	228	206	24	44	10	1	7	4	0	20	61	.214	.281	.374	.654	.264	77	2	0	0	2	1	2
+Cole Sulser	29	7.1		7	29	26	0	5	1	0	0	0	0	3	9	.192	.276	.231	.507	.294	6	0	0	0	0	0	0
+Hunter Wood	25	29.0		19	120	110	11	26	3	1	4	2	0	7	24	.236	.286	.391	.677	.265	43	4	1	0	1	1	2
+Ryan Yarbrough*	27	141.2		28	563	530	69	121	31	3	15	5	3	20	117	.228	.267	.383	.650	.264	203	14	9	0	3	2	6
+League Average																											
+Team Total	27.8			765	6086	5531	656	1274	264	26	181	75	35	453	1621	.230	.294	.386	.680	.291	2133	107	60	11	28	27	53
+Name	Age	IP	PAu	G	PA	AB	R	H	2B	3B	HR	SB	CS	BB	SO	BA	OBP	SLG	OPS	BAbip	TB	GDP	HBP	SH	SF	IBB	ROE
+Team Win Probability* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	IP	PtchR	PtchW	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	LevHi	LevMd	LevLo
+Jose Alvarado*	24	30.0	-1.4	-0.1	157	-1.5	4.1	-5.5	1.98	-0.4	-0.4	-6.9	-0.7	1.10	-4.8	20	5	9
+Nick Anderson	28	21.1	6.1	0.6	82	0.8	2.6	-1.8	1.45	0.7	-0.1	6.0	0.6	0.88	8.2	14	8	1
+Anthony Banda*	25	4.0	-0.8	-0.1	18	0.0	0.0	0.0	.12	0.0	0.0	-0.8	-0.1	0.91	-0.8	0	0	3
+Jalen Beeks*	25	104.1	0.7	0.1	476	-0.2	7.6	-7.8	.93	-0.7	0.4	1.1	0.1	0.97	-8.9	2	19	9
+Mike Brosseau	25	4.0	0.2	0.0	18	0.0	0.0	0.0	.01	0.0	-0.2	0.2	0.0	0.76	-1.3	0	0	2
+Diego Castillo	25	68.2	6.4	0.6	301	1.0	8.3	-7.2	1.54	0.7	-0.1	7.0	0.7	0.94	8.9	31	17	11
+Yonny Chirinos	25	133.1	9.5	0.9	543	0.9	8.8	-7.8	.84	1.2	-0.1	11.7	1.2	0.85	16.2	0	6	2
+Jose De Leon	26	4.0	0.7	0.1	22	-0.1	0.2	-0.3	.76	0.0	-0.1	-0.2	0.0	1.33	-0.2	0	0	3
+Oliver Drake	32	56.0	8.8	0.9	225	2.1	4.7	-2.6	1.02	1.2	0.8	10.4	1.0	0.90	14.4	18	11	20
+Peter Fairbanks	25	12.1	-2.0	-0.2	60	-0.1	1.5	-1.7	1.46	-0.3	0.2	-3.6	-0.3	1.01	-3.3	5	6	2
+Jake Faria	25	10.0	2.3	0.2	47	0.0	0.5	-0.5	.53	-0.3	0.3	1.3	0.1	0.90	-3.0	1	1	5
+Wilmer Font	29	14.0	-1.7	-0.2	63	-0.1	0.5	-0.5	.41	-0.1	-0.1	-1.1	-0.1	0.96	-0.2	2	1	6
+Ian Gibaut	25	2.0	-0.8	-0.1	9	0.0	0.0	0.0	.00			-0.9	-0.1	1.05	0.0	0	0	0
+Tyler Glasnow	25	60.2	18.8	1.9	244	1.8	4.4	-2.6	.89	2.0	0.1	21.8	2.3	0.87	21.9	0	0	0
+Andrew Kittredge	29	49.2	1.6	0.2	214	0.2	2.8	-2.5	.73	0.5	-0.1	1.6	0.2	0.90	2.7	4	7	19
+Adam Kolarek*	30	43.1	3.3	0.3	189	0.9	3.8	-2.9	1.13	0.3	0.5	2.7	0.3	0.97	2.2	17	18	18
+Brendan McKay*	23	49.0	-4.7	-0.4	218	-0.4	3.7	-4.1	.99	-0.2	-0.2	-4.2	-0.4	0.92	-2.6	0	1	1
+Hoby Milner*	28	3.2	-1.0	-0.1	17	-0.1	0.2	-0.3	.60	-0.2	0.0	-0.1	0.0	0.82	-1.4	0	2	2
+Charlie Morton	35	194.2	31.4	3.1	803	3.5	15.7	-12.2	1.04	3.7	-0.3	35.6	3.7	0.91	40.7	0	0	0
+Emilio Pagan	28	70.0	17.5	1.7	272	2.4	8.6	-6.2	1.61	2.0	-0.5	16.7	1.6	0.87	21.4	36	15	15
+Ricardo Pinto	25	2.1	-2.6	-0.2	13	0.0	0.0	-0.1	.20	-0.2	0.0	-3.1	-0.3	0.89	-2.4	0	0	2
+Colin Poche*	25	51.2	-0.4	0.0	215	0.6	5.8	-5.3	1.46	0.6	-0.2	4.1	0.4	0.95	6.4	30	15	6
+Austin Pruitt	29	47.0	1.2	0.1	196	0.5	2.9	-2.5	.82	0.6	-0.1	2.8	0.3	0.92	4.7	2	4	6
+Trevor Richards	26	23.1	6.2	0.6	98	0.2	1.7	-1.4	.86	0.4	-0.1	4.7	0.5	0.90	4.4	1	2	1
+Daniel Robertson	25	1.0	0.7	0.1	3	0.0	0.0	0.0	.00			0.5	0.1	0.86	0.4	0	0	0
+Chaz Roe	32	51.0	1.3	0.1	245	0.1	5.3	-5.2	1.28	0.1	0.0	-1.1	-0.1	1.04	-1.5	31	18	21
+Casey Sadler	28	19.1	5.6	0.6	81	0.2	0.4	-0.2	.23	0.3	0.6	3.1	0.3	0.86	3.0	0	2	7
+Aaron Slegers	26	3.0	0.7	0.1	12	0.0	0.0	0.0	.14	0.0	0.1	0.6	0.1	0.89	-1.1	0	0	1
+Blake Snell*	26	107.0	2.9	0.3	475	0.9	8.4	-7.5	.97	0.9	0.0	7.3	0.7	0.93	10.1	0	0	0
+Ryne Stanek	27	55.2	6.2	0.6	236	0.5	3.6	-3.2	.86	0.9	-0.4	5.9	0.6	0.87	9.0	4	3	7
+Cole Sulser	29	7.1	3.9	0.4	29	0.0	0.1	-0.1	.23	0.3	-0.2	1.1	0.1	0.84	3.5	0	0	7
+Hunter Wood	25	29.0	5.6	0.5	125	1.1	2.2	-1.0	.76	0.1	1.4	6.5	0.6	0.97	-0.4	3	2	12
+Ryan Yarbrough*	27	141.2	5.7	0.6	572	1.9	9.7	-7.8	.86	2.6	-0.4	10.3	1.0	0.86	27.3	1	10	3
+League Average																		
+Team Total	27.8		132.3	13.1	6278	17.4	118.1	-100.7	1.02	16.9	0.1	141.1	14.3	0.92	173.6	222	173	201
+Name	Age	IP	PtchR	PtchW	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	LevHi	LevMd	LevLo
+Team Starting Pitching* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Jose Alvarado*
+Jalen Beeks*
+Diego Castillo
+Yonny Chirinos
+Tyler Glasnow
+Andrew Kittredge
+Brendan McKay*
+Charlie Morton
+Austin Pruitt
+Trevor Richards
+Blake Snell*
+Ryne Stanek
+Hunter Wood
+Ryan Yarbrough*
+League Average
+Team Total
+Name
+Name	Age	IP	G	GS	Wgs	Lgs	ND	Wchp	Ltuf	Wtm	Ltm	tmW-L%	Wlst	Lsv	CG	SHO	QS	QS%	GmScA	Best	Wrst	BQR	BQS	sDR	lDR	RS/GS	RS/IP	IP/GS	Pit/GS	<80	80-99	100-119	≥120	Max
+Jose Alvarado*	24	30.0	35	1	0	1	0	0	0	0	1	.000	0	0	0	0	0	0%	42.0	42	42	17	0	1	0	1.0	0.0	0.3	24	1	0	0	0	24
+Jalen Beeks*	25	104.1	33	3	0	2	1	0	0	1	2	.333	0	0	0	0	0	0%	31.0	43	15	15	3	0	2	3.7	3.0	4.1	85	1	2	0	0	92
+Diego Castillo	25	68.2	65	6	0	1	5	0	0	4	2	.667	0	2	0	0	0	0%	47.5	54	42	19	6	4	1	6.4	2.6	1.2	19	6	0	0	0	32
+Yonny Chirinos	25	133.1	26	18	6	5	7	3	3	9	9	.500	0	6	0	0	10	56%	55.9	82	19	3	1	1	8	4.2	3.5	5.8	87	4	9	5	0	105
+Tyler Glasnow	25	60.2	12	12	6	1	5	1	0	10	2	.833	2	2	0	0	5	42%	62.0	79	49	4	3	0	9	5.1	5.2	5.1	75	6	5	1	0	102
+Andrew Kittredge	29	49.2	37	7	0	0	7	0	0	5	2	.714	0	1	0	0	0	0%	47.1	54	32	11	4	6	0	6.7	10.3	1.7	32	7	0	0	0	48
+Brendan McKay*	23	49.0	13	11	2	4	5	1	0	5	6	.455	1	3	0	0	1	9%	47.1	72	21	6	3	0	11	4.5	4.2	4.2	76	5	6	0	0	93
+Charlie Morton	35	194.2	33	33	16	6	11	5	3	22	11	.667	2	4	0	0	19	58%	59.1	79	26	13	4	0	19	4.9	4.3	5.9	95	1	19	13	0	108
+Austin Pruitt	29	47.0	14	2	0	0	2	0	0	2	0	1.000	1	0	0	0	0	0%	62.0	66	58	2	1	0	2	5.6	1.8	5.2	79	1	1	0	0	81
+Trevor Richards	26	23.1	7	3	1	0	2	0	0	2	1	.667	0	1	0	0	1	33%	55.3	72	41	6	1	0	1	4.8	6.4	4.8	77	2	1	0	0	83
+Blake Snell*	26	107.0	23	23	6	8	9	0	0	12	11	.522	3	3	0	0	10	43%	53.5	85	13	16	8	0	15	4.2	3.3	4.7	82	7	11	5	0	109
+Ryne Stanek	27	55.2	41	27	0	1	26	0	0	17	10	.630	0	2	0	0	0	0%	52.3	59	34	12	5	23	4	5.1	3.8	1.6	25	27	0	0	0	40
+Hunter Wood	25	29.0	19	2	0	1	1	0	0	0	2	.000	0	0	0	0	0	0%	52.0	52	52	4	0	2	0	3.6	2.3	2.0	36	2	0	0	0	38
+Ryan Yarbrough*	27	141.2	28	14	3	5	6	0	0	7	7	.500	1	1	0	0	7	50%	54.2	86	21	12	6	0	8	4.0	3.1	6.1	88	4	8	2	0	110
+League Average																																		
+Team Total	27.8		765	162	40	35	87	10	6	96	66	.593	10	25	0	0	53	33%	54	86	13	230	70	37	80	4.7	4.0	4.3	70	74	62	26	0	110
+Name	Age	IP	G	GS	Wgs	Lgs	ND	Wchp	Ltuf	Wtm	Ltm	tmW-L%	Wlst	Lsv	CG	SHO	QS	QS%	GmScA	Best	Wrst	BQR	BQS	sDR	lDR	RS/GS	RS/IP	IP/GS	Pit/GS	<80	80-99	100-119	≥120	Max
+Support us without the ads? Go Ad-Free.
+Team Relief Pitching* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	IP	G	GR	GF	Wgr	Lgr	SVOpp	SV	BSv	SV%	SVSit	Hold	IR	IS	IS%	1stIP	aLI	LevHi	LevMd	LevLo	Ahd	Tie	Bhd	Runr	Empt	>3o	<3o	IPmult	0DR	Out/GR	Pit/GR
+Jose Alvarado*	24	30.0	35	34	16	1	5	9	7	2	78%	17	8	8	1	13%	9	1.982	20	5	9	21	8	5	4	30	2	11	3	7	2.6	17
+Nick Anderson	28	21.1	23	23	0	3	0	3	0	3	0%	12	9	12	4	33%	8	1.452	14	8	1	13	8	2	6	17	1	4	2	5	2.8	15
+Anthony Banda*	25	4.0	3	3	1	0	0	0	0	0		0	0	0	0		9	.120	0	0	3	1	0	2	0	3	1	0	1	0	4.0	20
+Jalen Beeks*	25	104.1	33	30	5	6	1	1	1	0	100%	3	2	10	2	20%	3	.929	2	19	9	15	6	9	7	23	26	2	26	1	9.2	52
+Mike Brosseau	25	4.0	3	3	3	0	0	0	0	0		0	0	0	0		9	.011	0	0	2	0	0	3	0	3	1	0	1	0	4.0	20
+Diego Castillo	25	68.2	65	59	18	5	7	10	8	2	80%	27	17	12	1	8%	9	1.536	31	17	11	33	18	8	9	50	13	13	14	16	3.1	17
+Yonny Chirinos	25	133.1	26	8	0	3	0	0	0	0		0	0	1	0	0%	2	.838	0	6	2	5	1	2	1	7	7	0	7	0	10.9	53
+Jose De Leon	26	4.0	3	3	1	1	0	0	0	0		0	0	0	0		6	.762	0	0	3	0	0	3	0	3	1	0	2	0	4.0	27
+Oliver Drake	32	56.0	50	50	9	5	2	3	2	1	67%	17	13	20	5	25%	8	1.021	18	11	20	27	9	14	15	35	18	14	19	14	3.4	19
+Peter Fairbanks	25	12.1	13	13	3	2	1	2	2	0	100%	5	3	2	2	100%	6	1.457	5	6	2	6	3	4	1	12	1	2	1	2	2.8	17
+Jake Faria	25	10.0	7	7	1	0	0	0	0	0		0	0	2	0	0%	7	.528	1	1	5	1	0	6	1	6	5	1	6	0	4.3	31
+Wilmer Font	29	14.0	10	10	3	1	0	0	0	0		1	1	6	3	50%	7	.406	2	1	6	6	0	4	3	7	4	3	4	1	4.2	29
+Ian Gibaut	25	2.0	1	1	1	0	0	0	0	0		0	0	0	0		8	.000	0	0	0	1	0	0	0	1	1	0	1	0	6.0	35
+Andrew Kittredge	29	49.2	37	30	10	1	0	0	0	0		3	3	8	3	38%	9	.725	4	7	19	11	2	17	5	25	11	4	11	8	3.8	20
+Adam Kolarek*	30	43.1	54	54	15	4	3	1	1	0	100%	18	15	28	7	25%	8	1.130	17	18	18	29	11	14	20	34	7	26	11	19	2.4	12
+Brendan McKay*	23	49.0	13	2	0	0	0	0	0	0		0	0	0	0		5	.989	0	1	1	0	0	2	0	2	1	1	1	0	3.5	22
+Hoby Milner*	28	3.2	4	4	1	0	0	0	0	0		2	1	1	0	0%	6	.604	0	2	2	2	0	2	1	3	1	2	1	0	2.8	18
+Emilio Pagan	28	70.0	66	66	29	4	2	29	20	9	69%	37	8	30	9	30%	9	1.605	36	15	15	44	14	8	17	49	16	14	17	24	3.2	16
+Ricardo Pinto	25	2.1	2	2	1	0	0	0	0	0		0	0	0	0		9	.202	0	0	2	2	0	0	0	2	1	0	1	1	3.5	23
+Colin Poche*	25	51.2	51	51	8	5	5	8	2	6	25%	26	16	30	8	27%	7	1.460	30	15	6	30	13	8	17	34	17	16	17	18	3.0	17
+Austin Pruitt	29	47.0	14	12	4	3	0	0	0	0		1	0	7	2	29%	7	.821	2	4	6	3	2	7	3	9	10	0	10	0	9.2	47
+Trevor Richards	26	23.1	7	4	0	2	0	0	0	0		0	0	2	1	50%	7	.862	1	2	1	2	1	1	1	3	4	0	4	0	6.8	40
+Daniel Robertson	25	1.0	1	1	1	0	0	0	0	0		0	0	0	0		8	.000	0	0	0	0	0	1	0	1	0	0	0	0	3.0	7
+Chaz Roe	32	51.0	71	71	11	1	3	6	1	5	17%	34	25	38	10	26%	7	1.283	31	18	21	41	13	17	26	45	6	43	9	20	2.2	13
+Casey Sadler	28	19.1	9	9	8	0	0	0	0	0		0	0	3	3	100%	8	.231	0	2	7	5	0	4	1	8	8	0	8	0	6.4	31
+Aaron Slegers	26	3.0	1	1	1	0	0	1	1	0	100%	1	0	0	0		7	.138	0	0	1	1	0	0	0	1	1	0	1	0	9.0	42
+Ryne Stanek	27	55.2	41	14	3	0	1	0	0	0		2	2	7	4	57%	8	.861	4	3	7	5	2	7	3	11	2	4	2	5	2.7	16
+Cole Sulser	29	7.1	7	7	4	0	0	0	0	0		0	0	2	2	100%	8	.232	0	0	7	2	0	5	1	6	1	1	2	1	3.1	19
+Hunter Wood	25	29.0	19	17	4	1	0	1	1	0	100%	2	1	11	1	9%	8	.761	3	2	12	6	2	9	5	12	8	2	9	1	4.4	23
+Ryan Yarbrough*	27	141.2	28	14	1	8	1	1	0	1	0%	1	0	4	3	75%	3	.863	1	10	3	7	5	2	3	11	14	0	14	0	12.0	59
+League Average																																
+Team Total	27.8		765	603	162	56	31	75	46	29	61%	209	124	244	71	29%		1.020	222	173	201	319	118	166	150	453	189	163	205	143	3.8	21
+Name	Age	IP	G	GR	GF	Wgr	Lgr	SVOpp	SV	BSv	SV%	SVSit	Hold	IR	IS	IS%	1stIP	aLI	LevHi	LevMd	LevLo	Ahd	Tie	Bhd	Runr	Empt	>3o	<3o	IPmult	0DR	Out/GR	Pit/GR
+Team Baserunning/Situ* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	IP	PA	H	Inf	Bnt	All	GS	GSo	vRH	vLH	Hm	Rd	<2,3B	Scr	SO	%	ROE	WP	PB	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	BT	PAu
+Jose Alvarado*	24	30.0	146	29	5	0	2	0	6	2	0	1	1	13	8	4	62%	2	8	1	61	1	0	100%	1	0	0	0	0	0	0	0	18	0
+Nick Anderson	28	21.1	78	12	1	0	3	0	1	1	2	1	2	4	1	2	25%	0	2	1	23	0	0		0	0	0	0	0	0	0	0	4	0
+Anthony Banda*	25	4.0	18	6	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	8	0	0		0	0	0	0	0	0	0	0	0	0
+Jalen Beeks*	25	104.1	464	115	14	3	12	0	8	9	3	6	6	25	14	5	56%	4	3	3	193	3	2	60%	3	1	0	1	0	0	0	0	14	0
+Mike Brosseau	25	4.0	18	5	0	0	1	0	0	0	1	0	1	0	0	0		0	0	0	5	0	0		0	0	0	0	0	0	0	0	0	0
+Diego Castillo	25	68.2	290	59	7	0	8	0	6	4	4	6	2	14	3	3	21%	3	5	1	101	3	0	100%	3	0	0	0	0	0	0	0	8	0
+Yonny Chirinos	25	133.1	530	112	11	2	23	0	4	16	7	12	11	20	12	5	60%	5	4	1	152	4	5	44%	2	4	2	1	0	0	0	0	13	0
+Jose De Leon	26	4.0	21	3	0	0	0	0	3	0	0	0	0	3	0	2	0%	1	1	0	8	0	0		0	0	0	0	0	0	0	0	2	0
+Oliver Drake	32	56.0	219	36	5	1	9	1	6	8	1	3	6	9	5	2	56%	1	1	1	73	1	3	25%	1	3	0	0	0	0	0	0	2	0
+Peter Fairbanks	25	12.1	58	17	2	0	1	0	0	1	0	0	1	3	3	1	100%	3	1	0	28	1	1	50%	0	1	1	0	0	0	0	0	2	0
+Jake Faria	25	10.0	47	10	0	0	2	0	1	2	0	1	1	1	0	1	0%	1	0	0	17	0	0		0	0	0	0	0	0	0	0	0	0
+Wilmer Font	29	14.0	60	15	1	0	2	0	2	0	2	1	1	6	3	1	50%	0	1	0	22	1	0	100%	1	0	0	0	0	0	0	0	1	0
+Ian Gibaut	25	2.0	9	1	0	0	0	0	0	0	0	0	0	2	1	1	50%	0	0	0	3	0	0		0	0	0	0	0	0	0	0	1	0
+Tyler Glasnow	25	60.2	230	40	9	0	4	0	2	3	1	3	1	7	3	3	43%	2	2	1	63	9	2	82%	9	1	0	1	0	0	1	1	7	0
+Andrew Kittredge	29	49.2	210	51	8	0	7	0	6	4	3	1	6	12	6	3	50%	1	2	0	71	1	2	33%	1	1	0	1	0	0	0	0	5	0
+Adam Kolarek*	30	43.1	184	39	7	1	6	0	10	4	2	3	3	10	5	4	50%	2	1	0	63	1	0	100%	1	0	0	0	0	0	0	0	1	0
+Brendan McKay*	23	49.0	216	53	8	1	8	0	2	8	0	6	2	6	2	3	33%	3	0	0	83	1	1	50%	1	1	0	0	0	0	0	0	1	0
+Hoby Milner*	28	3.2	17	4	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	8	0	0		0	0	0	0	0	0	0	0	0	0
+Charlie Morton	35	194.2	790	154	20	1	15	1	14	4	11	7	8	40	18	8	45%	5	5	2	262	3	3	50%	3	3	0	0	0	0	1	0	18	0
+Emilio Pagan	28	70.0	267	45	4	0	12	0	7	6	6	7	5	15	6	5	40%	1	3	0	64	2	0	100%	2	0	0	0	0	0	0	0	6	0
+Ricardo Pinto	25	2.1	13	4	0	0	1	0	0	0	1	1	0	1	1	0	100%	0	0	0	4	0	0		0	0	0	0	0	0	0	0	0	0
+Colin Poche*	25	51.2	207	33	5	1	9	2	8	6	3	4	5	8	3	3	38%	0	2	0	76	6	1	86%	5	0	1	0	0	1	0	0	2	0
+Austin Pruitt	29	47.0	193	47	6	1	7	1	8	5	2	4	3	11	5	2	45%	1	1	1	55	1	0	100%	1	0	0	0	0	0	0	0	4	0
+Trevor Richards	26	23.1	97	23	3	1	3	0	1	1	2	2	1	3	0	2	0%	2	0	0	34	0	2	0%	0	2	0	0	0	0	0	0	0	0
+Daniel Robertson	25	1.0	3	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	1	0	0		0	0	0	0	0	0	0	0	0	0
+Chaz Roe	32	51.0	229	49	5	1	3	0	6	2	1	3	0	16	9	3	56%	2	3	1	110	11	0	100%	9	0	2	0	0	0	0	0	9	0
+Casey Sadler	28	19.1	79	16	2	0	2	0	1	1	1	0	2	3	0	0	0%	1	0	0	25	0	1	0%	0	1	0	0	0	0	0	0	0	0
+Aaron Slegers	26	3.0	12	3	0	0	1	0	0	0	1	0	1	0	0	0		0	0	0	4	0	0		0	0	0	0	0	0	0	0	0	0
+Blake Snell*	26	107.0	441	96	12	1	14	1	7	11	3	7	7	23	6	12	26%	3	11	1	141	15	9	63%	12	8	3	0	0	1	4	4	21	0
+Ryne Stanek	27	55.2	228	44	5	2	7	0	4	2	5	2	5	8	5	1	63%	2	2	0	61	4	0	100%	2	0	2	0	0	0	0	0	6	0
+Cole Sulser	29	7.1	29	5	1	0	0	0	0	0	0	0	0	1	1	0	100%	0	0	0	7	0	0		0	0	0	0	0	0	0	0	0	0
+Hunter Wood	25	29.0	120	26	4	1	4	0	5	4	0	2	2	9	2	2	22%	2	1	1	44	2	0	100%	2	0	0	0	0	0	0	0	3	0
+Ryan Yarbrough*	27	141.2	563	121	13	5	15	0	5	11	4	7	8	26	12	2	46%	6	0	1	162	5	3	63%	4	3	1	0	0	0	1	1	5	0
+League Average																																		
+Team Total	27.8		6086	1274	158	22	181	6	123	115	66	90	91	299	134	80	45%	53	59	16	2032	75	35	68%	63	29	12	4	0	2	7	6	153	0
+Name	Age	IP	PA	H	Inf	Bnt	All	GS	GSo	vRH	vLH	Hm	Rd	<2,3B	Scr	SO	%	ROE	WP	PB	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	BT	PAu
+Team Pitching Pitches* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Jose Alvarado*
+Nick Anderson
+Anthony Banda*
+Jalen Beeks*
+Mike Brosseau
+Diego Castillo
+Yonny Chirinos
+Jose De Leon
+Oliver Drake
+Peter Fairbanks
+Jake Faria
+Wilmer Font
+Ian Gibaut
+Tyler Glasnow
+Andrew Kittredge
+Adam Kolarek*
+Brendan McKay*
+Hoby Milner*
+Charlie Morton
+Emilio Pagan
+Ricardo Pinto
+Colin Poche*
+Austin Pruitt
+Trevor Richards
+Daniel Robertson
+Chaz Roe
+Casey Sadler
+Aaron Slegers
+Blake Snell*
+Ryne Stanek
+Cole Sulser
+Hunter Wood
+Ryan Yarbrough*
+League Average
+Team Total
+Name
+Name	Age	IP	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1st%	30%	30c	30s	02%	02c	02s	02h	L/SO	S/SO	L/SO%	3pK	4pW	PAu	Pitu	Stru
+Jose Alvarado*	24	30.0	146	585	4.01	340	58.1%	29.1%	21.8%	25.6%	23.5%	70.9%	0.0%	41.2%	69.3%	47.9%	5.5%	8	3	20.5%	30	18	1	8	30	20.5%	7	2	0	0	0
+Nick Anderson	28	21.1	78	335	4.29	246	73.4%	17.9%	35.4%	32.9%	13.8%	82.1%	0.0%	60.3%	56.9%	73.1%	2.6%	2	1	52.6%	41	24	0	5	36	12.2%	10	0	0	0	0
+Anthony Banda*	25	4.0	18	59	3.28	40	67.8%	20.0%	5.0%	35.0%	40.0%	80.0%	0.0%	54.2%	93.8%	50.0%	5.6%	1	1	27.8%	5	5	0	0	2	0.0%	0	0	0	0	0
+Jalen Beeks*	25	104.1	465	1821	3.92	1140	62.6%	26.8%	17.6%	27.0%	28.6%	73.2%	0.0%	45.9%	75.9%	58.9%	4.1%	19	12	25.2%	117	56	7	16	73	18.0%	12	6	0	0	0
+Mike Brosseau	25	4.0	18	60	3.33	39	65.0%	41.0%	0.0%	15.4%	43.6%	59.0%	0.0%	38.3%	100.0%	55.6%	0.0%	0	0	5.6%	1	0	0	0	0		0	0	0	0	0
+Diego Castillo	25	68.2	291	1119	3.85	719	64.3%	29.1%	23.1%	23.1%	24.8%	70.9%	0.0%	45.6%	67.5%	57.4%	5.8%	17	7	25.1%	73	43	2	17	64	21.0%	16	6	0	0	0
+Yonny Chirinos	25	133.1	531	1985	3.74	1287	64.8%	23.5%	17.2%	29.4%	29.9%	76.5%	0.0%	49.6%	77.6%	62.5%	2.6%	14	8	25.6%	136	77	5	32	81	28.1%	25	5	0	0	0
+Jose De Leon	26	4.0	21	80	3.81	50	62.5%	20.0%	36.0%	26.0%	18.0%	80.0%	0.0%	50.0%	55.0%	42.9%	4.8%	1	0	19.0%	4	3	0	0	7	0.0%	1	0	0	0	0
+Oliver Drake	32	56.0	220	944	4.29	619	65.6%	24.7%	27.1%	27.3%	20.8%	75.3%	0.0%	49.4%	63.9%	59.1%	2.7%	6	4	30.0%	66	42	2	10	60	14.3%	16	1	0	0	0
+Peter Fairbanks	25	12.1	58	216	3.72	141	65.3%	26.2%	22.0%	22.0%	29.8%	73.8%	0.0%	48.1%	70.2%	60.3%	3.4%	2	1	29.3%	17	10	1	1	12	7.7%	3	1	0	0	0
+Jake Faria	25	10.0	47	217	4.62	134	61.8%	22.4%	24.6%	31.3%	21.6%	77.6%	0.0%	47.9%	68.3%	80.9%	2.1%	1	0	51.1%	24	6	0	2	9	18.2%	1	1	0	0	0
+Wilmer Font	29	14.0	60	287	4.78	188	65.5%	24.5%	22.3%	33.5%	19.7%	75.5%	0.0%	49.5%	70.4%	55.0%	1.7%	1	1	38.3%	23	15	1	5	13	27.8%	4	0	0	0	0
+Ian Gibaut	25	2.0	9	35	3.89	20	57.1%	20.0%	25.0%	30.0%	25.0%	80.0%	0.0%	45.7%	68.8%	66.7%	0.0%	0	0	22.2%	2	1	0	1	1	50.0%	0	0	0	0	0
+Tyler Glasnow	25	60.2	230	903	3.93	586	64.9%	32.6%	19.1%	24.4%	23.9%	67.4%	0.0%	43.7%	71.6%	57.8%	3.5%	8	6	27.4%	63	37	4	25	51	32.9%	13	2	0	0	0
+Andrew Kittredge	29	49.2	210	818	3.90	558	68.2%	22.8%	24.6%	28.0%	24.7%	77.2%	0.0%	52.7%	68.2%	68.1%	2.4%	5	5	41.0%	86	48	2	8	50	13.8%	13	0	0	0	0
+Adam Kolarek*	30	43.1	184	627	3.41	407	64.9%	27.5%	16.2%	24.1%	32.2%	72.5%	0.0%	47.0%	77.6%	64.7%	4.3%	8	2	19.6%	36	19	2	11	25	30.6%	9	2	0	0	0
+Brendan McKay*	23	49.0	216	878	4.06	581	66.2%	26.0%	17.6%	31.7%	24.8%	74.0%	0.0%	49.0%	76.3%	57.9%	4.6%	10	7	32.4%	70	42	5	18	38	32.1%	13	3	0	0	0
+Hoby Milner*	28	3.2	17	70	4.12	44	62.9%	36.4%	9.1%	27.3%	27.3%	63.6%	0.0%	40.0%	85.7%	64.7%	11.8%	2	2	23.5%	4	1	0	2	1	66.7%	0	0	0	0	0
+Charlie Morton	35	194.2	790	3139	3.97	2074	66.1%	28.3%	21.3%	27.3%	23.2%	71.7%	0.0%	47.4%	70.4%	62.7%	3.5%	28	22	33.2%	262	168	21	59	181	24.6%	49	6	0	0	0
+Emilio Pagan	28	70.0	267	1075	4.03	753	70.0%	21.6%	27.5%	30.0%	20.8%	78.4%	0.0%	54.9%	64.9%	65.5%	1.9%	5	3	37.8%	101	59	5	16	79	16.7%	21	1	0	0	0
+Ricardo Pinto	25	2.1	13	45	3.46	29	64.4%	17.2%	13.8%	31.0%	37.9%	82.8%	0.0%	53.3%	83.3%	61.5%	15.4%	2	0	61.5%	8	6	1	0	0		0	2	0	0	0
+Colin Poche*	25	51.2	208	870	4.18	583	67.0%	19.9%	28.0%	33.1%	19.0%	80.1%	0.0%	53.7%	65.1%	65.4%	3.8%	8	4	41.8%	87	52	4	14	58	19.4%	18	3	0	0	0
+Austin Pruitt	29	47.0	193	720	3.73	479	66.5%	26.7%	18.2%	25.5%	29.6%	73.3%	0.0%	48.8%	75.2%	73.6%	3.1%	6	3	24.9%	48	25	3	12	27	30.8%	7	1	0	0	0
+Trevor Richards	26	23.1	98	393	4.01	264	67.2%	21.6%	18.9%	33.7%	25.8%	78.4%	0.0%	52.7%	75.8%	59.2%	1.0%	1	1	32.7%	32	20	2	3	21	12.5%	3	0	0	0	0
+Daniel Robertson	25	1.0	3	7	2.33	5	71.4%	20.0%	0.0%	20.0%	60.0%	80.0%	0.0%	57.1%	100.0%	66.7%	0.0%	0	0	33.3%	1	0	0	0	0		0	0	0	0	0
+Chaz Roe	32	51.0	229	925	4.04	574	62.1%	39.0%	16.9%	21.1%	23.0%	61.0%	0.0%	37.8%	72.3%	54.6%	6.6%	15	10	28.4%	65	41	8	23	42	35.4%	12	3	0	0	0
+Casey Sadler	28	19.1	79	280	3.54	172	61.4%	27.3%	16.3%	20.3%	36.0%	72.7%	0.0%	44.6%	77.6%	50.6%	3.8%	3	2	19.0%	15	8	1	4	7	36.4%	2	1	0	0	0
+Aaron Slegers	26	3.0	12	42	3.50	28	66.7%	10.7%	7.1%	42.9%	39.3%	89.3%	0.0%	59.5%	92.0%	66.7%	0.0%	0	0	0.0%	0	0	0	0	0		0	0	0	0	0
+Blake Snell*	26	107.0	444	1891	4.26	1213	64.1%	23.7%	29.3%	26.1%	20.9%	76.3%	0.0%	48.9%	61.6%	67.6%	4.5%	20	17	36.5%	162	90	7	23	124	15.6%	32	2	0	0	0
+Ryne Stanek	27	55.2	229	892	3.90	554	62.1%	20.0%	26.9%	26.5%	26.5%	80.0%	0.0%	49.7%	66.4%	58.5%	5.7%	13	10	22.7%	52	26	3	11	50	18.0%	10	3	0	0	0
+Cole Sulser	29	7.1	29	130	4.48	84	64.6%	26.2%	19.0%	34.5%	20.2%	73.8%	0.0%	47.7%	74.2%	55.2%	3.4%	1	0	27.6%	8	4	0	1	8	11.1%	3	1	0	0	0
+Hunter Wood	25	29.0	120	459	3.83	307	66.9%	24.1%	20.8%	26.4%	28.7%	75.9%	0.0%	50.8%	72.5%	59.2%	3.3%	4	4	32.5%	39	24	1	5	19	20.8%	6	0	0	0	0
+Ryan Yarbrough*	27	141.2	564	2054	3.64	1375	66.9%	25.9%	16.5%	27.3%	30.3%	74.1%	0.0%	49.6%	77.7%	65.4%	1.8%	10	7	25.4%	143	78	5	38	79	32.5%	18	2	0	0	0
+League Average																															
+Team Total	27.8		6097	23961	3.93	15633	65.2%	25.8%	21.5%	27.4%	25.3%	74.2%	0.0%	48.4%	71.0%	62.0%	3.6%	221	143	29.9%	1821	1048	93	370	1248	22.8%	324	54	0	0	0
+Name	Age	IP	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1st%	30%	30c	30s	02%	02c	02s	02h	L/SO	S/SO	L/SO%	3pK	4pW	PAu	Pitu	Stru
+Team Neutralized Pitching 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	W	L	W-L%	ERA	IP	H	R	ER	HR	BB	SO	HBP	WHIP	H9	BB9	SO9	SO/W	HR9	Gact
+Jose Alvarado*	24	1	2	.333	4.20	30.0	27	16	14	2	25	39	0	1.733	8.1	7.5	11.7	1.56	0.6	35
+Nick Anderson	28	4	3	.571	2.77	65.0	50	22	20	8	17	110	2	1.031	6.9	2.4	15.2	6.47	1.1	68
+Anthony Banda*	25	0	0		4.50	4.0	0	2	2	0	0	2	0	0.000	0.0	0.0	4.5		0.0	3
+Jalen Beeks*	25	6	6	.500	3.98	104.0	110	51	46	11	38	89	9	1.423	9.5	3.3	7.7	2.34	1.0	33
+Mike Brosseau	25	0	0		4.50	4.0	0	2	2	0	0	0	1	0.000	0.0	0.0	0.0		0.0	3
+Diego Castillo	25	4	4	.500	3.39	69.0	56	29	26	8	25	81	5	1.174	7.3	3.3	10.6	3.24	1.0	65
+Yonny Chirinos	25	8	7	.533	3.38	133.0	108	56	50	22	27	114	3	1.015	7.3	1.8	7.7	4.22	1.5	26
+Jose De Leon	26	0	0		2.25	4.0	2	1	1	0	2	7	1	1.000	4.5	4.5	15.8	3.50	0.0	3
+Oliver Drake	32	3	3	.500	2.57	56.0	34	18	16	8	18	70	1	0.929	5.5	2.9	11.3	3.89	1.3	50
+Peter Fairbanks	25	1	1	.500	6.43	21.0	23	17	15	5	9	28	0	1.524	9.9	3.9	12.0	3.11	2.1	21
+Jake Faria	25	1	1	.500	5.68	19.0	27	13	12	5	12	19	1	2.053	12.8	5.7	9.0	1.58	2.4	16
+Wilmer Font	29	5	4	.556	3.75	84.0	75	39	35	16	28	95	3	1.226	8.0	3.0	10.2	3.39	1.7	48
+Ian Gibaut	25	1	1	.500	3.86	14.0	10	7	6	1	8	16	1	1.286	6.4	5.1	10.3	2.00	0.6	10
+Tyler Glasnow	25	5	2	.714	1.62	61.0	38	12	11	4	13	76	0	0.836	5.6	1.9	11.2	5.85	0.6	12
+Andrew Kittredge	29	3	3	.500	3.78	50.0	49	23	21	7	12	58	2	1.220	8.8	2.2	10.4	4.83	1.3	37
+Adam Kolarek*	30	3	3	.500	2.95	55.0	47	20	18	7	16	45	3	1.145	7.7	2.6	7.4	2.81	1.1	80
+Brendan McKay*	23	2	3	.400	4.78	49.0	50	29	26	8	15	56	0	1.327	9.2	2.8	10.3	3.73	1.5	13
+Hoby Milner*	28	0	0		6.75	4.0	4	3	3	0	1	3	1	1.250	9.0	2.3	6.8	3.00	0.0	4
+Charlie Morton	35	13	9	.591	2.68	195.0	147	64	58	14	54	240	11	1.031	6.8	2.5	11.1	4.44	0.6	33
+Emilio Pagan	28	4	4	.500	1.93	70.0	43	17	15	11	12	96	1	0.786	5.5	1.5	12.3	8.00	1.4	66
+Ricardo Pinto	25	0	0		13.50	2.0	3	3	3	1	2	0	0	2.500	13.5	9.0	0.0	0.00	4.5	2
+Colin Poche*	25	3	3	.500	3.81	52.0	32	25	22	9	18	72	5	0.962	5.5	3.1	12.5	4.00	1.6	51
+Austin Pruitt	29	3	2	.600	3.64	47.0	45	21	19	7	11	39	0	1.191	8.6	2.1	7.5	3.55	1.3	14
+Trevor Richards	26	8	7	.533	3.47	135.0	122	58	52	18	54	127	5	1.304	8.1	3.6	8.5	2.35	1.2	30
+Daniel Robertson	25	0	0		0.00	1.0	0	0	0	0	0	0	0	0.000	0.0	0.0	0.0		0.0	1
+Chaz Roe	32	3	3	.500	3.88	51.0	47	25	22	3	30	65	1	1.510	8.3	5.3	11.5	2.17	0.5	71
+Casey Sadler	28	3	2	.600	2.35	46.0	39	13	12	5	12	31	4	1.109	7.6	2.3	6.1	2.58	1.0	33
+Aaron Slegers	26	0	0		3.00	3.0	0	1	1	0	0	0	1	0.000	0.0	0.0	0.0		0.0	1
+Blake Snell*	26	6	6	.500	3.70	107.0	93	49	44	14	39	147	1	1.234	7.8	3.3	12.4	3.77	1.2	23
+Ryne Stanek	27	5	4	.556	3.74	77.0	58	35	32	10	37	89	0	1.234	6.8	4.3	10.4	2.41	1.2	63
+Cole Sulser	29	1	0	1.000	0.00	7.0	6	0	0	0	4	9	0	1.429	7.7	5.1	11.6	2.25	0.0	7
+Hunter Wood	25	3	2	.600	3.20	45.0	43	18	16	7	11	39	1	1.200	8.6	2.2	7.8	3.55	1.4	36
+Ryan Yarbrough*	27	8	8	.500	3.55	142.0	115	62	56	14	19	117	9	0.944	7.3	1.2	7.4	6.16	0.9	28
+Name	Age	W	L	W-L%	ERA	IP	H	R	ER	HR	BB	SO	HBP	WHIP	H9	BB9	SO9	SO/W	HR9	Gact
+Team Cumulative Pitching 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	Yrs	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	WHIP	H9	HR9	BB9	SO9	SO/W	ERA+
+Jose Alvarado*	24	3	2	15	.118	3.27	140	1	39	0	0	15	123.2	95	51	45	4	65	8	148	1	0	12	532	130	1.294	6.9	0.3	4.7	10.8	2.28	130
+Nick Anderson	28	1	5	4	.556	3.32	68	0	3	0	0	1	65.0	52	24	24	8	18	4	110	2	0	4	264	130	1.077	7.2	1.1	2.5	15.2	6.11	130
+Anthony Banda*	25	3	3	3	.500	5.28	14	5	3	0	0	0	44.1	44	26	26	2	13	1	37	3	0	2	189	87	1.286	8.9	0.4	2.6	7.5	2.85	87
+Jalen Beeks*	25	2	11	4	.733	4.70	47	4	5	0	0	1	155.0	167	87	81	18	64	1	131	12	0	3	687	93	1.490	9.7	1.0	3.7	7.6	2.05	93
+Mike Brosseau	25	1	0	0		4.50	3	0	3	0	0	0	4.0	5	2	2	1	0	0	0	1	0	0	18	107	1.250	11.3	2.3	0.0	0.0		107
+Diego Castillo	25	2	9	10	.474	3.30	108	17	23	0	0	8	125.1	95	53	46	14	44	4	146	7	1	10	512	130	1.109	6.8	1.0	3.2	10.5	3.32	130
+Yonny Chirinos	25	2	14	10	.583	3.71	44	25	2	0	0	0	223.0	196	101	92	30	53	3	189	8	3	9	900	116	1.117	7.9	1.2	2.1	7.6	3.57	116
+Jose De Leon	26	3	4	0	1.000	6.08	8	4	1	0	0	0	23.2	26	22	16	6	13	2	24	5	0	3	116	71	1.648	9.9	2.3	4.9	9.1	1.85	71
+Oliver Drake	32	5	10	8	.556	4.19	185	0	53	0	0	3	193.1	178	98	90	22	77	4	221	2	1	13	825	105	1.319	8.3	1.0	3.6	10.3	2.87	105
+Peter Fairbanks	25	1	2	3	.400	6.86	21	0	3	0	0	2	21.0	25	20	16	5	10	0	28	0	0	2	99	71	1.667	10.7	2.1	4.3	12.0	2.80	71
+Jake Faria	25	3	9	9	.500	4.54	49	26	6	0	0	0	170.1	159	89	86	25	76	1	153	9	0	11	733	93	1.380	8.4	1.3	4.0	8.1	2.01	93
+Wilmer Font	29	5	6	8	.429	5.32	75	22	18	0	0	0	135.1	132	80	80	31	55	3	135	4	1	4	587	81	1.382	8.8	2.1	3.7	9.0	2.45	81
+Ian Gibaut	25	1	1	1	.500	5.65	10	0	1	0	0	0	14.1	12	9	9	1	10	1	16	1	0	1	64	93	1.535	7.5	0.6	6.3	10.0	1.60	93
+Tyler Glasnow	25	4	10	17	.370	4.51	79	40	9	0	0	0	257.2	232	142	129	34	124	5	292	9	3	19	1108	93	1.382	8.1	1.2	4.3	10.2	2.35	93
+Andrew Kittredge	29	3	4	3	.571	5.14	85	10	16	0	0	0	103.1	118	63	59	16	35	6	102	3	0	4	457	84	1.481	10.3	1.4	3.0	8.9	2.91	84
+Adam Kolarek*	30	3	8	3	.727	3.78	123	0	28	0	0	3	97.2	95	43	41	9	25	7	68	8	0	2	410	114	1.229	8.8	0.8	2.3	6.3	2.72	114
+Brendan McKay*	23	1	2	4	.333	5.14	13	11	0	0	0	0	49.0	53	32	28	8	16	0	56	0	0	0	216	87	1.408	9.7	1.5	2.9	10.3	3.50	87
+Hoby Milner*	28	3	0	0		3.40	55	0	9	0	0	0	42.1	43	18	16	5	22	4	33	6	1	0	194	130	1.535	9.1	1.1	4.7	7.0	1.50	130
+Charlie Morton	35	12	91	87	.511	4.07	250	249	0	3	2	0	1401.1	1359	707	633	118	508	21	1234	117	5	53	6030	98	1.332	8.7	0.8	3.3	7.9	2.43	98
+Emilio Pagan	28	3	9	6	.600	3.26	155	0	55	0	0	20	182.1	139	69	66	32	40	2	215	5	0	7	725	131	0.982	6.9	1.6	2.0	10.6	5.38	131
+Ricardo Pinto	25	2	1	2	.333	8.44	27	0	7	0	0	0	32.0	43	32	30	8	19	1	25	1	1	1	160	52	1.938	12.1	2.3	5.3	7.0	1.32	52
+Colin Poche*	25	1	5	5	.500	4.70	51	0	8	0	0	2	51.2	33	27	27	9	19	1	72	5	0	2	207	95	1.006	5.7	1.6	3.3	12.5	3.79	95
+Austin Pruitt	29	3	12	8	.600	4.87	67	10	22	0	0	5	199.2	222	118	108	25	50	4	147	6	0	6	855	87	1.362	10.0	1.1	2.3	6.6	2.94	87
+Trevor Richards	26	2	10	21	.323	4.23	55	48	1	0	0	0	261.2	248	128	123	34	110	11	257	10	1	12	1127	96	1.368	8.5	1.2	3.8	8.8	2.34	96
+Daniel Robertson	25	2	0	0		0.00	2	0	2	0	0	0	2.0	1	0	0	0	0	0	0	0	0	0	6		0.500	4.5	0.0	0.0	0.0		
+Chaz Roe	32	7	9	8	.529	3.86	234	0	43	0	0	2	207.1	178	97	89	19	99	9	234	12	1	8	885	110	1.336	7.7	0.8	4.3	10.2	2.36	110
+Casey Sadler	28	4	5	1	.833	3.55	42	2	19	0	0	1	66.0	66	32	26	6	22	2	46	5	0	2	287	119	1.333	9.0	0.8	3.0	6.3	2.09	119
+Aaron Slegers	26	3	1	2	.333	5.63	9	5	2	0	0	1	32.0	32	21	20	7	8	0	15	2	0	0	135	80	1.250	9.0	2.0	2.3	4.2	1.88	80
+Blake Snell*	26	4	38	28	.576	3.24	97	97	0	0	0	0	506.0	414	203	182	50	214	4	585	2	2	38	2089	129	1.241	7.4	0.9	3.8	10.4	2.73	129
+Ryne Stanek	27	3	2	7	.222	3.80	143	56	26	0	0	1	163.1	132	75	69	25	78	6	199	1	0	14	685	113	1.286	7.3	1.4	4.3	11.0	2.55	113
+Cole Sulser	29	1	0	0		0.00	7	0	4	0	0	0	7.1	5	0	0	0	3	0	9	0	0	0	29		1.091	6.1	0.0	3.7	11.0	3.00	
+Hunter Wood	25	3	2	2	.500	3.32	66	10	13	0	0	1	86.2	88	37	32	11	30	2	81	1	1	5	375	132	1.362	9.1	1.1	3.1	8.4	2.70	132
+Ryan Yarbrough*	27	2	27	12	.692	4.02	66	20	4	0	0	0	289.0	261	139	129	33	70	8	245	17	1	1	1191	106	1.145	8.1	1.0	2.2	7.6	3.50	106
+Name	Age	Yrs	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	HR	BB	IBB	SO	HBP	BK	WP	BF	ERA+	WHIP	H9	HR9	BB9	SO9	SO/W	ERA+
+* - Disclaimer & Completeness Note 
+* Many Detailed Statistics are based on play-by-play accounts accumulated by RetroSheet. These totals may be incomplete (3.6% of all plays from 1925 to 1973 are missing or have incomplete accounts, click link for year and team summary of data completeness) for some players prior to 1974 and even complete seasons may not match the official totals due to errors in both the official totals and the play-by-play accounts. Pre-1954 seasons have a substantial numbers of games missing play-by-play accounts and should be viewed as essentially incomplete.
+More 2019 Rays Pages
+2019 Tampa Bay Rays
+
+Stats
+
+Schedule & Results
+
+40-Man Roster
+
+Uniforms
+
+Contracts
+
+Batting
+
+Pitching
+
+Fielding
+
+Scoring
+
+Batting
+
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Other
+
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+Support us without the ads? Go Ad-Free.
+
+Login Create Account Surf AD-FREE
+You are here: BR Home Page > Teams > Franchise Encyclopedia > 2019 Pitching Statistics
+Full Site Menu 
+Return to Top
+MLB Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+MLB Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers, San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Indians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2019, 2018, 2019 MLB Pitching, 2019 MLB Batting, 2019 MLB Standings, 2019 MLB Attendance, 2019 MLB Rookies, ...
+MLB Leaders
+2019 MLB Batting, 2019 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in MLB history, MLB Probable Pitchers, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+MLB Playoffs
+2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Play Index
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Event Finder, Player Comparison Finder, Neutralized Stats, ...
+Team Finders: Season Finder, Split Finder, Game Finder, Streak Finder, Event Finder, ...
+Other Finders: Draft Finder, Game Score & Result Searches, Team Trade Histories, ...
+Managers
+Active: Terry Francona, Clint Hurdle, A.J. Hinch, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+MLB Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2019 HOF results, 2020 Hall of Fame ballot, ...
+MLB All-Star Games
+2020 All-Star Game, 2019 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities and More
+Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2019 Draft, 2018 Draft, 2017 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Negro Leagues
+Minor League Stats, Negro League Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2019 Minor Leagues, 2019 Affiliates, ...
+Baseball-Reference Bullpen
+85,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, ...
+We're Social...for Statheads
+       
+Every Sports Reference Social Media Account
+
+Site Last Updated: Tuesday, January 21, 6:39AM
+
+Question, Comment, Feedback, or Correction?
+
+Are you a Stathead, too? Subscribe to our Newsletter
+
+This Week in Sports Reference
+Find out when we add a feature or make a change
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Go ad-free to support Sports Reference and get our fastest browsing experience
+Subscribe to the Play Index and get access to more data than you can imagine
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Primary Data Provided ByGracenote Sports
+Copyright © 2000-2020 Sports Reference LLC. All rights reserved.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+BaseballInfoSolutions.com logo
+
+Some defensive statistics Copyright © Baseball Info Solutions, 2010-2020.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+ Sports Reference Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead Widgets
+About • Privacy Statement • Conditions & Terms of Service • Advertise With Us • Use of Data

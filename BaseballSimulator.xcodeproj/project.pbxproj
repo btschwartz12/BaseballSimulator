@@ -1,0 +1,408 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0020C73C23883A3D00BA601E /* AtBat.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0020C73923883A3D00BA601E /* AtBat.cpp */; };
+		0073435C23E0A2D200F08DD6 /* misc.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0073435A23E0A2D200F08DD6 /* misc.cpp */; };
+		008D53F42385F7CC001342A2 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 008D53E92385F7CB001342A2 /* Game.cpp */; };
+		008D53F52385F7CC001342A2 /* piper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 008D53EA2385F7CB001342A2 /* piper.cpp */; };
+		008D53F62385F7CC001342A2 /* Pitcher.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 008D53EE2385F7CC001342A2 /* Pitcher.cpp */; };
+		008D53F72385F7CC001342A2 /* Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 008D53EF2385F7CC001342A2 /* Player.cpp */; };
+		008D53F82385F7CC001342A2 /* Team.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 008D53F12385F7CC001342A2 /* Team.cpp */; };
+		008D53F92385F7CC001342A2 /* Batter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 008D53F32385F7CC001342A2 /* Batter.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		008D53DD2385F73E001342A2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0020C73723883A3D00BA601E /* Pitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pitch.h; sourceTree = "<group>"; };
+		0020C73923883A3D00BA601E /* AtBat.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AtBat.cpp; sourceTree = "<group>"; };
+		0020C73A23883A3D00BA601E /* AtBat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AtBat.h; sourceTree = "<group>"; };
+		0027CEF723AD1CF4004224B5 /* TeamFile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = TeamFile.h; path = "/Users/benschwartz/Desktop/C++/BaseballSimulator/BaseballSimulator/dataFiles/TeamFile.h"; sourceTree = "<absolute>"; usesTabs = 0; wrapsLines = 1; };
+		0027CEF923AD210A004224B5 /* playerFile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = playerFile.h; sourceTree = "<group>"; };
+		0073435A23E0A2D200F08DD6 /* misc.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = misc.cpp; sourceTree = "<group>"; };
+		0087E05E23B3EACD005B563E /* asciifull.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = asciifull.gif; sourceTree = "<group>"; };
+		008D53DF2385F73E001342A2 /* BaseballSimulator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaseballSimulator; sourceTree = BUILT_PRODUCTS_DIR; };
+		008D53E92385F7CB001342A2 /* Game.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Game.cpp; sourceTree = "<group>"; };
+		008D53EA2385F7CB001342A2 /* piper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = piper.cpp; sourceTree = "<group>"; };
+		008D53EB2385F7CC001342A2 /* Batter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Batter.h; sourceTree = "<group>"; };
+		008D53EC2385F7CC001342A2 /* Pitcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pitcher.h; sourceTree = "<group>"; };
+		008D53ED2385F7CC001342A2 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game.h; sourceTree = "<group>"; };
+		008D53EE2385F7CC001342A2 /* Pitcher.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Pitcher.cpp; sourceTree = "<group>"; };
+		008D53EF2385F7CC001342A2 /* Player.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Player.cpp; sourceTree = "<group>"; };
+		008D53F02385F7CC001342A2 /* Player.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Player.h; sourceTree = "<group>"; };
+		008D53F12385F7CC001342A2 /* Team.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Team.cpp; sourceTree = "<group>"; };
+		008D53F22385F7CC001342A2 /* Team.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Team.h; sourceTree = "<group>"; };
+		008D53F32385F7CC001342A2 /* Batter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Batter.cpp; sourceTree = "<group>"; };
+		00DD12B823D9134E00DA38AF /* playerStructs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = playerStructs.h; sourceTree = "<group>"; };
+		00EEDB6E23BA4A5200B66E7D /* misc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = misc.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		008D53DC2385F73E001342A2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0027CEFA23AD2117004224B5 /* dataFiles */ = {
+			isa = PBXGroup;
+			children = (
+				0027CEF923AD210A004224B5 /* playerFile.h */,
+				0027CEF723AD1CF4004224B5 /* TeamFile.h */,
+			);
+			path = dataFiles;
+			sourceTree = "<group>";
+		};
+		0087E05D23B3EAA1005B563E /* data */ = {
+			isa = PBXGroup;
+			children = (
+				0087E05E23B3EACD005B563E /* asciifull.gif */,
+			);
+			path = data;
+			sourceTree = "<group>";
+		};
+		008D53D62385F73E001342A2 = {
+			isa = PBXGroup;
+			children = (
+				008D53E12385F73E001342A2 /* BaseballSimulator */,
+				0087E05D23B3EAA1005B563E /* data */,
+				008D53E02385F73E001342A2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		008D53E02385F73E001342A2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				008D53DF2385F73E001342A2 /* BaseballSimulator */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		008D53E12385F73E001342A2 /* BaseballSimulator */ = {
+			isa = PBXGroup;
+			children = (
+				008D53EA2385F7CB001342A2 /* piper.cpp */,
+				0073435A23E0A2D200F08DD6 /* misc.cpp */,
+				00EEDB6E23BA4A5200B66E7D /* misc.h */,
+				00DD12B823D9134E00DA38AF /* playerStructs.h */,
+				0027CEFA23AD2117004224B5 /* dataFiles */,
+				00A88C1523898A7B00DD98DA /* Pitch */,
+				00A88C1623898A8F00DD98DA /* AtBat */,
+				00A88C1923898B0100DD98DA /* Game */,
+				00A88C1C23898B3000DD98DA /* Team */,
+				00A88C1823898AF800DD98DA /* Batter */,
+				00A88C1A23898B0C00DD98DA /* Pitcher */,
+				00A88C1B23898B2300DD98DA /* Player */,
+			);
+			path = BaseballSimulator;
+			sourceTree = "<group>";
+		};
+		00A88C1523898A7B00DD98DA /* Pitch */ = {
+			isa = PBXGroup;
+			children = (
+				0020C73723883A3D00BA601E /* Pitch.h */,
+			);
+			path = Pitch;
+			sourceTree = "<group>";
+		};
+		00A88C1623898A8F00DD98DA /* AtBat */ = {
+			isa = PBXGroup;
+			children = (
+				0020C73A23883A3D00BA601E /* AtBat.h */,
+				0020C73923883A3D00BA601E /* AtBat.cpp */,
+			);
+			path = AtBat;
+			sourceTree = "<group>";
+		};
+		00A88C1823898AF800DD98DA /* Batter */ = {
+			isa = PBXGroup;
+			children = (
+				008D53EB2385F7CC001342A2 /* Batter.h */,
+				008D53F32385F7CC001342A2 /* Batter.cpp */,
+			);
+			path = Batter;
+			sourceTree = "<group>";
+		};
+		00A88C1923898B0100DD98DA /* Game */ = {
+			isa = PBXGroup;
+			children = (
+				008D53ED2385F7CC001342A2 /* Game.h */,
+				008D53E92385F7CB001342A2 /* Game.cpp */,
+			);
+			path = Game;
+			sourceTree = "<group>";
+		};
+		00A88C1A23898B0C00DD98DA /* Pitcher */ = {
+			isa = PBXGroup;
+			children = (
+				008D53EC2385F7CC001342A2 /* Pitcher.h */,
+				008D53EE2385F7CC001342A2 /* Pitcher.cpp */,
+			);
+			path = Pitcher;
+			sourceTree = "<group>";
+		};
+		00A88C1B23898B2300DD98DA /* Player */ = {
+			isa = PBXGroup;
+			children = (
+				008D53F02385F7CC001342A2 /* Player.h */,
+				008D53EF2385F7CC001342A2 /* Player.cpp */,
+			);
+			path = Player;
+			sourceTree = "<group>";
+		};
+		00A88C1C23898B3000DD98DA /* Team */ = {
+			isa = PBXGroup;
+			children = (
+				008D53F22385F7CC001342A2 /* Team.h */,
+				008D53F12385F7CC001342A2 /* Team.cpp */,
+			);
+			path = Team;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		008D53DE2385F73E001342A2 /* BaseballSimulator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 008D53E62385F73E001342A2 /* Build configuration list for PBXNativeTarget "BaseballSimulator" */;
+			buildPhases = (
+				008D53DB2385F73E001342A2 /* Sources */,
+				008D53DC2385F73E001342A2 /* Frameworks */,
+				008D53DD2385F73E001342A2 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BaseballSimulator;
+			productName = BaseballSimulator;
+			productReference = 008D53DF2385F73E001342A2 /* BaseballSimulator */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		008D53D72385F73E001342A2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1130;
+				ORGANIZATIONNAME = "Ben Schwartz";
+				TargetAttributes = {
+					008D53DE2385F73E001342A2 = {
+						CreatedOnToolsVersion = 11.1;
+					};
+				};
+			};
+			buildConfigurationList = 008D53DA2385F73E001342A2 /* Build configuration list for PBXProject "BaseballSimulator" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 008D53D62385F73E001342A2;
+			productRefGroup = 008D53E02385F73E001342A2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				008D53DE2385F73E001342A2 /* BaseballSimulator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		008D53DB2385F73E001342A2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				008D53F72385F7CC001342A2 /* Player.cpp in Sources */,
+				008D53F62385F7CC001342A2 /* Pitcher.cpp in Sources */,
+				008D53F52385F7CC001342A2 /* piper.cpp in Sources */,
+				008D53F92385F7CC001342A2 /* Batter.cpp in Sources */,
+				008D53F42385F7CC001342A2 /* Game.cpp in Sources */,
+				0073435C23E0A2D200F08DD6 /* misc.cpp in Sources */,
+				0020C73C23883A3D00BA601E /* AtBat.cpp in Sources */,
+				008D53F82385F7CC001342A2 /* Team.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		008D53E42385F73E001342A2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		008D53E52385F73E001342A2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		008D53E72385F73E001342A2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AZ9RF3J6S7;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		008D53E82385F73E001342A2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AZ9RF3J6S7;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		008D53DA2385F73E001342A2 /* Build configuration list for PBXProject "BaseballSimulator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				008D53E42385F73E001342A2 /* Debug */,
+				008D53E52385F73E001342A2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		008D53E62385F73E001342A2 /* Build configuration list for PBXNativeTarget "BaseballSimulator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				008D53E72385F73E001342A2 /* Debug */,
+				008D53E82385F73E001342A2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 008D53D72385F73E001342A2 /* Project object */;
+}

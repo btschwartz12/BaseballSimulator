@@ -1,0 +1,70 @@
+*playerData.txt
+*select your team that has data in teamData.txt on https://www.baseball-reference.com/teams/
+*scroll down to "Current 40-Man Roster"
+*copy full list and paste here
+*multiple teams' data may be placed adjacently
+
+1    53    Logan Allen    us US    Pitcher    *        22    R    L    6' 3"    200    May 23, 1997    2015
+2    65    Zach Plesac    us US    Pitcher    *        24    R    R    6' 3"    220    Jan 21, 1995    2014
+3    45    Adam Plutko    us US    Pitcher    *        27    R    R    6' 3"    215    Oct 3, 1991    2013
+4    39    Oliver Perez    mx MX    Pitcher    *        37    L    L    6' 3"    225    Aug 15, 1981    1999
+5    73    Jean Carlos Mejia    do DO    Pitcher    *        22    R    R    6' 4"    240    Aug 26, 1996    2014
+6    88    Phil Maton    us US    Pitcher    *        26    R    R    6' 3"    220    Mar 25, 1993    2013
+7    68    Jefry Rodriguez    do DO    Pitcher    *        25    R    R    6' 6"    232    Jul 26, 1993    2012
+8    70    James Karinchak    us US    Pitcher    *        23    R    R    6' 3"    230    Sep 22, 1995    2015
+9    50    James Hoyt    us US    Pitcher    *        32    R    R    6' 6"    230    Sep 30, 1986    2011
+10    72    Sam Hentges    us US    Pitcher    *        22    L    L    6' 8"    245    Jul 18, 1996    2014
+11    33    Brad Hand    us US    Pitcher    *        29    L    L    6' 3"    220    Mar 20, 1990    2008
+12    44    Nick Goody    us US    Pitcher    *        27    R    R    5' 11"    200    Jul 6, 1991    2012
+13    52    Mike Clevinger    us US    Pitcher    *        28    R    R    6' 4"    215    Dec 21, 1990    2011
+14    67    Aaron Civale    us US    Pitcher    *        24    R    R    6' 2"    215    Jun 12, 1995    2014
+15    90    Adam Cimber    us US    Pitcher    *        28    R    R    6' 4"    195    Aug 15, 1990    2013
+16    62    Nick Wittgren    us US    Pitcher    *        28    R    R    6' 2"    216    May 29, 1991    2012
+17    59    Carlos Carrasco    ve VE    Pitcher    *        32    R    R    6' 4"    224    Mar 21, 1987    2004
+18    54    Hunter Wood    us US    Pitcher    *        25    R    R    6' 1"    175    Aug 12, 1993    2013
+19    57    Shane Bieber    us US    Pitcher    *        24    R    R    6' 3"    200    May 31, 1995    2014
+20    41    Carlos Santana    do DO    Position    *        33    S    R    5' 11"    210    Apr 8, 1986    2005
+21    17    Andrew Velazquez    us US    Position    *        24    S    R    5' 8"    170    Jul 14, 1994    2012
+22    32    Franmil Reyes    do DO    Position    *        23    R    R    6' 5"    275    Jul 7, 1995    2012
+23    11    Jose Ramirez    do DO    Position    *        26    S    R    5' 9"    190    Sep 17, 1992    2011
+24    1    Greg Allen    us US    Position    *        26    S    R    6' 0"    185    Mar 15, 1993    2013
+25    4    Bradley Zimmer    us US    Position    *        26    L    R    6' 5"    220    Nov 27, 1992    2013
+26    27    Kevin Plawecki    us US    Position    *        28    R    R    6' 2"    220    Feb 26, 1991    2012
+27    55    Roberto Perez    pr PR    Position    *        30    R    R    5' 11"    220    Dec 23, 1988    2009
+28    35    Oscar Mercado    co CO    Position    *        24    R    R    6' 2"    197    Dec 16, 1994    2013
+29    8    Jordan Luplow    us US    Position    *        25    R    R    6' 1"    195    Sep 26, 1993    2013
+30    12    Francisco Lindor    pr PR    Position    *        25    S    R    5' 11"    190    Nov 14, 1993    2011
+31    38    Eric Haase    us US    Position    *        26    R    R    5' 10"    210    Dec 18, 1992    2011
+32    6    Mike Freeman    us US    Position    *        31    L    R    6' 0"    195    Aug 4, 1987    2010
+33    2    Yu Chang    tw TW    Position    *        23    R    R    6' 1"    180    Aug 18, 1995    2014
+34    40    Bobby Bradley    us US    Position    *        23    L    R    6' 1"    225    May 29, 1996    2014
+35    10    Jake Bauers    us US    Position    *        23    L    L    6' 1"    195    Oct 6, 1995    2013
+1    49    Julio Teheran    co CO    Pitcher    *        28    R    R    6' 2"    205    Jan 27, 1991    2008
+2    40    Mike Soroka    ca CA    Pitcher    *        21    R    R    6' 5"    225    Aug 4, 1997    2015
+3    15    Sean Newcomb    us US    Pitcher    *        26    L    L    6' 5"    255    Jun 12, 1993    2013
+4    26    Mike Foltynewicz    us US    Pitcher    *        27    R    R    6' 4"    200    Oct 7, 1991    2010
+5    36    Mark Melancon    us US    Pitcher    *        34    R    R    6' 2"    215    Mar 28, 1985    2006
+6    54    Max Fried    us US    Pitcher    *        25    L    L    6' 4"    190    Jan 18, 1994    2012
+7    19    Shane Greene    us US    Pitcher    *        30    R    R    6' 4"    197    Nov 17, 1988    2009
+8    77    Luke Jackson    us US    Pitcher    *        27    R    R    6' 2"    210    Aug 24, 1991    2011
+9    1    Ozzie Albies    cw CW    Position    *        22    S    R    5' 8"    165    Jan 7, 1997    2014
+10    7    Dansby Swanson    us US    Position    *        25    R    R    6' 1"    190    Feb 11, 1994    2013
+11    18    Rafael Ortega    ve VE    Position    *        28    L    R    5' 11"    160    May 15, 1991    2008
+12    22    Nick Markakis    us US    Position    *        35    L    L    6' 1"    210    Nov 17, 1983    2003
+13    9    Billy Hamilton    us US    Position    *        28    S    R    6' 0"    160    Sep 9, 1990    2009
+14    5    Freddie Freeman    us US    Position    *        29    L    R    6' 5"    220    Sep 12, 1989    2007
+15    25    Tyler Flowers    us US    Position    *        33    R    R    6' 4"    260    Jan 24, 1986    2006
+16    23    Adam Duvall    us US    Position    *        30    R    R    6' 1"    215    Sep 4, 1988    2010
+17    13    Ronald Acuna Jr.    ve VE    Position    *        21    R    R    6' 0"    180    Dec 18, 1997    2015
+18    73    Huascar Ynoa    do DO    Pitcher            21    R    R    6' 3"    175    May 28, 1998    2015
+19    30    Kyle Wright    us US    Pitcher            23    R    R    6' 4"    200    Oct 2, 1995    2015
+20    46    Bryse Wilson    us US    Pitcher            21    R    R    6' 1"    225    Dec 20, 1997    2016
+21    72    Patrick Weigel    us US    Pitcher            24    R    R    6' 6"    240    Jul 8, 1994    2013
+22    63    Jeremy Walker    us US    Pitcher            24    R    R    6' 5"    205    Jun 12, 1995    2014
+23    62    Touki Toussaint    us US    Pitcher            23    R    R    6' 3"    185    Jun 20, 1996    2014
+24    75    Grant Dayton    us US    Pitcher            31    L    L    6' 2"    210    Nov 25, 1987    2010
+25    61    Chad Sobotka    us US    Pitcher            25    R    R    6' 7"    225    Jul 10, 1993    2013
+26    17    Johan Camargo    pa PA    Position            25    S    R    6' 0"    195    Dec 13, 1993    2012
+27    27    Austin Riley    us US    Position            22    R    R    6' 3"    220    Apr 2, 1997    2015
+28    55    John Ryan Murphy    us US    Position            28    R    R    5' 11"    205    May 13, 1991    2009
+29    11    Ender Inciarte    ve VE    Position            28    L    L    5' 11"    190    Oct 29, 1990    2008

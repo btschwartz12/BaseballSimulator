@@ -1,0 +1,943 @@
+ Sports ReferenceBaseballFootball (college)Basketball (college)HockeySoccerBlogStatheadWidgetsQuestions or Comments?LoginCreate Account
+Baseball-Reference.com Logo & Link to home page
+Players
+Teams
+Seasons
+Leaders
+MLB Scores1
+MLB Playoffs
+Play Index
+Full Site Menu Below
+
+ 
+2019 Miami Marlins Logo
+via Sports Logos.net
+About logos
+2019 Miami Marlins Batting Statistics
+2018 Season
+Record: 57-105, 5th place in NL_East (Schedule and Results)
+Manager: Don Mattingly (57-105)
+President: Derek Jeter (CEO)
+General Manager: Mike Hill (President, Baseball Operations)
+Farm Director: Dick Scott
+Scouting Director: Gary Denbo
+Ballpark: Marlins Park
+More team info, park factors, postseason, & more
+Support us without the ads? Go Ad-Free.
+
+
+Watch this new video to find out more
+Ad By Sponsor
+
+2019 Miami Marlins
+Stats
+Schedule & Results
+40-Man Roster
+Uniforms
+Contracts
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Fielding
+Scoring
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+On this page:
+Team Batting Team Player Value--Batters Team Advanced Batting Team Batting Ratios* Team Win Probability* Team Baserunning/Misc* Team PH/HR/Situ Hitting* Team Pitches Batting* Team Neutralized Batting Team Cumulative Batting Full Site Menu
+Statheads want to know.
+
+Get scores, news and notes in your inbox every day. View a sample email. It's also available for football, basketball and hockey.
+
+Subscribe to our Stathead Newsletter
+
+Team Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+1	C	Jorge Alfaro	26	130	465	431	44	113	14	1	18	57	4	4	22	154	.262	.312	.425	.736	95	183	12	10	0	2	1
+2	1B	Garrett Cooper	28	107	421	381	52	107	16	1	15	50	0	0	33	110	.281	.344	.446	.791	110	170	10	5	0	2	0
+3	2B	Starlin Castro	29	162	676	636	68	172	31	4	22	86	2	2	28	111	.270	.300	.436	.736	94	277	23	3	0	9	2
+4	SS	Miguel Rojas	30	132	526	483	52	137	29	1	5	46	9	5	32	62	.284	.331	.379	.710	90	183	15	5	1	5	2
+5	3B	Brian Anderson	26	126	520	459	57	120	33	1	20	66	5	1	44	114	.261	.342	.468	.811	114	215	15	14	0	3	1
+6	LF	Curtis Granderson*	38	138	363	317	44	58	17	1	12	34	0	3	41	98	.183	.281	.356	.637	69	113	3	3	0	2	1
+7	CF	Lewis Brinson	25	75	248	226	15	39	9	1	0	15	1	1	13	74	.173	.236	.221	.457	24	50	8	6	2	1	1
+8	RF	Harold Ramirez	24	119	446	421	54	116	20	3	11	50	2	1	18	91	.276	.312	.416	.728	93	175	8	5	0	1	1
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+9	CI	Neil Walker#	33	115	381	337	37	88	19	1	8	38	3	0	42	77	.261	.344	.395	.738	98	133	8	1	0	1	1
+10	UT	Jon Berti	29	73	287	256	52	70	14	1	6	24	17	3	24	73	.273	.348	.406	.755	102	104	2	6	0	1	0
+11	CI	Martin Prado	35	104	260	245	26	57	9	0	2	15	0	0	12	41	.233	.265	.294	.559	50	72	10	0	0	3	0
+12	2B	Isan Diaz*	23	49	201	179	17	31	5	2	5	23	0	3	19	59	.173	.259	.307	.566	51	55	2	2	0	1	0
+13	LF	Austin Dean	25	64	189	178	17	40	14	0	6	21	0	2	9	47	.225	.261	.404	.665	74	72	5	0	1	1	1
+14	CF	JT Riddle*	27	51	139	132	15	25	6	0	6	12	0	0	5	42	.189	.230	.371	.601	57	49	3	2	0	0	1
+15	C	Bryan Holaday	31	43	129	115	12	32	6	0	4	12	0	1	11	21	.278	.344	.435	.779	107	50	5	1	1	1	2
+16	OF	Rosell Herrera#	26	63	119	105	10	21	6	0	2	11	4	1	11	27	.200	.288	.314	.602	62	33	2	2	1	0	1
+17	OF	Cesar Puello	28	32	97	84	8	15	2	0	1	6	0	0	7	30	.179	.281	.238	.519	42	20	1	5	1	0	1
+18	UT	Yadiel Rivera	27	34	66	60	8	11	2	0	0	3	2	0	6	20	.183	.258	.217	.474	30	13	1	0	0	0	0
+19	C	Chad Wallach	27	19	54	48	4	12	3	0	1	3	0	0	6	12	.250	.333	.375	.708	90	18	0	0	0	0	0
+20	OF	Isaac Galloway	29	19	54	54	6	9	1	0	0	1	2	0	0	17	.167	.167	.185	.352	-6	10	0	0	0	0	0
+21	OF	Peter O'Brien	28	14	47	42	2	7	1	0	1	4	1	0	4	19	.167	.255	.262	.517	40	11	2	1	0	0	0
+22	OF	Magneuris Sierra*	23	15	42	40	5	14	1	1	0	1	3	3	2	7	.350	.381	.425	.806	116	17	0	0	0	0	0
+23	C	Tyler Heineman#	28	5	12	11	1	3	1	0	1	2	0	0	0	4	.273	.273	.636	.909	131	7	0	0	1	0	0
+24	C	Wilkin Castillo#	35	2	7	7	0	1	1	0	0	2	0	0	0	3	.143	.143	.286	.429	10	2	0	0	0	0	0
+25	IF	Deven Marrero	28	5	5	5	0	0	0	0	0	0	0	0	0	3	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+26	P	Sandy Alcantara	23	31	63	58	2	5	1	0	0	4	0	0	1	46	.086	.117	.103	.220	-40	6	0	1	3	0	0
+27	P	Caleb Smith	27	27	49	43	2	10	2	0	0	3	0	0	0	15	.233	.250	.279	.529	42	12	2	1	5	0	0
+28	P	Pablo Lopez*	23	21	36	35	1	6	2	0	0	3	0	0	0	19	.171	.171	.229	.400	6	8	0	0	1	0	0
+29	P	Trevor Richards	26	22	34	30	2	3	0	0	0	0	0	0	2	18	.100	.156	.100	.256	-29	3	0	0	2	0	0
+30	P	Jordan Yamamoto	23	16	26	21	0	1	0	0	0	1	0	0	1	9	.048	.091	.048	.139	-61	1	1	0	4	0	0
+31	P	Elieser Hernandez	24	20	24	19	0	1	0	0	0	0	0	0	1	10	.053	.100	.053	.153	-57	1	0	0	4	0	0
+32	P	Jose Urena	27	24	22	19	1	0	0	0	0	0	0	0	1	14	.000	.050	.000	.050	-85	0	1	0	2	0	0
+33	P	Zac Gallen	23	6	11	10	1	1	0	0	0	0	0	0	0	5	.100	.100	.100	.200	-46	1	0	0	1	0	0
+34	P	Robert Dugger	23	7	11	11	0	0	0	0	0	0	0	0	0	6	.000	.000	.000	.000	-100	0	0	0	0	0	0
+35	P	Wei-Yin Chen	33	43	5	5	0	0	0	0	0	0	0	0	0	4	.000	.000	.000	.000	-100	0	0	0	0	0	0
+36	P	Hector Noesi	32	12	5	4	0	1	0	0	0	0	0	0	0	3	.250	.250	.250	.500	35	1	0	0	1	0	0
+37	P	Jose Quijada*	23	31	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+38	P	Tyler Kinley	28	49	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+39	P	Adam Conley*	29	56	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0
+40	P	Jarlin Garcia*	26	51	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+41	P	Jeff Brigham	27	32	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+42	P	Austin Brice	27	34	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+43	P	Josh Smith*	29	6	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+44	P	Drew Steckenrider	28	14	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+45	P	Ryne Stanek	27	22	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+46	P	Sergio Romo	36	32	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+47	P	Tayron Guerrero	28	48	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+48	P	Nick Anderson	28	41	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+49	P	Kyle Keller	26	9	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+50	P	Brian Moran*	30	10	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Team Totals	28.4	162	6045	5512	615	1326	265	18	146	593	55	30	395	1469	.241	.298	.375	.673	79	2065	139	73	31	33	16
+Rank in 15 NL teams				9	15	14	12	13	15		13	12	15	12	13	15	15	15		15		7		12	
+Non-Pitcher Totals	28.6	162	5754	5252	606	1298	260	18	146	582	55	30	389	1316	.247	.306	.387	.693	84	2032	135	71	8	33	16
+Pitcher Totals	24.7	162	291	260	9	28	5	0	0	11	0	0	6	153	.108	.134	.127	.261	-29	33	4	2	23	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - bats left-handed, # - bats both, else - bats right, ? - unknown; OPS_lg for OPS+ does not include pitchers.
+Team Player Value--Batters 
+League RegisterWAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+Sandy Alcantara	23	31	63	-12	0	0	0	10	-2	-0.2	0	-2	-0.2	.494	.499	-0.2	0.0	-2	$555,000	Traded	1
+Jorge Alfaro	26	130	465	-1	-4	1	-6	7	-3	-0.5	15	12	1.0	.498	.498	1.7	0.0	18	$570,000	Traded	*2/3D
+Brian Anderson	26	126	520	12	0	-1	13	-1	24	2.1	17	40	3.8	.519	.515	2.6	1.1	27	$585,000	Amateur Draft	59/D
+Nick Anderson	28	41	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$555,000	Traded	1
+Jon Berti	29	73	287	3	1	1	-2	2	6	0.5	9	16	1.4	.509	.504	1.7	0.0	18		Free Agency	685/79
+Austin Brice	27	34	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$555,000	Waivers	1
+Jeff Brigham	27	32	1	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Traded	1
+Lewis Brinson	25	75	248	-24	-1	-1	-3	1	-28	-3.0	8	-20	-2.2	.462	.482	-1.8	-0.3	-17	$570,000	Traded	89
+Wilkin Castillo#	35	2	7	-1	0	0	-1	0	-2	-0.2	0	-2	-0.2	.412	.499	-0.1	-0.1	-1		Free Agency	/2
+Starlin Castro	29	162	676	-9	-3	-1	-2	4	-11	-1.4	22	11	0.8	.493	.493	1.2	0.1	13	$11,857,143	Traded	*45/6
+Wei-Yin Chen	33	43	5	-1	0	0	0	1	-1	-0.1	0	-1	-0.1	.499	.500	-0.1	0.0	-1	$20,000,000	Free Agency	1
+Adam Conley*	29	56	1	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0	$1,125,000	Amateur Draft	1
+Garrett Cooper	28	107	421	8	-2	0	2	-6	3	0.1	14	16	1.4	.503	.502	1.4	-0.5	14	$555,000	Traded	39/D
+Austin Dean	25	64	189	-7	0	0	-7	-2	-17	-1.8	6	-11	-1.2	.473	.489	-0.5	-1.0	-4		Amateur Draft	7/39
+Isan Diaz*	23	49	201	-12	-1	0	0	1	-12	-1.3	7	-5	-0.7	.475	.492	-0.6	0.1	-5		Traded	4
+Robert Dugger	23	7	11	-3	0	0	0	2	-1	-0.1	0	-1	-0.1	.481	.499	-0.1	0.0	-1		Traded	/1
+Zac Gallen	23	6	11	-2	0	0	0	2	0	0.0	0	0	0.0	.493	.500	0.0	0.0	0		Traded	/1
+Isaac Galloway	29	19	54	-7	1	0	-2	0	-8	-0.9	2	-6	-0.7	.456	.495	-0.5	-0.2	-4		Free Agency	8/79
+Jarlin Garcia*	26	51	1	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0		Amateur Free Agent	1
+Curtis Granderson*	38	138	363	-10	-4	0	1	-3	-15	-1.7	12	-4	-0.6	.489	.490	-0.6	-0.3	-5	$1,750,000	Free Agency	7/9D
+Tayron Guerrero	28	48	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0	$565,000	Traded	1
+Tyler Heineman#	28	5	12	0	0	0	0	0	1	0.1	0	1	0.1	.511	.500	0.1	0.0	1		Purchased	/2
+Elieser Hernandez	24	20	24	-4	-1	0	0	4	-1	-0.1	0	-1	-0.1	.496	.500	-0.1	0.0	-1		Rule 5 Draft	1
+Rosell Herrera#	26	63	119	-7	1	1	-8	-1	-14	-1.4	4	-10	-1.0	.479	.492	-0.2	-0.9	-2	$560,000	Waivers	897/456
+Bryan Holaday	31	43	129	2	-2	-1	-3	2	-1	-0.1	4	3	0.3	.498	.500	0.6	-0.1	6		Free Agency	2/1
+Kyle Keller	26	9	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Draft	1
+Tyler Kinley	28	49	1	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0	$555,000	Rule 5 returned	1
+Pablo Lopez*	23	21	36	-5	0	0	0	6	0	0.0	0	1	0.0	.502	.500	0.1	0.0	0	$555,000	Traded	1
+Deven Marrero	28	5	5	-1	0	0	0	0	-1	-0.1	0	-1	-0.1	.473	.499	-0.1	0.0	-1		Free Agency	/65
+Brian Moran*	30	10	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Free Agency	1
+Hector Noesi	32	12	5	0	0	0	0	1	0	0.0	0	0	0.0	.503	.500	0.0	0.0	0		Free Agency	1
+Peter O'Brien	28	14	47	-4	0	0	-4	-1	-8	-0.9	2	-7	-0.7	.441	.495	-0.3	-0.5	-3		Purchased	9/73
+Martin Prado	35	104	260	-17	-1	-2	2	-2	-19	-2.1	8	-11	-1.3	.481	.488	-1.4	-0.1	-13	$15,000,000	Traded	35/D
+Cesar Puello	28	32	97	-7	0	0	7	0	1	0.0	3	4	0.3	.502	.500	-0.4	0.7	-3		Purchased	89
+Jose Quijada*	23	31	1	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Free Agent	1
+Harold Ramirez	24	119	446	-1	0	0	-5	-4	-10	-1.2	15	5	0.2	.492	.494	0.9	-1.0	10		Free Agency	*798
+Trevor Richards	26	22	34	-6	0	0	0	5	0	-0.1	0	0	-0.1	.498	.500	0.0	0.0	0	$570,000	Free Agency	1
+JT Riddle*	27	51	139	-9	0	0	0	1	-8	-0.9	5	-4	-0.4	.484	.495	-0.4	0.1	-3	$560,000	Amateur Draft	86
+Yadiel Rivera	27	34	66	-5	1	0	-2	0	-6	-0.7	2	-4	-0.5	.481	.496	-0.2	-0.2	-2		Free Agency	/563948
+Miguel Rojas	30	132	526	-7	-2	-1	12	6	9	0.7	17	26	2.4	.507	.506	1.3	1.7	14	$3,155,000	Traded	*6/34
+Sergio Romo	36	32	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$2,500,000	Free Agency	1
+Magneuris Sierra*	23	15	42	1	0	0	2	0	2	0.2	1	4	0.4	.515	.501	0.2	0.2	2		Traded	/89
+Caleb Smith	27	27	49	-3	0	0	0	7	3	0.3	0	3	0.3	.512	.502	0.3	0.0	3	$556,500	Traded	1
+Josh Smith*	29	6	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Waivers	/1
+Ryne Stanek	27	22	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Traded	1
+Drew Steckenrider	28	14	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$575,000	Amateur Draft	1
+Jose Urena	27	24	22	-5	0	0	0	3	-1	-0.1	0	-1	-0.1	.496	.499	-0.1	0.0	-1	$3,200,000	Amateur Free Agent	1
+Neil Walker#	33	115	381	0	0	0	0	-4	-4	-0.6	12	8	0.7	.497	.498	0.8	-0.5	8	$2,000,000	Free Agency	35/D4
+Chad Wallach	27	19	54	-1	0	0	-1	1	-1	-0.1	2	1	0.1	.495	.499	0.2	0.0	2	$555,000	Waivers	2
+Jordan Yamamoto	23	16	26	-6	0	0	0	4	-2	-0.2	0	-2	-0.2	.488	.499	-0.2	0.0	-2		Traded	1
+Team Total	28.4	2360	6045	-154	-17	-1	-7	51	-128	-15.6	187	59	2.8	.494	.498	5.1	-2.4	66	$69,583,643		
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+ Yahoo Search
+SPONSORED BY YAHOO SEARCH
+Senior Living Near Chagrin Falls - Here's the Cost
+Research Independent Senior Living on Yahoo Search
+
+SEE MORE
+
+Team Advanced Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Sandy Alcantara	23	63	56	1	0.5	105	.417	.086	.251	.117	.323	.103	.433	.220	.756	-40	.014	-11.8	-1.1	.151	.034	.017		1
+Jorge Alfaro	26	465	336	54	4.3	105	.364	.262	.251	.312	.323	.425	.433	.736	.756	95	.435	-4.0	-0.4	.656	.213	.162	6.5	*2/3D
+Brian Anderson	26	520	358	73	5.5	105	.305	.261	.251	.342	.323	.468	.433	.811	.756	114	.544	11.2	1.1	.783	.312	.207	8.0	59/D
+Nick Anderson	28	0	0														.000	0.0	0.0					1
+Jon Berti	29	287	192	40	5.6	105	.360	.273	.251	.348	.323	.406	.433	.755	.756	102	.554	1.6	0.2	.791	.281	.133	8.9	685/79
+Austin Brice	27	0	0														.000	0.0	0.0					1
+Jeff Brigham	27	1	1	0	0.0	105		.000	.251	.000	.323	.000	.433	.000	.756	-100	.000	-0.3	0.0	.000	.000	.000		1
+Lewis Brinson	25	248	199	11	1.5	105	.255	.173	.251	.236	.323	.221	.433	.457	.756	24	.098	-24.7	-2.4	.357	.106	.049	.0	89
+Wilkin Castillo#	35	7	6	0	0.0	105	.250	.143	.251	.143	.323	.286	.433	.429	.756	10	.000	-0.9	-0.1	.333	.143	.143		/2
+Starlin Castro	29	676	498	76	4.1	105	.293	.270	.251	.300	.323	.436	.433	.736	.756	94	.412	-6.2	-0.6	.634	.209	.165	3.7	*45/6
+Wei-Yin Chen	33	5	5	0	0.0	105	.000	.000	.251	.000	.323	.000	.433	.000	.756	-100	.000	-1.4	-0.1	.000	.000	.000		1
+Adam Conley*	29	1	1	0	0.0	105	.000	.000	.251	.000	.323	.000	.433	.000	.756	-100	.000	-0.3	0.0	.000	.000	.000		1
+Garrett Cooper	28	421	286	58	5.4	105	.357	.281	.251	.344	.323	.446	.433	.791	.756	110	.541	5.8	0.6	.732	.252	.165	.0	39/D
+Austin Dean	25	189	147	17	3.1	105	.270	.225	.251	.261	.323	.404	.433	.665	.756	74	.297	-6.6	-0.6	.559	.219	.180	.0	7/39
+Isan Diaz*	23	201	154	14	2.4	105	.224	.173	.251	.259	.323	.307	.433	.566	.756	51	.214	-13.0	-1.3	.497	.223	.134	.0	4
+Robert Dugger	23	11	11	0	0.0	105	.000	.000	.251	.000	.323	.000	.433	.000	.756	-100	.000	-3.2	-0.3	.000	.000	.000		/1
+Zac Gallen	23	11	10	0	0.0	105	.200	.100	.251	.100	.323	.100	.433	.200	.756	-46	.000	-2.1	-0.2	.111	.000	.000		/1
+Isaac Galloway	29	54	45	2	1.2	105	.243	.167	.251	.167	.323	.185	.433	.352	.756	-6	.068	-8.3	-0.8	.267	.056	.019	.0	8/79
+Jarlin Garcia*	26	1	1	0	0.0	105		.000	.251	.000	.323	.000	.433	.000	.756	-100	.000	-0.3	0.0	.000	.000	.000		1
+Curtis Granderson*	38	363	267	33	3.3	105	.220	.183	.251	.281	.323	.356	.433	.637	.756	69	.323	-13.7	-1.3	.592	.293	.174	.0	7/9D
+Tayron Guerrero	28	0	0														.000	0.0	0.0					1
+Tyler Heineman#	28	12	9	2	6.0	105	.333	.273	.251	.273	.323	.636	.433	.909	.756	131	.582	0.5	0.0	.875	.364	.364	.0	/2
+Elieser Hernandez	24	24	22	0	0.0	105	.111	.053	.251	.100	.323	.053	.433	.153	.756	-57	.000	-4.3	-0.4	.111	.053	.000		1
+Rosell Herrera#	26	119	88	10	3.1	105	.250	.200	.251	.288	.323	.314	.433	.602	.756	62	.290	-5.6	-0.5	.575	.248	.114	2.7	897/456
+Bryan Holaday	31	129	91	16	4.7	105	.308	.278	.251	.344	.323	.435	.433	.779	.756	107	.476	1.5	0.1	.697	.243	.157	.0	2/1
+Kyle Keller	26	0	0														.000	0.0	0.0					1
+Tyler Kinley	28	1	1	0	0.0	105		.000	.251	.000	.323	.000	.433	.000	.756	-100	.000	-0.3	0.0	.000	.000	.000		1
+Pablo Lopez*	23	36	30	1	0.9	105	.375	.171	.251	.171	.323	.229	.433	.400	.756	6	.041	-4.7	-0.5	.276	.057	.057		1
+Deven Marrero	28	5	5	0	0.0	105	.000	.000	.251	.000	.323	.000	.433	.000	.756	-100	.000	-1.4	-0.1	.000	.000	.000		/65
+Brian Moran*	30	0	0														.000	0.0	0.0					1
+Hector Noesi	32	5	4	0	0.0	105	1.000	.250	.251	.250	.323	.250	.433	.500	.756	35	.000	-0.4	0.0	.333	.000	.000		1
+Peter O'Brien	28	47	37	3	2.2	105	.273	.167	.251	.255	.323	.262	.433	.517	.756	40	.181	-3.7	-0.4	.459	.214	.095	1.0	9/73
+Martin Prado	35	260	201	17	2.3	105	.268	.233	.251	.265	.323	.294	.433	.559	.756	50	.193	-17.5	-1.7	.424	.110	.061	.0	35/D
+Cesar Puello	28	97	71	6	2.3	105	.264	.179	.251	.281	.323	.238	.433	.519	.756	42	.193	-6.9	-0.7	.457	.143	.060	.0	89
+Jose Quijada*	23	1	1	0	0.0	105		.000	.251	.000	.323	.000	.433	.000	.756	-100	.000	-0.3	0.0	.000	.000	.000		1
+Harold Ramirez	24	446	315	53	4.5	105	.328	.276	.251	.312	.323	.416	.433	.728	.756	93	.456	-5.0	-0.5	.637	.185	.140	3.4	*798
+Trevor Richards	26	34	29	1	0.9	105	.250	.100	.251	.156	.323	.100	.433	.256	.756	-29	.045	-5.6	-0.5	.185	.067	.000		1
+JT Riddle*	27	139	110	11	2.7	105	.226	.189	.251	.230	.323	.371	.433	.601	.756	57	.244	-8.6	-0.8	.509	.220	.182	.0	86
+Yadiel Rivera	27	66	50	4	2.2	105	.275	.183	.251	.258	.323	.217	.433	.474	.756	30	.178	-6.1	-0.6	.420	.167	.033	.0	/563948
+Miguel Rojas	30	526	372	59	4.3	105	.314	.284	.251	.331	.323	.379	.433	.710	.756	90	.430	-5.2	-0.5	.626	.170	.095	6.4	*6/34
+Sergio Romo	36	0	0														.000	0.0	0.0					1
+Magneuris Sierra*	23	42	29	6	5.6	105	.424	.350	.251	.381	.323	.425	.433	.806	.756	116	.550	0.8	0.1	.759	.125	.075	.0	/89
+Caleb Smith	27	49	40	3	2.0	105	.357	.233	.251	.250	.323	.279	.433	.529	.756	42	.160	-3.6	-0.3	.371	.047	.047		1
+Josh Smith*	29	0	0														.000	0.0	0.0					/1
+Ryne Stanek	27	0	0														.000	0.0	0.0					1
+Drew Steckenrider	28	0	0														.000	0.0	0.0					1
+Jose Urena	27	22	22	0	0.0	105	.000	.000	.251	.050	.323	.000	.433	.050	.756	-85	.000	-5.1	-0.5	.050	.053	.000		1
+Neil Walker#	33	381	258	47	4.9	105	.316	.261	.251	.344	.323	.395	.433	.738	.756	98	.493	0.2	0.0	.696	.267	.134	4.4	35/D4
+Chad Wallach	27	54	36	7	5.2	105	.314	.250	.251	.333	.323	.375	.433	.708	.756	90	.522	-0.5	-0.1	.667	.250	.125	.0	2
+Jordan Yamamoto	23	26	25	0	0.0	105	.083	.048	.251	.091	.323	.048	.433	.139	.756	-61	.000	-4.9	-0.5	.095	.048	.000		1
+League Average					4.9	110	.298	.250	.258	.322	.331	.429	.445	.751	.776	94	.495			.710	.283	.178		
+Team Total	28.4	6045	4419	625	3.8	105	.300	.241	.251	.298	.323	.375	.433	.673	.756	79	.379	-165.0	-15.9	.594	.210	.134	79.9	
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Team Batting Ratios* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+Sandy Alcantara	23	63	0.0%	73.0%	1.6%	1.6%	20%	46.00	1.3		14.5	2.67		19%	20%	0.0%	0%
+Jorge Alfaro	26	465	3.9%	33.1%	4.7%	7.1%	29%	7.00	2.8	23.9	7.6	1.08	1.82	56%	25%	14.0%	4%
+Brian Anderson	26	520	3.9%	21.9%	8.5%	10.4%	45%	2.59	4.0	23.0	7.0	0.84	1.20	63%	24%	12.0%	12%
+Jon Berti	29	287	2.1%	25.4%	8.4%	7.3%	30%	3.04	3.5	42.7	10.7	1.13	1.64	62%	25%	7.8%	10%
+Jeff Brigham	27	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Lewis Brinson	25	248	0.0%	29.8%	5.2%	4.0%	26%	5.69	3.1		15.1	1.05	1.21	62%	19%	0.0%	14%
+Wilkin Castillo#	35	7	0.0%	42.9%	0.0%	14.3%	100%		2.3		3.5	0.00	0.00	57%	50%	0.0%	0%
+Starlin Castro	29	676	3.3%	16.4%	4.1%	8.4%	33%	3.96	5.7	28.9	7.4	0.93	1.17	76%	22%	8.8%	10%
+Wei-Yin Chen	33	5	0.0%	80.0%	0.0%	0.0%			1.3			0.00	0.00	20%	100%	0.0%	0%
+Adam Conley*	29	1	0.0%	0.0%	0.0%	0.0%						0.00	0.00	100%	0%	0.0%	0%
+Garrett Cooper	28	421	3.6%	26.1%	7.8%	7.6%	30%	3.33	3.5	25.4	7.6	1.12	1.90	61%	27%	12.3%	5%
+Austin Dean	25	189	3.2%	24.9%	4.8%	10.6%	50%	5.22	3.8	29.7	8.5	0.83	1.16	67%	26%	9.1%	8%
+Isan Diaz*	23	201	2.5%	29.4%	9.5%	6.0%	39%	3.11	3.0	35.8	7.8	0.70	0.86	58%	15%	8.6%	17%
+Robert Dugger	23	11	0.0%	54.6%	0.0%	0.0%			1.8			0.67	0.67	45%	20%	0.0%	0%
+Zac Gallen	23	11	0.0%	45.5%	0.0%	0.0%	0%		2.0			1.50	4.00	45%	17%	0.0%	0%
+Isaac Galloway	29	54	0.0%	31.5%	0.0%	1.9%	11%		3.2		54.0	0.68	0.59	69%	30%	0.0%	32%
+Jarlin Garcia*	26	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Curtis Granderson*	38	363	3.3%	27.0%	11.3%	8.3%	52%	2.39	3.2	26.4	9.3	0.50	0.68	58%	25%	9.2%	10%
+Tyler Heineman#	28	12	8.3%	33.3%	0.0%	16.7%	67%		2.8	11.0	5.5	0.40	1.50	50%	38%	33.3%	40%
+Elieser Hernandez	24	24	0.0%	41.7%	4.2%	0.0%	0%	10.00	1.9			3.50	5.00	38%	8%	0.0%	50%
+Rosell Herrera#	26	119	1.7%	22.7%	9.2%	6.7%	38%	2.45	3.9	52.5	9.5	0.85	1.03	64%	24%	5.6%	12%
+Bryan Holaday	31	129	3.1%	16.3%	8.5%	7.8%	31%	1.91	5.5	28.8	9.6	0.98	1.19	71%	24%	10.3%	19%
+Tyler Kinley	28	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Pablo Lopez*	23	36	0.0%	52.8%	0.0%	5.6%	33%		1.8		11.7	1.33	2.25	44%	18%	0.0%	17%
+Deven Marrero	28	5	0.0%	60.0%	0.0%	0.0%			1.7			1.00	1.00	40%	50%	0.0%	0%
+Hector Noesi	32	5	0.0%	60.0%	0.0%	0.0%	0%		1.3					20%	0%		
+Peter O'Brien	28	47	2.1%	40.4%	8.5%	4.3%	29%	4.75	2.2	42.0	10.5	0.77	1.57	47%	22%	8.3%	8%
+Martin Prado	35	260	0.8%	15.8%	4.6%	4.2%	19%	3.42	6.0	122.5	16.3	0.99	1.19	79%	27%	2.1%	10%
+Cesar Puello	28	97	1.0%	30.9%	7.2%	3.1%	20%	4.29	2.8	84.0	14.0	1.84	2.64	55%	24%	5.3%	0%
+Jose Quijada*	23	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Harold Ramirez	24	446	2.5%	20.4%	4.0%	7.6%	29%	5.06	4.6	38.3	8.4	1.35	1.69	72%	23%	8.6%	9%
+Trevor Richards	26	34	0.0%	52.9%	5.9%	0.0%	0%	9.00	1.7			3.00	4.50	35%	7%	0.0%	33%
+JT Riddle*	27	139	4.3%	30.2%	3.6%	8.6%	48%	8.40	3.1	22.0	11.0	1.00	1.52	60%	19%	15.0%	11%
+Yadiel Rivera	27	66	0.0%	30.3%	9.1%	3.0%	18%	3.33	3.0		20.0	1.53	1.90	61%	15%	0.0%	13%
+Miguel Rojas	30	526	1.0%	11.8%	6.1%	6.7%	26%	1.94	7.8	96.6	10.5	0.90	1.03	80%	27%	2.4%	7%
+Magneuris Sierra*	23	42	0.0%	16.7%	4.8%	4.8%	14%	3.50	5.7		40.0	1.64	1.50	79%	15%	0.0%	18%
+Caleb Smith	27	49	0.0%	30.6%	0.0%	4.1%	20%		2.9		14.3	1.30	3.00	57%	18%	0.0%	0%
+Jose Urena	27	22	0.0%	63.6%	4.6%	0.0%		14.00	1.4					23%	0%		
+Neil Walker#	33	381	2.1%	20.2%	11.0%	7.4%	32%	1.83	4.4	42.1	8.9	0.74	1.08	66%	30%	5.8%	7%
+Chad Wallach	27	54	1.9%	22.2%	11.1%	7.4%	33%	2.00	4.0	48.0	16.0	0.80	0.85	65%	17%	5.3%	5%
+Jordan Yamamoto	23	26	0.0%	34.6%	3.9%	0.0%	0%	9.00	2.3		21.0	4.50	15.00	46%	13%	0.0%	0%
+League Average			3.5%	23.0%	8.5%	8.5%	38%	2.70	3.9	25.4	7.5	0.78	1.08	63%	25%	10.6%	11%
+Team Total	28.4	6045	2.4%	24.3%	6.5%	7.1%	32%	3.72	3.8	37.8	9.3	0.95	1.28	65%	24%	7.8%	10%
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+ Yahoo Search
+SPONSORED BY YAHOO SEARCH
+Senior Living Near Chagrin Falls - Here's the Cost
+Research Independent Senior Living on Yahoo Search
+
+SEE MORE
+
+Team Win Probability* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Sandy Alcantara	23	63	-11.8	-1.1	63	-0.6	0.5	-1.1	.88	-1.0	0.3	-7.1	-0.7	0.83	-11.4		0
+Jorge Alfaro	26	465	-4.0	-0.4	481	-1.8	7.4	-9.2	1.05	-0.8	-0.9	-10.3	-1.0	0.96	-6.2	1.82	12
+Brian Anderson	26	520	11.2	1.1	532	0.0	8.7	-8.7	.93	1.3	-1.3	16.6	1.6	0.90	14.8	1.92	5
+Jon Berti	29	287	1.6	0.2	310	0.3	5.4	-5.1	1.02	0.4	-0.1	5.0	0.5	0.91	7.3	1.85	5
+Jeff Brigham	27	1	-0.3	0.0	1	0.0	0.0	0.0	.21	0.0	0.0	-0.2	0.0	0.74	-0.3		0
+Lewis Brinson	25	248	-24.7	-2.4	252	-2.7	2.7	-5.4	1.06	-2.5	-0.1	-22.3	-2.2	0.90	-26.9	0.51	7
+Wilkin Castillo#	35	7	-0.9	-0.1	7	0.3	0.4	-0.1	1.01	0.0	0.3	0.7	0.1	0.81	-0.4		0
+Starlin Castro	29	676	-6.2	-0.6	685	0.0	12.5	-12.5	1.03	-1.3	1.3	-8.6	-0.8	0.94	-9.9	2.25	2
+Wei-Yin Chen	33	5	-1.4	-0.1	5	0.0	0.0	0.0	.21	-0.1	0.0	-1.0	-0.1	0.64	-1.5		0
+Adam Conley*	29	1	-0.3	0.0	1	-0.1	0.0	-0.1	2.36	0.0	0.0	-0.3	0.0	0.86	-0.3		0
+Garrett Cooper	28	421	5.8	0.6	424	0.4	7.4	-7.0	.94	0.8	-0.3	8.9	0.9	0.90	9.7	0.46	5
+Austin Dean	25	189	-6.6	-0.6	191	-0.8	2.9	-3.7	1.03	-0.5	-0.2	-5.1	-0.5	0.87	-4.8	1.37	15
+Isan Diaz*	23	201	-13.0	-1.3	205	-0.3	3.5	-3.8	1.03	-1.0	0.8	-5.4	-0.5	0.94	-12.7	0.08	1
+Robert Dugger	23	11	-3.2	-0.3	11	-0.3	0.0	-0.3	.89	-0.3	0.0	-2.4	-0.2	0.71	-3.3		0
+Zac Gallen	23	11	-2.1	-0.2	11	-0.3	0.0	-0.3	1.15	-0.2	0.0	-2.6	-0.3	0.95	-2.4		0
+Isaac Galloway	29	54	-8.3	-0.8	57	-0.7	0.6	-1.3	1.18	-0.6	0.0	-5.9	-0.6	0.96	-7.5	1.62	4
+Jarlin Garcia*	26	1	-0.3	0.0	1	0.0	0.0	0.0	.31	0.0	0.0	-0.2	0.0	0.74	-0.3		0
+Curtis Granderson*	38	363	-13.7	-1.3	371	-1.5	5.3	-6.8	.98	-0.5	-1.0	-5.3	-0.5	0.90	-5.8	1.37	46
+Tyler Heineman#	28	12	0.5	0.0	12	0.1	0.3	-0.3	1.27	0.0	0.0	-0.1	0.0	0.87	-0.3	0.15	3
+Elieser Hernandez	24	24	-4.3	-0.4	24	-0.5	0.1	-0.5	1.03	-0.5	0.0	-5.6	-0.6	1.01	-5.2		0
+Rosell Herrera#	26	119	-5.6	-0.5	127	-0.4	1.9	-2.3	1.05	-0.5	0.1	-3.5	-0.3	0.95	-4.0	0.78	21
+Bryan Holaday	31	129	1.5	0.1	131	-0.9	1.8	-2.7	1.00	0.0	-0.9	-2.6	-0.3	0.93	-0.4	2.23	4
+Tyler Kinley	28	1	-0.3	0.0	1	0.0	0.0	0.0	1.13	0.0	0.0	-0.2	0.0	0.86	-0.3		0
+Pablo Lopez*	23	36	-4.7	-0.5	36	-0.9	0.2	-1.0	1.10	-0.6	-0.1	-6.4	-0.6	1.04	-7.0	1.79	1
+Deven Marrero	28	5	-1.4	-0.1	5	0.0	0.0	0.0	.36	-0.1	0.0	-0.8	-0.1	0.62	-1.3	0.08	3
+Hector Noesi	32	5	-0.4	0.0	5	-0.1	0.0	-0.1	1.03	-0.1	0.0	-0.9	-0.1	0.95	-0.7		0
+Peter O'Brien	28	47	-3.7	-0.4	49	-0.6	0.7	-1.2	1.22	-0.2	-0.3	-4.0	-0.4	0.91	-2.4	2.48	1
+Martin Prado	35	260	-17.5	-1.7	261	-0.7	4.1	-4.8	1.00	-1.5	0.8	-14.3	-1.4	0.90	-19.0	1.19	43
+Cesar Puello	28	97	-6.9	-0.7	99	-0.3	1.7	-1.9	1.09	-0.6	0.4	-4.0	-0.4	0.91	-6.8	2.23	4
+Jose Quijada*	23	1	-0.3	0.0	1	0.0	0.0	0.0	.87	0.0	0.0	-0.2	0.0	0.61	-0.3		0
+Harold Ramirez	24	446	-5.0	-0.5	460	1.1	8.9	-7.7	1.03	0.1	1.0	3.6	0.4	0.92	-0.9	1.38	13
+Trevor Richards	26	34	-5.6	-0.5	34	-0.6	0.1	-0.7	.92	-0.6	-0.1	-6.0	-0.6	0.90	-6.1	0.92	1
+JT Riddle*	27	139	-8.6	-0.8	140	-1.2	1.6	-2.8	.96	-1.0	-0.2	-8.9	-0.9	0.88	-10.1	0.46	12
+Yadiel Rivera	27	66	-6.1	-0.6	70	-0.5	0.9	-1.4	1.00	-0.4	-0.1	-4.3	-0.4	0.90	-5.2	1.20	8
+Miguel Rojas	30	526	-5.2	-0.5	549	-1.7	8.6	-10.3	1.06	-1.1	-0.5	-18.0	-1.8	0.94	-16.0	0.66	3
+Magneuris Sierra*	23	42	0.8	0.1	49	-0.4	0.9	-1.3	1.37	-0.1	-0.2	-2.2	-0.2	0.95	-0.7	2.83	2
+Caleb Smith	27	49	-3.6	-0.3	49	-0.3	0.6	-0.9	1.00	-0.4	0.2	-2.9	-0.3	0.97	-4.7	0.02	1
+Jose Urena	27	22	-5.1	-0.5	22	-0.5	0.1	-0.6	1.18	-0.5	0.1	-4.8	-0.5	0.98	-5.4		0
+Neil Walker#	33	381	0.2	0.0	386	-0.5	6.6	-7.1	1.06	-0.9	0.5	-4.9	-0.5	0.94	-6.1	1.14	23
+Chad Wallach	27	54	-0.5	-0.1	55	0.2	1.2	-0.9	.97	0.1	0.2	0.1	0.0	0.81	0.1	1.09	6
+Jordan Yamamoto	23	26	-4.9	-0.5	26	-0.5	0.1	-0.6	1.00	-0.5	0.0	-5.6	-0.6	0.97	-5.6	1.35	1
+League Average									.99								
+Team Total	28.4	6045	-165.0	-15.9	6199	-17.0	97.6	-114.5	1.02	-16.0	-0.7	-141.7	-14.1	0.92	-170.2	1.22	252
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Team Baserunning/Misc*
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Sandy Alcantara
+Jorge Alfaro
+Brian Anderson
+Jon Berti
+Jeff Brigham
+Lewis Brinson
+Wilkin Castillo#
+Starlin Castro
+Wei-Yin Chen
+Adam Conley*
+Garrett Cooper
+Austin Dean
+Isan Diaz*
+Robert Dugger
+Zac Gallen
+Isaac Galloway
+Jarlin Garcia*
+Curtis Granderson*
+Tyler Heineman#
+Elieser Hernandez
+Rosell Herrera#
+Bryan Holaday
+Tyler Kinley
+Pablo Lopez*
+Deven Marrero
+Hector Noesi
+Peter O'Brien
+Martin Prado
+Cesar Puello
+Jose Quijada*
+Harold Ramirez
+Trevor Richards
+JT Riddle*
+Yadiel Rivera
+Miguel Rojas
+Magneuris Sierra*
+Caleb Smith
+Jose Urena
+Neil Walker#
+Chad Wallach
+Jordan Yamamoto
+League Average
+Team Total
+Name
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Sandy Alcantara	23	63	0	0	29%	5	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	50%	0	0	0	2	1	1	0	0	0
+Jorge Alfaro	26	465	5	0	21%	182	4	4	50%	4	4	0	0	0	0	2	1	6	2	3	0	1	12	26%	33	28	5	2	1	0	12	4	7
+Brian Anderson	26	520	6	0	23%	188	5	1	83%	5	1	0	0	0	0	0	0	4	0	1	2	1	9	42%	26	18	8	5	2	3	12	4	7
+Jon Berti	29	287	4	0	47%	135	17	3	85%	14	3	3	0	0	0	2	1	2	0	1	1	0	5	53%	19	14	5	8	2	6	22	6	15
+Jeff Brigham	27	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Lewis Brinson	25	248	2	0	25%	76	1	1	50%	1	1	0	0	0	0	1	1	3	0	2	1	0	4	29%	8	6	2	2	2	0	7	4	3
+Wilkin Castillo#	35	7	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Starlin Castro	29	676	3	0	25%	221	2	2	50%	2	2	0	0	0	0	0	0	4	0	1	1	2	5	37%	29	21	8	8	4	4	14	6	7
+Wei-Yin Chen	33	5	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Adam Conley*	29	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Garrett Cooper	28	421	4	0	29%	157	0	0		0	0	0	0	0	0	0	0	4	1	2	0	1	6	25%	21	19	2	7	5	2	12	5	6
+Austin Dean	25	189	1	0	25%	58	0	2	0%	0	2	0	0	0	0	0	0	0	0	0	0	0	3	70%	5	1	4	1	0	1	4	2	2
+Isan Diaz*	23	201	2	0	26%	50	0	3	0%	0	2	0	0	0	1	0	0	5	1	2	1	1	1	46%	8	4	4	4	1	2	1	0	0
+Robert Dugger	23	11	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Zac Gallen	23	11	0	0	100%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	100%	0	0	0	0	0	0	1	0	1
+Isaac Galloway	29	54	1	0	60%	19	2	0	100%	2	0	0	0	0	0	0	0	0	0	0	0	0	3	50%	2	2	0	0	0	0	2	0	2
+Jarlin Garcia*	26	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Curtis Granderson*	38	363	7	0	36%	116	0	3	0%	0	2	0	0	0	1	0	0	3	0	0	1	2	8	21%	18	13	4	9	7	2	11	7	2
+Tyler Heineman#	28	12	0	0	0%	4	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Elieser Hernandez	24	24	1	0	0%	4	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	2	2	0	0	0	0	0	0	0
+Rosell Herrera#	26	119	0	0	21%	43	4	1	80%	4	1	0	0	0	0	0	0	3	1	1	1	0	3	38%	4	2	2	0	0	0	4	3	1
+Bryan Holaday	31	129	3	0	20%	48	0	1	0%	0	1	0	0	0	0	0	0	1	0	0	0	1	2	17%	4	3	1	3	2	0	5	4	1
+Tyler Kinley	28	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Pablo Lopez*	23	36	0	0	17%	5	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	0	0	0	1	1	0	1	1	0
+Deven Marrero	28	5	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	100%	1	0	1	0	0	0	0	0	0
+Hector Noesi	32	5	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Peter O'Brien	28	47	0	0	9%	13	1	0	100%	1	0	0	0	0	0	0	0	0	0	0	0	0	1	50%	0	0	0	1	1	0	1	0	1
+Martin Prado	35	260	2	0	36%	79	0	0		0	0	0	0	0	0	0	0	1	0	0	0	1	4	30%	15	11	4	5	4	1	7	4	3
+Cesar Puello	28	97	1	0	26%	36	0	0		0	0	0	0	0	0	0	0	1	0	1	0	0	2	20%	4	4	0	1	0	1	0	0	0
+Jose Quijada*	23	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Harold Ramirez	24	446	8	1	34%	164	2	1	67%	1	1	1	0	0	0	1	0	2	0	0	1	1	9	46%	20	14	5	10	3	7	11	3	7
+Trevor Richards	26	34	0	0	40%	8	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	1	1	0	1	1	0	0	0	0
+JT Riddle*	27	139	0	0	32%	42	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	36%	6	3	3	1	1	0	7	5	2
+Yadiel Rivera	27	66	1	0	40%	27	2	0	100%	2	0	0	0	0	0	0	0	0	0	0	0	0	2	75%	1	0	1	0	0	0	3	1	2
+Miguel Rojas	30	526	3	0	28%	213	9	5	64%	8	3	1	1	0	1	2	1	9	2	2	2	3	9	37%	27	20	7	8	5	3	14	5	8
+Magneuris Sierra*	23	42	0	0	28%	18	3	3	50%	2	2	1	0	0	1	0	0	0	0	0	0	0	1	100%	0	0	0	1	0	1	1	0	1
+Caleb Smith	27	49	1	0	17%	15	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	1	1	0	2	2	0	0	0	0
+Jose Urena	27	22	1	0	50%	3	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	0	0	0	0	0	0	1	1	0
+Neil Walker#	33	381	2	0	24%	123	3	0	100%	3	0	0	0	0	0	0	0	1	0	0	0	1	6	28%	14	14	0	9	5	4	9	3	5
+Chad Wallach	27	54	0	0	17%	17	0	0		0	0	0	0	0	0	0	0	1	0	1	0	0	0	33%	2	1	1	0	0	0	1	1	0
+Jordan Yamamoto	23	26	0	0	0%	6	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	1	1	0	0	0	0	0	0	0
+League Average					31%				74%															42%									
+Team Total	28.4	6045	58	1	28%	2080	55	30	65%	49	25	6	1	0	4	8	4	50	7	17	11	15	97	36%	272	203	67	91	50	38	163	69	83
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Support us without the ads? Go Ad-Free.
+Team PH/HR/Situ Hitting*
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+|
+Name
+Sandy Alcantara
+Jorge Alfaro
+Brian Anderson
+Jon Berti
+Jeff Brigham
+Lewis Brinson
+Wilkin Castillo#
+Starlin Castro
+Wei-Yin Chen
+Adam Conley*
+Garrett Cooper
+Austin Dean
+Isan Diaz*
+Robert Dugger
+Zac Gallen
+Isaac Galloway
+Jarlin Garcia*
+Curtis Granderson*
+Tyler Heineman#
+Elieser Hernandez
+Rosell Herrera#
+Bryan Holaday
+Tyler Kinley
+Pablo Lopez*
+Deven Marrero
+Hector Noesi
+Peter O'Brien
+Martin Prado
+Cesar Puello
+Jose Quijada*
+Harold Ramirez
+Trevor Richards
+JT Riddle*
+Yadiel Rivera
+Miguel Rojas
+Magneuris Sierra*
+Caleb Smith
+Jose Urena
+Neil Walker#
+Chad Wallach
+Jordan Yamamoto
+League Average
+Team Total
+Name
+Hits	Pinch Hitting	Home Runs	SH	GIDP	PrdOut	BaseRunners	Advances	
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Sandy Alcantara	23	63	14.3%	5	1	1	0	0	0	0		0	0	2	0	0	0	0	0	4	3	75.0%	8	0	0.0%	11	1	9.1%	28	4	14.3%	2	1	50.0%	2	1	50.0%	0
+Jorge Alfaro	26	465	25.4%	113	13	0	12	1	0	1	1.82	18	1	17	12	6	7	11	0	0	0		97	12	12.4%	41	10	24.4%	302	39	12.9%	35	15	42.9%	14	9	64.3%	0
+Brian Anderson	26	520	23.7%	120	12	0	5	0	0	0	1.92	20	2	9	14	6	10	10	0	0	0		112	15	13.4%	38	10	26.3%	282	47	16.7%	20	14	70.0%	19	7	36.8%	0
+Jon Berti	29	287	20.2%	70	10	0	5	1	0	0	1.85	6	0	4	2	4	3	3	0	1	0	0.0%	40	2	5.0%	19	6	31.6%	136	18	13.2%	16	10	62.5%	7	3	42.9%	0
+Jeff Brigham	27	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Lewis Brinson	25	248	25.8%	39	6	0	7	0	0	0	0.51	0	0	4	0	0	0	0	0	2	2	100.0%	49	8	16.3%	22	7	31.8%	135	15	11.1%	12	7	58.3%	12	6	50.0%	0
+Wilkin Castillo#	35	7	100.0%	1	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		2	2	100.0%	0	0		0	0		0
+Starlin Castro	29	676	25.7%	172	24	0	2	0	0	1	2.25	22	0	13	13	9	11	11	0	0	0		130	23	17.7%	61	23	37.7%	417	65	15.6%	29	19	65.5%	33	20	60.6%	0
+Wei-Yin Chen	33	5	20.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Adam Conley*	29	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Garrett Cooper	28	421	27.8%	107	8	0	5	0	0	0	0.46	15	2	8	10	5	6	9	0	0	0		77	10	13.0%	35	10	28.6%	235	38	16.2%	19	13	68.4%	18	6	33.3%	0
+Austin Dean	25	189	34.4%	40	1	0	15	5	0	0	1.37	6	0	2	4	2	4	2	0	1	1	100.0%	28	5	17.9%	10	4	40.0%	90	15	16.7%	7	6	85.7%	7	4	57.1%	0
+Isan Diaz*	23	201	78.1%	31	3	1	1	0	0	0	0.08	5	0	5	4	1	2	3	0	1	0	0.0%	38	2	5.3%	14	5	35.7%	107	20	18.7%	6	6	100.0%	8	3	37.5%	0
+Robert Dugger	23	11	36.4%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		2	0	0.0%	4	0	0.0%	1	0	0.0%	0	0		0
+Zac Gallen	23	11	45.5%	1	0	0	0	0	0	0		0	0	1	0	0	0	0	0	1	1	100.0%	3	0	0.0%	3	0	0.0%	8	0	0.0%	0	0		0	0		0
+Isaac Galloway	29	54	27.8%	9	2	0	4	1	0	0	1.62	0	0	0	0	0	0	0	0	0	0		9	0	0.0%	5	2	40.0%	32	1	3.1%	1	1	100.0%	2	2	100.0%	0
+Jarlin Garcia*	26	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		1	0	0.0%	0	0		0	0		0
+Curtis Granderson*	38	363	83.5%	58	3	2	46	9	4	4	1.37	12	0	6	11	1	8	4	0	1	0	0.0%	38	3	7.9%	20	6	30.0%	171	23	13.5%	10	5	50.0%	10	6	60.0%	0
+Tyler Heineman#	28	12	100.0%	3	0	0	3	1	0	0	0.15	1	0	0	1	0	0	1	0	1	1	100.0%	2	0	0.0%	2	1	50.0%	5	1	20.0%	1	1	100.0%	0	0		0
+Elieser Hernandez	24	24	20.8%	1	0	0	0	0	0	0		0	0	0	0	0	0	0	0	4	4	100.0%	7	0	0.0%	8	4	50.0%	20	0	0.0%	2	0	0.0%	2	2	100.0%	0
+Rosell Herrera#	26	119	100.0%	21	5	0	21	6	2	3	0.78	2	0	5	1	1	1	1	0	3	1	33.3%	22	2	9.1%	15	4	26.7%	78	10	12.8%	10	3	30.0%	6	4	66.7%	0
+Bryan Holaday	31	129	27.1%	32	4	0	4	2	0	1	2.23	4	0	2	4	0	0	4	0	1	1	100.0%	23	5	21.7%	14	5	35.7%	75	8	10.7%	5	2	40.0%	8	4	50.0%	0
+Tyler Kinley	28	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Pablo Lopez*	23	36	66.7%	6	1	0	1	0	0	0	1.79	0	0	2	0	0	0	0	0	3	1	33.3%	9	0	0.0%	11	0	0.0%	33	3	9.1%	4	1	25.0%	2	1	50.0%	0
+Deven Marrero	28	5	20.0%	0	0	0	3	0	0	0	0.08	0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Hector Noesi	32	5	0.0%	1	0	0	0	0	0	0		0	0	0	0	0	0	0	0	1	1	100.0%	1	0	0.0%	1	1	100.0%	3	0	0.0%	0	0		0	0		0
+Peter O'Brien	28	47	31.9%	7	1	0	1	0	0	0	2.48	1	0	1	1	0	0	1	0	0	0		9	2	22.2%	5	0	0.0%	27	3	11.1%	2	1	50.0%	3	1	33.3%	0
+Martin Prado	35	260	40.8%	57	6	0	43	9	0	3	1.19	2	0	4	2	0	0	2	0	0	0		50	10	20.0%	23	6	26.1%	131	13	9.9%	13	6	46.2%	6	5	83.3%	0
+Cesar Puello	28	97	36.1%	15	3	0	4	0	0	1	2.23	1	0	3	1	0	0	1	0	1	1	100.0%	14	1	7.1%	5	1	20.0%	52	6	11.5%	5	3	60.0%	2	0	0.0%	0
+Jose Quijada*	23	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Harold Ramirez	24	446	27.8%	116	26	0	13	2	0	0	1.38	11	0	9	9	2	5	6	0	0	0		76	8	10.5%	37	15	40.5%	244	42	17.2%	27	17	63.0%	15	7	46.7%	0
+Trevor Richards	26	34	20.6%	3	1	0	1	0	0	0	0.92	0	0	1	0	0	0	0	0	2	2	100.0%	4	0	0.0%	9	2	22.2%	18	1	5.6%	2	0	0.0%	2	1	50.0%	0
+JT Riddle*	27	139	81.3%	25	1	0	12	4	1	1	0.46	6	0	4	3	3	3	3	0	0	0		25	3	12.0%	12	3	25.0%	67	7	10.5%	6	2	33.3%	4	2	50.0%	0
+Yadiel Rivera	27	66	47.0%	11	3	1	8	2	0	1	1.20	0	0	1	0	0	0	0	0	2	0	0.0%	13	1	7.7%	7	0	0.0%	36	3	8.3%	3	0	0.0%	4	2	50.0%	0
+Miguel Rojas	30	526	28.5%	137	15	0	3	1	0	0	0.66	5	0	12	2	3	3	2	0	2	1	50.0%	89	15	16.9%	48	16	33.3%	277	41	14.8%	23	15	65.2%	11	7	63.6%	0
+Magneuris Sierra*	23	42	95.2%	14	4	3	2	1	0	0	2.83	0	0	1	0	0	0	0	0	1	0	0.0%	5	0	0.0%	2	0	0.0%	20	2	10.0%	3	1	33.3%	1	1	100.0%	0
+Caleb Smith	27	49	46.9%	10	4	1	1	0	0	0	0.02	0	0	2	0	0	0	0	0	10	5	50.0%	11	2	18.2%	12	3	25.0%	33	5	15.2%	3	2	66.7%	1	0	0.0%	0
+Jose Urena	27	22	22.7%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	6	2	33.3%	6	1	16.7%	7	1	14.3%	13	0	0.0%	0	0		2	0	0.0%	0
+Neil Walker#	33	381	100.0%	88	9	0	23	7	2	5	1.14	8	0	12	8	0	4	4	0	0	0		76	8	10.5%	28	7	25.0%	243	30	12.4%	20	12	60.0%	20	13	65.0%	0
+Chad Wallach	27	54	29.6%	12	0	0	6	2	0	0	1.09	1	0	0	1	0	1	0	0	0	0		7	0	0.0%	0	0		20	2	10.0%	0	0		0	0		0
+Jordan Yamamoto	23	26	19.2%	1	0	0	1	0	0	0	1.35	0	0	0	0	0	0	0	0	5	4	80.0%	5	1	20.0%	6	2	33.3%	16	1	6.3%	2	1	50.0%	1	1	100.0%	0
+League Average			51.9%																			65.4%			10.2%			26.9%			14.8%			51.3%			51.5%	
+Team Total	28.4	6045	40.8%	1326	166	9	252	54	9	21	1.22	146	5	130	103	43	68	78	0	53	31	58.5%	1083	139	12.8%	533	155	29.1%	3363	465	13.8%	289	164	56.8%	222	118	53.2%	0
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Team Pitches Batting*
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Sandy Alcantara
+Jorge Alfaro
+Brian Anderson
+Jon Berti
+Jeff Brigham
+Lewis Brinson
+Wilkin Castillo#
+Starlin Castro
+Wei-Yin Chen
+Adam Conley*
+Garrett Cooper
+Austin Dean
+Isan Diaz*
+Robert Dugger
+Zac Gallen
+Isaac Galloway
+Jarlin Garcia*
+Curtis Granderson*
+Tyler Heineman#
+Elieser Hernandez
+Rosell Herrera#
+Bryan Holaday
+Tyler Kinley
+Pablo Lopez*
+Deven Marrero
+Hector Noesi
+Peter O'Brien
+Martin Prado
+Cesar Puello
+Jose Quijada*
+Harold Ramirez
+Trevor Richards
+JT Riddle*
+Yadiel Rivera
+Miguel Rojas
+Magneuris Sierra*
+Caleb Smith
+Jose Urena
+Neil Walker#
+Chad Wallach
+Jordan Yamamoto
+League Average
+Team Total
+Name
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Sandy Alcantara	23	63	234	3.71	177	75.6%	41.2%	35.0%	15.3%	8.5%	58.8%	0.0%	44.4%	40.4%	28.6%	1.6%	1	0	4.8%	3	1	3.2%	2	0	14	30	30.4%	0	0	0
+Jorge Alfaro	26	465	1727	3.71	1203	69.7%	12.4%	33.7%	30.8%	23.2%	87.6%	0.0%	61.0%	61.6%	47.7%	2.6%	12	3	9.7%	45	29	3.9%	18	11	12	142	7.8%	0	0	0
+Brian Anderson	26	520	1926	3.70	1236	64.2%	26.0%	20.3%	25.6%	28.2%	74.0%	0.0%	47.5%	72.6%	32.5%	4.0%	21	0	13.3%	69	27	8.5%	44	21	15	99	13.2%	0	0	0
+Jon Berti	29	287	1171	4.08	741	63.3%	34.3%	16.2%	24.7%	24.8%	65.7%	0.0%	41.6%	75.4%	21.6%	4.5%	13	0	12.9%	37	13	10.5%	30	13	17	56	23.3%	0	0	0
+Jeff Brigham	27	1	4	4.00	3	75.0%	33.3%	66.7%	0.0%	0.0%	66.7%	0.0%	50.0%	0.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	0	100.0%	0	0	0
+Lewis Brinson	25	250	970	3.88	637	65.7%	20.1%	26.2%	29.4%	24.3%	79.9%	0.0%	52.5%	67.2%	29.2%	1.6%	4	1	11.6%	29	22	6.0%	15	10	10	64	13.5%	0	0	0
+Wilkin Castillo#	35	7	17	2.43	15	88.2%	20.0%	26.7%	26.7%	26.7%	80.0%	0.0%	70.6%	66.7%	42.9%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	3	0.0%	0	0	0
+Starlin Castro	29	677	2492	3.68	1641	65.9%	25.5%	14.3%	27.7%	32.5%	74.5%	0.0%	49.1%	80.9%	31.8%	4.7%	32	8	14.9%	101	34	8.1%	55	34	16	95	14.4%	0	0	0
+Wei-Yin Chen	33	5	20	4.00	16	80.0%	43.8%	31.3%	18.8%	6.3%	56.3%	0.0%	45.0%	44.4%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	3	25.0%	0	0	0
+Adam Conley*	29	1	4	4.00	3	75.0%	0.0%	33.3%	33.3%	33.3%	100.0%	0.0%	75.0%	66.7%	100.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Garrett Cooper	28	421	1707	4.05	1137	66.6%	27.4%	17.0%	31.8%	23.9%	72.6%	0.0%	48.4%	76.6%	30.2%	3.8%	16	0	11.9%	50	10	9.3%	39	22	29	81	26.4%	0	0	0
+Austin Dean	25	189	711	3.76	474	66.7%	25.7%	16.2%	30.0%	28.1%	74.3%	0.0%	49.5%	78.1%	22.8%	2.6%	5	0	13.8%	26	13	6.9%	13	7	5	42	10.6%	0	0	0
+Isan Diaz*	23	201	820	4.08	491	59.9%	36.9%	17.7%	20.8%	24.6%	63.1%	0.0%	37.8%	71.9%	22.4%	4.0%	8	0	14.4%	29	13	12.4%	25	14	24	35	40.7%	0	0	0
+Robert Dugger	23	11	33	3.00	25	75.8%	16.0%	44.0%	20.0%	20.0%	84.0%	0.0%	63.6%	47.6%	72.7%	0.0%	0	0	18.2%	2	2	0.0%	0	0	1	5	16.7%	0	0	0
+Zac Gallen	23	11	44	4.00	33	75.0%	30.3%	15.2%	36.4%	18.2%	69.7%	0.0%	52.3%	78.3%	54.5%	0.0%	0	0	0.0%	0	0	0.0%	0	0	3	1	60.0%	0	0	0
+Isaac Galloway	29	54	192	3.56	133	69.3%	22.6%	29.3%	20.3%	27.8%	77.4%	0.0%	53.6%	62.1%	27.8%	1.9%	1	0	7.4%	4	3	5.6%	3	3	4	13	23.5%	0	0	0
+Jarlin Garcia*	26	1	3	3.00	3	100.0%	66.7%	33.3%	0.0%	0.0%	33.3%		33.3%	0.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	0	100.0%	0	0	0
+Curtis Granderson*	38	364	1573	4.32	970	61.7%	35.6%	16.0%	25.7%	22.8%	64.4%	0.0%	39.7%	75.2%	9.1%	3.8%	14	2	12.9%	47	20	7.7%	28	20	23	75	23.5%	0	0	0
+Tyler Heineman#	28	12	47	3.92	35	74.5%	25.7%	22.9%	28.6%	22.9%	74.3%	0.0%	55.3%	69.2%	25.0%	0.0%	0	0	16.7%	2	0	0.0%	0	0	1	3	25.0%	0	0	0
+Elieser Hernandez	24	24	90	3.75	68	75.6%	20.6%	29.4%	30.9%	19.1%	79.4%	0.0%	60.0%	63.0%	58.3%	0.0%	0	0	8.3%	2	0	4.2%	1	0	3	6	30.0%	0	0	0
+Rosell Herrera#	26	119	488	4.10	290	59.4%	27.9%	23.8%	21.0%	27.2%	72.1%	0.0%	42.8%	67.0%	22.7%	7.6%	9	0	18.5%	22	9	14.3%	17	11	8	19	29.6%	0	0	0
+Bryan Holaday	31	129	509	3.95	310	60.9%	27.1%	14.8%	27.1%	31.0%	72.9%	0.0%	44.4%	79.6%	31.0%	7.8%	10	0	19.4%	25	9	14.0%	18	11	4	17	19.0%	0	0	0
+Tyler Kinley	28	1	4	4.00	3	75.0%	66.7%	33.3%	0.0%	0.0%	33.3%	0.0%	25.0%	0.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Pablo Lopez*	23	36	135	3.75	105	77.8%	21.0%	41.0%	21.9%	16.2%	79.0%	0.0%	61.5%	48.2%	52.8%	0.0%	0	0	8.3%	3	2	0.0%	0	0	1	15	5.3%	0	0	0
+Deven Marrero	28	5	17	3.40	12	70.6%	25.0%	41.7%	16.7%	16.7%	75.0%	0.0%	52.9%	44.4%	0.0%	0.0%	0	0	20.0%	1	1	0.0%	0	0	0	3	0.0%	0	0	0
+Hector Noesi	32	5	15	3.00	12	80.0%	50.0%	25.0%	8.3%	16.7%	50.0%	0.0%	40.0%	50.0%	20.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	3	0.0%	0	0	0
+Peter O'Brien	28	47	197	4.19	123	62.4%	27.6%	26.0%	27.6%	18.7%	72.4%	0.0%	45.2%	64.0%	25.5%	0.0%	0	0	14.9%	7	5	8.5%	4	2	10	9	52.6%	0	0	0
+Martin Prado	35	261	1010	3.87	670	66.3%	34.3%	9.1%	25.7%	30.9%	65.7%	0.0%	43.6%	86.1%	13.4%	2.3%	6	0	7.7%	20	10	5.4%	14	11	10	31	24.4%	0	0	0
+Cesar Puello	28	97	376	3.88	241	64.1%	29.0%	22.4%	25.7%	22.8%	71.0%	0.0%	45.5%	68.4%	28.9%	6.2%	6	0	13.4%	13	4	10.3%	10	5	3	26	10.0%	0	0	0
+Jose Quijada*	23	1	7	7.00	4	57.1%	50.0%	25.0%	25.0%	0.0%	50.0%	0.0%	28.6%	50.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	0	100.0%	0	0	0
+Harold Ramirez	24	447	1674	3.74	1135	67.8%	20.3%	20.5%	30.0%	29.2%	79.7%	0.0%	54.1%	74.3%	36.5%	2.7%	12	3	11.4%	51	30	6.9%	31	18	12	79	13.2%	0	0	0
+Trevor Richards	26	34	133	3.91	94	70.7%	40.4%	25.5%	19.1%	14.9%	59.6%	0.0%	42.1%	57.1%	14.7%	2.9%	1	0	11.8%	4	1	11.8%	4	1	6	12	33.3%	0	0	0
+JT Riddle*	27	140	486	3.47	326	67.1%	22.4%	27.0%	23.0%	27.6%	77.6%	0.0%	52.1%	65.2%	32.9%	5.0%	7	0	12.9%	18	10	6.4%	9	7	3	39	7.1%	0	0	0
+Yadiel Rivera	27	66	268	4.06	176	65.7%	18.2%	33.0%	26.1%	22.7%	81.8%	0.0%	53.7%	59.7%	24.2%	3.0%	2	0	16.7%	11	7	7.6%	5	2	3	17	15.0%	0	0	0
+Miguel Rojas	30	526	1874	3.56	1228	65.5%	28.3%	11.8%	25.1%	34.8%	71.7%	0.0%	47.0%	83.5%	28.5%	4.4%	23	0	10.5%	55	22	5.7%	30	19	21	41	33.9%	0	0	0
+Magneuris Sierra*	23	42	136	3.24	96	70.6%	16.7%	11.5%	37.5%	34.4%	83.3%	0.0%	58.8%	86.3%	52.4%	0.0%	0	0	4.8%	2	1	7.1%	3	3	2	5	28.6%	0	0	0
+Caleb Smith	27	49	142	2.90	111	78.2%	29.7%	20.7%	19.8%	29.7%	70.3%	0.0%	54.9%	70.5%	42.9%	0.0%	0	0	0.0%	0	0	0.0%	0	0	3	11	20.0%	0	0	0
+Jose Urena	27	22	78	3.55	61	78.2%	41.0%	26.2%	21.3%	11.5%	59.0%	0.0%	46.2%	55.6%	45.5%	4.5%	1	0	4.5%	1	0	0.0%	0	0	6	8	42.9%	0	0	0
+Neil Walker#	33	382	1506	3.94	939	62.4%	25.6%	19.8%	26.8%	27.8%	74.4%	0.0%	46.4%	73.4%	27.2%	6.5%	25	0	17.8%	68	31	11.5%	44	27	11	66	14.3%	0	0	0
+Chad Wallach	27	54	219	4.06	130	59.4%	18.5%	22.3%	31.5%	27.7%	81.5%	0.0%	48.4%	72.6%	35.2%	3.7%	2	0	14.8%	8	6	11.1%	6	2	1	11	8.3%	0	0	0
+Jordan Yamamoto	23	26	97	3.73	69	71.1%	37.7%	14.5%	24.6%	23.2%	62.3%	0.0%	44.3%	76.7%	34.6%	7.7%	2	0	7.7%	2	0	3.8%	1	1	3	6	33.3%	0	0	0
+League Average				3.91		63.7%	25.4%	19.2%	28.5%	27.0%	74.6%	0.0%	47.5%	74.3%	30.7%	4.5%			13.5%			8.4%					22.6%			
+Team Total	28.4	6053	23156	3.83	15176	65.5%	26.4%	19.7%	26.9%	27.1%	73.6%	0.0%	48.3%	73.3%	29.5%	3.8%	233	17	12.5%	757	335	7.7%	469	275	288	1172	19.6%	0	0	0
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Team Neutralized Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Sandy Alcantara	23	31	64	59	3	6	1	0	0	7	0	0	1	46	.102	.131	.119	.250	1	31
+Jorge Alfaro	26	130	461	428	42	110	14	1	18	54	4	4	21	154	.257	.306	.421	.726	52	130
+Brian Anderson	26	126	515	455	54	116	32	1	19	62	5	1	43	114	.255	.336	.455	.791	66	126
+Jon Berti	29	73	284	254	49	68	14	1	6	23	17	3	23	73	.268	.342	.402	.743	33	73
+Jeff Brigham	27	32	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	32
+Lewis Brinson	25	75	245	224	14	37	9	1	0	14	1	1	12	74	.165	.226	.214	.441	10	75
+Wilkin Castillo#	35	2	7	7	0	0	0	0	0	0	0		0	3	.000	.000	.000	.000	0	2
+Starlin Castro	29	162	670	631	64	167	30	4	21	81	2	2	27	111	.265	.294	.425	.719	79	162
+Wei-Yin Chen	33	43	5	5	0	0	0	0	0	0	0		0	4	.000	.000	.000	.000	0	43
+Adam Conley*	29	56	1	1	0	0	0	0	0	0	0		0	0	.000	.000	.000	.000	0	56
+Garrett Cooper	28	107	416	377	49	103	15	1	14	47	0	0	32	110	.273	.337	.430	.766	54	107
+Austin Dean	25	64	188	177	16	39	14	0	6	20	0	2	9	47	.220	.257	.401	.658	18	64
+Isan Diaz*	23	49	199	178	16	30	5	2	5	22	0	3	18	59	.169	.251	.303	.555	13	49
+Robert Dugger	23	7	11	11	0	0	0	0	0	0	0		0	6	.000	.000	.000	.000	0	7
+Zac Gallen	23	14	24	19	0	0	0	0	0	0	0		0	8	.000	.000	.000	.000	0	14
+Isaac Galloway	29	19	55	55	7	10	1	0	0	1	2	0	0	17	.182	.182	.200	.382	2	19
+Jarlin Garcia*	26	51	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	51
+Curtis Granderson*	38	138	361	316	42	57	17	1	12	33	0	3	40	98	.180	.277	.354	.631	30	138
+Tyler Heineman#	28	5	12	11	1	3	1	0	1	2	0	0	0	4	.273	.273	.636	.909	2	5
+Elieser Hernandez	24	20	24	19	0	0	0	0	0	0	0		1	10	.000	.050	.000	.050	0	20
+Rosell Herrera#	26	63	119	105	10	21	6	0	2	11	4	1	11	27	.200	.288	.314	.602	9	63
+Bryan Holaday	31	43	128	114	11	31	6	0	4	11	0	1	11	21	.272	.339	.430	.768	16	43
+Tyler Kinley	28	49	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	49
+Pablo Lopez*	23	21	35	34	1	5	2	0	0	2	0	0	0	19	.147	.147	.206	.353	1	21
+Deven Marrero	28	5	5	5	0	0	0	0	0	0	0		0	3	.000	.000	.000	.000	0	5
+Hector Noesi	32	12	5	4	0	0	0	0	0	0	0		0	3	.000	.000	.000	.000	0	12
+Peter O'Brien	28	14	45	41	2	6	1	0	1	3	1	0	3	19	.146	.222	.244	.466	2	14
+Martin Prado	35	104	258	243	24	55	9	0	2	14	0	0	12	41	.226	.260	.288	.548	18	104
+Cesar Puello	28	44	151	127	13	33	5	0	4	17	0	0	11	38	.260	.373	.394	.767	16	44
+Jose Quijada*	23	31	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	31
+Harold Ramirez	24	119	442	418	52	113	19	3	11	48	2	1	18	91	.270	.308	.409	.717	51	119
+Trevor Richards	26	22	34	30	0	0	0	0	0	0	0		2	18	.000	.063	.000	.063	0	22
+JT Riddle*	27	51	138	131	14	24	6	0	6	11	0	0	5	42	.183	.225	.366	.591	10	51
+Yadiel Rivera	27	34	64	59	7	10	2	0	0	3	2	0	5	20	.169	.234	.203	.438	3	34
+Miguel Rojas	30	132	521	479	49	133	28	1	5	44	9	5	31	62	.278	.325	.372	.697	57	132
+Magneuris Sierra*	23	15	41	39	5	13	1	1	0	1	3	3	2	7	.333	.366	.410	.776	6	15
+Caleb Smith	27	27	49	43	2	10	2	0	0	3	0	0	0	15	.233	.250	.279	.529	3	27
+Jose Urena	27	24	22	19	1	0	0	0	0	0	0		1	14	.000	.050	.000	.050	0	24
+Neil Walker#	33	115	377	334	35	85	18	1	8	36	3	0	41	77	.254	.337	.386	.723	43	115
+Chad Wallach	27	19	54	48	4	12	3	0	1	3	0	0	6	12	.250	.333	.375	.708	6	19
+Jordan Yamamoto	23	16	26	21	0	0	0	0	0	0	0		1	9	.000	.045	.000	.045	0	16
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Team Cumulative Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+Sandy Alcantara	23	3	45	76	70	2	5	1	0	0	4	0	0	2	54	.071	.110	.086	.195	-46	6	0	1	3	0	0
+Jorge Alfaro	26	4	273	973	898	91	239	36	3	33	108	7	4	44	333	.266	.320	.423	.743	97	380	16	28	0	3	9
+Brian Anderson	26	3	307	1285	1133	155	303	74	6	31	139	7	5	116	271	.267	.349	.425	.775	111	482	34	30	0	6	3
+Nick Anderson	28	1	44	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Jon Berti	29	2	77	302	271	54	74	15	2	6	26	18	3	24	77	.273	.344	.410	.754	102	111	2	6	0	1	0
+Austin Brice	27	4	101	5	5	0	0	0	0	0	0	0	0	0	3	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Jeff Brigham	27	2	36	5	4	1	1	0	0	0	0	0	0	0	2	.250	.250	.250	.500	39	1	0	0	1	0	0
+Lewis Brinson	25	3	205	709	655	48	120	19	7	13	60	4	2	37	211	.183	.238	.293	.531	44	192	14	11	2	3	4
+Wilkin Castillo#	35	3	24	44	42	6	12	2	0	0	4	0	0	1	8	.286	.302	.333	.636	67	14	0	0	1	0	0
+Starlin Castro	29	10	1470	6170	5773	664	1617	296	39	133	636	89	51	309	1033	.280	.319	.414	.733	98	2390	171	38	7	43	31
+Wei-Yin Chen	33	8	102	111	103	2	7	1	0	0	2	0	0	0	46	.068	.068	.078	.146	-60	8	2	0	8	0	0
+Adam Conley*	29	5	160	102	84	7	12	0	0	0	4	0	0	3	44	.143	.170	.143	.313	-12	12	1	0	14	1	0
+Garrett Cooper	28	3	134	504	457	57	128	22	2	15	58	0	0	38	134	.280	.341	.435	.777	107	199	11	6	0	3	0
+Austin Dean	25	2	98	311	291	33	65	18	0	10	35	1	2	16	69	.223	.268	.388	.656	75	113	6	2	1	1	1
+Isan Diaz*	23	1	49	201	179	17	31	5	2	5	23	0	3	19	59	.173	.259	.307	.566	51	55	2	2	0	1	0
+Robert Dugger	23	1	7	11	11	0	0	0	0	0	0	0	0	0	6	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Zac Gallen	23	1	14	24	19	2	2	0	0	0	1	0	0	0	8	.105	.105	.105	.211	-44	2	0	0	5	0	0
+Isaac Galloway	29	2	62	128	118	13	22	4	0	3	8	3	1	9	38	.186	.244	.297	.541	47	35	0	0	1	0	0
+Jarlin Garcia*	26	3	143	12	10	0	0	0	0	0	0	0	0	1	8	.000	.091	.000	.091	-72	0	0	0	1	0	0
+Curtis Granderson*	38	16	2057	8306	7236	1217	1800	346	95	344	937	153	50	924	1916	.249	.337	.465	.803	114	3368	64	67	30	49	31
+Tayron Guerrero	28	3	106	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Tyler Heineman#	28	1	5	12	11	1	3	1	0	1	2	0	0	0	4	.273	.273	.636	.909	131	7	0	0	1	0	0
+Elieser Hernandez	24	2	52	35	30	0	1	0	0	0	0	0	0	1	17	.033	.065	.033	.098	-72	1	0	0	4	0	0
+Rosell Herrera#	26	2	149	421	383	35	86	20	3	3	31	7	6	30	84	.225	.286	.316	.602	64	121	8	4	2	2	1
+Bryan Holaday	31	8	268	735	671	65	162	32	2	10	74	1	3	39	134	.241	.287	.340	.626	71	228	16	7	9	9	4
+Kyle Keller	26	1	9	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Tyler Kinley	28	2	58	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Pablo Lopez*	23	2	32	54	51	2	9	2	0	0	3	0	0	1	27	.176	.192	.216	.408	11	11	0	0	2	0	0
+Deven Marrero	28	5	163	348	319	51	62	10	1	5	37	10	1	23	111	.194	.246	.279	.525	39	89	13	0	3	3	0
+Brian Moran*	30	1	10	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Hector Noesi	32	6	24	13	12	0	3	0	0	0	0	0	0	0	6	.250	.250	.250	.500	41	3	0	0	1	0	0
+Peter O'Brien	28	4	72	200	182	17	38	8	0	11	26	1	0	16	73	.209	.275	.434	.709	86	79	6	1	0	1	2
+Martin Prado	35	14	1458	5861	5373	664	1542	316	27	100	609	40	28	385	676	.287	.335	.412	.747	103	2212	171	28	24	51	16
+Cesar Puello	28	2	61	186	159	20	38	5	0	4	21	2	0	14	50	.239	.346	.346	.692	88	55	4	12	1	0	1
+Jose Quijada*	23	1	31	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Harold Ramirez	24	1	119	446	421	54	116	20	3	11	50	2	1	18	91	.276	.312	.416	.728	93	175	8	5	0	1	1
+Trevor Richards	26	2	44	70	61	3	5	0	0	0	2	0	0	3	35	.082	.125	.082	.207	-41	5	0	0	6	0	0
+JT Riddle*	27	3	223	718	668	63	153	29	5	18	79	0	5	37	159	.229	.269	.368	.638	73	246	13	2	5	6	4
+Yadiel Rivera	27	5	188	314	281	33	50	9	0	1	15	4	1	27	96	.178	.248	.221	.469	30	62	8	0	4	2	3
+Miguel Rojas	30	6	643	1893	1728	189	454	80	4	20	165	19	11	115	234	.263	.314	.348	.662	82	602	63	21	13	15	13
+Sergio Romo	36	12	569	7	7	0	0	0	0	0	0	0	0	0	5	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Magneuris Sierra*	23	3	91	262	247	25	61	4	1	0	13	8	7	12	60	.247	.282	.271	.553	52	67	0	0	3	0	1
+Caleb Smith	27	3	43	75	65	2	13	2	0	0	4	0	0	0	28	.200	.212	.231	.443	20	15	3	1	9	0	0
+Josh Smith*	29	1	6	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Ryne Stanek	27	3	29	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Drew Steckenrider	28	3	114	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Jose Urena	27	5	132	165	145	6	11	2	0	0	3	0	0	3	97	.076	.095	.090	.184	-49	13	1	0	17	0	0
+Neil Walker#	33	11	1288	5111	4544	606	1215	235	22	149	606	32	22	459	918	.267	.339	.427	.766	110	1941	97	55	10	43	27
+Chad Wallach	27	3	40	117	104	8	21	4	0	2	8	0	0	10	40	.202	.284	.298	.583	59	31	0	2	1	0	0
+Jordan Yamamoto	23	1	16	26	21	0	1	0	0	0	1	0	0	1	9	.048	.091	.048	.139	-61	1	1	0	4	0	0
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - Disclaimer & Completeness Note 
+* Many Detailed Statistics are based on play-by-play accounts accumulated by RetroSheet. These totals may be incomplete (3.6% of all plays from 1925 to 1973 are missing or have incomplete accounts, click link for year and team summary of data completeness) for some players prior to 1974 and even complete seasons may not match the official totals due to errors in both the official totals and the play-by-play accounts. Pre-1954 seasons have a substantial numbers of games missing play-by-play accounts and should be viewed as essentially incomplete.
+More 2019 Marlins Pages
+2019 Miami Marlins
+
+Stats
+
+Schedule & Results
+
+40-Man Roster
+
+Uniforms
+
+Contracts
+
+Batting
+
+Pitching
+
+Fielding
+
+Scoring
+
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+Support us without the ads? Go Ad-Free.
+
+Login Create Account Surf AD-FREE
+You are here: BR Home Page > Teams > Franchise Encyclopedia > 2019 Batting Statistics
+Full Site Menu 
+Return to Top
+MLB Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+MLB Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Indians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2019, 2018, 2019 MLB Pitching, 2019 MLB Batting, 2019 MLB Standings, 2019 MLB Attendance, 2019 MLB Rookies, ...
+MLB Leaders
+2019 MLB Batting, 2019 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in MLB history, MLB Probable Pitchers, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+MLB Playoffs
+2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Play Index
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Event Finder, Player Comparison Finder, Neutralized Stats, ...
+Team Finders: Season Finder, Split Finder, Game Finder, Streak Finder, Event Finder, ...
+Other Finders: Draft Finder, Game Score & Result Searches, Team Trade Histories, ...
+Managers
+Active: Terry Francona, Clint Hurdle, A.J. Hinch, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+MLB Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2019 HOF results, 2020 Hall of Fame ballot, ...
+MLB All-Star Games
+2020 All-Star Game, 2019 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities and More
+Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2019 Draft, 2018 Draft, 2017 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Negro Leagues
+Minor League Stats, Negro League Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2019 Minor Leagues, 2019 Affiliates, ...
+Baseball-Reference Bullpen
+85,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, ...
+We're Social...for Statheads
+      
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 19, 4:06PM
+
+Question, Comment, Feedback, or Correction?
+
+Are you a Stathead, too? Subscribe to our Newsletter
+
+This Week in Sports Reference
+Find out when we add a feature or make a change
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Go ad-free to support Sports Reference and get our fastest browsing experience
+Subscribe to the Play Index and get access to more data than you can imagine
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Primary Data Provided By Gracenote Sports
+Copyright © 2000-2020 Sports Reference LLC. All rights reserved.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+BaseballInfoSolutions.com logo
+
+Some defensive statistics Copyright © Baseball Info Solutions, 2010-2020.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+ Sports Reference Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead Widgets
+About • Privacy Statement • Conditions & Terms of Service • Advertise With Us • Use of Data
+

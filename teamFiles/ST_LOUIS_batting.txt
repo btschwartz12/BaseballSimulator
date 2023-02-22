@@ -1,0 +1,860 @@
+ Sports ReferenceBaseballFootball (college)Basketball (college)HockeySoccerBlogStatheadWidgetsQuestions or Comments?LoginCreate AccountSurf AD-FREEBaseball-Reference.com Logo & Link to home page
+Players
+Teams
+Seasons
+Leaders
+MLB Scores1
+MLB Playoffs
+Play Index
+Full Site Menu Below
+Enter Person, Team, Section, etc
+2019 St. Louis Cardinals Logo
+via Sports Logos.net
+
+About logos
+
+2019 St. Louis Cardinals Batting Statistics
+2018 Season
+Record: 91-71, 1st place in NL_Central (Schedule and Results)
+
+Postseason:
+    Lost NL Championship Series (4-0) to Washington Nationals
+    Won NL Division Series (3-2) over Atlanta Braves
+
+Manager: Mike Shildt (91-71)
+
+President: John Mozeliak
+
+General Manager: Mike Girsch (VP & GM)
+
+Farm Director: Gary LaRocque
+
+Scouting Director: Randy Flores
+
+More team info, park factors, postseason, & more
+Support us without the ads? Go Ad-Free.
+
+
+2019 St. Louis Cardinals
+Stats
+Schedule & Results
+40-Man Roster
+Uniforms
+Contracts
+Batting
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Fielding
+Scoring
+Other
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+On this page:
+
+Team Batting Team Player Value--Batters Team Advanced Batting Team Batting Ratios* Team Win Probability* Team Baserunning/Misc* Team PH/HR/Situ Hitting* Team Pitches Batting* Team Neutralized Batting Team Cumulative Batting Full Site Menu
+Statheads want to know.
+Get scores, news and notes in your inbox every day. View a sample email. It's also available for football, basketball and hockey.
+
+Subscribe to our Stathead Newsletter
+
+Team Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+1	C	Yadier Molina	36	113	452	419	45	113	24	0	10	57	6	0	23	58	.270	.312	.399	.711	85	167	14	5	0	5	0
+2	1B	Paul Goldschmidt	31	161	682	597	97	155	25	1	34	97	3	1	78	166	.260	.346	.476	.821	113	284	11	2	0	3	2
+3	2B	Kolten Wong*	28	148	549	478	61	136	25	4	11	59	24	4	47	83	.285	.361	.423	.784	106	202	2	13	6	5	5
+4	SS	Paul DeJong	25	159	664	583	97	136	31	1	30	78	9	5	62	149	.233	.318	.444	.762	97	259	15	13	0	6	1
+5	3B	Matt Carpenter*	33	129	492	416	59	94	20	2	15	46	6	1	63	129	.226	.334	.392	.726	91	163	3	7	1	5	0
+6	LF	Marcell Ozuna	28	130	549	485	80	117	23	1	29	89	12	2	62	114	.241	.328	.472	.800	107	229	21	1	0	1	2
+7	CF	Harrison Bader	25	128	406	347	54	71	14	3	12	39	11	3	46	117	.205	.314	.366	.680	78	127	3	10	1	2	4
+8	RF	Dexter Fowler#	33	150	574	487	69	116	24	1	19	67	8	5	74	142	.238	.346	.409	.754	98	199	6	8	1	4	1
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+9	RF	Jose Martinez	30	128	373	334	45	90	13	2	10	42	3	0	35	82	.269	.340	.410	.751	97	137	14	2	0	2	0
+10	IF	Tommy Edman#	24	92	349	326	59	99	17	7	11	36	15	1	16	61	.304	.350	.500	.850	120	163	3	7	0	0	0
+11	C	Matt Wieters#	33	67	183	168	15	36	4	0	11	27	1	1	12	47	.214	.268	.435	.702	80	73	3	1	0	2	0
+12	UT	Yairo Munoz	24	88	181	172	20	46	7	1	2	13	8	3	7	37	.267	.298	.355	.653	71	61	5	1	0	1	0
+13	LF	Tyler O'Neill	24	60	151	141	18	37	6	0	5	16	1	0	10	53	.262	.311	.411	.723	88	58	3	0	0	0	0
+14	IF	Jedd Gyorko	30	38	62	56	5	11	0	0	2	7	2	0	6	14	.196	.274	.304	.578	52	17	1	0	0	0	0
+15	C	Andrew Knizner	24	18	58	53	7	12	2	0	2	7	2	0	4	14	.226	.293	.377	.670	75	20	3	1	0	0	0
+16	OF	Lane Thomas	23	34	44	38	6	12	0	1	4	12	1	1	4	8	.316	.409	.684	1.093	180	26	1	2	0	0	0
+17	1B	Rangel Ravelo	27	29	43	39	4	8	2	0	2	7	0	0	3	12	.205	.256	.410	.666	71	16	1	0	0	1	0
+18	OF	Randy Arozarena	24	19	23	20	4	6	1	0	1	2	2	1	2	4	.300	.391	.500	.891	133	10	0	1	0	0	0
+19	2B	Edmundo Sosa	23	8	10	8	2	2	0	0	0	0	1	0	1	2	.250	.400	.250	.650	78	2	0	1	0	0	0
+20	OF	Drew Robinson*	27	5	7	7	1	1	0	0	0	0	0	0	0	3	.143	.143	.143	.286	-24	1	0	0	0	0	0
+21		Joe Hudson	28	1	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+22	P	Jack Flaherty	23	35	66	54	4	10	3	0	0	4	1	1	2	17	.185	.211	.241	.451	19	13	0	0	9	1	0
+23	P	Miles Mikolas	30	31	62	59	1	8	1	0	0	2	0	0	0	27	.136	.136	.153	.288	-24	9	0	0	3	0	0
+24	P	Dakota Hudson	24	30	59	51	1	4	0	0	0	2	0	0	0	24	.078	.096	.078	.175	-53	4	1	1	7	0	0
+25	P	Adam Wainwright	37	29	59	50	6	8	3	0	0	2	0	0	2	20	.160	.189	.220	.409	7	11	0	0	6	1	0
+26	P	Michael Wacha	27	28	39	36	3	6	1	0	0	3	0	0	0	21	.167	.167	.194	.361	-5	7	0	0	3	0	0
+27	P	Daniel Ponce de Leon	27	12	12	9	0	0	0	0	0	0	0	0	1	4	.000	.100	.000	.100	-70	0	0	0	2	0	0
+28	P	Genesis Cabrera*	22	13	4	4	0	0	0	0	0	0	0	0	0	4	.000	.000	.000	.000	-100	0	0	0	0	0	0
+29	P	Ryan Helsley	24	24	3	3	0	1	0	0	0	0	0	0	0	2	.333	.333	.333	.667	77	1	0	0	0	0	0
+30	P	Giovanny Gallegos	27	63	3	2	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0
+31	P	John Gant	26	60	3	3	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	0	0	0	0	0
+32	P	Carlos Martinez	27	43	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+33	P	John Brebbia*	29	63	1	1	1	1	0	0	0	0	0	0	0	0	1.000	1.000	1.000	2.000	432	1	0	0	0	0	0
+34	P	Mike Mayers	27	15	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+35	P	Chasen Shreve*	28	3	1	0	0	0	0	0	0	0	0	0	1	0		1.000				0	0	0	0	0	0
+36	P	Jordan Hicks	22	28	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+37	P	Dominic Leone	27	39	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+38	P	Andrew Miller*	34	67	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+39	P	Tyler Webb*	28	60	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+40	P	Alex Reyes	24	4	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+41	P	Junior Fernandez	22	12	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+42	P	Luke Gregerson*	35	6	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+43	P	Adalberto Mejia	26	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Team Totals	29.1	162	6167	5449	764	1336	246	24	210	714	116	29	561	1420	.245	.322	.415	.737	92	2260	110	76	40	39	15
+Rank in 15 NL teams				14	10	11	13	10	12		1	9	7	6	11	9	12	11		12		6		6	
+Non-Pitcher Totals	29.1	162	5853	5175	748	1298	238	24	210	701	115	28	555	1296	.251	.330	.428	.758	97	2214	109	75	9	37	15
+Pitcher Totals	27.9	162	314	274	16	38	8	0	0	13	1	1	6	124	.139	.159	.168	.327	-14	46	1	1	31	2	0
+Rk	Pos	Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - bats left-handed, # - bats both, else - bats right, ? - unknown; OPS_lg for OPS+ does not include pitchers.
+Team Player Value--Batters 
+League RegisterWAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Glossary
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+Randy Arozarena	24	19	23	2	-1	0	1	0	2	0.2	1	3	0.3	.511	.501	0.2	0.1	2		Free Agency	/987
+Harrison Bader	25	128	406	-8	1	0	13	2	9	0.7	13	22	2.0	.507	.505	0.8	1.4	9	$578,300	Amateur Draft	*8
+John Brebbia*	29	63	1	0	0	0	0	0	1	0.1	0	1	0.1	.501	.500	0.1	-0.1	1	$569,300	Rule 5 Draft	1
+Genesis Cabrera*	22	13	4	-1	0	0	0	1	-1	-0.1	0	-1	-0.1	.496	.500	-0.1	0.0	-1		Traded	1
+Matt Carpenter*	33	129	492	-6	-2	0	1	2	-5	-0.8	16	11	0.8	.496	.497	0.9	0.2	10	$14,750,000	Amateur Draft	5/3D
+Paul DeJong	25	159	664	0	0	0	14	8	23	2.0	22	44	4.1	.514	.514	2.9	2.1	30	$1,666,667	Amateur Draft	*6
+Tommy Edman#	24	92	349	12	4	1	10	1	29	2.7	11	40	3.8	.531	.518	2.9	1.1	30		Amateur Draft	549/87
+Junior Fernandez	22	12	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Amateur Free Agent	1
+Jack Flaherty	23	35	66	-8	-1	1	0	9	1	0.1	0	1	0.1	.503	.501	0.1	0.0	1	$562,100	Amateur Draft	1
+Dexter Fowler#	33	150	574	2	0	2	0	-3	1	-0.2	19	19	1.7	.501	.500	1.8	-0.5	19	$16,500,000	Free Agency	*98
+Giovanny Gallegos	27	63	3	-1	0	0	0	0	0	0.0	0	0	0.0	.499	.500	0.0	-0.1	0		Traded	1
+John Gant	26	60	3	-1	0	0	0	0	0	0.0	0	0	0.0	.499	.500	0.0	-0.1	0	$571,300	Traded	1
+Paul Goldschmidt	31	161	682	15	1	-1	4	-8	10	0.7	22	32	2.8	.506	.506	2.6	-0.6	28	$14,500,000	Traded	*3
+Luke Gregerson*	35	6	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$5,000,000	Free Agency	/1
+Jedd Gyorko	30	38	62	-3	0	0	1	0	-2	-0.2	2	0	0.0	.495	.499	-0.1	0.1	-1	$13,000,000	Traded	5/431
+Ryan Helsley	24	24	3	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Amateur Draft	1
+Jordan Hicks	22	28	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$555,000	Amateur Draft	1
+Dakota Hudson	24	30	59	-12	0	0	0	10	-3	-0.3	0	-3	-0.3	.492	.498	-0.3	0.0	-3	$559,100	Amateur Draft	1
+Joe Hudson	28	1	1	0	0	0	0	0	0	0.0	0	0	0.0	.470	.500	0.0	0.0	0		Free Agency	
+Andrew Knizner	24	18	58	-1	1	0	1	1	1	0.1	2	3	0.3	.505	.501	0.2	0.2	2		Amateur Draft	2/3
+Dominic Leone	27	39	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$1,260,000	Traded	1
+Carlos Martinez	27	43	1	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$11,700,000	Free Agency	1
+Jose Martinez	30	128	373	1	1	-1	-9	-4	-13	-1.4	12	-1	-0.3	.490	.492	0.8	-1.4	8	$1,125,000	Purchased	9/D7
+Mike Mayers	27	15	1	0	0	0	0	0	0	0.0	0	0	0.0	.499	.500	0.0	0.0	0	$563,700	Amateur Draft	1
+Adalberto Mejia	26	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Waivers	/1
+Miles Mikolas	30	31	62	-11	0	0	0	10	-1	-0.2	0	-1	-0.2	.496	.499	-0.1	0.0	-1	$8,000,000	Free Agency	1
+Andrew Miller*	34	67	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0	$11,000,000	Free Agency	1
+Yadier Molina	36	113	452	-8	1	-1	2	7	1	-0.1	15	15	1.3	.500	.500	1.2	0.8	13	$20,000,000	Amateur Draft	*2/35
+Yairo Munoz	24	88	181	-7	0	0	-2	1	-8	-0.9	6	-3	-0.4	.490	.495	-0.1	-0.2	-1	$562,000	Traded	5697/84
+Tyler O'Neill	24	60	151	-1	0	0	-1	-1	-3	-0.3	5	2	0.1	.495	.498	0.3	-0.3	3	$564,000	Traded	7/98
+Marcell Ozuna	28	130	549	7	4	-1	2	-5	7	0.5	18	24	2.2	.505	.504	2.1	-0.4	22	$12,250,000	Traded	*7
+Daniel Ponce de Leon	27	12	12	-3	0	0	0	2	-1	-0.1	0	-1	-0.1	.496	.500	-0.1	0.0	-1		Amateur Draft	1
+Rangel Ravelo	27	29	43	-2	-1	0	1	0	-2	-0.2	1	0	-0.1	.494	.499	-0.2	0.1	-1		Free Agency	/3
+Alex Reyes	24	4	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$564,600	Amateur Free Agent	/1
+Drew Robinson*	27	5	7	-1	0	0	0	0	-1	-0.1	0	-1	-0.1	.477	.499	-0.1	0.0	-1	$564,100	Traded	/89
+Chasen Shreve*	28	3	1	0	0	0	0	0	1	0.1	0	1	0.1	.516	.500	0.1	0.0	1	$900,000	Traded	/1
+Edmundo Sosa	23	8	10	0	0	0	-1	0	-1	-0.1	0	-1	-0.1	.486	.499	0.0	-0.1	0		Amateur Free Agent	/4
+Lane Thomas	23	34	44	4	0	0	1	0	5	0.5	1	6	0.6	.514	.503	0.5	0.1	5		Traded	8/97
+Michael Wacha	27	28	39	-6	0	0	0	6	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0	$6,350,000	Amateur Draft	1
+Adam Wainwright	37	29	59	-7	0	0	0	10	3	0.3	0	3	0.3	.510	.502	0.3	0.0	3	$2,000,000	Free Agency	1
+Tyler Webb*	28	60	0	0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	-0.1	0		Waivers	1
+Matt Wieters#	33	67	183	-5	-1	0	3	3	0	-0.1	6	6	0.5	.499	.500	0.2	0.5	3	$100,000	Free Agency	2
+Kolten Wong*	28	148	549	7	4	2	14	4	32	2.9	18	49	4.7	.521	.519	3.4	1.7	35	$6,500,000	Amateur Draft	*4
+Team Total	29.0	2371	6167	-43	12	1	55	56	81	5.5	190	271	24.0	.503	.503	20.2	4.1	216	$152,815,167		
+Name	Age	G	PA	Rbat	Rbaser	Rdp	Rfield	Rpos	RAA	WAA	Rrep	RAR	WAR	waaWL%	162WL%	oWAR	dWAR	oRAR	Salary	Acquired	Pos Summary
+
+Team Advanced Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Randy Arozarena	24	23	15	4	7.2	108	.333	.300	.256	.391	.328	.500	.441	.891	.770	133	.661	1.0	0.1	1.000	.350	.200	1.3	/987
+Harrison Bader	25	406	285	44	4.1	108	.268	.205	.256	.314	.328	.366	.441	.680	.770	78	.417	-10.7	-1.0	.688	.317	.161	11.5	*8
+John Brebbia*	29	1	0	1		108	1.000	1.000	.256	1.000	.328	1.000	.441	2.000	.769	432	.000	0.5	0.0		.000	.000		1
+Genesis Cabrera*	22	4	4	0	0.0	108		.000	.256	.000	.328	.000	.441	.000	.770	-100	.000	-1.2	-0.1	.000	.000	.000		1
+Matt Carpenter*	33	492	332	61	4.9	108	.285	.226	.256	.334	.328	.392	.441	.726	.769	91	.496	-4.1	-0.4	.733	.329	.166	8.6	5/3D
+Paul DeJong	25	664	473	82	4.7	108	.259	.233	.256	.318	.328	.444	.441	.762	.770	97	.470	-1.7	-0.2	.734	.324	.211	13.8	*6
+Tommy Edman#	24	349	231	60	7.0	108	.346	.304	.256	.350	.328	.500	.441	.850	.770	120	.650	8.4	0.8	.870	.288	.196	12.7	549/87
+Junior Fernandez	22	0	0														.000	0.0	0.0					1
+Jack Flaherty	23	66	55	3	1.5	108	.263	.185	.256	.211	.328	.241	.441	.451	.770	19	.096	-6.4	-0.6	.356	.093	.056	.0	1
+Dexter Fowler#	33	574	387	74	5.1	108	.294	.238	.256	.346	.328	.409	.441	.754	.769	98	.515	0.6	0.1	.757	.329	.170	11.3	*98
+Giovanny Gallegos	27	3	3	0	0.0	108	.000	.000	.256	.000	.329	.000	.441	.000	.770	-100	.000	-0.6	-0.1	.000	.000	.000		1
+John Gant	26	3	3	0	0.0	108	.000	.000	.256	.000	.328	.000	.441	.000	.770	-100	.000	-0.9	-0.1	.000	.000	.000		1
+Paul Goldschmidt	31	682	457	101	5.9	108	.303	.260	.256	.346	.328	.476	.441	.821	.769	113	.580	11.9	1.1	.808	.350	.216	5.5	*3
+Luke Gregerson*	35	0	0														.000	0.0	0.0					/1
+Jedd Gyorko	30	62	46	5	2.9	108	.225	.196	.256	.274	.328	.304	.441	.578	.770	52	.274	-4.1	-0.4	.543	.250	.107	2.0	5/431
+Ryan Helsley	24	3	2	0	0.0	108	1.000	.333	.256	.333	.328	.333	.441	.667	.770	77	.000	-0.1	0.0	.500	.000	.000		1
+Jordan Hicks	22	0	0														.000	0.0	0.0					1
+Dakota Hudson	24	59	55	1	0.5	108	.148	.078	.256	.096	.328	.078	.441	.175	.770	-53	.014	-11.6	-1.1	.104	.000	.000		1
+Joe Hudson	28	1	1	0	0.0	108		.000	.256	.000	.328	.000	.441	.000	.769	-100	.000	-0.3	0.0	.000	.000	.000		
+Andrew Knizner	24	58	44	5	3.1	108	.270	.226	.256	.293	.328	.377	.441	.670	.770	75	.290	-2.1	-0.2	.614	.264	.151	2.0	2/3
+Dominic Leone	27	0	0														.000	0.0	0.0					1
+Carlos Martinez	27	1	1	0	0.0	108		.000	.256	.000	.328	.000	.441	.000	.769	-100	.000	-0.3	0.0	.000	.000	.000		1
+Jose Martinez	30	373	260	45	4.6	108	.328	.269	.256	.340	.328	.410	.441	.751	.770	97	.469	-1.4	-0.1	.686	.254	.141	4.6	9/D7
+Mike Mayers	27	1	1	0	0.0	108		.000	.256	.000	.328	.000	.441	.000	.769	-100	.000	-0.3	0.0	.000	.000	.000		1
+Adalberto Mejia	26	0	0														.000	0.0	0.0					/1
+Miles Mikolas	30	62	54	1	0.5	108	.250	.136	.256	.136	.328	.153	.441	.288	.770	-24	.015	-10.8	-1.0	.176	.017	.017		1
+Andrew Miller*	34	0	0														.000	0.0	0.0					1
+Yadier Molina	36	452	325	51	4.2	108	.289	.270	.256	.312	.328	.399	.441	.711	.770	85	.425	-8.6	-0.8	.628	.198	.129	7.5	*2/35
+Yairo Munoz	24	181	135	17	3.4	108	.328	.267	.256	.298	.328	.355	.441	.653	.769	71	.331	-7.5	-0.7	.575	.157	.087	3.2	5697/84
+Tyler O'Neill	24	151	107	18	4.5	108	.386	.262	.256	.311	.328	.411	.441	.723	.769	88	.456	-2.8	-0.3	.645	.227	.149	1.7	7/98
+Marcell Ozuna	28	549	392	72	4.9	108	.257	.241	.256	.328	.328	.472	.441	.800	.770	107	.496	4.5	0.4	.777	.379	.231	17.0	*7
+Daniel Ponce de Leon	27	12	11	0	0.0	108	.000	.000	.256	.100	.328	.000	.441	.100	.770	-70	.000	-2.3	-0.2	.111	.111	.000		1
+Rangel Ravelo	27	43	33	4	3.3	108	.231	.205	.256	.256	.328	.410	.441	.666	.770	71	.315	-1.7	-0.2	.594	.282	.205	.0	/3
+Alex Reyes	24	0	0														.000	0.0	0.0					/1
+Drew Robinson*	27	7	6	0	0.0	108	.250	.143	.256	.143	.328	.143	.441	.286	.769	-24	.000	-1.3	-0.1	.167	.000	.000		/89
+Chasen Shreve*	28	1	0	0						1.000	.328						.000	0.3	0.0					/1
+Edmundo Sosa	23	10	6	1	4.5	108	.333	.250	.256	.400	.328	.250	.441	.650	.770	78	.452	-0.2	0.0	.833	.250	.000	.0	/4
+Lane Thomas	23	44	28	10	9.6	108	.308	.316	.256	.409	.328	.684	.441	1.093	.770	180	.769	4.3	0.4	1.179	.474	.368	1.6	8/97
+Michael Wacha	27	39	33	1	0.8	108	.400	.167	.256	.167	.328	.194	.441	.361	.769	-5	.035	-5.6	-0.5	.233	.028	.028		1
+Adam Wainwright	37	59	49	3	1.6	108	.258	.160	.256	.189	.328	.220	.441	.409	.770	7	.116	-6.7	-0.6	.310	.100	.060		1
+Tyler Webb*	28	0	0														.000	0.0	0.0					1
+Matt Wieters#	33	183	138	19	3.7	108	.223	.214	.256	.268	.328	.435	.441	.702	.770	80	.367	-5.6	-0.5	.640	.292	.220	1.8	2
+Kolten Wong*	28	549	359	81	6.1	108	.321	.285	.256	.361	.328	.423	.441	.784	.770	106	.589	5.8	0.6	.822	.278	.138	15.1	*4
+League Average					4.9	110	.298	.250	.258	.322	.331	.429	.445	.751	.776	94	.495			.710	.283	.178		
+Team Total	28.8	6167	4331	764	4.7	108	.292	.245	.256	.322	.328	.415	.441	.737	.770	92	.478	-61.3	-5.9	.709	.288	.170	149.4	
+Name	Age	PA	Outs	RC	RC/G	AIR	BAbip	BA	lgBA	OBP	lgOBP	SLG	lgSLG	OPS	lgOPS	OPS+	OWn%	BtRuns	BtWins	TotA	SecA	ISO	PwrSpd	Pos Summary
+Team Batting Ratios* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+Randy Arozarena	24	23	4.4%	17.4%	8.7%	8.7%	33%	2.00	5.0	20.0	10.0	1.29	1.25	65%	13%	20.0%	29%
+Harrison Bader	25	406	3.0%	28.8%	11.3%	7.1%	41%	2.54	3.0	28.9	8.9	0.64	0.74	54%	22%	10.3%	15%
+John Brebbia*	29	1	0.0%	0.0%	0.0%	0.0%	0%					0.00		100%	100%	0.0%	0%
+Genesis Cabrera*	22	4	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Matt Carpenter*	33	492	3.1%	26.2%	12.8%	7.5%	39%	2.05	3.2	27.7	9.0	0.50	0.63	56%	25%	8.4%	7%
+Paul DeJong	25	664	4.5%	22.4%	9.3%	9.3%	46%	2.40	3.9	19.4	7.5	0.61	0.78	62%	22%	13.2%	17%
+Tommy Edman#	24	349	3.2%	17.5%	4.6%	10.0%	35%	3.81	5.3	29.6	9.1	0.71	0.84	73%	29%	8.1%	12%
+Jack Flaherty	23	66	0.0%	25.8%	3.0%	4.6%	30%	8.50	3.2		13.5	0.74	1.77	58%	23%	0.0%	5%
+Dexter Fowler#	33	574	3.3%	24.7%	12.9%	7.7%	38%	1.92	3.4	25.6	7.3	0.64	0.98	57%	29%	9.7%	8%
+Giovanny Gallegos	27	3	0.0%	33.3%	0.0%	0.0%			2.0				1.00	33%	0%		
+John Gant	26	3	0.0%	66.7%	0.0%	0.0%			1.5			0.00	0.00	33%	0%	0.0%	0%
+Paul Goldschmidt	31	682	5.0%	24.3%	11.4%	8.8%	39%	2.13	3.6	17.6	6.2	0.63	0.78	59%	24%	14.2%	10%
+Jedd Gyorko	30	62	3.2%	22.6%	9.7%	3.2%	18%	2.33	4.0	28.0	8.0	0.91	1.00	65%	17%	12.5%	27%
+Ryan Helsley	24	3	0.0%	66.7%	0.0%	0.0%	0%		1.5					33%	0%		
+Dakota Hudson	24	59	0.0%	40.7%	0.0%	0.0%	0%		2.1		25.5	3.00	4.60	46%	15%	0.0%	0%
+Joe Hudson	28	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Andrew Knizner	24	58	3.5%	24.1%	6.9%	6.9%	33%	3.50	3.8	26.5	7.6	1.60	1.90	64%	8%	16.7%	20%
+Carlos Martinez	27	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Jose Martinez	30	373	2.7%	22.0%	9.4%	6.7%	28%	2.34	4.1	33.4	8.0	1.01	1.69	65%	30%	8.5%	6%
+Mike Mayers	27	1	0.0%	100.0%	0.0%	0.0%			1.0					0%			
+Miles Mikolas	30	62	0.0%	43.6%	0.0%	1.6%	13%		2.2		29.5	1.21	1.70	52%	23%	0.0%	21%
+Yadier Molina	36	452	2.2%	12.8%	5.1%	7.5%	30%	2.52	7.2	41.9	7.4	0.66	0.93	79%	31%	5.1%	10%
+Yairo Munoz	24	181	1.1%	20.4%	3.9%	5.5%	22%	5.29	4.6	86.0	13.2	1.41	1.45	74%	18%	4.0%	11%
+Tyler O'Neill	24	151	3.3%	35.1%	6.6%	7.3%	30%	5.30	2.7	28.2	8.8	0.60	0.70	55%	22%	11.4%	20%
+Marcell Ozuna	28	549	5.3%	20.8%	11.3%	9.7%	45%	1.84	4.3	16.7	5.4	0.72	1.16	62%	26%	15.2%	12%
+Daniel Ponce de Leon	27	12	0.0%	33.3%	8.3%	0.0%		4.00	2.3					42%	0%		
+Rangel Ravelo	27	43	4.7%	27.9%	7.0%	9.3%	50%	4.00	3.3	19.5	5.6	1.00	2.00	60%	29%	15.4%	7%
+Drew Robinson*	27	7	0.0%	42.9%	0.0%	0.0%	0%		2.3			0.00	0.00	57%	25%	0.0%	50%
+Chasen Shreve*	28	1	0.0%	0.0%	100.0%	0.0%		0.00						0%			
+Edmundo Sosa	23	10	0.0%	20.0%	10.0%	0.0%	0%	2.00	4.0			1.00	1.00	60%	33%	0.0%	0%
+Lane Thomas	23	44	9.1%	18.2%	9.1%	11.4%	42%	2.00	4.8	9.5	3.2	0.88	1.22	59%	27%	28.6%	13%
+Michael Wacha	27	39	0.0%	53.9%	0.0%	2.6%	17%		1.7		12.0	1.80	1.40	38%	11%	0.0%	60%
+Adam Wainwright	37	59	0.0%	33.9%	3.4%	5.1%	38%	10.00	2.5		25.0	0.48	1.00	53%	27%	0.0%	14%
+Matt Wieters#	33	183	6.0%	25.7%	6.6%	8.2%	42%	3.92	3.6	15.3	6.2	0.64	0.82	61%	23%	15.3%	4%
+Kolten Wong*	28	549	2.0%	15.1%	8.6%	7.3%	29%	1.77	5.8	43.5	8.1	0.80	0.97	71%	22%	5.9%	12%
+League Average			3.5%	23.0%	8.5%	8.5%	38%	2.70	3.9	25.4	7.5	0.78	1.08	63%	25%	10.6%	11%
+Team Total	28.8	6167	3.4%	23.0%	9.1%	7.8%	36%	2.53	3.8	25.9	7.6	0.71	0.96	63%	25%	10.1%	12%
+Name	Age	PA	HR%	SO%	BB%	XBH%	X/H%	SO/W	AB/SO	AB/HR	AB/RBI	GB/FB	GO/AO	IP%	LD%	HR/FB	IF/FB
+
+Team Win Probability* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Randy Arozarena	24	23	1.0	0.1	28	0.1	0.4	-0.3	.76	0.2	-0.1	0.8	0.1	1.00	1.2	0.52	5
+Harrison Bader	25	406	-10.7	-1.0	426	0.2	7.0	-6.9	.99	-0.2	0.4	0.5	0.0	0.95	-0.6	0.58	10
+John Brebbia*	29	1	0.5	0.0	1	0.0	0.0	0.0	.01	0.0	0.0	0.4	0.0	0.86	0.5		0
+Genesis Cabrera*	22	4	-1.2	-0.1	4	-0.1	0.0	-0.1	.90	-0.1	0.0	-1.5	-0.1	1.23	-1.2		0
+Matt Carpenter*	33	492	-4.1	-0.4	507	-0.1	8.2	-8.3	.97	0.2	-0.3	-2.6	-0.2	0.93	-0.7	1.47	17
+Paul DeJong	25	664	-1.7	-0.2	685	-1.7	10.8	-12.5	.99	0.1	-1.8	-8.6	-0.8	0.93	-0.4	3.55	2
+Tommy Edman#	24	349	8.4	0.8	372	2.6	8.1	-5.5	.98	1.4	1.3	18.6	1.8	0.93	17.1	0.99	13
+Jack Flaherty	23	66	-6.4	-0.6	70	-1.0	0.5	-1.5	1.01	-0.8	-0.1	-10.0	-1.0	0.98	-9.3		0
+Dexter Fowler#	33	574	0.6	0.1	600	0.9	10.1	-9.2	.94	0.0	1.0	10.3	1.0	0.91	2.5	1.01	9
+Giovanny Gallegos	27	3	-0.6	-0.1	3	0.0	0.0	0.0	.63	-0.1	0.0	-0.6	-0.1	1.23	-0.6		0
+John Gant	26	3	-0.9	-0.1	3	0.0	0.0	0.0	.09	-0.1	0.0	-0.4	0.0	0.54	-0.8		0
+Paul Goldschmidt	31	682	11.9	1.1	694	2.9	14.0	-11.2	.97	2.1	0.9	27.0	2.6	0.91	23.3	4.23	2
+Jedd Gyorko	30	62	-4.1	-0.4	65	0.2	1.4	-1.2	1.12	-0.3	0.5	-1.0	-0.1	1.02	-3.5	1.29	21
+Ryan Helsley	24	3	-0.1	0.0	3	-0.1	0.0	-0.1	.54	0.0	0.0	-1.0	-0.1	1.16	-0.6		0
+Dakota Hudson	24	59	-11.6	-1.1	60	-0.7	0.4	-1.2	.99	-0.9	0.2	-7.9	-0.8	1.02	-10.2		0
+Joe Hudson	28	1	-0.3	0.0	1	0.0	0.0	0.0	.00	0.0		-0.1	0.0	0.39	-0.3	0.00	1
+Andrew Knizner	24	58	-2.1	-0.2	60	0.0	0.9	-0.8	.76	-0.3	0.3	-1.2	-0.1	0.98	-3.0	0.16	2
+Carlos Martinez	27	1	-0.3	0.0	1	0.0	0.0	0.0	.45	0.0	0.0	-0.8	-0.1	2.45	-0.3		0
+Jose Martinez	30	373	-1.4	-0.1	382	0.1	7.3	-7.2	1.06	0.2	-0.1	6.4	0.6	0.94	5.3	1.57	38
+Mike Mayers	27	1	-0.3	0.0	1	0.0	0.0	0.0	1.62	0.0	0.0	-0.4	0.0	1.38	-0.3		0
+Miles Mikolas	30	62	-10.8	-1.0	62	-0.7	0.4	-1.1	.85	-1.0	0.2	-8.3	-0.8	0.83	-10.9		0
+Yadier Molina	36	452	-8.6	-0.8	463	-0.5	7.8	-8.2	1.03	-0.8	0.3	-4.6	-0.4	0.95	-7.2	1.47	3
+Yairo Munoz	24	181	-7.5	-0.7	195	-0.1	2.8	-2.8	.89	-0.5	0.4	-3.8	-0.4	0.91	-5.9	0.82	36
+Tyler O'Neill	24	151	-2.8	-0.3	153	-0.3	2.7	-3.0	1.08	0.3	-0.6	-1.1	-0.1	0.93	3.3	1.01	16
+Marcell Ozuna	28	549	4.5	0.4	567	0.2	10.8	-10.6	1.00	0.8	-0.7	9.0	0.9	0.97	9.9	1.47	1
+Daniel Ponce de Leon	27	12	-2.3	-0.2	12	-0.2	0.0	-0.3	.97	-0.2	0.0	-2.5	-0.2	0.90	-2.6		0
+Rangel Ravelo	27	43	-1.7	-0.2	43	-0.1	0.7	-0.7	.96	-0.2	0.1	-0.4	0.0	0.88	-1.6	1.15	20
+Drew Robinson*	27	7	-1.3	-0.1	7	-0.2	0.0	-0.2	.76	-0.2	0.0	-1.7	-0.2	0.87	-1.6	0.80	5
+Chasen Shreve*	28	1	0.3	0.0	1	0.0	0.0	0.0	.05	0.0	0.0	0.3	0.0	1.46	0.2		0
+Edmundo Sosa	23	10	-0.2	0.0	11	0.0	0.1	-0.1	.40	0.0	0.0	-0.6	-0.1	0.91	-0.9	0.10	5
+Lane Thomas	23	44	4.3	0.4	48	0.6	1.1	-0.5	.57	0.4	0.6	4.5	0.4	0.99	4.2	0.65	12
+Michael Wacha	27	39	-5.6	-0.5	39	-0.5	0.4	-0.9	1.10	-0.6	0.2	-6.3	-0.6	1.04	-7.0		0
+Adam Wainwright	37	59	-6.7	-0.6	59	-0.6	0.4	-1.0	.79	-0.7	0.0	-8.3	-0.8	0.91	-8.0		0
+Matt Wieters#	33	183	-5.6	-0.5	188	-0.4	3.4	-3.8	1.05	-0.3	-0.1	-5.4	-0.5	1.00	-4.1	1.13	14
+Kolten Wong*	28	549	5.8	0.6	582	-0.5	8.2	-8.8	.93	0.8	-1.4	15.3	1.5	0.94	11.9	0.70	6
+League Average									.99								
+Team Total	28.8	6167	-61.3	-5.9	6396	0.1	107.9	-107.9	.97	-0.8	0.8	13.7	1.2	0.94	-2.0	1.11	238
+Name	Age	PA	BtRuns	BtWins	Plays	WPA	WPA+	WPA-	aLI	WPA/LI	Clutch	RE24	REW	boLI	RE24/boLI	PHlev	AB
+Team Baserunning/Misc* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Randy Arozarena
+Harrison Bader
+John Brebbia*
+Genesis Cabrera*
+Matt Carpenter*
+Paul DeJong
+Tommy Edman#
+Jack Flaherty
+Dexter Fowler#
+Giovanny Gallegos
+John Gant
+Paul Goldschmidt
+Jedd Gyorko
+Ryan Helsley
+Dakota Hudson
+Joe Hudson
+Andrew Knizner
+Carlos Martinez
+Jose Martinez
+Mike Mayers
+Miles Mikolas
+Yadier Molina
+Yairo Munoz
+Tyler O'Neill
+Marcell Ozuna
+Daniel Ponce de Leon
+Rangel Ravelo
+Drew Robinson*
+Chasen Shreve*
+Edmundo Sosa
+Lane Thomas
+Michael Wacha
+Adam Wainwright
+Matt Wieters#
+Kolten Wong*
+League Average
+Team Total
+Name
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Randy Arozarena	24	23	1	0	21%	18	2	1	67%	2	1	0	0	0	0	0	0	1	0	0	1	0	1	25%	2	1	1	0	0	0	2	2	0
+Harrison Bader	25	406	7	0	35%	115	11	3	79%	7	2	4	1	0	0	1	1	5	1	1	2	1	12	48%	16	8	7	6	1	5	9	6	3
+John Brebbia*	29	1	0	0	100%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	50%	1	1	0	0	0	0	1	0	1
+Genesis Cabrera*	22	4	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Matt Carpenter*	33	492	2	0	30%	191	6	1	86%	4	1	2	0	0	0	2	0	6	1	0	3	2	10	27%	24	18	4	6	4	2	15	9	6
+Paul DeJong	25	664	7	0	37%	232	9	5	64%	8	5	1	0	0	0	0	0	0	0	0	0	0	14	44%	29	20	9	10	5	5	20	8	12
+Tommy Edman#	24	349	6	0	43%	156	15	1	94%	12	0	3	1	0	0	0	0	2	0	1	1	0	11	63%	13	7	6	5	1	4	9	2	7
+Jack Flaherty	23	66	0	0	24%	24	1	1	50%	1	0	0	1	0	0	2	0	1	0	0	0	1	1	20%	3	3	0	1	0	0	1	0	1
+Dexter Fowler#	33	574	6	0	28%	234	8	5	62%	8	4	0	1	0	0	1	0	10	1	2	4	3	16	43%	30	17	11	8	7	1	16	3	11
+Giovanny Gallegos	27	3	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+John Gant	26	3	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Paul Goldschmidt	31	682	8	2	31%	253	3	1	75%	2	1	1	0	0	0	1	0	1	0	0	0	1	17	47%	27	19	8	14	5	9	21	8	12
+Jedd Gyorko	30	62	1	0	20%	16	2	0	100%	1	0	1	0	0	0	0	0	1	0	1	0	0	3	0%	3	3	0	0	0	0	1	1	0
+Ryan Helsley	24	3	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Dakota Hudson	24	59	1	0	20%	6	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	0%	2	2	0	0	0	0	0	0	0
+Joe Hudson	28	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Andrew Knizner	24	58	1	0	29%	19	2	0	100%	1	0	1	0	0	0	0	0	0	0	0	0	0	3	50%	0	0	0	1	1	0	1	0	1
+Carlos Martinez	27	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Jose Martinez	30	373	4	0	30%	158	3	0	100%	3	0	0	0	0	0	0	0	1	0	0	1	0	14	30%	26	20	5	5	3	2	9	4	5
+Mike Mayers	27	1	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Miles Mikolas	30	62	0	0	13%	17	0	0		0	0	0	0	0	0	0	0	1	1	0	0	0	1	0%	1	1	0	0	0	0	0	0	0
+Yadier Molina	36	452	4	0	27%	145	6	0	100%	4	0	2	0	0	0	0	0	3	1	1	0	1	10	33%	18	12	6	7	7	0	14	7	7
+Yairo Munoz	24	181	2	0	33%	76	8	3	73%	5	3	3	0	0	0	1	1	2	1	1	0	0	7	33%	9	6	3	1	1	0	2	1	1
+Tyler O'Neill	24	151	3	0	29%	57	1	0	100%	1	0	0	0	0	0	0	0	2	2	0	0	0	6	33%	7	5	2	1	1	0	1	0	1
+Marcell Ozuna	28	549	5	0	34%	174	12	2	86%	8	2	4	0	0	0	1	0	5	0	2	1	2	8	62%	25	10	15	11	5	6	17	3	12
+Daniel Ponce de Leon	27	12	0	0	0%	3	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Rangel Ravelo	27	43	0	0	22%	13	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	4	4	0	0	0	0	2	2	0
+Drew Robinson*	27	7	0	0	100%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	100%	1	0	1	0	0	0	0	0	0
+Chasen Shreve*	28	1	0	0	0%	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+Edmundo Sosa	23	10	0	0	40%	7	1	0	100%	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0%	2	2	0	0	0	0	0	0	0
+Lane Thomas	23	44	0	0	11%	28	1	1	50%	1	1	0	0	0	0	0	0	0	0	0	0	0	1	67%	1	0	1	0	0	0	2	1	1
+Michael Wacha	27	39	0	0	50%	9	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	33%	2	2	0	0	0	0	1	0	1
+Adam Wainwright	37	59	1	0	60%	13	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	50%	0	0	0	1	0	1	3	2	1
+Matt Wieters#	33	183	1	0	11%	36	1	1	50%	1	1	0	0	0	0	1	0	1	0	0	0	1	3	9%	8	8	0	0	0	0	3	2	1
+Kolten Wong*	28	549	8	0	27%	238	24	4	86%	23	3	1	1	0	0	1	1	4	1	0	2	1	9	61%	26	12	13	4	1	3	16	2	12
+League Average					31%				74%															42%									
+Team Total	28.8	6167	68	2	31%	2242	116	29	80%	93	24	23	5	0	0	11	3	47	9	10	15	13	149	43%	280	181	92	81	42	38	166	63	96
+Name	Age	PA	ROE	XI	RS%	SBO	SB	CS	SB%	SB2	CS2	SB3	CS3	SBH	CSH	PO	PCS	OOB	OOB1	OOB2	OOB3	OOBHm	BT	XBT%	1stS	1stS2	1stS3	1stD	1stD3	1stDH	2ndS	2ndS3	2ndSH
+Support us without the ads? Go Ad-Free.
+Team PH/HR/Situ Hitting* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+|
+Name
+Randy Arozarena
+Harrison Bader
+John Brebbia*
+Genesis Cabrera*
+Matt Carpenter*
+Paul DeJong
+Tommy Edman#
+Jack Flaherty
+Dexter Fowler#
+Giovanny Gallegos
+John Gant
+Paul Goldschmidt
+Jedd Gyorko
+Ryan Helsley
+Dakota Hudson
+Joe Hudson
+Andrew Knizner
+Carlos Martinez
+Jose Martinez
+Mike Mayers
+Miles Mikolas
+Yadier Molina
+Yairo Munoz
+Tyler O'Neill
+Marcell Ozuna
+Daniel Ponce de Leon
+Rangel Ravelo
+Drew Robinson*
+Chasen Shreve*
+Edmundo Sosa
+Lane Thomas
+Michael Wacha
+Adam Wainwright
+Matt Wieters#
+Kolten Wong*
+League Average
+Team Total
+Name
+Hits	Pinch Hitting	Home Runs	SH	GIDP	PrdOut	BaseRunners	Advances	
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Randy Arozarena	24	23	17.4%	6	3	0	5	2	0	0	0.52	1	0	1	1	0	0	1	0	0	0		7	0	0.0%	5	0	0.0%	16	1	6.3%	2	1	50.0%	4	1	25.0%	0
+Harrison Bader	25	406	26.1%	71	9	2	10	1	0	0	0.58	12	0	9	8	4	5	7	0	2	1	50.0%	73	3	4.1%	33	5	15.2%	248	31	12.5%	26	10	38.5%	16	6	37.5%	0
+John Brebbia*	29	1	100.0%	1	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Genesis Cabrera*	22	4	75.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		2	0	0.0%	2	0	0.0%	5	0	0.0%	0	0		0	0		0
+Matt Carpenter*	33	492	79.1%	94	13	3	17	4	1	5	1.47	15	0	9	13	2	8	7	0	1	1	100.0%	77	3	3.9%	37	7	18.9%	245	31	12.7%	26	10	38.5%	16	11	68.8%	0
+Paul DeJong	25	664	19.6%	136	13	0	2	0	0	1	3.55	30	0	8	27	3	10	20	0	0	0		151	15	9.9%	63	14	22.2%	384	51	13.3%	33	14	42.4%	25	10	40.0%	0
+Tommy Edman#	24	349	100.0%	99	9	1	13	3	1	3	0.99	11	1	8	7	4	4	7	0	1	0	0.0%	53	3	5.7%	23	9	39.1%	186	28	15.1%	10	7	70.0%	14	9	64.3%	0
+Jack Flaherty	23	66	21.2%	10	3	2	0	0	0	0		0	0	1	0	0	0	0	0	13	9	69.2%	16	0	0.0%	18	6	33.3%	41	4	9.8%	6	3	50.0%	3	2	66.7%	0
+Dexter Fowler#	33	574	99.8%	116	14	1	9	3	1	2	1.01	19	0	12	15	4	9	10	0	1	1	100.0%	88	6	6.8%	44	10	22.7%	289	52	18.0%	31	13	41.9%	14	8	57.1%	0
+Giovanny Gallegos	27	3	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	2	1	50.0%	2	0	0.0%	2	1	50.0%	3	0	0.0%	0	0		1	1	100.0%	0
+John Gant	26	3	33.3%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Paul Goldschmidt	31	682	18.6%	155	18	0	2	0	0	0	4.23	34	2	14	25	9	17	17	0	0	0		147	11	7.5%	61	14	23.0%	378	64	16.9%	33	16	48.5%	30	14	46.7%	0
+Jedd Gyorko	30	62	27.4%	11	1	0	21	4	1	3	1.29	2	0	1	2	0	1	1	0	0	0		14	1	7.1%	4	0	0.0%	48	5	10.4%	4	1	25.0%	3	2	66.7%	0
+Ryan Helsley	24	3	33.3%	1	1	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		2	0	0.0%	3	0	0.0%	2	0	0.0%	0	0		0
+Dakota Hudson	24	59	13.6%	4	1	0	0	0	0	0		0	0	3	0	0	0	0	0	10	7	70.0%	12	1	8.3%	13	4	30.8%	44	4	9.1%	1	0	0.0%	2	2	100.0%	0
+Joe Hudson	28	1	0.0%	0	0	0	1	0	0	0	0.00	0	0	0	0	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0
+Andrew Knizner	24	58	17.2%	12	1	0	2	1	0	0	0.16	2	0	4	2	0	1	1	0	0	0		13	3	23.1%	6	2	33.3%	38	5	13.2%	4	1	25.0%	4	3	75.0%	0
+Carlos Martinez	27	1	0.0%	0	0	0	0	0	0	0		0	0	1	0	0	0	0	0	0	0		0	0		0	0		3	0	0.0%	0	0		0	0		0
+Jose Martinez	30	373	20.9%	90	9	0	38	8	1	8	1.57	10	0	7	5	5	3	7	0	1	0	0.0%	77	14	18.2%	31	13	41.9%	216	33	15.3%	15	9	60.0%	13	8	61.5%	0
+Mike Mayers	27	1	0.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		1	0	0.0%	1	0	0.0%	1	0	0.0%	0	0		0	0		0
+Miles Mikolas	30	62	21.0%	8	2	0	0	0	0	0		0	0	0	0	0	0	0	0	4	3	75.0%	7	0	0.0%	7	1	14.3%	29	2	6.9%	0	0		2	1	50.0%	0
+Yadier Molina	36	452	19.0%	113	8	0	3	1	0	0	1.47	10	0	13	8	2	4	6	0	0	0		89	14	15.7%	39	15	38.5%	290	50	17.2%	29	18	62.1%	14	11	78.6%	0
+Yairo Munoz	24	181	23.8%	46	11	0	36	7	0	0	0.82	2	0	5	2	0	0	2	0	1	0	0.0%	32	5	15.6%	17	3	17.7%	102	11	10.8%	12	5	41.7%	5	3	60.0%	0
+Tyler O'Neill	24	151	19.2%	37	5	0	16	2	0	0	1.01	5	0	2	5	0	4	1	0	0	0		27	3	11.1%	12	2	16.7%	100	13	13.0%	6	3	50.0%	6	3	50.0%	0
+Marcell Ozuna	28	549	16.2%	117	10	0	1	0	0	0	1.47	29	0	15	23	6	13	16	0	0	0		120	21	17.5%	44	10	22.7%	389	63	16.2%	28	14	50.0%	24	11	45.8%	0
+Daniel Ponce de Leon	27	12	25.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	3	2	66.7%	2	0	0.0%	4	1	25.0%	6	0	0.0%	1	0	0.0%	2	1	50.0%	0
+Rangel Ravelo	27	43	16.3%	8	0	0	20	5	1	5	1.15	2	0	2	2	0	1	1	0	0	0		6	1	16.7%	5	3	60.0%	28	6	21.4%	5	4	80.0%	2	1	50.0%	0
+Drew Robinson*	27	7	100.0%	1	0	0	5	1	0	0	0.80	0	0	0	0	0	0	0	0	0	0		1	0	0.0%	2	0	0.0%	3	0	0.0%	1	0	0.0%	0	0		0
+Chasen Shreve*	28	1	100.0%	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0		0	0		0	0		2	0	0.0%	0	0		0	0		0
+Edmundo Sosa	23	10	10.0%	2	0	0	5	1	0	0	0.10	0	0	0	0	0	0	0	0	0	0		2	0	0.0%	0	0		4	0	0.0%	0	0		0	0		0
+Lane Thomas	23	44	25.0%	12	3	0	12	4	3	6	0.65	4	1	5	3	1	3	1	0	0	0		6	1	16.7%	4	0	0.0%	29	8	27.6%	3	1	33.3%	2	0	0.0%	0
+Michael Wacha	27	39	12.8%	6	2	0	0	0	0	0		0	0	3	0	0	0	0	0	4	3	75.0%	5	0	0.0%	8	1	12.5%	31	3	9.7%	5	1	20.0%	1	1	100.0%	0
+Adam Wainwright	37	59	27.1%	8	0	0	0	0	0	0		0	0	1	0	0	0	0	0	6	6	100.0%	9	0	0.0%	12	4	33.3%	31	2	6.5%	3	1	33.3%	2	1	50.0%	0
+Matt Wieters#	33	183	100.0%	36	2	0	14	2	1	2	1.13	11	0	5	7	4	5	6	0	0	0		40	3	7.5%	16	4	25.0%	136	16	11.8%	11	6	54.6%	1	0	0.0%	0
+Kolten Wong*	28	549	77.8%	136	24	11	6	3	0	1	0.70	11	0	14	8	3	1	10	0	13	6	46.2%	88	2	2.3%	43	19	44.2%	336	51	15.2%	26	14	53.9%	16	10	62.5%	0
+League Average			51.9%																			65.4%			10.2%			26.9%			14.8%			51.3%			51.5%	
+Team Total	28.8	6167	44.3%	1336	162	20	238	52	10	36	1.11	210	4	143	163	47	89	121	0	62	40	64.5%	1167	110	9.4%	558	148	26.5%	3664	534	14.6%	323	152	47.1%	222	120	54.1%	0
+Name	Age	PA	Ptn%	H	Inf	Bnt	AB	H	HR	RBI	PHlev	All	GS	GSo	vRH	vLH	Hm	Rd	IP	Att	Suc	%	Opp	DP	%	Opp	Suc	%	BR	BRS	BRS%	<2,3B	Scr	%	0,2B	Adv	%	PAu
+Team Pitches Batting* 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+GlossaryScroll Right For More Stats · Switch to Widescreen View
+Name
+Randy Arozarena
+Harrison Bader
+John Brebbia*
+Genesis Cabrera*
+Matt Carpenter*
+Paul DeJong
+Tommy Edman#
+Jack Flaherty
+Dexter Fowler#
+Giovanny Gallegos
+John Gant
+Paul Goldschmidt
+Jedd Gyorko
+Ryan Helsley
+Dakota Hudson
+Joe Hudson
+Andrew Knizner
+Carlos Martinez
+Jose Martinez
+Mike Mayers
+Miles Mikolas
+Yadier Molina
+Yairo Munoz
+Tyler O'Neill
+Marcell Ozuna
+Daniel Ponce de Leon
+Rangel Ravelo
+Drew Robinson*
+Chasen Shreve*
+Edmundo Sosa
+Lane Thomas
+Michael Wacha
+Adam Wainwright
+Matt Wieters#
+Kolten Wong*
+League Average
+Team Total
+Name
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Randy Arozarena	24	23	98	4.26	61	62.2%	26.2%	19.7%	27.9%	26.2%	73.8%	0.0%	45.9%	73.3%	34.8%	0.0%	0	0	8.7%	2	1	13.0%	3	2	1	3	25.0%	0	0	0
+Harrison Bader	25	408	1748	4.28	1077	61.6%	33.3%	17.7%	27.3%	21.6%	66.7%	0.0%	41.1%	73.4%	23.8%	6.6%	27	3	15.2%	62	17	12.3%	50	21	34	83	29.1%	0	0	0
+John Brebbia*	29	1	1	1.00	1	100.0%	0.0%	0.0%	0.0%	100.0%	100.0%		100.0%	100.0%	100.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	0		0	0	0
+Genesis Cabrera*	22	4	16	4.00	12	75.0%	33.3%	58.3%	8.3%	0.0%	66.7%	0.0%	50.0%	12.5%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	3	0.0%	0	0	0
+Matt Carpenter*	33	492	2173	4.42	1306	60.1%	32.1%	17.2%	28.3%	22.4%	67.9%	0.0%	40.8%	74.6%	22.6%	6.1%	30	2	15.9%	78	14	13.2%	65	37	31	96	24.0%	0	0	0
+Paul DeJong	25	664	2583	3.89	1657	64.2%	24.1%	18.4%	31.0%	26.6%	75.9%	0.0%	48.7%	75.8%	21.7%	4.5%	30	5	14.2%	94	52	7.8%	52	28	19	130	12.8%	0	0	0
+Tommy Edman#	24	349	1373	3.93	892	65.0%	26.5%	13.8%	30.0%	29.7%	73.5%	0.0%	47.8%	81.3%	26.1%	2.9%	10	1	10.3%	36	10	7.4%	26	17	12	49	19.7%	0	0	0
+Jack Flaherty	23	66	246	3.73	166	67.5%	34.3%	18.1%	19.3%	28.3%	65.7%	0.0%	44.3%	72.5%	31.8%	3.0%	2	0	4.5%	3	0	7.6%	5	4	5	11	29.4%	0	0	0
+Dexter Fowler#	33	574	2421	4.22	1432	59.1%	27.6%	19.6%	28.4%	24.4%	72.4%	0.0%	42.8%	72.9%	31.2%	5.7%	33	8	15.3%	88	46	11.3%	65	36	35	107	24.6%	0	0	0
+Giovanny Gallegos	27	3	10	3.33	8	80.0%	12.5%	25.0%	37.5%	25.0%	87.5%	0.0%	70.0%	71.4%	66.7%	0.0%	0	0	33.3%	1	0	0.0%	0	0	0	1	0.0%	0	0	0
+John Gant	26	3	15	5.00	11	73.3%	36.4%	27.3%	27.3%	9.1%	63.6%	0.0%	46.7%	57.1%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	2	0.0%	0	0	0
+Paul Goldschmidt	31	683	2896	4.24	1834	63.3%	26.8%	19.2%	30.3%	23.7%	73.2%	0.0%	46.3%	73.7%	30.6%	5.7%	39	5	13.6%	93	24	9.8%	67	36	36	130	21.7%	0	0	0
+Jedd Gyorko	30	62	260	4.19	158	60.8%	20.3%	22.8%	30.4%	26.6%	79.7%	0.0%	48.5%	71.4%	35.5%	9.7%	6	1	22.6%	14	5	6.5%	4	2	1	13	7.1%	0	0	0
+Ryan Helsley	24	3	14	4.67	11	78.6%	27.3%	36.4%	27.3%	9.1%	72.7%	0.0%	57.1%	50.0%	33.3%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	2	0.0%	0	0	0
+Dakota Hudson	24	59	190	3.22	150	78.9%	32.7%	20.0%	24.7%	22.7%	67.3%	0.0%	53.2%	70.3%	39.0%	0.0%	0	0	3.4%	2	1	0.0%	0	0	8	15	33.3%	0	0	0
+Joe Hudson	28	1	7	7.00	4	57.1%	50.0%	0.0%	50.0%	0.0%	50.0%	0.0%	28.6%	100.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	0	100.0%	0	0	0
+Andrew Knizner	24	58	197	3.40	136	69.0%	22.8%	22.8%	25.7%	28.7%	77.2%	0.0%	53.3%	70.5%	32.8%	3.4%	2	0	8.6%	5	0	3.4%	2	1	1	13	7.1%	0	0	0
+Carlos Martinez	27	1	4	4.00	3	75.0%	33.3%	66.7%	0.0%	0.0%	66.7%	0.0%	50.0%	0.0%	0.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Jose Martinez	30	374	1567	4.19	983	62.7%	31.0%	15.9%	27.3%	25.8%	69.0%	0.0%	43.3%	77.0%	22.2%	5.1%	19	8	17.4%	65	31	7.0%	26	13	21	61	25.6%	0	0	0
+Mike Mayers	27	1	3	3.00	3	100.0%	0.0%	33.3%	66.7%	0.0%	100.0%		100.0%	66.7%	100.0%	0.0%	0	0	0.0%	0	0	0.0%	0	0	0	1	0.0%	0	0	0
+Miles Mikolas	30	62	203	3.27	165	81.3%	21.2%	37.0%	20.6%	21.2%	78.8%	0.0%	64.0%	53.1%	51.6%	0.0%	0	0	3.2%	2	0	3.2%	2	1	1	25	3.7%	0	0	0
+Yadier Molina	36	453	1617	3.57	1097	67.8%	17.7%	15.6%	33.4%	33.4%	82.3%	0.0%	55.8%	81.1%	47.2%	1.8%	8	3	9.3%	42	24	6.6%	30	23	4	54	6.9%	0	0	0
+Yairo Munoz	24	181	656	3.62	468	71.3%	15.8%	22.9%	32.3%	29.1%	84.2%	0.0%	60.1%	72.8%	51.9%	0.6%	1	0	8.3%	15	11	6.6%	12	10	4	33	10.8%	0	0	0
+Tyler O'Neill	24	151	614	4.07	401	65.3%	21.7%	32.4%	23.9%	21.9%	78.3%	0.0%	51.1%	58.6%	42.4%	2.6%	4	0	9.3%	14	7	7.3%	11	6	16	37	30.2%	0	0	0
+Marcell Ozuna	28	550	2265	4.12	1366	60.3%	25.7%	20.5%	26.6%	27.2%	74.3%	0.0%	44.8%	72.4%	30.4%	6.5%	36	4	18.7%	103	50	12.4%	68	41	21	93	18.4%	0	0	0
+Daniel Ponce de Leon	27	12	46	3.83	33	71.7%	39.4%	21.2%	18.2%	21.2%	60.6%	0.0%	43.5%	65.0%	25.0%	8.3%	1	0	8.3%	1	0	8.3%	1	0	1	3	25.0%	0	0	0
+Rangel Ravelo	27	43	169	3.93	110	65.1%	24.5%	18.2%	31.8%	25.5%	75.5%	0.0%	49.1%	75.9%	25.6%	7.0%	3	2	11.6%	5	1	7.0%	3	1	5	7	41.7%	0	0	0
+Drew Robinson*	27	7	24	3.43	18	75.0%	16.7%	44.4%	16.7%	22.2%	83.3%	0.0%	62.5%	46.7%	14.3%	0.0%	0	0	0.0%	0	0	0.0%	0	0	1	2	33.3%	0	0	0
+Chasen Shreve*	28	1	6	6.00	2	33.3%	100.0%	0.0%	0.0%	0.0%	0.0%	0.0%	0.0%		0.0%	100.0%	1	0	100.0%	1	0	100.0%	1	0	0	0		0	0	0
+Edmundo Sosa	23	10	26	2.60	18	69.2%	22.2%	16.7%	27.8%	33.3%	77.8%	0.0%	53.8%	78.6%	30.0%	10.0%	1	0	10.0%	1	0	0.0%	0	0	0	2	0.0%	0	0	0
+Lane Thomas	23	44	175	3.98	107	61.1%	33.6%	14.0%	24.3%	28.0%	66.4%	0.0%	40.6%	78.9%	15.9%	4.5%	2	0	18.2%	8	3	15.9%	7	6	2	6	25.0%	0	0	0
+Michael Wacha	27	39	150	3.85	104	69.3%	52.9%	16.3%	13.5%	17.3%	47.1%	0.0%	32.7%	65.3%	12.8%	0.0%	0	0	5.1%	2	0	5.1%	2	1	11	10	52.4%	0	0	0
+Adam Wainwright	37	59	210	3.56	159	75.7%	21.4%	27.0%	28.3%	23.3%	78.6%	0.0%	59.5%	65.6%	47.5%	0.0%	0	0	1.7%	1	1	1.7%	1	1	3	17	15.0%	0	0	0
+Matt Wieters#	33	183	763	4.17	482	63.2%	29.3%	16.8%	28.4%	25.5%	70.7%	0.0%	44.7%	76.2%	27.9%	5.5%	10	3	13.7%	25	11	8.2%	15	6	11	36	23.4%	0	0	0
+Kolten Wong*	28	549	2026	3.69	1288	63.6%	25.3%	13.8%	29.3%	31.5%	74.7%	0.0%	47.5%	81.5%	30.1%	8.2%	45	0	17.3%	95	32	8.6%	47	28	14	69	16.9%	0	0	0
+League Average				3.91		63.7%	25.4%	19.2%	28.5%	27.0%	74.6%	0.0%	47.5%	74.3%	30.7%	4.5%			13.5%			8.4%					22.6%			
+Team Total	28.8	6173	24772	4.01	15723	63.5%	26.6%	18.5%	28.7%	26.1%	73.4%	0.0%	46.6%	74.7%	30.1%	5.0%	310	45	13.9%	858	341	9.2%	565	321	299	1115	21.1%	0	0	0
+Name	Age	PA	Pit	Pit/PA	Str	Str%	L/Str	S/Str	F/Str	I/Str	AS/Str	I/Bll	AS/Pit	Con	1stS	30%	30c	30s	20%	20c	20s	31%	31c	31s	L/SO	S/SO	L/SO%	PAu	Pitu	Stru
+Team Neutralized Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Randy Arozarena	24	19	22	19	3	5	1	0	1	2	2	1	2	4	.263	.364	.474	.837	3	19
+Harrison Bader	25	128	398	343	49	67	13	3	11	35	10	3	43	117	.195	.300	.347	.647	34	128
+John Brebbia*	29	63	1	1	1	1	0	0	0	0	0	0	0	0	1.000	1.000	1.000	2.000	1	63
+Genesis Cabrera*	22	13	4	4	0	0	0	0	0	0	0		0	4	.000	.000	.000	.000	0	13
+Matt Carpenter*	33	129	484	411	54	89	19	2	14	42	6	1	60	129	.217	.323	.375	.698	49	129
+Paul DeJong	25	159	651	575	88	128	29	1	28	71	8	5	58	149	.223	.304	.423	.727	72	159
+Tommy Edman#	24	92	343	321	54	94	16	7	10	33	14	1	15	61	.293	.338	.480	.818	50	92
+Jack Flaherty	23	35	66	54	4	10	3	0	0	4	1	1	2	17	.185	.211	.241	.451	3	35
+Dexter Fowler#	33	150	563	480	62	109	23	1	18	61	8	5	70	142	.227	.333	.392	.724	61	150
+Giovanny Gallegos	27	63	3	2	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	63
+John Gant	26	60	3	3	0	0	0	0	0	0	0		0	2	.000	.000	.000	.000	0	60
+Paul Goldschmidt	31	161	666	588	88	146	24	1	32	88	3	1	73	166	.248	.332	.456	.788	89	161
+Jedd Gyorko	30	62	99	91	5	15	1	0	2	8	2	0	8	24	.165	.232	.242	.474	5	62
+Ryan Helsley	24	24	3	3	0	0	0	0	0	0	0		0	2	.000	.000	.000	.000	0	24
+Dakota Hudson	24	30	59	51	0	0	0	0	0	0	0		0	24	.000	.019	.000	.019	0	30
+Joe Hudson	28	1	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	1
+Andrew Knizner	24	18	57	52	6	11	2	0	2	6	2	0	4	14	.212	.281	.365	.646	5	18
+Carlos Martinez	27	43	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	43
+Jose Martinez	30	128	366	329	41	85	12	2	9	38	3	0	33	82	.258	.328	.389	.717	42	128
+Mike Mayers	27	15	1	1	0	0	0	0	0	0	0		0	1	.000	.000	.000	.000	0	15
+Miles Mikolas	30	31	61	58	1	7	1	0	0	2	0	0	0	27	.121	.121	.138	.259	1	31
+Yadier Molina	36	113	445	413	41	107	23	0	9	52	6	0	22	58	.259	.301	.380	.681	47	113
+Yairo Munoz	24	88	178	169	18	43	7	1	2	12	7	3	7	37	.254	.287	.343	.630	16	88
+Tyler O'Neill	24	60	147	138	16	34	6	0	5	14	1	0	9	53	.246	.293	.399	.691	16	60
+Marcell Ozuna	28	130	538	478	73	110	22	1	27	81	11	2	58	114	.230	.314	.450	.764	68	130
+Daniel Ponce de Leon	27	12	12	9	0	0	0	0	0	0	0		1	4	.000	.100	.000	.100	0	12
+Rangel Ravelo	27	29	43	39	4	8	2	0	2	7	0	0	3	12	.205	.256	.410	.666	4	29
+Drew Robinson*	27	5	7	7	0	0	0	0	0	0	0		0	3	.000	.000	.000	.000	0	5
+Chasen Shreve*	28	3	1	0	0	0	0	0	0	0	0		1	0		1.000			0	3
+Edmundo Sosa	23	8	13	9	3	3	0	0	0	0	2	0	2	2	.333	.538	.333	.872	1	8
+Lane Thomas	23	34	43	37	5	11	0	1	4	11	1	1	4	8	.297	.395	.676	1.071	9	34
+Michael Wacha	27	28	39	36	3	6	1	0	0	3	0	0	0	21	.167	.167	.194	.361	1	28
+Adam Wainwright	37	29	59	50	6	8	3	0	0	2	0	0	2	20	.160	.189	.220	.409	2	29
+Matt Wieters#	33	67	180	166	14	34	4	0	10	25	1	1	11	47	.205	.256	.410	.665	18	67
+Kolten Wong*	28	148	537	470	55	128	24	4	10	54	23	4	44	83	.272	.347	.404	.751	64	148
+Name	Age	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	RC	Gact
+Team Cumulative Batting 
+League Register Share & more
+Modify & Share Table
+Embed this Table
+Get as Excel Workbook (experimental)
+Get table as CSV (for Excel)
+Strip Mobile Formatting
+Copy Link to Table to Clipboard
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Hide non-qualifiers for rate stats
+Glossary
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+Randy Arozarena	24	1	19	23	20	4	6	1	0	1	2	2	1	2	4	.300	.391	.500	.891	133	10	0	1	0	0	0
+Harrison Bader	25	3	298	925	811	125	191	37	5	27	86	28	7	82	266	.236	.320	.393	.713	90	319	5	22	3	7	8
+John Brebbia*	29	3	152	4	4	1	1	0	0	0	0	0	0	0	1	.250	.250	.250	.500	36	1	0	0	0	0	0
+Genesis Cabrera*	22	1	13	4	4	0	0	0	0	0	0	0	0	0	4	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Matt Carpenter*	33	9	1149	4807	4056	712	1092	284	27	148	531	25	17	641	947	.269	.372	.462	.835	126	1874	34	53	11	45	37
+Paul DeJong	25	3	382	1597	1436	220	360	82	3	74	211	11	6	119	396	.251	.318	.467	.785	106	670	29	29	0	12	4
+Tommy Edman#	24	1	92	349	326	59	99	17	7	11	36	15	1	16	61	.304	.350	.500	.850	120	163	3	7	0	0	0
+Junior Fernandez	22	1	12	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Jack Flaherty	23	3	69	124	106	6	17	3	0	0	4	1	1	4	39	.160	.189	.189	.378	2	20	0	0	13	1	0
+Dexter Fowler#	33	12	1422	5780	4930	800	1280	251	82	123	501	147	67	729	1292	.260	.359	.419	.778	105	2064	56	50	43	28	16
+Giovanny Gallegos	27	3	66	4	3	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0
+John Gant	26	4	113	50	44	2	2	0	0	2	3	0	0	0	17	.045	.045	.182	.227	-42	8	0	0	6	0	0
+Paul Goldschmidt	31	9	1253	5390	4572	806	1337	292	20	243	807	127	33	733	1225	.292	.391	.524	.916	141	2398	110	34	0	40	105
+Luke Gregerson*	35	11	390	3	2	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0
+Jedd Gyorko	30	7	804	2848	2576	298	630	108	5	112	353	14	6	233	632	.245	.309	.421	.730	100	1084	73	17	0	22	5
+Ryan Helsley	24	1	24	3	3	0	1	0	0	0	0	0	0	0	2	.333	.333	.333	.667	77	1	0	0	0	0	0
+Jordan Hicks	22	2	95	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Dakota Hudson	24	2	54	60	52	1	4	0	0	0	2	0	0	0	24	.077	.094	.077	.171	-54	4	1	1	7	0	0
+Joe Hudson	28	2	9	13	13	0	2	1	0	0	1	0	0	0	1	.154	.154	.231	.385	4	3	0	0	0	0	0
+Andrew Knizner	24	1	18	58	53	7	12	2	0	2	7	2	0	4	14	.226	.293	.377	.670	75	20	3	1	0	0	0
+Dominic Leone	27	6	103	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0
+Carlos Martinez	27	7	244	249	225	13	44	8	0	1	23	0	0	2	72	.196	.211	.244	.456	23	55	3	3	17	2	0
+Jose Martinez	30	4	398	1288	1156	160	344	57	3	41	172	7	3	118	247	.298	.363	.458	.821	119	530	38	4	3	7	2
+Mike Mayers	27	4	70	3	2	0	0	0	0	0	0	0	0	1	2	.000	.333	.000	.333	3	0	0	0	0	0	0
+Adalberto Mejia	26	4	7	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Miles Mikolas	30	5	91	138	126	5	17	2	0	2	8	0	0	2	61	.135	.147	.198	.346	-8	25	0	0	9	1	0
+Andrew Miller*	34	14	148	78	74	1	4	0	0	0	3	0	0	0	38	.054	.054	.054	.108	-71	4	0	0	4	0	0
+Yadier Molina	36	16	1983	7655	6970	701	1963	379	7	156	916	66	37	507	782	.282	.333	.405	.738	98	2824	254	66	42	70	49
+Yairo Munoz	24	2	196	510	465	59	127	23	1	10	55	13	9	37	108	.273	.331	.391	.723	95	182	8	5	0	3	7
+Tyler O'Neill	24	2	121	293	271	47	70	11	0	14	39	3	0	17	110	.258	.307	.454	.761	101	123	3	3	0	2	0
+Marcell Ozuna	28	7	931	3861	3536	467	963	162	20	148	538	26	13	291	814	.272	.329	.455	.784	112	1609	88	14	1	18	12
+Daniel Ponce de Leon	27	2	22	22	18	0	1	0	1	0	1	0	0	1	8	.056	.105	.167	.272	-29	3	0	0	3	0	0
+Rangel Ravelo	27	1	29	43	39	4	8	2	0	2	7	0	0	3	12	.205	.256	.410	.666	71	16	1	0	0	1	0
+Alex Reyes	24	3	16	16	15	0	1	0	0	0	1	0	0	0	6	.067	.067	.067	.133	-64	1	1	0	1	0	0
+Drew Robinson*	27	3	100	253	223	32	45	8	0	9	22	2	3	30	102	.202	.296	.359	.655	70	80	2	0	0	0	0
+Chasen Shreve*	28	6	46	4	3	0	0	0	0	0	0	0	0	1	2	.000	.250	.000	.250	-24	0	0	0	0	0	0
+Edmundo Sosa	23	2	11	13	10	3	2	0	0	0	0	1	0	2	3	.200	.385	.200	.585	64	2	0	1	0	0	0
+Lane Thomas	23	1	34	44	38	6	12	0	1	4	12	1	1	4	8	.316	.409	.684	1.093	180	26	1	2	0	0	0
+Michael Wacha	27	7	156	287	248	16	23	2	0	0	16	1	0	9	122	.093	.124	.101	.225	-38	25	3	0	29	1	0
+Adam Wainwright	37	14	391	772	685	54	136	37	2	10	71	0	2	24	224	.199	.225	.302	.527	41	207	9	0	60	3	0
+Tyler Webb*	28	3	83	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0
+Matt Wieters#	33	11	1148	4387	3959	437	989	189	5	146	546	9	4	365	837	.250	.313	.411	.724	93	1626	101	19	3	41	29
+Kolten Wong*	28	7	799	2836	2516	325	655	120	23	52	265	83	23	213	433	.260	.332	.388	.720	95	977	39	67	18	22	26
+Name	Age	Yrs	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GDP	HBP	SH	SF	IBB
+* - Disclaimer & Completeness Note 
+* Many Detailed Statistics are based on play-by-play accounts accumulated by RetroSheet. These totals may be incomplete (3.6% of all plays from 1925 to 1973 are missing or have incomplete accounts, click link for year and team summary of data completeness) for some players prior to 1974 and even complete seasons may not match the official totals due to errors in both the official totals and the play-by-play accounts. Pre-1954 seasons have a substantial numbers of games missing play-by-play accounts and should be viewed as essentially incomplete.
+More 2019 Cardinals Pages
+2019 St. Louis Cardinals
+
+Stats
+
+Schedule & Results
+
+40-Man Roster
+
+Uniforms
+
+Contracts
+
+Batting
+
+Pitching
+
+Fielding
+
+Scoring
+
+Batting
+
+Detailed Stats Game Logs Batting Splits Minor Lg Affiliates Org. Depth Chart Recent Org Batting
+Pitching
+
+Detailed Stats Game Logs Pitching Splits Minor Lg Affiliates Org. Depth Chart Recent Org Pitching
+Other
+
+Transactions Def. Lineups Batting Orders Amateur Draft Minor Lg Affiliates 2020 Projections Playoff Odds
+Support us without the ads? Go Ad-Free.
+
+Watch this short video to learn more
+We wanted you to see this trending video
+Ad By Sponsor
+Login Create Account Surf AD-FREE
+You are here: BR Home Page > Teams > Franchise Encyclopedia > 2019 Batting Statistics
+Full Site Menu 
+Return to Top
+MLB Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+MLB Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers, San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Indians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2019, 2018, 2019 MLB Pitching, 2019 MLB Batting, 2019 MLB Standings, 2019 MLB Attendance, 2019 MLB Rookies, ...
+MLB Leaders
+2019 MLB Batting, 2019 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in MLB history, MLB Probable Pitchers, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+MLB Playoffs
+2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Play Index
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Event Finder, Player Comparison Finder, Neutralized Stats, ...
+Team Finders: Season Finder, Split Finder, Game Finder, Streak Finder, Event Finder, ...
+Other Finders: Draft Finder, Game Score & Result Searches, Team Trade Histories, ...
+Managers
+Active: Terry Francona, Clint Hurdle, A.J. Hinch, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+MLB Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2019 HOF results, 2020 Hall of Fame ballot, ...
+MLB All-Star Games
+2020 All-Star Game, 2019 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities and More
+Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2019 Draft, 2018 Draft, 2017 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Negro Leagues
+Minor League Stats, Negro League Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2019 Minor Leagues, 2019 Affiliates, ...
+Baseball-Reference Bullpen
+85,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, ...
+We're Social...for Statheads
+       
+Every Sports Reference Social Media Account
+
+Site Last Updated: Tuesday, January 21, 6:39AM
+
+Question, Comment, Feedback, or Correction?
+
+Are you a Stathead, too? Subscribe to our Newsletter
+
+This Week in Sports Reference
+Find out when we add a feature or make a change
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Go ad-free to support Sports Reference and get our fastest browsing experience
+Subscribe to the Play Index and get access to more data than you can imagine
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Primary Data Provided ByGracenote Sports
+Copyright © 2000-2020 Sports Reference LLC. All rights reserved.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+BaseballInfoSolutions.com logo
+
+Some defensive statistics Copyright © Baseball Info Solutions, 2010-2020.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+ Sports Reference Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead Widgets
+About • Privacy Statement • Conditions & Terms of Service • Advertise With Us • Use of Data
